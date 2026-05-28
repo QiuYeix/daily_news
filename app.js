@@ -110,46 +110,55 @@ async function loadNews() {
 
 loadNews();
 
-// Refresh button
+// Refresh button — localhost uses backend API, GitHub Pages links to Actions
 const refreshBtn = document.getElementById('refreshBtn');
 const refreshStatus = document.getElementById('refreshStatus');
+const isGitHubPages = window.location.hostname.includes('github.io');
 
-refreshBtn.addEventListener('click', async () => {
-  refreshBtn.disabled = true;
-  refreshBtn.textContent = '⏳ 更新中…';
-  refreshStatus.textContent = '正在抓取新闻和翻译，请耐心等待（约1-2分钟）…';
+if (isGitHubPages) {
+  refreshBtn.textContent = '🔄 手动更新（打开 Actions）';
+  refreshBtn.addEventListener('click', () => {
+    window.open('https://github.com/QiuYeix/daily_news/actions/workflows/daily-update.yml', '_blank');
+  });
+  refreshStatus.textContent = '每天北京时间 16:00 自动更新';
+} else {
+  refreshBtn.addEventListener('click', async () => {
+    refreshBtn.disabled = true;
+    refreshBtn.textContent = '⏳ 更新中…';
+    refreshStatus.textContent = '正在抓取新闻和翻译，请耐心等待（约1-2分钟）…';
 
-  try {
-    const res = await fetch('/api/refresh', { method: 'POST' });
-    const data = await res.json();
-    if (!data.ok) {
-      refreshStatus.textContent = data.message;
+    try {
+      const res = await fetch('/api/refresh', { method: 'POST' });
+      const data = await res.json();
+      if (!data.ok) {
+        refreshStatus.textContent = data.message;
+        refreshBtn.disabled = false;
+        refreshBtn.textContent = '🔄 刷新新闻';
+        return;
+      }
+    } catch (e) {
+      refreshStatus.textContent = '请求失败，请确认后端已启动';
       refreshBtn.disabled = false;
       refreshBtn.textContent = '🔄 刷新新闻';
       return;
     }
-  } catch (e) {
-    refreshStatus.textContent = '请求失败，请确认后端已启动';
-    refreshBtn.disabled = false;
-    refreshBtn.textContent = '🔄 刷新新闻';
-    return;
-  }
 
-  const poll = setInterval(async () => {
-    try {
-      const r = await fetch('/api/status');
-      const s = await r.json();
-      if (s.log.length > 0) {
-        refreshStatus.textContent = s.log[s.log.length - 1];
-      }
-      if (!s.updating) {
-        clearInterval(poll);
-        refreshBtn.disabled = false;
-        refreshBtn.textContent = '🔄 刷新新闻';
-        refreshStatus.textContent = '更新完成！正在重新加载…';
-        await loadNews();
-        refreshStatus.textContent = '';
-      }
-    } catch {}
-  }, 1000);
-});
+    const poll = setInterval(async () => {
+      try {
+        const r = await fetch('/api/status');
+        const s = await r.json();
+        if (s.log.length > 0) {
+          refreshStatus.textContent = s.log[s.log.length - 1];
+        }
+        if (!s.updating) {
+          clearInterval(poll);
+          refreshBtn.disabled = false;
+          refreshBtn.textContent = '🔄 刷新新闻';
+          refreshStatus.textContent = '更新完成！正在重新加载…';
+          await loadNews();
+          refreshStatus.textContent = '';
+        }
+      } catch {}
+    }, 1000);
+  });
+}
