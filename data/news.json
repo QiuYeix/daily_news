@@ -1,399 +1,454 @@
 {
-  "updated": "2026-05-28T06:57:29.010Z",
+  "updated": "2026-05-28T11:28:22.165Z",
   "count": 12,
   "articles": [
     {
-      "title": "US strikes Iran targets for second time in three days",
+      "title": "U.S. strikes Iran again. And, DOJ charges Google staffer over Polymarket trades",
+      "link": "https://www.npr.org/2026/05/28/g-s1-124621/up-first-newsletter-iran-lebanon-israel-us-war-ebola-congo-food-insecurity-google-polymarket",
+      "summary": "The U.S. says it has struck Iran again as peace talks continue to end the conflict. And, the federal government has charged a Google staffer for allegedly using insider information in Polymarket trades.",
+      "pubDate": "Thu, 28 May 2026 07:19:50 -0400",
+      "source": "NPR",
+      "sourceColor": "#e57300",
+      "titleZh": "美国再次打击伊朗。而且，司法部就 Polymarket 交易向谷歌员工提出指控",
+      "summaryZh": "美国表示，随着和平谈判继续结束冲突，美国再次袭击了伊朗。而且，联邦政府还指控一名谷歌员工涉嫌在 Polymarket 交易中使用内幕信息。",
+      "contentParagraphs": [
+        {
+          "en": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.",
+          "zh": "早上好。您正在阅读 Up First 时事通讯。在此订阅，将其发送到您的收件箱，并收听 Up First 播客，了解开始新的一天所需的所有新闻。"
+        },
+        {
+          "en": "Today's top stories",
+          "zh": "今日头条新闻"
+        },
+        {
+          "en": "U.S. forces shot down Iranian drones near the Strait of Hormuz and struck an area along Iran's coast overnight, according to a U.S. official who spoke to NPR. In retaliation for the attack on Bandar Abbas, Iran's Revolutionary Guard says this morning it targeted the American base that launched the attack. U.S. and Iran peace talks continue.",
+          "zh": "据一位接受美国国家公共广播电台采访的美国官员称，美军连夜在霍尔木兹海峡附近击落了伊朗无人机，并袭击了伊朗沿海地区。为了报复对阿巴斯港的袭击，伊朗革命卫队今天早上表示，他们的目标是发动袭击的美国基地。美国和伊朗的和平谈判仍在继续。"
+        },
+        {
+          "en": "President Donald Trump (2nd-L) speaks as (L-R) Secretary of State Marco Rubio, Secretary of Defense Pete Hegseth, Commerce Secretary Howard Lutnick and Transportation Secretary Sean Duffy listen during a Cabinet meeting in the Cabinet Room of the White House on May 27, 2026, in Washington, D.C. Trump meets with his Cabinet days after saying a peace deal with Iran was \"largely negotiated\" amid expectations around the reopening of the Strait of Hormuz.",
+          "zh": "唐纳德·特朗普总统（左二）在 2026 年 5 月 27 日于华盛顿特区的白宫内阁会议室举行的内阁会议上讲话，（从左到右）国务卿马可·卢比奥、国防部长皮特·赫格塞斯、商务部长霍华德·卢特尼克和交通部长肖恩·达菲在听。几天后，特朗普表示与伊朗的和平协议“基本上已通过谈判”，在霍尔木兹海峡重新开放的预期下与伊朗达成了和平协议。"
+        },
+        {
+          "en": "Win McNamee/Getty Images",
+          "zh": "赢得麦克纳米/盖蒂图片社"
+        },
+        {
+          "en": "Win McNamee/Getty Images",
+          "zh": "赢得麦克纳米/盖蒂图片社"
+        },
+        {
+          "en": "🎧 It is difficult to determine if a deal is imminent, but all signs suggest that President Trump is pursuing a diplomatic solution with Iran instead of more war, NPR's Aya Batrawy tells Up First. The president has just shared a draft of the Iran deal with Israel's prime minister and several regional leaders, according to a person familiar with the matter who is not authorized to speak publicly. The interim deal would extend the ceasefire and reopen the Strait, but it would not include details on Iran's nuclear program. Iran has said there would be no deal with the U.S. without the war in Lebanon also coming to an end. Israel, a key U.S. ally, has expressed that it doesn't favor making a deal with Iran and wants to continue its war in Lebanon. Israel has issued evacuation warnings for Tyre, one of Lebanon's largest cities, deepening the conflict that has already displaced more than a million people in the country.",
+          "zh": "NPR 的 Aya Batrawy 告诉 Up First，很难确定是否即将达成协议，但所有迹象都表明特朗普总统正在寻求与伊朗的外交解决方案，而不是更多的战争。据一位未获授权公开发言的知情人士透露，总统刚刚与以色列总理和几位地区领导人分享了伊朗协议草案。临时协议将延长停火并重新开放海峡，但不包括伊朗核计划的细节。伊朗表示，如果黎巴嫩战争不结束，就不会与美国达成协议。美国的重要盟友以色列已表示不赞成与伊朗达成协议，并希望继续在黎巴嫩进行战争。以色列向黎巴嫩最大城市之一提尔发出疏散警告，加剧了已经导致该国超过一百万人流离失所的冲突。"
+        },
+        {
+          "en": "The director-general of the World Health Organization is expected to arrive in the Democratic Republic of Congo today, as the country struggles to contain an Ebola outbreak. Officials say there are more than 1,000 suspected cases and over 200 suspected deaths in the country. Congo's neighboring countries, Rwanda and Uganda, have closed their borders.",
+          "zh": "世界卫生组织总干事预计将于今天抵达刚果民主共和国，该国正在努力遏制埃博拉疫情。官员称，该国已有1000多例疑似病例，200多例疑似死亡。刚果的邻国卢旺达和乌干达已关闭边界。"
+        },
+        {
+          "en": "🎧 WHO's director-general has described eastern Congo as the site of a \"catastrophic collision of disease and conflict,\" and reporter Emmet Livingstone says catastrophic sums up the situation. The region is suffering from militia violence and extreme poverty. The outbreak's epicenter is a remote gold-mining town called Mongbwalu, where health workers and NGOs face significant challenges. Some residents don't believe Ebola exists, and there have been violent attacks on hospitals and isolation tents. There are also certain areas of the town that have now become no-go zones. Livingstone spoke with Dr. Esther Sterk, a tropical disease specialist for Doctors Without Borders in Mongbwalu, who told him that hospitals and NGOs in the area are struggling to keep up with the scale of the outbreak.",
+          "zh": "🎧 世界卫生组织总干事将刚果东部描述为“疾病与冲突灾难性碰撞”的地点，记者埃米特·利文斯通（Emmet Livingstone）表示，灾难性的情况概括了这一情况。该地区正遭受民兵暴力和极端贫困之苦。此次疫情的震中是一个名为蒙布瓦鲁的偏远金矿小镇，那里的卫生工作者和非政府组织面临着严峻的挑战。一些居民不相信埃博拉病毒的存在，医院和隔离帐篷也发生过暴力袭击事件。该镇的某些区域现已成为禁区。利文斯通采访了蒙布瓦鲁无国界医生组织的热带病专家埃丝特·斯特克博士，她告诉他，该地区的医院和非政府组织正在努力应对疫情的规模。"
+        },
+        {
+          "en": "More people in the United States are experiencing hunger now than during the COVID-19 pandemic six years ago, according to a survey released yesterday by the Federal Reserve Bank of New York. The New York Fed periodically surveys Americans about their food security, inquiring about whether they skip meals, depend on food donations or receive federal assistance for groceries. Replies from the most recent survey, conducted in February, show 10% of families nationwide reported missing meals due to a lack of food, and nearly 16% relied on food donations. For families earning less than $50,000 a year, food insecurity rates were nearly double, with almost 20% having to skip meals or go without food.",
+          "zh": "纽约联邦储备银行昨天发布的一项调查显示，现在美国遭受饥饿的人数比六年前的 COVID-19 大流行期间还要多。纽约联储定期对美国人的食品安全情况进行调查，询问他们是否不吃饭、依赖食品捐赠或接受联邦食品杂货援助。 2 月份进行的最新调查的答复显示，全国有 10% 的家庭因缺乏食物而缺餐，近 16% 的家庭依赖食物捐赠。对于年收入低于 50,000 美元的家庭，粮食不安全率几乎翻倍，近 20% 的家庭不得不不吃饭或不吃饭。"
+        },
+        {
+          "en": "A Google software engineer has been charged with leveraging confidential company information to make $1.2 million on the prediction market site Polymarket. This marks the second known case of the federal government filing criminal charges against someone for allegedly using insider information on a prediction market site. Michele Spagnuolo, an Italian citizen residing in Switzerland, was arrested yesterday and is facing charges of commodities fraud, wire fraud, money laundering and other counts for allegedly placing bets on search trends based on internal Google data that tracked user searches. Operating under the username AlphaRaccoon, the 36-year-old allegedly placed a number of bets on Google's most-searched person for 2025 and knew the outcomes of these wagers before the trading public did, according to prosecutors.",
+          "zh": "一名谷歌软件工程师被指控利用公司机密信息在预测市场网站 Polymarket 上赚取 120 万美元。这是联邦政府对涉嫌在预测市场网站上使用内幕信息的人提出刑事指控的第二起已知案件。居住在瑞士的意大利公民米歇尔·斯帕纽洛 (Michele Spagnuolo) 昨天被捕，因涉嫌根据跟踪用户搜索的谷歌内部数据对搜索趋势进行押注，面临商品欺诈、电信欺诈、洗钱和其他罪名的指控。检察官称，这名 36 岁的男子以 AlphaRaccoon 为用户名，据称对 2025 年谷歌搜索次数最多的人物进行了多次押注，并在交易公众之前知道了这些押注的结果。"
+        },
+        {
+          "en": "Church and State",
+          "zh": "教会与国家"
+        },
+        {
+          "en": "\"The Prayer at Valley Forge\", a 1975 painting by Arnold Friberg done for America's bicentennial celebration in 1976.",
+          "zh": "《福吉谷的祈祷》是阿诺德·弗里伯格 1975 年为 1976 年美国二百周年庆典创作的画作。"
+        },
+        {
+          "en": "First Freedom Art Company",
+          "zh": "第一自由艺术公司"
+        },
+        {
+          "en": "First Freedom Art Company",
+          "zh": "第一自由艺术公司"
+        },
+        {
+          "en": "This week at NPR, we're going to explore the increased intermixing of God and government in a new series we're calling Church and State. It's an idea that has been gaining momentum through the first and second Trump administrations, not only within U.S. politics but also throughout American culture, in songs and paintings, schoolbooks and worship events infused with faith and politics.",
+          "zh": "本周，在 NPR，我们将在我们称之为“教会与国家”的新系列中探讨上帝与政府的日益混合。这一理念在特朗普第一届和第二届政府中不断增强，不仅在美国政界，而且在整个美国文化中，在充满信仰和政治的歌曲、绘画、教科书和礼拜活动中。"
+        },
+        {
+          "en": "The Trump administration is using a painting that depicts George Washington praying to argue that the Founding Fathers were devout Christians. Historians question whether the moment in the painting actually occurred. The image has appeared in social media posts for the Defense Department, the Department of Labor, the Department of Homeland Security and more. It is even for sale on a federal government website that celebrates America's 250th anniversary. Many conservative evangelicals have adopted the 1975 Arnold Friberg painting, \"The Prayer at Valley Forge,\" as a rebuke to mainstream historians. Nicholas Shrum, a doctoral student researching Latter-day Saint identity in Am",
+          "zh": "特朗普政府正在使用一幅描绘乔治·华盛顿祈祷的画作来证明开国元勋是虔诚的基督徒。历史学家质疑画中的那一刻是否真实发生过。该图像出现在国防部、劳工部、国土安全部等机构的社交媒体帖子中。它甚至在庆祝美国成立 250 周年的联邦政府网站上出售。许多保守派福音派人士采用了阿诺德·弗里伯格 1975 年的画作《福吉谷的祈祷》，作为对主流历史学家的谴责。尼古拉斯·施鲁姆 (Nicholas Shrum)，一名博士生，研究现代圣徒身份"
+        }
+      ]
+    },
+    {
+      "title": "A federal judge in D.C. declines to block Trump's executive order on voting by mail",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5797889/trump-mail-in-voting-order",
+      "summary": "A federal judge in Washington, D.C., has declined to temporarily block President Trump's executive order that calls for restricting mail-in voting. Another judge may rule on the order soon.",
+      "pubDate": "Thu, 28 May 2026 07:13:55 -0400",
+      "source": "NPR",
+      "sourceColor": "#e57300",
+      "titleZh": "华盛顿特区的一名联邦法官拒绝阻止特朗普关于邮寄投票的行政命令",
+      "summaryZh": "华盛顿特区的一名联邦法官拒绝暂时阻止特朗普总统要求限制邮寄投票的行政命令。另一位法官可能很快就会对该命令做出裁决。",
+      "contentParagraphs": [
+        {
+          "en": "President Trump holds his signed executive order that calls for restricting voting by mail in the White House's Oval Office in March.",
+          "zh": "特朗普总统持有其签署的行政命令，呼吁限制 3 月份在白宫椭圆形办公室通过邮寄投票。"
+        },
+        {
+          "en": "A federal judge has declined to temporarily block President Trump's executive order that calls for restricting voting by mail.",
+          "zh": "一名联邦法官拒绝暂时阻止特朗普总统要求限制邮寄投票的行政命令。"
+        },
+        {
+          "en": "The ruling released Thursday by U.S. District Judge Carl Nichols, a Trump nominee based in Washington, D.C., leaves in place — at least for now — an executive order on voting that tests the limits of the president's power under the Constitution. A separate, 2025 executive order on voting was halted by courts.",
+          "zh": "华盛顿特区的特朗普提名人、美国地区法官卡尔·尼科尔斯周四发布的裁决保留了——至少目前如此——一项关于投票的行政命令，该命令测试了宪法规定的总统权力的限制。法院中止了一项单独的 2025 年投票行政命令。"
+        },
+        {
+          "en": "The latest executive order, issued March 31, calls for the Department of Homeland Security to work with the Social Security Administration to create lists of adult U.S. citizens in each state, and to send those lists to state election officials. It also calls for the U.S. Postal Service — a federal agency that's independent of a president's administration — to come up with lists of eligible voters and to only deliver mail-in ballots to people on those lists.",
+          "zh": "3 月 31 日发布的最新行政命令要求国土安全部与社会保障管理局合作，创建每个州的成年美国公民名单，并将这些名单发送给州选举官员。它还要求美国邮政服务（一个独立于总统政府的联邦机构）制定合格选民名单，并只向名单上的人邮寄选票。"
+        },
+        {
+          "en": "\"The Court recognizes that the Postal Service may ultimately issue a final rule that directly affects Plaintiffs or their members, or that the Government may develop State Citizenship Lists that omit specific individuals due to particularized flaws. Plaintiffs may, of course, renew their motions if and when those future actions occur. Until then, however, Plaintiffs cannot show that preliminary injunctive relief is warranted,\" Nichols wrote about the decision not to block the order.",
+          "zh": "“法院认识到，邮政服务最终可能会发布直接影响原告或其成员的最终规则，或者政府可能会制定国家公民名单，由于特定的缺陷而忽略特定个人。当然，如果未来发生这些行动，原告可以更新他们的动议。然而，在此之前，原告无法证明初步禁令救济是必要的，”尼科尔斯在谈到不阻止该命令的决定时写道。"
+        },
+        {
+          "en": "Nichols' ruling comes as another federal judge is preparing to issue a ruling in the coming weeks for a similar set of lawsuits based in Boston.",
+          "zh": "尼科尔斯做出裁决之际，另一位联邦法官正准备在未来几周内对波士顿的一系列类似诉讼做出裁决。"
+        },
+        {
+          "en": "Since Trump signed the order, it's been unclear whether and how it would actually affect mail-in voting, which has been taking place for state primaries in this year's midterm election. In early May, the administration said in a court filing that federal agencies were still deliberating how to carry out the order. Acting U.S. Attorney General Todd Blanche later told a Senate Appropriations subcommittee that the Justice Department is working with other agencies to \"make sure\" the order's goals are implemented.",
+          "zh": "自特朗普签署该命令以来，尚不清楚它是否以及如何真正影响今年中期选举中州初选的邮寄投票。 5月初，政府在一份法庭文件中表示，联邦机构仍在审议如何执行该命令。美国代理司法部长托德·布兰奇后来告诉参议院拨款小组委员会，司法部正在与其他机构合作，“确保”该命令的目标得到实施。"
+        },
+        {
+          "en": "Democrats, voting rights groups and almost two dozen states, plus Washington, D.C., have filed five lawsuits challenging the order.",
+          "zh": "民主党、投票权团体和近二十几个州，加上华盛顿特区，已提起五起诉讼，质疑该命令。"
+        },
+        {
+          "en": "They argue that Article I of the Constitution gives state legislatures and Congress — not the president — the power to set rules for federal elections. Their lawsuits also contend that Trump's order directs USPS to make rules about election mail that would overstep the mailing agency's authority.",
+          "zh": "他们认为，宪法第一条赋予州立法机关和国会（而不是总统）制定联邦选举规则的权力。他们的诉讼还称，特朗普的命令指示美国邮政局制定有关选举邮件的规则，这将超越邮寄机构的权力。"
+        },
+        {
+          "en": "Trump, who himself voted by mail in Florida in March, has said he issued the order to stop illegal voting by noncitizens in federal elections, which reviews and research have found to be incredibly rare. While there are voters across the partisan divide who rely on mail-in voting, more registered Democrats than Republicans say they voted by mail in the last national election in 2024.",
+          "zh": "特朗普本人于三月份在佛罗里达州通过邮寄方式投票，他表示，他发布了禁止非公民在联邦选举中非法投票的命令，审查和研究发现这种情况极为罕见。尽管不同党派的选民都依赖邮寄投票，但表示在 2024 年上一次全国选举中通过邮寄投票的登记民主党人多于共和党人。"
+        },
+        {
+          "en": "The new court ruling on Trump's order comes out of the three lawsuits filed in federal court in D.C. A decision on a similar request to block provisions of the order may come out of the two Massachusetts-based lawsuits as soon as early June.",
+          "zh": "法院对特朗普命令的新裁决是在华盛顿特区联邦法院提起的三起诉讼中作出的。马萨诸塞州的两起诉讼最早可能会在 6 月初针对阻止该命令条款的类似请求做出决定。"
+        },
+        {
+          "en": "Edited by Benjamin Swasey",
+          "zh": "本杰明·斯瓦西编辑"
+        }
+      ]
+    },
+    {
+      "title": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
+      "link": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
+      "summary": "Southern Lebanon empties out under bombardment as Red Cross warns of worsening crisis.",
+      "pubDate": "Thu, 28 May 2026 10:58:12 +0000",
+      "source": "Al Jazeera",
+      "sourceColor": "#f79120",
+      "titleZh": "以色列加强对黎巴嫩南部的袭击 造成至少16人死亡",
+      "summaryZh": "红十字会警告危机恶化，黎巴嫩南部空无一人。",
+      "contentParagraphs": [
+        {
+          "en": "Southern Lebanon empties out under bombardment as Red Cross warns of worsening crisis.At least 16 people have been killed and 58 wounded in Israeli attacks in southern Lebanon, according to Lebanese health authorities, as Israel intensifies its assault and issues mass displacement orders across the region.Lebanon’s state-run National News Agency reported on Thursday that six of the victims belonged to the same family. They were killed in an Israeli drone strike while trying to flee at dawn along the Adloun Highway, a key route linking Sidon and Tyre, it said.Recommended Stories list of 3 itemslist 1 of 3Why is Israel ramping up attacks in Lebanon despite a ceasefire?list 2 of 3What’s happening on Iran war day 90 as US launches new strikeslist 3 of 3Israeli attack on Gaza City kills at least 10, including four childrenend of listThe attack came as Israel expanded its bombardment across southern Lebanon, hitting residential areas, roads and civilian infrastructure.The Lebanese army said one of its soldiers was killed in an Israeli strike in the Nabatieh area, the latest in a string of attacks targeting military personnel. Other soldiers have also been killed in recent days in strikes across southern Lebanon and the western Beqaa Valley.Israel has also issued sweeping displacement orders covering large parts of the south, including Tyre and surrounding areas. Residents were told to evacuate immediately and move north of the Zahrani River, roughly 40km (25 miles) from the Lebanon-Israel border.The orders, shared on social media with marked buildings, have forced thousands of people to flee under threat of attack.‘Things are only going to get worse’In Tyre, Israeli air strikes hit a building and a cafe overnight, setting off fires and leaving emergency crews searching through debris for casualties.The Israeli military said it is targeting what it calls Hezbollah “infrastructure”, but Israeli strikes have repeatedly hit civilian neighbourhoods and populated areas.Al Jazeera’s Obaida Hitto, reporting from Tyre, said the attacks on the city were relentless.“Since midnight, there have been over a dozen strikes on the city of Tyre and its surrounding areas.”“Yesterday, people left the city over the course of the day. It seems like the city, for the most part, is pretty empty,” he added.The International Committee of the Red Cross has warned that Israel’s large-scale forced displacements and continued strikes on urban centres are placing civilians at severe risk and deepening a humanitarian crisis.“The fear is that things are only going to get worse,” Hitto said.Al Jazeera’s Zeina Khodr, reporting from Beirut, said a US-brokered ceasefire that took effect last month had failed to halt the violence.“It was just ink on paper. It remained very much an active warzone.”“But what we have seen over the past three or four days is some of the heaviest Israeli bombardment yet across southern Lebanon since this latest confrontation began in early March,” she added.The escalation came as United States-mediated talks between Israel and Lebanon are due to resume on Thursday, beginning with technical discussions before moving to broader negotiations in early June.However, Israel has significantly intensified its military operations in the past two days, casting doubt over the prospects for diplomacy.“It is unclear how these talks will proceed,” Hitto said.“People here are extremely frustrated and would like to see the Lebanese government take a stronger position at these talks, but that doesn’t look like it’s going to happen,” he added.",
+          "zh": "红十字会警告危机恶化，黎巴嫩南部空无一人。据黎巴嫩卫生当局称，以色列在黎巴嫩南部发动的袭击已造成至少 16 人死亡、58 人受伤，以色列加大了袭击力度，并在整个地区发布了大规模流离失所令。黎巴嫩国营国家通讯社周四报道称，其中 6 名受害者属于同一家庭。报道称，黎明时分，他们试图沿阿德隆高速公路（连接西顿和提尔的一条重要路线）逃离，但在一次以色列无人机袭击中丧生。推荐故事列表（共 3 项）列表 1（共 3 项）为什么以色列在停火后仍加大对黎巴嫩的袭击力度？列表 2（共 3 项）美国发动新的空袭，伊朗战争日 90 发生了什么列表 3 项（共 3 项）以色列对加沙城的袭击造成至少 10 人死亡，其中包括 4 名儿童end of listThe袭击发生之际，以色列扩大了对黎巴嫩南部的轰炸，袭击了居民区、道路和民用基础设施。黎巴嫩军队表示，一名士兵在以色列对纳巴提耶地区的袭击中丧生，这是针对军事人员的一系列袭击中的最新一起。最近几天，其他士兵也在黎巴嫩南部和贝卡谷地西部的袭击中丧生。以色列还发布了全面的流离失所令，覆盖南部大部分地区，包括提尔及周边地区。居民被告知立即撤离，转移到距黎巴嫩-以色列边境约 40 公里（25 英里）的扎赫拉尼河以北。这些命令在社交媒体上与标记的建筑物分享，迫使数千人在受到袭击威胁的情况下逃离。“情况只会变得更糟”。在提尔，以色列的空袭连夜袭击了一座建筑物和一家咖啡馆，引发火灾，让紧急救援人员在废墟中搜寻伤亡人员。以色列军方表示，他们的目标是所谓的目标。真主党的“基础设施”，但以色列的袭击一再袭击平民社区和人口稠密地区。半岛电视台记者奥贝达·希托从提尔报道称，对该市的袭击是无情的。“自午夜以来，提尔市及其周边地区发生了十几次袭击。”“昨天，人们在一天中离开了这座城市。看起来这座城市大部分都是空的，”他补充道。红十字会警告说，以色列的大规模强迫流离失所和对城市中心的持续袭击使平民面临严重危险，并加剧了人道主义危机。希托说：“令人担心的是，事情只会变得更糟。”半岛电视台记者泽纳·科德尔在贝鲁特报道称，上个月在美国斡旋下生效的停火协议未能阻止暴力活动。“这只是纸上谈兵。它仍然是一个非常活跃的战区。”她补充说，过去三四天内，以色列对黎巴嫩南部进行了自三月初最近一次对抗以来最猛烈的轰炸。事态升级之际，美国调解的以色列和黎巴嫩之间的谈判将于周四恢复，首先进行技术讨论，然后在六月初进行更广泛的谈判。然而，以色列在过去两天显着加强了军事行动，使人们对外交前景产生了怀疑。“目前尚不清楚这些谈判将如何进行，”Hitto “这里的人们非常沮丧，希望看到黎巴嫩政府在这些谈判中采取更强硬的立场，但这看起来不会发生，”他补充道。"
+        }
+      ]
+    },
+    {
+      "title": "Man arrested after three injured in stabbing at Swiss train station",
+      "link": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect, a 31-year-old Swiss man, has been arrested, police say, as areas around the station are cordoned off.",
+      "pubDate": "Thu, 28 May 2026 10:52:21 GMT",
+      "source": "BBC News",
+      "sourceColor": "#b80000",
+      "titleZh": "瑞士火车站刺伤三人受伤男子被捕",
+      "summaryZh": "警方称，由于车站周围地区已被封锁，嫌疑人是一名 31 岁的瑞士男子，他已被逮捕。",
+      "contentParagraphs": []
+    },
+    {
+      "title": "The West Bank’s Youth Unemployment Crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/the-west-banks-youth-unemployment-crisis?traffic_source=rss",
+      "summary": "The West Bank's Youth Unemployment Crisis",
+      "pubDate": "Thu, 28 May 2026 10:51:06 +0000",
+      "source": "Al Jazeera",
+      "sourceColor": "#f79120",
+      "titleZh": "西岸的青年失业危机",
+      "summaryZh": "西岸的青年失业危机",
+      "contentParagraphs": [
+        {
+          "en": "The West Bank's Youth Unemployment CrisisNewsFeedThere are only enough jobs for about half the students who graduate university here in the occupied West Bank. But that isn’t stopping Palestinians from finishing school and celebrating. Al Jazeera’s Leila Warah spoke to the generation bearing the brunt of it.By Leila WarahPublished On 28 May 2026",
+          "zh": "约旦河西岸的青年失业危机新闻动态 在被占领的约旦河西岸，只有大约一半的大学毕业生能够找到工作。但这并不能阻止巴勒斯坦人完成学业并庆祝。半岛电视台的莱拉·瓦拉 (Leila Warah) 对首当其冲的一代人发表了讲话。 作者：莱拉·瓦拉 (Leila Warah) 发布于 2026 年 5 月 28 日"
+        }
+      ]
+    },
+    {
+      "title": "Israel kills children in strikes on Gaza as fear taints Eid joy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
+      "summary": "As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks.",
+      "pubDate": "Thu, 28 May 2026 10:47:19 +0000",
+      "source": "Al Jazeera",
+      "sourceColor": "#f79120",
+      "titleZh": "以色列在加沙空袭中杀害儿童，因为恐惧破坏了开斋节的欢乐",
+      "summaryZh": "当世界各地的穆斯林庆祝开斋节时，加沙的巴勒斯坦人正面临恐惧、悲伤和致命的袭击。",
+      "contentParagraphs": [
+        {
+          "en": "Israel kills children in strikes on Gaza as fear taints Eid joyNewsFeedAs Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks.",
+          "zh": "以色列在加沙空袭中杀害儿童，恐惧玷污了开斋节的欢乐新闻动态当世界各地的穆斯林庆祝开斋节时，加沙的巴勒斯坦人正面临恐惧、悲伤和致命的袭击。"
+        },
+        {
+          "en": "Overnight strikes in Gaza City killed children near one of the Strip’s few remaining playgrounds, leaving families terrified to leave their tents on what should have been a day of joy and peace.Published On 28 May 2026",
+          "zh": "加沙城的隔夜罢工导致加沙地带仅存的几个游乐场之一附近的儿童死亡，让许多家庭在本应是欢乐与和平的一天离开帐篷。发布于 2026 年 5 月 28 日"
+        }
+      ]
+    },
+    {
+      "title": "Ireland football coach urges players to ‘win this war’ against Israel",
+      "link": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss",
+      "summary": "Ireland are set to play Israel in home and away Nations League matches, but there has been pressure to boycott games.",
+      "pubDate": "Thu, 28 May 2026 10:42:25 +0000",
+      "source": "Al Jazeera",
+      "sourceColor": "#f79120",
+      "titleZh": "爱尔兰足球教练敦促球员“赢得这场针对以色列的战争”",
+      "summaryZh": "爱尔兰将在国家联赛主客场对阵以色列，但抵制比赛的压力一直存在。",
+      "contentParagraphs": [
+        {
+          "en": "Ireland are set to play Israel in home and away Nations League matches, but there has been pressure to boycott games.Republic of Ireland manager Heimir Hallgrimsson has challenged his players to “win this war” against Israel when the teams meet in the Nations League amid renewed protests in the Irish parliament about the games.The Football Association of Ireland has been under pressure to boycott the two matches, including a home fixture in Dublin on October 4.Recommended Stories list of 4 itemslist 1 of 4Neymar injury threatens Brazil forward’s World Cup as scans needed on calflist 2 of 4Messi’s GOAT statue in India to be removed over safety concernslist 3 of 4‘Why not us?’: Does the US really have a chance of lifting the World Cup?list 4 of 4FIFA subpoenaed by New York, New Jersey in World Cup ticket investigationend of listSeveral pro-Palestinian Irish politicians and football figures have urged the federation to withdraw from the fixtures over Israel’s conduct during its genocidal war on Gaza.The FAI passed a motion in November requesting that UEFA immediately suspend Israel from international competition, but received no support from European football’s governing body.There were new protests at the Dail – the Irish parliament – on Wednesday over the fixtures.In October, Icelandic boss Hallgrimsson was among those calling for Israel to be banned from international football competition.The 58-year-old, speaking ahead of a friendly game against Qatar in Dublin, said: “I’ve already expressed my opinion on this matter, you don’t need to repeat that one.“But from a footballing perspective – it’s an obstacle I don’t like, and it’s unfair for the players to be in this position and us to be in this position – but from a footballing perspective, I don’t like us to be the bad guys. We are not the bad guys here.”He added: “I think the best answer for us is just to win this game, to win this war against them [Israel]. That would be a perfect answer from my end.“Other decisions are not made by us, but all the players would like to represent the country and do well for them, no matter who is the opponent.”Israel played their World Cup qualifiers in Hungary and are set to use a neutral venue for their Nations League match against Ireland on September 27.Such has been the outcry in Ireland concerning the October 4 match in Dublin in particular, there have been suggestions it could be played elsewhere, with the FAI insisting in February it had “no choice” but to fulfil the two fixtures against Israel.Hallgrimsson, however, said: “It would obviously be a disadvantage from footballing reasons not to play at home. We’ve done really well at home.“It’s building to be a strong fortress for us, Aviva [Lansdowne Road], and to move it obviously will lower our chances, so I hope people can rally around the players and us playing instead of protesting or doing something that’s damaging.”",
+          "zh": "爱尔兰将在国家联赛主场和客场对阵以色列，但抵制比赛的压力一直存在。在爱尔兰议会再次对比赛提出抗议之际，爱尔兰共和国主帅海米尔·哈尔格里姆森向他的球员发起挑战，要求他的球员在国家联赛中对阵以色列时“赢得这场战争”。爱尔兰足协一直面临抵制这两场比赛的压力，其中包括 10 月 4 日在都柏林举行的主场比赛。推荐故事列表 4 项列表（共 4 项）内马尔受伤威胁巴西前锋的世界杯，因为小牛需要扫描 list 2 of 4 出于安全考虑，印度的梅西山羊雕像将被移除 list 3 of 4“为什么不是我们？”：美国真的有机会举起世界杯吗？ list 4 4 国际足联在世界杯门票调查中被纽约、新泽西传唤 名单结束 几位亲巴勒斯坦的爱尔兰政治家和足球人物敦促联合会退出比赛以色列在加沙种族灭绝战争期间的行为。FAI于11月通过了一项动议，要求欧足联立即暂停以色列参加国际比赛，但没有得到欧洲足球管理机构的支持。周三，爱尔兰议会因赛程引发了新的抗议。10月，冰岛主帅哈尔格里姆森是呼吁禁止以色列参加国际足球比赛的人之一。这位58岁的球员在都柏林与卡塔尔的友谊赛前发表讲话说： “我已经就这件事表达了我的看法，你不需要重复这一点。“但从足球的角度来看——这是我不喜欢的障碍，球员处于这个位置，我们处于这个位置是不公平的——但从足球的角度来看，我不喜欢我们成为坏人。我们不是这里的坏人。”他补充道：“我认为对我们来说最好的答案就是赢得这场比赛，赢得这场针对他们（以色列）的战争。这将是我最后一个完美的答案。“其他决定不是由我们做出的，但所有球员都愿意代表国家并为他们做好准备，无论对手是谁。”以色列在匈牙利进行了世界杯预选赛，并将在 9 月 27 日对阵爱尔兰的国家联赛中使用中立场地。爱尔兰对 10 月 4 日在都柏林举行的比赛表示强烈抗议，有人建议比赛可以在其他地方进行，而 FAI 坚持认为比赛可以在其他地方进行二月份，它“别无选择”，只能完成对阵以色列的两场比赛。然而，霍尔格里姆森表示：“出于足球原因，不在主场比赛显然是不利的。我们在主场做得非常好。“它正在成为我们英杰华（兰斯当路）的坚固堡垒，而移动它显然会降低我们的机会，所以我希望人们能够团结在球员和我们比赛周围，而不是抗议或做一些有破坏性的事情。"
+        }
+      ]
+    },
+    {
+      "title": "Argentina’s ‘El Loco’ faces Uruguay mutiny ahead of World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/5/28/former-chelsea-boss-biesla-facing-world-cup-mutiny-with-uruguay?traffic_source=rss",
+      "summary": "Marcelo Bielsa's demanding coaching style faces internal threat in Uruguay camp ahead of World Cup as results slide.",
+      "pubDate": "Thu, 28 May 2026 10:20:21 +0000",
+      "source": "Al Jazeera",
+      "sourceColor": "#f79120",
+      "titleZh": "阿根廷“疯子”在世界杯前面临乌拉圭叛变",
+      "summaryZh": "随着成绩下滑，马塞洛·贝尔萨苛刻的执教风格在世界杯前的乌拉圭阵营中面临着内部威胁。",
+      "contentParagraphs": [
+        {
+          "en": "Marcelo Bielsa is widely revered as a pioneer of coaching, but his unconventional methods risk ruining Uruguay’s World Cup chances before the tournament has even begun, with rumours of dressing room unrest.Nicknamed “El Loco”, which means madman, the 70-year-old’s bold, attacking approach has proved an inspiration to a younger generation of coaches, including Pep Guardiola and USA boss Mauricio Pochettino.Recommended Stories list of 4 itemslist 1 of 4Scotland fans book 20 school buses for games at ‘inaccessible’ US World Cuplist 2 of 4Messi’s GOAT statue in India to be removed over safety concernslist 3 of 4How Senegal became genuine World Cup 2026 contenders – at a costlist 4 of 4World Cup broadcast hopes boosted in India as Zee Entertainment in talksend of listYet, his famously demanding standards have often caused friction during a nomadic coaching career, and his stint in Uruguay has been no exception.The Argentinian’s arrival initially generated huge excitement, which was fuelled by landmark victories over Brazil and Argentina in qualifying.But they needed that flying start just to make it through after winning just three of their final 12 qualifiers.The tipping point for many in the squad came at the Copa America in 2024.Uruguay finished a creditable third, eliminating Brazil along the way, but Bielsa’s intensity during the monthlong tournament did not endear him to his players.Luis Suarez hit out at Bielsa’s methods after retiring from international football months later, claiming he had reduced former Liverpool striker Darwin Nunez to tears at half-time of a 2-0 win over Argentina, such was the force of his criticism.Bielsa accepted that after the former Barcelona striker’s backlash, his “authority was affected” with the rest of the dressing room.Results have also regressed, with Bielsa stating he was “ashamed” by a 5-1 friendly defeat by the USA in November.Now, as his third World Cup with a third different nation approaches, the question is whether Bielsa can win back the faith of his players for a country so used to punching above its weight on the world stage.And there are doubts as to how his high-energy style will fare in the gruelling conditions of Miami and Guadalajara, where Uruguay will face Saudi Arabia, Cape Verde and Spain in Group F.Pochettino hails Bielsa as a ‘genius’Bielsa made his name winning three league titles in Argentina with Newell’s Old Boys, where the stadium now bears his name, and Velez Sarsfield.“For me, he’s a person I will always admire,” said Pochettino, whom Bielsa recruited for Newell’s as a 13-year-old.“He’s a genius. A person with charisma and a personality very different from us, normal coaches, and that’s what makes him special.”Bielsa’s sides in Bilbao with Athletic Club, where he reached the Europa League and Copa del Rey finals in 2011-12, and Marseille, where he led Ligue 1 at the halfway stage in 2014-15, were also admired but ended up empty-handed as their energy ran out.In Leeds, murals still bear Bielsa’s face, four years on from his departure, after he led a sleeping giant of English football back to the Premier League for the first time in 16 years in 2020.His time there ended in familiar fashion with an exhausted squad that was relegated to the second tier the season after he departed.Yet, the esteem with which he is held for his daring tactical approach endures.“To be loved is this biggest title, bigger than the Champions League or Premier League or whatever,” said Guardiola, who went to visit Bielsa in Argentina before setting out as a coach at Barcelona.“To be loved is the most important thing, and I think Marcelo has that more than any other manager in the world.”Bielsa, who oversaw Argentina’s group-stage elimination in 2002 and Chile’s round-of-16 loss to hosts Brazil in 2014, has already hinted ‌that he may not remain as manager ⁠of Uruguay beyond ⁠July, saying his job with the team ends with the World Cup.“Our job ends with the World Cup,” ⁠Bielsa said at an event organised by the Uruguayan Football Association last Friday.Although he did not elaborate on his remarks, local media reported ⁠that the Argentinian will not continue once his current contract expires at the end of the June 11-July 19 tournament.“It is a miracle in any ‌professional’s sporting career to take part in the World Cup,” he said. “I will be forever grateful to Uruguay for allowing me to enjoy a competition like the World Cup.”",
+          "zh": "马塞洛·贝尔萨被广泛尊为教练先驱，但他的非传统方法有可能在比赛开始前就毁掉乌拉圭世界杯的机会，甚至有更衣室骚乱的传言。这位70岁老人绰号“El Loco”，意思是疯子，他大胆的进攻方式给包括瓜迪奥拉和美国队主教练毛里西奥·波切蒂诺在内的年轻一代教练带来了灵感。 4 项目列表 4 中的 1 苏格兰球迷预订了 20 辆校车参加“难以到达”的美国世界杯 列表 4 中的 2 梅西在印度的山羊雕像因安全问题将被拆除列表 4 中的 3 塞内加尔如何成为 2026 年世界杯真正的竞争者 - 成本高昂 列表 4 中的 4 世界杯转播希望在印度增强，因为 Zee 娱乐在列表的谈话中 然而，他著名的苛刻标准经常在游牧期间引起摩擦教练生涯，他在乌拉圭的任期也不例外。阿根廷人的到来最初引起了巨大的兴奋，而在预选赛中对巴西和阿根廷取得的里程碑式的胜利更是推动了这种兴奋。但他们需要一个良好的开局，才能在最后 12 场预选赛中只赢得三场后成功晋级。对队中许多人来说，转折点出现在 2024 年的美洲杯上。乌拉圭队获得了值得称赞的第三名，一路淘汰了巴西队，但贝尔萨的球队长达一个月的比赛期间的强度并没有让他受到球员们的喜爱。几个月后从国际足坛退役后，路易斯·苏亚雷斯猛烈抨击了贝尔萨的方法，声称他在2-0战胜阿根廷的比赛中半场让前利物浦前锋达尔文·努涅斯落泪，这就是他批评的力量。贝尔萨承认，在这位前巴塞罗那前锋的强烈反对之后，他与更衣室其他人的“权威受到了影响”。结果也有所倒退，贝尔萨表示，他对11月友谊赛以5比1输给美国队感到“羞愧”。现在，随着他第三次与第三个不同的国家队参加世界杯，问题是贝尔萨是否能赢回球员们对这个习惯于在世界舞台上超常发挥的国家的信心。而且人们怀疑他的高能量风格将如何在迈阿密和瓜达拉哈拉的艰苦条件下发挥作用，乌拉圭将在小组中面对沙特阿拉伯、佛得角和西班牙波切蒂诺称赞贝尔萨是“天才”。贝尔萨在阿根廷随纽维尔老男孩队和贝莱斯萨斯菲尔德赢得了三个联赛冠军，现在球场以他的名字命名。“对我来说，他是一个我永远钦佩的人，”贝尔萨在 13 岁时为纽维尔队招募的波切蒂诺说道。贝尔萨在毕尔巴鄂竞技俱乐部的球队，他在 2011-12 赛季打进了欧罗巴联赛和国王杯决赛，而在马赛，他在 2014-15 赛季的半程阶段带领法甲球队也受到了赞赏，但最终因为能量耗尽而空手而归。在利兹，壁画上仍然刻着贝尔萨的脸，四年过去了2020年，他带领这支沉睡的英格兰足球巨人时隔16年首次重返英超。他在英超的时光以一种熟悉的方式结束，球队在他离开后的那个赛季被降级到了第二级别联赛。然而，他因大胆的战术方法而受到的尊重依然存在。“被爱是这个最大的冠军，比冠军联赛或英超联赛或其他任何东西都重要，”前往参观的瓜迪奥拉说道。贝尔萨在前往巴塞罗那担任教练之前在阿根廷。“被爱是最重要的事情，我认为马塞洛比世界上任何其他教练都更能做到这一点。”贝尔萨曾在 2002 年带领阿根廷队小组赛被淘汰，并在 2014 年带领智利队在 16 强中输给东道主巴西队，他已经暗示他可能不会在 7 月份之后继续担任乌拉圭队主教练，并表示他在球队的工作将在上周五，贝尔萨在乌拉圭足协组织的一次活动中表示：“我们的工作随着世界杯而结束。”尽管他没有详细说明自己的言论，但当地媒体报道称，一旦他目前的合同在 6 月 11 日至 7 月 19 日世界杯结束后到期，阿根廷人将不会继续继续踢球。“参加世界杯对于任何职业球员的体育生涯来说都是一个奇迹，”他说。 “我将永远感激乌拉圭让我享受世界杯这样的比赛。”"
+        }
+      ]
+    },
+    {
+      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say",
+      "link": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+      "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
+      "pubDate": "Thu, 28 May 2026 10:15:03 GMT",
+      "source": "BBC News",
+      "sourceColor": "#b80000",
+      "titleZh": "报道称，美国司法部对特朗普指控者让·卡罗尔展开刑事调查",
+      "summaryZh": "该案的重点是这位前专栏作家是否对她针对美国总统的民事诉讼所获得的资金撒了谎。",
+      "contentParagraphs": []
+    },
+    {
+      "title": "An Ohio pastor-turned-lawmaker backs a Charlie Kirk American Heritage Act for schools",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5798726/christian-conservative-church-state-charlie-kirk",
+      "summary": "The bill says it would permit the teaching of the positive impact of Judeo-Christian values in U.S. history. Opponents say it offers a skewed view of history.",
+      "pubDate": "Thu, 28 May 2026 06:00:00 -0400",
+      "source": "NPR",
+      "sourceColor": "#e57300",
+      "titleZh": "俄亥俄州牧师出身的立法者支持《查理·柯克美国学校遗产法案》",
+      "summaryZh": "该法案表示，它将允许教授犹太基督教价值观对美国历史的积极影响。反对者表示，它提供了一种扭曲的历史观。",
+      "contentParagraphs": [
+        {
+          "en": "Republican state Rep. Gary Click, from northern Ohio, is a Baptist pastor and three-term lawmaker. Here, he poses for a portrait in his office in Columbus, Ohio, in February.",
+          "zh": "来自俄亥俄州北部的共和党州众议员加里·克里克 (Gary Click) 是一名浸信会牧师和三届立法者。这张照片是二月，他在俄亥俄州哥伦布市的办公室里摆姿势拍照。"
+        },
+        {
+          "en": "Andrew Spear for NPR",
+          "zh": "NPR 的安德鲁·斯皮尔"
+        },
+        {
+          "en": "Andrew Spear for NPR",
+          "zh": "NPR 的安德鲁·斯皮尔"
+        },
+        {
+          "en": "Ohio state Rep. Gary Click recalls the comfort he felt going to church as a child and when he declared his faith before a congregation at the age of 12.",
+          "zh": "俄亥俄州众议员加里·克里克 (Gary Click) 回忆起他小时候去教堂以及 12 岁时在会众面前宣示信仰时所感受到的安慰。"
+        },
+        {
+          "en": "\"I went down and I just told the Lord, I said, if you want me to be a pastor, I'll be a pastor,\" Click recounted in an interview.",
+          "zh": "“我下去告诉主，我说，如果你想让我当牧师，我就当牧师，”克里克在接受采访时回忆道。"
+        },
+        {
+          "en": "He did become a Baptist pastor — and later, a lawmaker. Click, 60, is a three-term Ohio legislator. God created three institutions, he says: the family, the home and the government.",
+          "zh": "他确实成为了一名浸信会牧师，后来又成为了一名立法者。 60 岁的克里克是一位连任三届的俄亥俄州议员。他说，上帝创造了三个机构：家庭、家庭和政府。"
+        },
+        {
+          "en": "\"As good stewards, we should be involved in all of those, to one extent or the other,\" Click says.",
+          "zh": "“作为优秀的管理者，我们应该在某种程度上参与所有这些活动，”克里克说。"
+        },
+        {
+          "en": "He's the architect of the state's ban on gender-affirming surgeries and hormone treatments for minors. He's backed a range of bills, from less-controversial ones like requiring schools to allow excused absences for religious reasons to hotly debated ones, like restricting abortion and requiring K-12 schools to let students leave during the day for religious study.",
+          "zh": "他是该州禁止对未成年人进行性别确认手术和激素治疗的创始人。他支持一系列法案，从争议较小的法案（例如要求学校允许因宗教原因缺勤）到备受争议的法案（例如限制堕胎和要求 K-12 学校允许学生在白天离开学校进行宗教学习）。"
+        },
+        {
+          "en": "Artwork depicting the late conservative activist Charlie Kirk is seen in the office of Ohio state Rep. Gary Click.",
+          "zh": "在俄亥俄州众议员加里·克里克的办公室里可以看到描绘已故保守派活动家查理·柯克的艺术品。"
+        },
+        {
+          "en": "Andrew Spear for NPR",
+          "zh": "NPR 的安德鲁·斯皮尔"
+        },
+        {
+          "en": "Andrew Spear for NPR",
+          "zh": "NPR 的安德鲁·斯皮尔"
+        },
+        {
+          "en": "But Click says he's not legislating his own religion, because you don't have to be a Christian to agree with what he introduces and advances.",
+          "zh": "但克里克表示，他并没有为自己的宗教立法，因为你不必是基督徒也能同意他所介绍和推进的内容。"
+        },
+        {
+          "en": "A bill named for Charlie Kirk about teaching religion's impact on America",
+          "zh": "以查理·柯克 (Charlie Kirk) 命名的一项关于教授宗教对美国影响的法案"
+        },
+        {
+          "en": "\"The Bible says 'Thou shalt not kill.' Now, am I legislating the Bible if I support laws against murder? No, I'm not,\" he says. \"Says 'Thou shalt not steal.' If we have laws against theft, and actually, I have a burglary bill right now, am I legislating my religion?\"",
+          "zh": "“圣经说‘不可杀人。’”现在，如果我支持禁止谋杀的法律，我是否在为圣经立法？不，我不是，”他说。 “说‘不可偷盗。’如果我们有反盗窃的法律，事实上，我现在有一项防盗法案，我是否在立法我的宗教？”"
+        },
+        {
+          "en": "Since last year, Click's been working on passing the Charlie Kirk American Heritage Act. It has passed the state House and is in the Senate.",
+          "zh": "自去年以来，克里克一直致力于通过《查理·柯克美国遗产法案》。该法案已在州众议院获得通过，并进入参议院。"
+        },
+        {
+          "en": "The bill says it would permit the teaching of the positive impact of \"Judeo-Christian\" values in U.S. history. It lists two dozen examples, from appeals to divine power in the Declaration of Independence and the religious backgrounds of the signers, to the impact of evangelical Billy Graham.",
+          "zh": "该法案表示，它将允许教授“犹太基督教”价值观对美国历史的积极影响。它列出了两打例子，从《独立宣言》中对神圣力量的呼吁和签署者的宗教背景，到福音派比利·格雷厄姆的影响。"
+        },
+        {
+          "en": "A couple of other states have similar bills, though they're not named after the slain conservative activist and occasional confidante of President Trump. Click says he hopes his will be a model.",
+          "zh": "其他几个州也有类似的法案，尽管它们不是以被杀的保守派活动家和特朗普总统偶尔的红颜知己的名字命名的。 Click 说他希望自己能成为一名模特。"
+        },
+        {
+          "en": "Ohio state Rep. Mark Johnson prays in March during \"Prayer at the Statehouse,\" a quarterly event hosted by the Center for Christian Virtue to pray with lawmakers in the state Capitol in Columbus, Ohio.",
+          "zh": "俄亥俄州众议员马克·约翰逊三月份在“州议会祈祷”期间祈祷，这是由基督教美德中心主办的季度活动，与俄亥俄州哥伦布州议会大厦的立法者一起祈祷。"
+        },
+        {
+          "en": "Maddie McGarvey for NPR",
+          "zh": "NPR 的麦迪·麦加维"
+        },
+        {
+          "en": "Maddie McGarvey for NPR",
+          "zh": "NPR 的麦迪·麦加维"
+        },
+        {
+          "en": "Click named the bill after Kirk, whose rhetoric offended some but resonated with others, because he sees a connection.",
+          "zh": "克里克以柯克的名字命名了该法案，柯克的言论冒犯了一些人，但也引起了其他人的共鸣，因为他看到了其中的联系。"
+        },
+        {
+          "en": "\"One of the reasons that people hated Charlie, I think, is because he was advancing Christian principles. The Christian history of our nation. And people didn't like that. They hated that,\" he says. \"They rejected that. And I think that's what took his life. And so I think people need a better education.\"",
+          "zh": "“我认为，人们讨厌查理的原因之一是因为他正在推进基督教原则。我们国家的基督教历史。人们不喜欢这一点。他们讨厌这一点，”他说。 “他们拒绝了。我认为这就是他的生命。所以我认为人们需要更好的教育。”"
+        },
+        {
+          "en": "Opponents say the bill would invite a skewed version of history",
+          "zh": "反对者表示，该法案将带来扭曲的历史版本"
+        },
+        {
+          "en": "Opponents of the bill say it's unnecessary — or worse.",
+          "zh": "该法案的反对者表示，这是不必要的，甚至更糟。"
+        },
+        {
+          "en": "\"I have never heard of a single teacher in Ohio that says they're afraid to teach any of the content that's in this bill,\" says Ohio Council for the Social Studies President Sarah Kaka.",
+          "zh": "俄亥俄州社会研究委员会主席萨拉·卡卡 (Sarah Kaka) 表示：“我从未听说过俄亥俄州有哪个老师表示他们害怕教授该法案中的任何内容。”"
+        },
+        {
+          "en": "She worries anytime the legislature is dictating the direction of educational content, she says.",
+          "zh": "她说，每当立法机关决定教育内容的方向时，她都会感到担忧。"
+        },
+        {
+          "en": "\"It is such a skewed perspective on history, right?\" she says. \"It's not balanced by any means, and our organization as a whole, we are very much proponents of historical inquiry, right? Teaching students not what to think, but how to think.\"",
+          "zh": "“这是一种扭曲的历史观，对吗？”她说。 “无论如何，这都是不平衡的，我们的组织作为一个整体，我们非常支持历史探究，对吧？教学生的不是思考什么，而是如何思考。”"
+        },
+        {
+          "en": "Groups backing laws that center on conservative views of Christianity go back generations, including the Moral Majority of the 1980s, and have won court backing in recent years with the elimination of the federal right to abortion and the weakening of bans on school prayer.",
+          "zh": "支持以基督教保守观点为中心的法律的团体可以追溯到几代人之前，其中包括 20 世纪 80 年代的道德多数派，并且近年来随着联邦堕胎权的取消和学校祈祷禁令的削弱而赢得了法院的支持。"
+        },
+        {
+          "en": "People participate in \"Prayer at the Statehouse\" in March.",
+          "zh": "三月，人们参加“州议会祈祷”。"
+        },
+        {
+          "en": "Maddie McGarvey for NPR",
+          "zh": "NPR 的麦迪·麦加维"
+        },
+        {
+          "en": "Maddie McGarvey for NPR",
+          "zh": "NPR 的麦迪·麦加维"
+        },
+        {
+          "en": "Indiana University Indianapolis professor Andrew Whitehead is among those who describe the movement as Christian Nationalism.",
+          "zh": "印第安纳大学印第安纳波利斯分校教授安德鲁怀特海德是将这场运动描述为基督教民族主义的人之一。"
+        },
+        {
+          "en": "\"[It's] the desire to fuse together a very particular expression of Christianity with American civic life, and then having the government at all levels, defend and preserve that connection and fusion,\" Whitehead says. He adds that this specific view sees an America primarily for white Protestant men and leans toward authoritarianism.",
+          "zh": "“[这是]将基督教的一种非常特殊的表达方式与美国公民生活融合在一起的愿望，然后让各级政府捍卫和维护这种联系和融合，”怀特海德说。他补充说，这种特定观点认为美国主要是白人新教徒的国家，并且倾向于威权主义。"
+        },
+        {
+          "en": "Click rejects the term. \"That is a dog whistle,\" he says. \"That's a crisis language in order to scare people and take them back to this idea of you're forcing your religion on us.\"",
+          "zh": "单击拒绝该术语。 “那是狗哨，”他说。 “这是一种危机语言，目的是吓唬人们，让他们回想起你把你的宗教信仰强加给我们的想法。”"
+        },
+        {
+          "en": "Click is a member of the National Association of Christian Lawmakers, which shares model legislation against abortion access and transgender rights. He says the group is interested in the Charlie Kirk bill. Their website also includes proposals to ban same-sex marriage and to tie currency to gold and silver.",
+          "zh": "Click 是全国基督教立法者协会的成员，该协会分享反对堕胎和变性人权利的示范立法。他说该组织对查理柯克法案感兴趣。他们的网站还包括禁止同性婚姻以及将货币与黄金和白银挂钩的提案。"
+        },
+        {
+          "en": "In Ohio, legislation infused with religion has gained noticeable traction. The decades-old Center for Christian Virtue has notched \"lots\" of recent wins, President Aaron Baer says.",
+          "zh": "在俄亥俄州，充满宗教色彩的立法获得了显着的关注。具有数十年历史的基督教美德中心最近取得了“很多”胜利，主席亚伦·贝尔说。"
+        },
+        {
+          "en": "Aaron Baer, president of the Center for Christian Virtue, speaks during \"Prayer at the Statehouse\" in March.",
+          "zh": "基督教美德中心主席亚伦·贝尔 (Aaron Baer) 在三月份的“州议会祈祷”期间发表讲话。"
+        },
+        {
+          "en": "Maddie McGarvey for NPR",
+          "zh": "NPR 的麦迪·麦加维"
+        },
+        {
+          "en": "Maddie McGarvey for NPR",
+          "zh": "NPR 的麦迪·麦加维"
+        },
+        {
+          "en": "\"It's never us,\" Baer says. \"We don't have any votes, right? It's the lawmakers, but we worked with lawmakers on all of these issues.\"",
+          "zh": "“从来都不是我们，”贝尔说。 “我们没有任何选票，对吧？是立法者，但我们在所有这些问题上与立法者合作。”"
+        },
+        {
+          "en": "A few years ago, CCV bought a four-story building across the street from the Capitol.",
+          "zh": "几年前，CCV 购买了国会大厦街对面的一栋四层建筑。"
+        },
+        {
+          "en": "Under Baer, CCV looks at legislation across the board, branching out from standard religious right issues — against abortion, obscenity, gambling — into lobbying on a range of",
+          "zh": "在贝尔的领导下，CCV 着眼于全面立法，从标准的宗教权利问题（反对堕胎、淫秽、赌博）扩展到游说一系列问题"
+        }
+      ]
+    },
+    {
+      "title": "Iran says it targeted American base after fresh US strikes",
       "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
       "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-      "pubDate": "Thu, 28 May 2026 06:51:20 GMT",
+      "pubDate": "Thu, 28 May 2026 09:58:49 GMT",
       "source": "BBC News",
       "sourceColor": "#b80000",
-      "titleZh": "美国三天内第二次袭击伊朗目标",
+      "titleZh": "伊朗称在美国发动新一轮袭击后，其目标是美国基地",
       "summaryZh": "敌对行动发生在美国和伊朗之间脆弱的停火期间，并且为结束三个月的战争而进行了旷日持久的谈判。",
-      "contentParagraphs": [
-        {
-          "en": "Just nowSarah Smith,North America editor, Washington DCandNardine SaadUS Navy via Getty ImagesThe strikes come amid a fragile ceasefire and protracted negotiations to end the war, which began with the US and Israel striking Iran on 28 FebThe US military has carried out new strikes on Iran, targeting a military site in Bandar Abbas, a strategic port city. US Central Command (Centcom) said its forces also shot down four Iranian one-way attack drones \"that posed a threat around the Strait of Hormuz\".Iran's Islamic Revolutionary Guard Corps (IRGC) said it had retaliated by targeting a US air base, without providing details of the its location.Meanwhile, Kuwait's army said its air defences were intercepting \"hostile missile and drone threats\", but did not specify where they were coming from.The renewed hostilities threaten a fragile ceasefire between the US and Iran.It is the second time in three days that the US has attacked targets in Iran - saying that the strikes were conducted in self defence. The site in Bandar Abbas was struck as it was about to launch a fifth drone, Centcom said. Iranian media reported that explosions were heard to the east of the city. Centcom described its actions as \"measured, purely defensive, and intended to maintain the ceasefire\".Iran condemned the strikes as \"a grave violation of the ceasefire\" and vowed that the Iranian government \"will not leave any act of hostility unanswered.\"Earlier this week, the US confirmed a previous round of \"self-defence\" strikes on southern Iran on Monday in which they targeted Iranian missile sites and boats attempting to lay mines in the Strait, where thousands of commercial tanker ships are stranded as a result of the conflict.Centcom said those strikes were designed \"to protect our troops from threats posed by Iranian forces\".The US also imposed sanctions on the \"Persian Gulf Strait Authority\" – the Iranian body tasked with collecting payments from ships travelling through the Strait of Hormuz.Any ships that pay the authority could also be \"exposed to the risk of sanctions\", the US Treasury Department said in a statement.One-fifth of the world's liquefied natural gas and oil normally pass through the shipping channel, and its closure has impacted global fuel trade.Iran's foreign ministry spokesman Esmaeil Baqaei said on Monday that Tehran was collecting fees for \"navigational services\" and it would continue to manage traffic through the waterway.US Treasury Secretary Scott Bessent described it as the \"Iranian military's latest attempt to extort global maritime trade\" and \"proof\" Iran is \"desperate for cash\".The IRGC also said on Tuesday that it had downed a US drone and fired at a fighter jet and another drone that entered Iranian airspace, but did not specify when. Protracted negotiations have been taking place to end the three-month war that has choked traffic in the Strait of Hormuz and caused global energy prices to shoot up.During a cabinet meeting on Wednesday, US President Donald Trump said that Iran is \"negotiating on fumes\", insisting that his war strategy will not be impacted by November's US midterm elections.\"Maybe we have to go back and finish it, maybe we don't,\" he said. During that meeting, the president also urged Gulf nations to sign on to the Abraham Accords to normalise relations with Israel.Israel launched the war against Iran alongside the US on 28 February and is also embroiled in a war with Iranian-backed Hezbollah in Lebanon.Trump has threatened to resume a large-scale bombing campaign if Iran does not agree to his terms.While Trump struck an optimistic note over the weekend, saying that a peace deal with Iran had been \"largely negotiated\", by Wednesday's cabinet meeting, he said that the US is \"not satisfied\".He said Tehran was \"very much intent\" on reaching an agreement to end the conflict, but added \"so far they haven't gotten there\", repeating Washington's willingness to resume strikes if one is not reached.His remarks came after Iranian state TV reported what it said were details of a draft agreement, which included reopening the Strait of Hormuz and the withdrawal of US forces from the region.The White House branded the text a \"complete fabrication\".Both sides signalled progress had been made towards a deal late last week, prompting speculation an announcement was close.However, Tehran soon cautioned a deal was \"not imminent\" while Trump said he had instructed his negotiators \"not to rush into\" one.Speaking to reporters at a cabinet meeting on Wednesday, the US president said: \"They just want to make a deal - I don't think they have a choice.\"Trump also said: \"Iran is very much intent, they want very much to make a deal.\"So far, they haven't gotten there and we're not satisfied with it, but we will be. Either that or we'll have to just finish the job.\"More on this story",
-          "zh": "刚刚，华盛顿特区北美编辑莎拉·史密斯和纳丁·萨阿德美国海军通过盖蒂图片社报道，这次袭击是在脆弱的停火和结束战争的旷日持久的谈判中进行的。这场战争始于美国和以色列于 2 月 28 日袭击伊朗。美国军方对伊朗进行了新的袭击，目标是战略港口城市阿巴斯港的一个军事基地。美国中央司令部（Centcom）表示，其部队还击落了四架伊朗单向攻击无人机，“对霍尔木兹海峡周围构成威胁”。伊朗伊斯兰革命卫队（IRGC）表示，它以美国空军基地为目标进行报复，但没有提供其具体位置。与此同时，科威特军队表示，其防空系统正在拦截“敌对导弹和无人机威胁”，但没有具体说明它们来自何处。新一轮的敌对行动威胁着脆弱的伊朗。美国和伊朗之间停火。这是三天内第二次袭击伊朗目标，并称袭击是出于自卫。中央司令部表示，阿巴斯港的基地在准备发射第五架无人机时遭到袭击。伊朗媒体报道称，该市东部听到爆炸声。中央司令部将其行动描述为“有节制的、纯粹防御性的、旨在维持停火”。伊朗谴责此次袭击“严重违反停火协议”，并誓言伊朗政府“不会对任何敌对行为置之不理。”本周早些时候，美国确认周一对伊朗南部进行了上一轮“自卫”袭击，袭击目标是伊朗导弹基地和试图在海峡埋雷的船只，数千艘商业油轮被困在该海峡。美国中央司令部表示，这些袭击的目的是“保护我们的部队免受伊朗军队的威胁”。美国还对“波斯湾海峡管理局”实施制裁，该机构的任务是向通过霍尔木兹海峡的船只收取费用。美国财政部在一份声明中表示，任何向该机构付款的船只也可能“面临制裁的风险”。世界上五分之一的液化天然气和石油通常通过海运伊朗外交部发言人埃斯梅尔·巴卡伊周一表示，德黑兰正在收取“导航服务”费用，并将继续管理该航道的交通。美国财政部长斯科特·贝森特称这是“伊朗军方勒索全球海上贸易的最新企图”，并“证明”伊朗“急需现金”。伊朗革命卫队周二还表示，击落了一架美国无人机和向进入伊朗领空的一架战斗机和另一架无人机开火，但没有具体说明具体时间。为了结束三个月的战争，这场战争导致霍尔木兹海峡交通堵塞，并导致全球能源价格飙升。在周三的内阁会议上，美国总统唐纳德·特朗普表示，伊朗正在进行“毫无硝烟的谈判”，并坚称他的战争战略不会受到11月美国中期选举的影响。“也许我们必须回去完成它，也许我们不需要，”他说。在那次会议上，总统还敦促海湾国家签署《亚伯拉罕协议》，实现与以色列关系正常化。以色列于 2 月 28 日与美国一起对伊朗发动了战争，并卷入了与伊朗支持的黎巴嫩真主党的战争。特朗普威胁称，如果伊朗不同意他的条件，他将恢复大规模轰炸行动。虽然特朗普在周末发表了乐观的言论，称与伊朗的和平协议已经“基本通过谈判”，但在周三的内阁会议上，他表示美国“不满意”。他表示德黑兰“非常愿意”达成结束冲突的协议，但补充说“到目前为止他们还没有实现这一目标”，重申华盛顿愿意在达不成协议的情况下恢复打击。他发表此番言论之前，伊朗国家电视台报道了一份协议草案的细节，其中包括重新开放霍尔木兹海峡以及美军从该地区撤军。白宫称该文本是“完整的”双方均表示上周晚些时候在达成协议方面取得了进展，引发人们猜测宣布协议已接近完成。然而，德黑兰很快警告称，协议“不会很快达成”，而特朗普则表示，他已指示谈判代表“不要仓促达成”协议。美国总统在周三的内阁会议上对记者表示：“他们只是想达成协议 - 我认为他们别无选择。” 特朗普还表示：“伊朗非常有意愿，他们非常想要达成协议“到目前为止，他们还没有做到这一点，我们对此并不满意，但我们会的。要么这样，要么我们就必须完成这项工作。”更多关于这个故事的信息"
-        }
-      ]
-    },
-    {
-      "title": "Israel strikes southern Lebanon after evacuation orders",
-      "link": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it begins fresh strikes.",
-      "pubDate": "Thu, 28 May 2026 06:26:41 GMT",
-      "source": "BBC News",
-      "sourceColor": "#b80000",
-      "titleZh": "以色列在撤离令后袭击黎巴嫩南部",
-      "summaryZh": "军方表示，扎赫拉尼河以南地区现在已成为“战斗区”，因为他们开始了新的打击。",
       "contentParagraphs": []
     },
     {
-      "title": "Iranians are back online after a monthslong shutdown but face heavy restrictions",
-      "link": "https://www.npr.org/2026/05/28/g-s1-124610/iranians-back-online",
-      "summary": "Iranians began to regain internet access after authorities ended a monthslong shutdown. Users said service was slow and spotty in some areas, with apps like YouTube and Instagram heavily restricted.",
-      "pubDate": "Thu, 28 May 2026 02:07:38 -0400",
-      "source": "NPR",
-      "sourceColor": "#e57300",
-      "titleZh": "伊朗人在关闭一个月后重新上线，但面临严格限制",
-      "summaryZh": "当局结束长达数月的封锁后，伊朗人开始重新获得互联网接入。用户表示，某些地区的服务速度缓慢且不稳定，YouTube 和 Instagram 等应用程序受到严格限制。",
-      "contentParagraphs": [
-        {
-          "en": "A woman checks her smartphone while sitting on a bench along a sidewalk in northern Tehran, Iran, Tuesday, May 26, 2026.",
-          "zh": "2026 年 5 月 26 日星期二，伊朗德黑兰北部，一名妇女坐在人行道上的长凳上检查她的智能手机。"
-        },
-        {
-          "en": "CAIRO — Iranians began to regain internet access on Wednesday after authorities ended a monthslong shutdown. But users said service was slow and spotty in some areas, with apps like YouTube and Instagram heavily restricted, as they were before the cutoff began during nationwide protests in January.",
-          "zh": "开罗——在当局结束长达数月的封锁后，伊朗人于周三开始重新获得互联网接入。但用户表示，某些地区的服务速度缓慢且不稳定，YouTube 和 Instagram 等应用程序受到严格限制，就像 1 月份全国抗议期间服务中断之前一样。"
-        },
-        {
-          "en": "Authorities justified the outage as a military imperative after the United States and Israel attacked Iran on Feb. 28. Their decision to lift some restrictions this week came as negotiators appeared to be closing in on a more permanent truce. But many Iranians feared access could be cut off again at a moment's notice.",
-          "zh": "2 月 28 日美国和以色列袭击伊朗后，当局将此次停电视为军事需要。他们本周决定取消部分限制，此时谈判代表似乎正在接近达成更永久的休战协议。但许多伊朗人担心，访问可能会在接到通知后再次被切断。"
-        },
-        {
-          "en": "Internet tracking company Netblocks said Iran's connectivity, which measures the ability of devices to connect to the internet, is at around 86% of capacity from before the cutoff. Internet analysis firm Kentik said internet traffic, which measures the amount of data transferred and is a good illustration of usage, was at around 40%.",
-          "zh": "互联网跟踪公司 Netblocks 表示，伊朗的连接能力（衡量设备连接互联网的能力）目前约为断电前的 86%。互联网分析公司 Kentik 表示，互联网流量（衡量传输的数据量并很好地说明了使用情况）约为 40%。"
-        },
-        {
-          "en": "Amir Rashidi, an Iranian cybersecurity analyst, said there were still widespread disruptions. \"It's too early to say the shutdown is over,\" he wrote on X.",
-          "zh": "伊朗网络安全分析师阿米尔·拉希迪表示，仍然存在广泛的干扰。他在 X 上写道：“现在说关闭已经结束还为时过早。”"
-        },
-        {
-          "en": "An unprecedented shutdown",
-          "zh": "史无前例的停工"
-        },
-        {
-          "en": "Iran's roughly 90 million people have been cut off from the internet for most of 2026, one of the world's longest and strictest national shutdowns. Young people with online careers saw their incomes evaporate. Job losses and the closure of online businesses added to the war's steep economic costs.",
-          "zh": "2026 年的大部分时间里，伊朗约有 9000 万人无法使用互联网，这是世界上封锁时间最长、最严格的国家之一。从事在线职业的年轻人的收入蒸发了。失业和在线企业倒闭加剧了战争造成的高昂经济成本。"
-        },
-        {
-          "en": "The cutoff made it difficult for Iranian families to communicate through months of unrest and war. At some points, phone lines were also cut off, though they were later restored.",
-          "zh": "在数月的动乱和战争中，切断联系使伊朗家庭难以沟通。在某些时候，电话线也被切断，但后来又恢复了。"
-        },
-        {
-          "en": "A woman living in Tehran said that for months she was barely able to speak to her sons living abroad. She couldn't believe authorities had restored access, saying she had assumed they would find some justification to prolong the outage.",
-          "zh": "一位住在德黑兰的妇女说，几个月来她几乎无法与住在国外的儿子们说话。她不敢相信当局已经恢复了访问，并表示她以为他们会找到一些理由来延长停电时间。"
-        },
-        {
-          "en": "A taxi driver said service was restored but weak. He expressed hope it would improve so he could use messaging apps with family and friends. Both spoke on condition of anonymity for security reasons.",
-          "zh": "一名出租车司机表示，服务已经恢复，但很弱。他表示希望情况能有所改善，这样他就可以与家人和朋友使用消息应用程序。出于安全原因，两人都要求匿名。"
-        },
-        {
-          "en": "Prices spiked during the shutdown, with residents in Tehran at times paying around $7.50 per gigabyte. Prices are back down to around $2.25 for 30 gigabytes, roughly where they were before the protests.",
-          "zh": "关闭期间价格飙升，德黑兰居民有时每 GB 支付 7.5 美元左右。价格回落至 30 GB 2.25 美元左右，大致与抗议前的水平相同。"
-        },
-        {
-          "en": "Even then, Iran tightly controlled access to popular social media sites, leading many to rely on virtual private networks, or VPNs. The cost of those workarounds soared during the shutdown, making them unaffordable for many as the economy was battered.",
-          "zh": "即便如此，伊朗仍严格控制对流行社交媒体网站的访问，导致许多人依赖虚拟专用网络（VPN）。在政府关门期间，这些解决办法的成本飙升，在经济遭受重创的情况下，许多人都无力承担。"
-        },
-        {
-          "en": "A slow return to service",
-          "zh": "缓慢恢复服务"
-        },
-        {
-          "en": "Businesses have started reappearing online, announcing their return with posts on sites like Instagram and Telegram.",
-          "zh": "企业已开始重新出现在网上，并在 Instagram 和 Telegram 等网站上发布帖子宣布回归。"
-        },
-        {
-          "en": "A gamer and tech influencer in the central city of Isfahan said the shutdown had caused him to lose a lot of his audience on YouTube and Instagram, where he had spent years building up a large following.",
-          "zh": "中部城市伊斯法罕的一位游戏玩家和科技影响者表示，政府关闭导致他在 YouTube 和 Instagram 上失去了很多观众，而他多年来在 YouTube 和 Instagram 上积累了大批粉丝。"
-        },
-        {
-          "en": "\"All my views and interactions are way down. I've been erased from the algorithm,\" he said in a voice note sent by WhatsApp, adding that his internet connection was still slower than before the shutdown.",
-          "zh": "他在 WhatsApp 发送的语音留言中说：“我所有的观点和互动都大幅下降。我已被从算法中删除。”他补充说，他的互联网连接仍然比关闭前慢。"
-        },
-        {
-          "en": "\"The situation is such that many content producers have had their income reduced to zero, have moved on to other jobs, or have been forced to sell their equipment to survive,\" he said. He spoke on condition of anonymity for fear of reprisal.",
-          "zh": "他说：“目前的情况是，许多内容制作者的收入已降至零，要么转向其他工作，要么被迫出售设备以求生存。”由于担心遭到报复，他要求匿名。"
-        },
-        {
-          "en": "Iran claimed the shutdown was a wartime necessity",
-          "zh": "伊朗声称关闭是战时必要的"
-        },
-        {
-          "en": "Iranian authorities first shut down the internet in January during mass anti-government protests that were eventually stamped out in a violent crackdown. Thousands of people were killed and tens of thousands detained.",
-          "zh": "伊朗当局在一月份大规模反政府抗议活动期间首次关闭了互联网，抗议活动最终在暴力镇压中被平息。数千人被杀，数万人被拘留。"
-        },
-        {
-          "en": "That cutoff was just starting to ease when the government imposed a complete internet blackout after the start of the war, when U.S. and Israeli strikes killed Iran's supreme leader and other top officials.",
-          "zh": "战争开始后，当美国和以色列的袭击杀死了伊朗最高领导人和其他高级官员时，政府实施了全面的互联网封锁，这种封锁才刚刚开始缓解。"
-        },
-        {
-          "en": "The government faced criticism for the prolonged shutdown, which caused even more harm to an economy devastated by inflation, strikes on key industries and a U.S. blockade on Iranian ports.",
-          "zh": "政府因长期关闭而面临批评，这对因通货膨胀、关键行业罢工和美国封锁伊朗港口而遭受重创的经济造成了更大的伤害。"
-        },
-        {
-          "en": "The internet cutoff cost an estimated $30-40 million daily, with indirect losses likely twice that much, a member of Iran's Chamber of Commerce, Afshin Kolahi, told a local newspaper last month. About 10 million people have jobs that depend on internet connectivity, according to Communications Minister Sattar Hashemi.",
-          "zh": "伊朗商会成员阿夫辛·科拉希 (Afshin Kolahi) 上个月对当地一家报纸表示，互联网中断每天造成的损失估计为 30-4000 万美元，间接损失可能是这个数字的两倍。据通讯部长萨塔尔·哈希米 (Sattar Hashemi) 称，大约有 1000 万人的工作依赖于互联网连接。"
-        },
-        {
-          "en": "Iranians still had access to a national net, but that has a far narrower reach, and users complained of poor service and heavy censorship. Senior government officials are given SIM cards granting them access to the global internet. Under pressure, the government expanded access to the SIM cards to some professions during the shutdown.",
-          "zh": "伊朗人仍然可以访问全国网络，但覆盖范围要小得多，用户抱怨服务质量差和审查制度严格。政府高级官员获得 SIM 卡，可以访问全球互联网。迫于压力，政府在停工期间将 SIM 卡的使用范围扩大到了一些职业。"
-        }
-      ]
-    },
-    {
-      "title": "Happy, who taught researchers that elephants can recognize themselves, is euthanized",
-      "link": "https://www.npr.org/2026/05/28/nx-s1-5837163/happy-elephant-euthanized",
-      "summary": "Happy, a Bronx Zoo elephant who gave researchers new insight into the animal's behavior and became the crux of a closely watched animal rights case, has been euthanized at age 55.",
-      "pubDate": "Thu, 28 May 2026 01:56:33 -0400",
-      "source": "NPR",
-      "sourceColor": "#e57300",
-      "titleZh": "哈皮（Happy）曾教导研究人员大象可以认出自己，却被安乐死",
-      "summaryZh": "布朗克斯动物园的大象哈皮 (Happy) 在 55 岁时被安乐死，它让研究人员对动物的行为有了新的认识，并成为备受关注的动物权利案件的关键。",
-      "contentParagraphs": [
-        {
-          "en": "Bronx Zoo elephant \"Happy\" strolls inside the zoo's Asia Habitat in New York, Oct. 2, 2018.",
-          "zh": "2018 年 10 月 2 日，纽约布朗克斯动物园的大象“快乐”在动物园的亚洲栖息地内漫步。"
-        },
-        {
-          "en": "NEW YORK — Happy, a Bronx Zoo elephant who gave researchers new insight into the animal's behavior and became the crux of a closely watched animal rights case, has been euthanized at age 55, the zoo said Wednesday.",
-          "zh": "纽约——布朗克斯动物园的一头大象哈皮 (Happy) 周三表示，它已于 55 岁被安乐死，它让研究人员对动物的行为有了新的认识，并成为备受关注的动物权利案件的关键。"
-        },
-        {
-          "en": "The Asian elephant was put to sleep Tuesday at the zoo where she lived for almost a half-century. Zoo officials said some age-related conditions accelerated in recent weeks, and she showed signs of a falloff in kidney or liver function. A necropsy revealed arthritis and large, inoperable uterine tumors that are impossible to diagnose in elephants through exams or imaging, the zoo said.",
-          "zh": "周二，这头亚洲象在她生活了近半个世纪的动物园里被安乐死。动物园官员表示，最近几周，一些与年龄相关的病症加速了，她出现了肾功能或肝功能下降的迹象。动物园表示，尸检显示大象患有关节炎和巨大的、无法手术的子宫肿瘤，这些肿瘤不可能通过检查或成像来诊断。"
-        },
-        {
-          "en": "\"She was a wonderful elephant,\" interim zoo director Craig Piper said in an interview Wednesday, as heavy-hearted staffers absorbed the loss of an animal some had tended for over 30 years. \"She served as a tremendous ambassador for elephants and for elephant conservation.\"",
-          "zh": "动物园临时园长克雷格·派珀 (Craig Piper) 在周三接受采访时表示：“她是一头很棒的大象。”工作人员心情沉重，正在承受失去这只大象的痛苦，有些人已经照顾了 30 多年。 “她是大象和大象保护的杰出大使。”"
-        },
-        {
-          "en": "Since Happy's death, the zoo's 57-year-old Patty is the last elephant on exhibit in the United States' largest city. The zoo's parent institution, the Wildlife Conservation Society, decided 20 years ago to stop acquiring pachyderms.",
-          "zh": "哈皮去世后，动物园 57 岁的帕蒂是美国最大城市展出的最后一头大象。该动物园的上级机构野生动物保护协会 20 年前决定停止收购厚皮类动物。"
-        },
-        {
-          "en": "Born in the wild in Asia, Happy was brought to the U.S. as a 1-year-old. She was named for a character from \"Snow White and the Seven Dwarfs\" before arriving at the zoo in 1977.",
-          "zh": "Happy 出生在亚洲的野外，一岁时被带到美国。她于 1977 年来到动物园之前，以《白雪公主和七个小矮人》中的一个角色命名。"
-        },
-        {
-          "en": "Happy keenly engaged with her keepers and was easy to motivate with favorite treats, such as watermelon or strawberries, said Keith Lovett, the zoo's director of animal programs. Piper said she sometimes stashed treats in her ear to save for later.",
-          "zh": "动物园动物项目主任基思·洛维特 (Keith Lovett) 表示，哈皮与饲养员的互动非常积极，而且很容易通过西瓜或草莓等最喜欢的食物来激励它。派珀说，她有时会在耳边藏一些零食以备后用。"
-        },
-        {
-          "en": "In 2005, she showed researchers that elephants can recognize themselves in a mirror — a sign of self-awareness seen in only a few other species. During the experiment, Happy faced her reflection and repeatedly used her trunk to touch an \"X\" painted above her eye, a mark she could see only in the mirror.",
-          "zh": "2005年，她向研究人员展示大象可以在镜子中认出自己——这是只有少数其他物种才能看到的自我意识的标志。在实验过程中，哈皮面对着自己的倒影，反复用她的鼻子触摸她眼睛上方画的“X”，这是她只能在镜子中看到的标记。"
-        },
-        {
-          "en": "She was paired with other elephants until her last partner died in 2006. Happy then lived separately from Patty and a third elephant out of concern that they wouldn't get along, though Lovett said the animals could see, smell and touch each other over a divider. The third elephant, called Maxine, died in 2018.",
-          "zh": "她一直与其他大象配对，直到她的最后一个伙伴于 2006 年去世。随后，哈皮与帕蒂和第三头大象分开居住，因为担心它们无法相处，尽管洛维特说这些动物可以通过隔板看到、闻到和触摸彼此。第三头大象名叫玛克辛（Maxine），于 2018 年去世。"
-        },
-        {
-          "en": "Zoo officials said the median life expectancy for Asian elephants in U.S. zoos is about 45 years. Their life expectancy in the wild is more difficult to pinpoint.",
-          "zh": "动物园官员表示，美国动物园中亚洲象的平均预期寿命约为 45 岁。它们在野外的预期寿命更难以确定。"
-        },
-        {
-          "en": "During Happy's lifetime, zoo elephant exhibits came under increased scrutiny. Some experts said urban animal parks were too small for creatures that roam extensive distances in the wild. Animal rights activists argued that zoo enclosures were no place for big-brained, social pachyderms.",
-          "zh": "在哈皮的一生中，动物园的大象展览受到了越来越严格的审查。一些专家表示，城市动物园对于在野外漫游的动物来说太小了。动物权利活动人士认为，动物园围栏不适合大大脑、群居性厚皮动物。"
-        },
-        {
-          "en": "Some zoos phased out their exhibits and sent elephants to sanctuaries, though some other zoos remain committed to keeping and breeding the creatures, arguing that they help keep people interested in saving wildlife.",
-          "zh": "一些动物园逐步取消了展览，并将大象送往保护区，但其他一些动物园仍然致力于饲养和繁殖这些动物，认为它们有助于保持人们对拯救野生动物的兴趣。"
-        },
-        {
-          "en": "One activist group, the Nonhuman Rights Project, sued the Bronx Zoo in 2018, seeking to have Happy declared a \"person\" for legal purposes and moved to a large animal sanctuary. It was the first such case about an elephant, according to the group.",
-          "zh": "一个名为“非人权项目”的活动组织于 2018 年起诉布朗克斯动物园，寻求让哈皮出于合法目的宣布为“人”，并搬到一个大型动物保护区。据该组织称，这是第一起有关大象的此类案件。"
-        },
-        {
-          "en": "Citing a principle that's used to challenge the legality of a person's imprisonment, the activist group said Happy was \"an extraordinarily cognitively complex and autonomous nonhuman being\" who was unlawfully deprived of her liberty and suffered from being pent up in a exhibit without other elephants.",
-          "zh": "该活动组织引用了一项用于质疑监禁合法性的原则，称哈皮是“一个认知极其复杂且具有自主性的非人类”，她被非法剥夺了自由，并因被关在没有其他大象的展览中而遭受痛苦。"
-        },
-        {
-          "en": "Zoo officials said Happy was assiduously cared for and had space for swimming, foraging and other natural behavior. Uprooting her from her longtime home could harm her, the zoo said.",
-          "zh": "动物园官员表示，哈皮受到精心照顾，并有空间进行游泳、觅食和其他自然行为。动物园表示，将她从长期居住的家中赶走可能会伤害她。"
-        },
-        {
-          "en": "New York's top court ultimately rejected the activists' claim, by a 5-2 majority. Colorado's highest court later issued a similar ruling about five elephants in a zoo there.",
-          "zh": "纽约最高法院最终以 5 比 2 的多数驳回了活动人士的诉讼请求。科罗拉多州最高法院后来对该动物园的五头大象做出了类似的裁决。"
-        },
-        {
-          "en": "Still, two of the New York high court judges wrote pointed dissents. One called Happy's captivity \"inherently unjust and inhumane\" and \"an affront to a civilized society.\"",
-          "zh": "尽管如此，纽约高等法院的两名法官仍然提出了尖锐的异议。有人称哈皮的囚禁“本质上是不公正和不人道的”，是“对文明社会的侮辱”。"
-        },
-        {
-          "en": "The Nonhuman Rights Project has continued pursuing cases about elephants in various other states.",
-          "zh": "非人权项目继续在其他各州追查有关大象的案件。"
-        },
-        {
-          "en": "Happy spent her final weeks, by her choice, in an off-exhibit barn and yard within her enclosure, Piper said. In a zoo version of hospice care, staffers provided hydration, nutrition and pain management, he said.",
-          "zh": "派珀说，根据她的选择，哈皮在她的围栏内的一个非展览谷仓和院子里度过了她的最后几周。他说，在动物园版的临终关怀中，工作人员提供水合作用、营养和疼痛管理。"
-        },
-        {
-          "en": "Meanwhile, Patty is doing well, the zoo said.",
-          "zh": "动物园表示，与此同时，帕蒂状况良好。"
-        },
-        {
-          "en": "The Wildlife Conservation Society said in 2006 that once there was only one elephant, the animal might be moved to another zoo if circumstances were right. Piper said the zoo will be \"really thoughtful and careful\" in contemplating whether to move Patty from her home of 53 years.",
-          "zh": "野生动物保护协会在2006年表示，一旦只有一头大象，如果情况合适，它可能会被转移到另一个动物园。派珀表示，动物园在考虑是否将帕蒂从她居住了 53 年的家搬走时，将会“非常周到和谨慎”。"
-        }
-      ]
-    },
-    {
-      "title": "Ex-CIA official charged with stealing millions of dollars in gold bars",
-      "link": "https://www.npr.org/2026/05/28/nx-s1-5837160/ex-cia-official-stealing-gold-bars",
-      "summary": "A former senior CIA official with top secret-level clearance is accused of stealing hundreds of gold bars worth more than $40 million from the federal government and stashing them in his home.",
-      "pubDate": "Thu, 28 May 2026 01:38:46 -0400",
-      "source": "NPR",
-      "sourceColor": "#e57300",
-      "titleZh": "前中央情报局官员被控盗窃数百万美元的金条",
-      "summaryZh": "一名拥有绝密级别权限的前中央情报局高级官员被指控从联邦政府窃取了数百根价值超过 4000 万美元的金条，并将其藏在家中。",
-      "contentParagraphs": [
-        {
-          "en": "The seal of the Central Intelligence Agency is displayed at CIA headquarters in Langley, Va., April 13, 2016.",
-          "zh": "2016 年 4 月 13 日，中央情报局的印章陈列在弗吉尼亚州兰利的中央情报局总部。"
-        },
-        {
-          "en": "A former senior CIA official with top secret-level clearance is accused of stealing hundreds of gold bars worth more than $40 million from the federal government and stashing them in his home.",
-          "zh": "一名拥有绝密级别权限的前中央情报局高级官员被指控从联邦政府窃取了数百根价值超过 4000 万美元的金条，并将其藏在家中。"
-        },
-        {
-          "en": "David Rush was arrested and charged with criminal theft of public money last week, according to federal court filings in Virginia, where he lives.",
-          "zh": "根据戴维·拉什所居住的弗吉尼亚州联邦法院的文件，他上周被捕并被指控盗窃公共资金。"
-        },
-        {
-          "en": "From November to March, Rush requested and received a \"significant quantity of foreign currency and tens of millions of dollars in gold bars for work-related expenses,\" according to an affidavit from an FBI agent investigating the case.",
-          "zh": "根据调查此案的联邦调查局特工的一份证词，从 11 月到 3 月，拉什要求并收到“大量外币和数千万美元的金条，用于与工作相关的费用”。"
-        },
-        {
-          "en": "The affidavit says its unclear what Rush intended to use the funds for, but that a portion of it was found in a storage space near his office.",
-          "zh": "证词称，目前尚不清楚拉什打算将这些资金用于什么用途，但其中一部分是在他办公室附近的储藏室中发现的。"
-        },
-        {
-          "en": "Federal officials searched his home on May 18 and seized more than 300 gold bars with an estimated value of more than $40 million, according to the affidavit. They also seized roughly $2 million in U.S. currency and some 35 luxury watches, many of them Rolexes. Rush was arrested the next day, the FBI said.",
-          "zh": "证词称，联邦官员于 5 月 18 日搜查了他的家，查获了 300 多根金条，估计价值超过 4000 万美元。他们还查获了约 200 万美元的美元和约 35 块豪华手表，其中许多是劳力士手表。联邦调查局称，拉什第二天被捕。"
-        },
-        {
-          "en": "The FBI affidavit concludes that there's probable cause to believe that Rush \"knowingly embezzled, stole, purloined, or knowingly converted a thing of value of the United States\" for his personal use.",
-          "zh": "联邦调查局宣誓书的结论是，有可能有理由相信拉什“故意贪污、偷窃、盗窃或故意转换美国有价值的物品”供个人使用。"
-        },
-        {
-          "en": "The FBI said it was working with the CIA and Department of Justice in its investigation.",
-          "zh": "联邦调查局表示正在与中央情报局和司法部合作进行调查。"
-        },
-        {
-          "en": "Rush's lawyer declined to comment Wednesday.",
-          "zh": "拉什的律师周三拒绝发表评论。"
-        },
-        {
-          "en": "It's not clear what role Rush had at the CIA or when he left the agency. He's described in court filings simply as a \"former senior executive service-level employee at a United States government agency.\" Spokespersons for the FBI declined to comment further, and the CIA didn't respond to an email.",
-          "zh": "目前尚不清楚拉什在中央情报局担任什么职务，也不清楚他何时离开该机构。在法庭文件中，他被简单地描述为“美国政府机构的前高级管理服务级雇员”。联邦调查局发言人拒绝进一步置评，中央情报局也没有回复电子邮件。"
-        },
-        {
-          "en": "The FBI affidavit also notes that Rush appears to have lied for years about his education and military background. The bureau's investigation found he had falsely claimed to be a Navy pilot and that he'd graduated from Clemson University in South Carolina and Rensselaer Polytechnic Institute in New York.",
-          "zh": "联邦调查局的证词还指出，拉什似乎多年来一直在其教育和军事背景方面撒谎。该局的调查发现，他谎称自己是一名海军飞行员，并毕业于南卡罗来纳州克莱姆森大学和纽约伦斯勒理工学院。"
-        },
-        {
-          "en": "Instead, they found he had enlisted in the Navy in 1997 and then served in the U.S. Navy Reserves from 2004 until 2015, when he was honorably discharged as a lieutenant. The affidavit states he does not appear to have underwent any evaluations as a pilot during that time, and he did not attend either college.",
-          "zh": "相反，他们发现他于 1997 年入伍，然后从 2004 年到 2015 年在美国海军预备役服役，并于 2015 年以中尉身份光荣退役。宣誓书称，在那段时间里，他似乎没有接受过任何作为飞行员的评估，也没有上过任何一所大学。"
-        },
-        {
-          "en": "Rush is being held in custody pending a hearing Friday in federal court in Alexandria, Virginia.",
-          "zh": "拉什目前被拘留，等待周五在弗吉尼亚州亚历山大联邦法院举行的听证会。"
-        }
-      ]
-    },
-    {
-      "title": "Ebola outbreak: What travel restrictions have countries imposed?",
-      "link": "https://www.aljazeera.com/news/2026/5/28/ebola-outbreak-what-travel-restrictions-have-countries-imposed?traffic_source=rss",
-      "summary": "Some countries ban arrivals from affected countries while others step up screening to contain rare strain.",
-      "pubDate": "Thu, 28 May 2026 05:25:58 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "埃博拉疫情：各国实施了哪些旅行限制？",
-      "summaryZh": "一些国家禁止来自受影响国家的入境，而另一些国家则加强筛查以遏制罕见病毒。",
-      "contentParagraphs": [
-        {
-          "en": "The latest outbreak of a rare strain of the Ebola virus in the Democratic Republic of the Congo (DRC) and Uganda has prompted several governments to take action in a bid to stop the spread of the disease.The World Health Organization (WHO) has recorded 220 suspected deaths and 900 suspected cases of the lethal Bundibugyo (BVD) strain of Ebola in DRC since Kinshasa declared the outbreak on May 15. In Uganda, five cases and one death have been confirmed.Recommended Stories list of 3 itemslist 1 of 3Attacks on Ebola centres intensify in eastern DRC amid outbreak fearslist 2 of 3Ebola spreads in the DRC as authorities struggle to contain outbreaklist 3 of 3How did a rare strain of Ebola outrun doctors?end of listThe United Nations health agency raised its risk assessment from high to very high at the national level for DRC last week, but continues to assess the risk as low at the global level.Nevertheless, several countries have announced travel bans and temporary border measures to contain the spread of the new strain.Efforts to contain the virus in affected countriesThis week, the Congolese Ministry of Transport and Communications suspended all flights to and from Bunia in eastern DRC in an attempt to contain the Ebola outbreak. The Bunia health zone is one of 11 DRC health zones affected by the disease. Some exceptions, such as humanitarian, medical and emergency flights, may be allowed with special approval from aviation and health authorities.Uganda has also introduced restrictions on travel to and from the DRC. All direct flights have been suspended, while bus and boat border crossings have been halted for four weeks. Weekly markets in border districts have been put on hold. Freight traffic, essential goods and food supplies, however, are still permitted to cross.Countries imposing travel bansBeyond the immediate affected region, Canada and the Bahamas said they would temporarily ban residents of the DRC, Uganda and South Sudan from entering.Residents from those countries will be unable to travel to Canada for 90 days from Wednesday, the government said. Canadian citizens, permanent residents and other foreign nationals who have been in affected areas in recent weeks must quarantine for 21 days from May 30, even if they do not show symptoms, Canada’s public health agency said.The Bahamian government said entry restrictions would take immediate effect and remain in place for a period of 30 days, subject to review by the Caribbean country’s health ministry.Last week, the United States banned all non-citizens who had travelled to the DRC, Uganda or South Sudan in the previous 21 days from entering the country. On Friday, the Centers for Disease Control and Prevention (CDC) extended the ban to green card holders who have been in those countries in the previous 21 days.US citizens who have travelled to affected countries have been told to return to the US via selected airports equipped with enhanced screening. These are Washington Dulles International Airport (IAD) for flights to the US departing after May 21, 2026; Hartsfield-Jackson Atlanta International Airport (ATL) for flights after May 22; and George Bush Intercontinental Airport, (IAH), Houston, for flights departing after May 26.The Wall Street Journal has reported that the Trump administration is expected to deploy US public ⁠health officers to ⁠Kenya to staff a potential quarantine facility, intended for Americans who have been exposed to or are at high ⁠risk of testing positive for the virus in the region, as well as for those who have already tested positive.Jordan suspended the entry of people arriving from the DRC and Uganda on May 19, according to the Jordanian state news agency. The same day, Bahrain, too, suspended the entry of foreign travellers arriving from South Sudan, the DRC and Uganda for 30 days.No Ebola cases have been recorded in Canada, the Bahamas, the US, Jordan or Bahrain.Countries stepping up screeningIndia has set up additional screening measures at major international airports, apart from issuing travel advisories asking its citizens to avoid visiting the DRC, Uganda and South Sudan.New Delhi has also postponed an India-Africa summit it was scheduled to host this week, and called off a meeting of the International Big Cat Alliance, an India-led grouping of 95 nations that collaborate in the conservation of seven principal big cat species: tiger, lion, leopard, snow leopard, cheetah, jaguar, and puma. Many of the members of the alliance are from Africa.Thailand has announced that visitors from the DRC and Uganda will only be allowed to enter from Bangkok’s Suvarnabhumi Airport, after testing negative during screening on arrival.On Monday, Mexico’s health secretary also announced increased Ebola screening at airports.Will these measures stop the spread of the virus?The Bundibugyo strain is a rare, highly fatal species of the Ebola virus, which causes severe viral haemorrhagic fever. It spreads through close physical contact with the blood or bodily fluids of an infected or deceased person, as well as via contaminated objects. Therefore, measures limiting contact provide an effective way of containing infections.At the national level in the DRC and Uganda, WHO Director-General Tedros Adhanom Ghebreyesus this week said the response included contact tracing, establishing treatment centres, and infection prevention and control.However, “the delay in detecting the outbreak means that we are now playing catch-up with a very fast-moving epidemic”. “We are urgently scaling up operations, but at the moment, the epidemic is outpacing us,” he said.“But we know this virus, and we know how to stop it,” Tedros added. “We have stopped every previous Ebola outbreak, and we will stop this one, too.”Is air travel safe?The United Nations has called on airlines and governments to stick strictly to protocols established by the International Civil Aviation Organization (ICAO) during the global COVID-19 pandemic. These include usin",
-          "zh": "刚果民主共和国（刚果）和乌干达最近爆发了一种罕见的埃博拉病毒株，促使多国政府采取行动，以阻止该疾病的传播。自金沙萨于 5 月 15 日宣布爆发埃博拉病毒以来，世界卫生组织（WHO）已记录刚果民主共和国有 220 例疑似死亡病例和 900 例致命的本迪布焦（BVD）埃博拉病毒株疑似病例。在乌干达，已报告 5 例病例和 1 例死亡。已确认。推荐故事清单 3 项清单 1（共 3）埃博拉中心的袭击在疫情爆发的恐惧中加剧，刚果民主共和国东部埃博拉中心的袭击加剧清单 2（共 3）埃博拉在刚果民主共和国蔓延，当局努力控制疫情清单 3（共 3）一种罕见的埃博拉病毒株是如何超越医生的？清单结束联合国卫生机构上周将刚果民主共和国的风险评估从“高”提高到“非常高”，但继续将全球风险评估为“低”尽管如此，一些国家已经宣布了旅行禁令和临时边境措施，以遏制新毒株的传播。在受影响国家遏制病毒的努力本周，刚果交通和通讯部暂停了所有往返刚果民主共和国东部布尼亚的航班，试图遏制埃博拉疫情。布尼亚卫生区是刚果民主共和国受该疾病影响的 11 个卫生区之一。一些例外情况，例如人道主义、医疗和紧急航班，在获得航空和卫生当局的特别批准后可能会被允许。乌干达还对往返刚果民主共和国的旅行实施了限制。所有直飞航班均已暂停，巴士和船只过境也已暂停四个星期。边境地区的每周集市已暂停。不过，货运、必需品和食品供应仍被允许过境。实施旅行禁令的国家除了直接受影响的地区外，加拿大和巴哈马表示，将暂时禁止刚果民主共和国、乌干达和南苏丹的居民入境。政府表示，从周三开始，这些国家的居民将在 90 天内无法前往加拿大。加拿大公共卫生机构表示，最近几周去过受影响地区的加拿大公民、永久居民和其他外国人，即使没有表现出症状，也必须从5月30日起隔离21天。巴哈马政府表示，入境限制将立即生效，并持续30天，但须接受加勒比国家卫生部的审查。上周，美国禁止所有在过去一段时间前往刚果民主共和国、乌干达或南苏丹的非公民。入境后21天。周五，美国疾病控制与预防中心 (CDC) 将禁令范围扩大到过去 21 天内去过这些国家的绿卡持有者。 曾前往受影响国家的美国公民已被告知通过选定的配备强化筛查的机场返回美国。这些是华盛顿杜勒斯国际机场 (IAD)，适用于 2026 年 5 月 21 日之后出发飞往美国的航班；亚特兰大哈茨菲尔德-杰克逊国际机场 (ATL) 5 月 22 日之后的航班；以及休斯敦乔治布什洲际机场 (IAH)，适用于 5 月 26 日之后出发的航班。《华尔街日报》报道称，特朗普政府预计将向肯尼亚派遣美国公共卫生官员，为一个潜在的检疫设施配备人员，该设施旨在接待那些在该地区接触过病毒或检测呈阳性的高风险的美国人，以及那些已经检测呈阳性的人。约旦于 5 月 19 日暂停了来自刚果民主共和国和乌干达的人员入境，据约旦国家通讯社报道。同一天，巴林也暂停来自南苏丹、刚果民主共和国和乌干达的外国旅客入境，为期30天。加拿大、巴哈马、美国、约旦和巴林均未出现埃博拉病例。各国加强筛查。除了发布旅行警告，要求本国公民避免前往刚果民主共和国、乌干达和南苏丹外，印度还在主要国际机场设立了额外的筛查措施。新德里还推迟了原定举办的印非峰会本周，并取消了国际大型猫科动物联盟的会议，该联盟由印度领导，由 95 个国家组成，合作保护七种主要大型猫科动物：老虎、狮子、豹子、雪豹、猎豹、美洲虎和美洲狮。该联盟的许多成员都来自非洲。泰国宣布，来自刚果民主共和国和乌干达的游客在抵达时筛查结果呈阴性后，只允许从曼谷素万那普机场入境。周一，墨西哥卫生部长还宣布加强机场埃博拉筛查。这些措施会阻止病毒传播吗？本迪布焦毒株是埃博拉病毒中一种罕见的、高度致命的病毒，会导致严重的病毒性出血热。它通过与感染者或死者的血液或体液的密切身体接触以及通过受污染的物体传播。因此，限制接触的措施提供了遏制感染的有效方法。在刚果民主共和国和乌干达国家层面，世卫组织总干事谭德塞本周表示，应对措施包括追踪接触者、建立治疗中心以及感染预防和控制。然而，“疫情检测的延迟意味着我们现在正在追赶一种非常快速发展的流行病”。他说：“我们正在紧急扩大行动规模，但目前疫情的发展速度已经超过了我们。”谭德塞补充说：“但我们了解这种病毒，也知道如何阻止它。” “我们已经阻止了之前的每一次埃博拉疫情爆发，我们也将阻止这一次。” 航空旅行安全吗？联合国呼吁航空公司和各国政府严格遵守国际民航组织 (ICAO) 在全球 COVID-19 大流行期间制定的协议。这些包括使用"
-        }
-      ]
-    },
-    {
-      "title": "Ghana welcomes home citizens evacuated from South Africa",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/ghana-welcomes-home-citizens-evacuated-from-south-africa?traffic_source=rss",
-      "summary": "The first flight carrying around 300 Ghanaians evacuated from South Africa following anti-immigrant tensions.",
-      "pubDate": "Thu, 28 May 2026 04:56:36 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "加纳欢迎从南非撤离的公民回国",
-      "summaryZh": "由于反移民紧张局势，第一架载有约 300 名加纳人的航班从南非撤离。",
-      "contentParagraphs": [
-        {
-          "en": "Ghana welcomes home citizens evacuated from South AfricaNewsFeedThe first flight carrying around 300 Ghanaians evacuated from South Africa following anti-immigrant tensions and reported attacks on foreign nationals has arrived in Accra. Authorities welcomed returnees with reintegration support and transport assistance.Published On 28 May 2026",
-          "zh": "加纳欢迎从南非撤离的回国公民新闻提要 首架载有约 300 名加纳人的航班已抵达阿克拉，该航班因反移民紧张局势和据报道的外国人袭击事件而从南非撤离。当局为返回者提供重返社会支持和交通援助。发布于 2026 年 5 月 28 日"
-        }
-      ]
-    },
-    {
-      "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
-      "link": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-      "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
-      "pubDate": "Thu, 28 May 2026 04:53:51 GMT",
+      "title": "Sixteen pupils killed in Kenya school fire",
+      "link": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
+      "pubDate": "Thu, 28 May 2026 09:57:26 GMT",
       "source": "BBC News",
       "sourceColor": "#b80000",
-      "titleZh": "吉尔·拜登表示，她认为丈夫在 2024 年辩论中中风了",
-      "summaryZh": "这位美国前第一夫人告诉哥伦比亚广播公司新闻，她对乔·拜登对阵唐纳德·特朗普的表现感到害怕。",
+      "titleZh": "肯尼亚学校火灾 16 名学生丧生",
+      "summaryZh": "火灾还造成数十人受伤，目前起火原因尚不清楚。",
       "contentParagraphs": []
-    },
-    {
-      "title": "Australia charges woman who returned from Syria with joining Islamic State",
-      "link": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several groups of women and children who spent years in a Syrian camp have returned in recent months.",
-      "pubDate": "Thu, 28 May 2026 04:01:17 GMT",
-      "source": "BBC News",
-      "sourceColor": "#b80000",
-      "titleZh": "澳大利亚指控从叙利亚返回的妇女加入伊斯兰国",
-      "summaryZh": "近几个月来，几批在叙利亚难民营度过数年的妇女和儿童已经返回。",
-      "contentParagraphs": []
-    },
-    {
-      "title": "Google employee charged with insider trading over Polymarket bets",
-      "link": "https://www.aljazeera.com/news/2026/5/28/google-employee-charged-with-insider-trading-over-polymarket-bets?traffic_source=rss",
-      "summary": "Michele Spagnuolo allegedly used insider information to profit from bets on people on Google's most-searched list.",
-      "pubDate": "Thu, 28 May 2026 02:25:28 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "谷歌员工因 Polymarket 押注被控内幕交易",
-      "summaryZh": "米歇尔·斯帕格努洛 (Michele Spagnuolo) 涉嫌利用内幕信息从对谷歌搜索次数最多的名单上的人物进行投注中获利。",
-      "contentParagraphs": [
-        {
-          "en": "Michele Spagnuolo allegedly used insider information to profit from bets on people on Google’s most-searched list.A Google software engineer has been charged with fraud by US authorities after allegedly using insider information to win more than $1.2m in bets on the prediction market platform Polymarket.Michele Spagnuolo, an Italian citizen residing in Switzerland, is accused of using confidential information to wager on the results of Google’s annual most-searched list, according to a criminal complaint unsealed on Wednesday.Recommended Stories list of 3 itemslist 1 of 3Iran war’s big winners: Wall Street, weapons firms, AI and green energylist 2 of 3Gamblers make big profits on Iran strikes, raising insider trading concernslist 3 of 3Would you bet on the next disaster? The rise of prediction marketsend of listUS prosecutors accuse Spagnuolo of using an account named “AlphaRaccoon” to make trades on various markets linked to the results of Google’s 2025 Year in Search.The total sum of the bets was approximately $2.75m, according to the complaint, filed in federal court in New York.Among the bets, Spagnuolo successfully predicted that indie pop musician d4vd would top the list for the most-searched for person last year, hours after accessing confidential data at Google, according to prosecutors.Spagnuolo, 36, faces charges of commodities fraud, wire fraud and money laundering.“Today’s charges reinforce a decades-old message: corporate insiders cannot use confidential business information to turn a profit in our markets,” US Attorney for the Southern District of New York Jay Clayton said in a statement.“Insider trading compromises the integrity of our markets, and the American people want this greed-driven conduct investigated and prosecuted,” Clayton added.Bets on Maduro’s captureGoogle said in a statement that it is working with law enforcement and that using confidential information to place bets is a serious breach of company policy.Spagnuolo has been placed on leave, according to a Google spokesperson.A Polymarket spokesperson said the company had worked closely with the US Attorney’s Office on the investigation and that the firm “is the only prediction platform to date whose cooperation has led to insider trading charges in the United States”.“We are committed to maintaining accurate, fair, and transparent markets as well as enforcing our rules and working with our regulators and law enforcement,” the spokesperson added.Last month, a US soldier was charged with using classified military information to place bets on Polymarket regarding the abduction of Venezuelan President Nicolas Maduro.Prosecutors accuse Gannon Ken Van Dyke, 38, of cashing in on the US operation against Maduro, to the tune of more than $400,000.",
-          "zh": "米歇尔·斯帕格努洛 (Michele Spagnuolo) 涉嫌利用内幕信息从对谷歌搜索次数最多的名单上的人物的投注中获利。一名谷歌软件工程师因涉嫌利用内幕信息在预测市场平台 Polymarket 上赢得超过 120 万美元的投注而被美国当局指控犯有欺诈罪。根据一份未密封的刑事起诉书，居住在瑞士的意大利公民米歇尔·斯帕格努洛 (Michele Spagnuolo) 被指控使用机密信息对谷歌年度搜索次数最多的名单的结果进行投注周三。推荐故事列表 3 项列表 3 项中的 1 项伊朗战争大赢家：华尔街、武器公司、人工智能和绿色能源列表 3 项中的 2 项赌徒在伊朗袭击中赚取巨额利润，引发内幕交易担忧列表 3 项（共 3 项）您会押注下一场灾难吗？预测市场的崛起美国检察官指控 Spagnuolo 使用名为“AlphaRaccoon”的账户在与谷歌 2025 年搜索结果相关的各个市场上进行交易。根据向纽约联邦法院提交的起诉书，赌注总额约为 275 万美元。在这些赌注中，Spagnuolo 成功预测独立流行音乐家 d4vd 将位列搜索次数最多的人名单中据检察官称，去年，就在访问谷歌机密数据数小时后。36 岁的斯帕格努洛面临商品欺诈、电汇欺诈和洗钱指控。纽约南区美国检察官杰伊·克莱顿 (Jay Clayton) 在一份声明中表示，“今天的指控强化了几十年前的一个信息：企业内部人员不能利用机密商业信息在我们的市场中获利。”“内幕交易损害了我们市场的完整性，美国人民希望对这种贪婪驱动的行为进行调查和调查。克莱顿补充道。押注马杜罗被捕谷歌在一份声明中表示，它正在与执法部门合作，使用机密信息下注是严重违反公司政策的行为。谷歌发言人称，斯帕格努洛已被停职。Polymarket 发言人表示，该公司已与美国检察官办公室密切合作进行调查，该公司“是迄今为止唯一一家因合作导致美国境内内幕交易指控的预测平台”。“我们致力于发言人补充道：“维护准确、公平和透明的市场，执行我们的规则，并与我们的监管机构和执法部门合作。”上个月，一名美国士兵被指控利用机密军事信息在 Polymarket 就委内瑞拉总统尼古拉斯·马杜罗被绑架一事进行投注。检察官指控 38 岁的甘农·肯·范·戴克 (Gannon Ken Van Dyke) 从美国针对马杜罗的行动中获利超过 40 万美元。"
-        }
-      ]
-    },
-    {
-      "title": "Aid cuts and climate change drive deadly malaria surge in Zimbabwe",
-      "link": "https://www.aljazeera.com/news/2026/5/28/aid-cuts-and-climate-change-drive-deadly-malaria-surge-in-zimbabwe?traffic_source=rss",
-      "summary": "A surge in malaria cases in Zimbabwe is exposing fragile health systems and growing treatment shortages in rural areas.",
-      "pubDate": "Thu, 28 May 2026 02:18:55 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "援助削减和气候变化导致津巴布韦致命的疟疾激增",
-      "summaryZh": "津巴布韦疟疾病例激增暴露出脆弱的卫生系统和农村地区日益严重的治疗短缺。",
-      "contentParagraphs": [
-        {
-          "en": "Harare, Zimbabwe – Precious Mvundura woke up with joint pain, a high fever and a pounding headache on a chilly autumn morning in eastern Zimbabwe.The 37-year-old initially thought it was just the flu. But when the headache persisted for three days, she became worried.Her five-year-old son had also fallen ill and was sweating heavily.In early May, the pair sought help from a village health worker in Chishakwe, a rural farming community outside Zimbabwe’s third-largest city, Mutare. Both tested positive for malaria.“I felt relieved,” Mvundura told Al Jazeera.“From the moment I took that medication, I started getting better.”Her son has also recovered and is back in school.Their ordeal comes as malaria cases and deaths surge across Zimbabwe after US funding cuts disrupted key malaria control programmes.Shortly after returning to office for a second term in 2025, US President Donald Trump slashed foreign aid funding, including programmes backed by the United States Agency for International Development (USAID). In Zimbabwe, the cuts disrupted tuberculosis, HIV/AIDS and malaria research, prevention and treatment programmes.Among the affected initiatives were the Zimbabwe Entomological Support Programme in Malaria (ZENTO) at Africa University in Mutare, which provided scientific research to support the country’s National Malaria Control Programme, and the Zimbabwe Assistance Programme in Malaria II (ZAPIM II), which helped strengthen malaria diagnosis, treatment and prevention in high-burden districts.USAID had disbursed $270m for health and agriculture programmes in Zimbabwe in 2024.Malaria cases jumped to 65,399 between January and April 2026, up from 36,000 recorded during the same period in 2025 and 17,000 in 2024, according to Zimbabwe’s Ministry of Health National Malaria Control Programme weekly surveillance report.Deaths have also risen sharply, reaching 174 between January and April 2026, compared with 85 during the same period last year and 34 in 2024.Mvundura and her son survived because they sought treatment early. In many other cases, the disease has been fatal.Shortages of mosquito nets, test kitsThomas Chuchu, the health programme lead at Save the Children Zimbabwe, said several malaria elimination activities previously supported by ZAPIM II had been disrupted.“In practice, elimination has continued through government and other partners, but with weaker operational capacity and slower implementation,” Chuchu told Al Jazeera.Zimbabwe’s dependence on donor funding for essential medicines, diagnostic kits and mosquito-control supplies has left the country vulnerable [Farai Shawn Matiashe/Al Jazeera]The ZAPIM II programme ran through Zimbabwe’s Ministry of Health system in 11 districts across the provinces of Central and East Mashonaland and the province of Matabeleland North.Before falling ill, Mvundura said she had not been using mosquito nets or repellents.“I only started using a mosquito net a friend shared when I fell sick,” she said.In December 2025, Caroline Mawombedzi was diagnosed with malaria while living in Burma Valley, a farming community about an hour’s drive from Mutare.She had last contracted the disease in the late 2000s while still a child.In mid-May, her five-year-old daughter was also diagnosed with malaria by a village health worker in Chishakwe after suffering severe headaches and stomach problems.Although her daughter received treatment, Mawombedzi said she could not afford preventive measures such as mosquito nets.“I am unemployed. I cannot afford to buy a mosquito net. We have not been sleeping under a mosquito net for years,” she said.Virginia Chakandinakira, a village health worker serving Chishakwe, said malaria diagnostic kits and drugs are now in short supply.“I used to get plenty of malaria test kits and drugs. But in 2025, they did not give me. I referred everyone showing malaria to a nearby Chitakatira clinic,” she said. Chitakatira is a rural settlement about an hour’s drive from Chishakwe.“I only received test kits and drugs in February. However, the supplies are limited. The authorities told us they were only distributing them to hotspot communities.”Research programmes crippledProfessor Sungano Mharakurwa, the director of Africa University’s Malaria Institute, said the abrupt withdrawal of US support had worsened the malaria outbreak by affecting the programme.ZENTO was contributing data from the surveillance of malaria-carrying mosquitoes, which guided strategies employed by the National Malaria Control Programme to control malaria transmission, he said.The Trump administration’s funding cuts have also effectively put a stop to the US President’s Malaria Initiative (PMI), launched in 2005 by former President George W Bush to control and eliminate malaria worldwide. Mharakurwa said the PMI had played a major role in funding malaria medications, and communities had been left exposed without it.He said the Malaria Institute later secured funding from the United Methodist Church General Board of Global Ministry, but it fell far short of previous US assistance.Zimbabwe’s dependence on donor funding for essential medicines, diagnostic kits and mosquito-control supplies has left the country vulnerable.Itai Rusike, the director of Zimbabwe’s Community Working Group on Health, said the government needed to strengthen domestic health financing to reduce dependence on foreign donors.“It is risky for a country to depend substantially on external partners, as donors can withdraw financial support anytime should their interests shift,” he said.Climate change fuels spreadExperts say climate change is also driving the spread of malaria and other vector-borne diseases across Africa.Rising temperatures are allowing malaria to spread into higher-altitude areas, which were once less vulnerable to outbreaks.Zimbabwe experienced El Niño between 2023 and 2024, a climate phenomenon marked by unusually warm temperatures in the Pacific Ocean, which typically disrupts rain",
-          "zh": "津巴布韦哈拉雷——津巴布韦东部一个寒冷的秋日早晨，普莱西斯·姆文杜拉 (Precious Mvundura) 醒来时感到关节疼痛、高烧和剧烈头痛。这位 37 岁的男子最初以为这只是流感。但当头痛持续了三天后，她开始担心起来。她五岁的儿子也生病了，满头大汗。5月初，两人向津巴布韦第三大城市穆塔雷郊外的农村农业社区奇沙奎的一名乡村卫生工作者寻求帮助。两人的疟疾检测呈阳性。“我感到如释重负，”姆文杜拉告诉半岛电视台。“从我服用这种药物的那一刻起，我的情况就开始好转。”她的儿子也康复了，并回到了学校。美国削减资金扰乱了关键的疟疾控制计划，导致津巴布韦各地的疟疾病例和死亡人数激增。在 2025 年重返总统连任后不久，美国总统唐纳德·特朗普削减了对外援助资金，包括由美国政府支持的项目。美国国际开发署（USAID）。在津巴布韦，削减措施扰乱了结核病、艾滋病毒/艾滋病和疟疾的研究、预防和治疗计划。受影响的举措包括穆塔雷非洲大学的津巴布韦疟疾昆虫学支持计划（ZENTO）和津巴布韦疟疾援助计划二（ZAPIM II），该计划提供科学研究支持该国的国家疟疾控制计划，该计划帮助加强高负担地区的疟疾诊断、治疗和预防2024 年，美国国际开发署为津巴布韦的卫生和农业项目拨款 2.7 亿美元。根据津巴布韦卫生部国家疟疾控制计划每周监测报告，2026 年 1 月至 4 月期间，疟疾病例从 2025 年同期的 36,000 例和 2024 年的 17,000 例跃升至 65,399 例。死亡人数也急剧上升， 2026 年 1 月至 4 月期间，这一数字达到 174 例，而去年同期为 85 例，2024 年为 34 例。Mvundura 和她的儿子因为早期寻求治疗而幸存下来。在许多其他情况下，这种疾病是致命的。缺乏蚊帐、检测试剂盒津巴布韦救助儿童会卫生项目负责人托马斯·楚楚 (Thomas Chuchu) 表示，之前由 ZAPIM II 支持的几项消除疟疾活动已被打乱。“实际上，消除工作是通过政府和其他合作伙伴继续进行的，但行动能力较弱，实施速度较慢。”楚楚告诉半岛电视台。津巴布韦对基本药物、诊断工具包和蚊虫控制用品的捐助资金的依赖已经消失[Farai Shawn Matiashe/半岛电视台]ZAPIM II 计划贯穿津巴布韦卫生部系统，覆盖中马绍纳兰省、东马绍纳兰省以及北马塔贝莱兰省的 11 个地区。姆文杜拉表示，在生病之前，她没有使用蚊帐或驱虫剂。“我只是在生病时才开始使用朋友分享的蚊帐。”2025 年 12 月，卡罗琳Mawombedzi 在缅甸山谷居住时被诊断出患有疟疾，这是一个距穆塔雷约一小时车程的农业社区。她最后一次感染这种疾病是在 2000 年代末，当时还是个孩子。5 月中旬，她 5 岁的女儿在遭受严重头痛和胃病后，也被 Chishakwe 的一名乡村卫生工作者诊断出患有疟疾。尽管她的女儿接受了治疗，但 Mawombedzi 说她买不起蚊帐等预防措施。 “我失业了。我买不起蚊帐。我们已经好几年没有睡在蚊帐里了，”她说。为 Chishakwe 服务的乡村卫生工作者弗吉尼亚·查坎迪纳基拉 (Virginia Chakandinakira) 说，疟疾诊断试剂盒和药物现在供不应求。“我曾经获得了大量的疟疾检测试剂盒和药物。但在 2025 年，我没有将所有显示疟疾的人转介给附近的 Chitakatira 诊所。” Chitakatira 是距离 Chishakwe 约一小时车程的一个农村定居点。“我在 2 月份才收到检测试剂盒和药物。但是，供应有限。当局告诉我们，他们只将它们分发给热点社区。” 研究计划陷入瘫痪 非洲大学疟疾研究所所长 Sungano Mharakurwa 教授表示，美国突然撤回支持，影响了该计划，导致疟疾疫情恶化。ZENTO 正在提供监测数据他说，该计划指导了国家疟疾控制计划采用的控制疟疾传播的策略。特朗普政府的资金削减也有效地阻止了美国总统疟疾倡议（PMI），该倡议由前总统乔治·W·布什于2005年发起，旨在控制和消除全球疟疾。姆哈拉库瓦表示，PMI 在为疟疾药物提供资金方面发挥了重要作用，如果没有它，社区就面临风险。他说，疟疾研究所后来从联合卫理公会全球事工总委员会获得了资金，但远远低于美国之前的援助水平。津巴布韦对基本药物、诊断试剂盒和蚊虫控制用品的捐助资金的依赖使该国很脆弱。津巴布韦社区卫生工作组主任伊泰·鲁西克表示，政府需要加强国内他说：“一个国家严重依赖外部合作伙伴是有风险的，因为如果利益发生变化，捐助者可以随时撤回财政支持。”气候变化助长了疟疾和其他媒介传播疾病在非洲的传播。专家表示，气候变化也正在推动疟疾和其他媒介传播疾病在整个非洲的传播。气温上升使疟疾蔓延到高海拔地区，而这些地区曾经不易爆发疫情。津巴布韦在 2023 年至 2023 年期间经历了厄尔尼诺现象。 2024 年，太平洋出现异常温暖的气候现象，通常会扰乱降雨"
-        }
-      ]
-    },
-    {
-      "title": "Parisians defy swimming ban to cool off as record heat hits Europe",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/parisians-defy-swimming-ban-to-cool-off-as-record-heat-hits-europe?traffic_source=rss",
-      "summary": "Parisians cooled off in the city’s Saint-Martin canal as an unprecedented heatwave pushed temperatures across Europe.",
-      "pubDate": "Thu, 28 May 2026 01:51:17 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "欧洲创纪录高温，巴黎人无视游泳禁令降温",
-      "summaryZh": "由于前所未有的热浪使整个欧洲气温升高，巴黎人在圣马丁运河里避暑。",
-      "contentParagraphs": [
-        {
-          "en": "NewsFeedParisians cooled off in the city’s Saint-Martin canal as an unprecedented heatwave pushed temperatures across Europe far above seasonal norms. Swimmers ignored long-standing bans, swimming outside designated bathing sites.Published On 28 May 2026",
-          "zh": "由于前所未有的热浪使欧洲各地的气温远高于季节性正常水平，巴黎人在该市的圣马丁运河中降温。游泳者无视长期禁令，在指定沐浴地点外游泳。发布于 2026 年 5 月 28 日"
-        }
-      ]
     }
   ]
 }
