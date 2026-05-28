@@ -104,15 +104,42 @@ async function extractFromPage(url) {
       headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
       signal: AbortSignal.timeout(15000),
     });
+    if (!res.ok) {
+      console.log(`    HTTP ${res.status} for ${url.slice(0, 60)}`);
+      return '';
+    }
     const html = await res.text();
     const doc = new JSDOM(html, { url });
+
+    // Try JSON-LD structured data first (more reliable, works for BBC)
+    try {
+      const scripts = doc.window.document.querySelectorAll('script[type="application/ld+json"]');
+      for (const script of scripts) {
+        const data = JSON.parse(script.textContent);
+        // Handle @graph structure
+        const items = data['@graph'] || [data];
+        for (const item of items) {
+          if (item['@type'] === 'NewsArticle' || item['@type'] === 'Article') {
+            const body = item.articleBody || '';
+            if (body && body.length > 100) {
+              console.log(`    JSON-LD: ${body.length} chars`);
+              return body.replace(/\s{3,}/g, '\n\n').trim().slice(0, 6000);
+            }
+          }
+        }
+      }
+    } catch {}
+
+    // Fallback to Readability
     const reader = new Readability(doc.window.document);
     const article = reader.parse();
     if (article && article.textContent) {
       return article.textContent.replace(/\s{3,}/g, '\n\n').trim().slice(0, 6000);
     }
+    console.log(`    Readability returned null for ${url.slice(0, 60)}`);
     return '';
-  } catch {
+  } catch (e) {
+    console.log(`    Page fetch error: ${e.message}`);
     return '';
   }
 }
@@ -132,7 +159,7 @@ async function fetchFeed(feed) {
         title: item.title?.trim() || '',
         link: item.link || '',
         summary: rssSummary.slice(0, 280),
-        rssBody: content.length > 200 ? content : '',
+        rssBody: content.length > 80 ? content : rssSummary,
         pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
         source: feed.name,
         sourceColor: feed.color,
@@ -207,11 +234,11 @@ async function main() {
     if (pageContent && pageContent.length > (a.rssBody || '').length) {
       rawContent = pageContent;
       console.log(`  Page: ${rawContent.length} chars`);
-    } else if (a.rssBody && a.rssBody.length > 200) {
+    } else if (a.rssBody && a.rssBody.length > 80) {
       rawContent = a.rssBody.slice(0, 6000);
-      console.log(`  RSS body: ${rawContent.length} chars`);
+      console.log(`  RSS fallback: ${rawContent.length} chars`);
     } else {
-      console.log(`  No content`);
+      console.log(`  No content (page=${pageContent.length}, rss=${(a.rssBody||'').length})`);
     }
 
     if (rawContent) {
