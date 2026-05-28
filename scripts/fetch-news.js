@@ -1,4 +1,6 @@
 import Parser from 'rss-parser';
+import { JSDOM } from 'jsdom';
+import { Readability } from '@mozilla/readability';
 import { writeFileSync, mkdirSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -24,15 +26,19 @@ function stripHtml(html) {
     .replace(/\s{3,}/g, '\n\n').trim();
 }
 
-// --- Translation (MyMemory only — Google Translate blocked in China) ---
+// --- Translation via Youdao (works in China, no VPN needed) ---
 
 async function translateText(text) {
   if (!text || text.trim().length < 3) return '';
   try {
-    const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh-CN`;
+    const url = `https://fanyi.youdao.com/translate?doctype=json&type=EN2ZH_CN&i=${encodeURIComponent(text)}`;
     const res = await fetch(url);
     const data = await res.json();
-    return data.responseData?.translatedText || '';
+    if (data.errorCode === 0 && data.translateResult) {
+      const parts = data.translateResult[0].map((r) => r.tgt);
+      return parts.join('');
+    }
+    return '';
   } catch {
     return '';
   }
@@ -62,6 +68,27 @@ async function translateLongText(text, maxChars = 450) {
   return translated.join('\n');
 }
 
+// --- Article content extraction from web page ---
+
+async function extractFromPage(url) {
+  try {
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
+      signal: AbortSignal.timeout(15000),
+    });
+    const html = await res.text();
+    const doc = new JSDOM(html, { url });
+    const reader = new Readability(doc.window.document);
+    const article = reader.parse();
+    if (article && article.textContent) {
+      return article.textContent.replace(/\s{3,}/g, '\n\n').trim().slice(0, 5000);
+    }
+    return '';
+  } catch {
+    return '';
+  }
+}
+
 // --- RSS Fetching ---
 
 async function fetchFeed(feed) {
@@ -77,14 +104,13 @@ async function fetchFeed(feed) {
         title: item.title?.trim() || '',
         link: item.link || '',
         summary: rssSummary.slice(0, 280),
-        content: content.length > 200 ? content.slice(0, 5000) : '',
+        rssBody: content.length > 200 ? content : '',
         pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
         source: feed.name,
         sourceColor: feed.color,
       };
     });
-    const withContent = items.filter((i) => i.content).length;
-    console.log(`[RSS] ${feed.name}: ${items.length} articles (${withContent} with content)`);
+    console.log(`[RSS] ${feed.name}: ${items.length} articles`);
     return items;
   } catch (e) {
     console.warn(`[RSS] ${feed.name} FAILED: ${e.message}`);
@@ -108,7 +134,7 @@ async function main() {
   console.log('=== Daily News Fetcher ===');
   console.log(new Date().toISOString());
 
-  // Step 1: Fetch RSS feeds (10s timeout each, runs in parallel)
+  // Step 1: Fetch RSS feeds
   const results = await Promise.all(FEEDS.map(fetchFeed));
   let articles = results.flat();
   articles = deduplicate(articles);
@@ -127,8 +153,8 @@ async function main() {
     return;
   }
 
-  // Step 2: Translate titles and summaries
-  console.log(`[TRANS] Translating ${articles.length} titles & summaries...`);
+  // Step 2: Translate titles and summaries (Youdao - works in China)
+  console.log(`[TRANS] Translating ${articles.length} titles & summaries via Youdao...`);
   for (let i = 0; i < articles.length; i++) {
     const a = articles[i];
     console.log(`[TRANS] [${i + 1}/${articles.length}] ${a.title.slice(0, 60)}...`);
@@ -138,21 +164,35 @@ async function main() {
     ]);
     a.titleZh = titleZh;
     a.summaryZh = summaryZh;
-    if (i < articles.length - 1) await new Promise((r) => setTimeout(r, 150));
+    if (i < articles.length - 1) await new Promise((r) => setTimeout(r, 200));
   }
 
-  // Step 3: Translate full content
-  console.log(`[TRANS] Translating full content...`);
+  // Step 3: Get full article content from web pages (needs VPN)
+  console.log(`[PAGE] Extracting full article content...`);
   for (let i = 0; i < articles.length; i++) {
     const a = articles[i];
-    if (a.content) {
-      console.log(`[TRANS] [${i + 1}/${articles.length}] Content (${a.content.length} chars)...`);
-      a.contentZh = await translateLongText(a.content);
+    console.log(`[PAGE] [${i + 1}/${articles.length}] ${a.title.slice(0, 50)}...`);
+
+    const pageContent = await extractFromPage(a.link);
+    if (pageContent && pageContent.length > (a.rssBody || '').length) {
+      a.content = pageContent;
+      console.log(`  Got ${pageContent.length} chars from page`);
+    } else if (a.rssBody && a.rssBody.length > 200) {
+      a.content = a.rssBody.slice(0, 5000);
+      console.log(`  Using RSS body: ${a.content.length} chars`);
     } else {
-      console.log(`[TRANS] [${i + 1}/${articles.length}] No content, skipping.`);
+      a.content = '';
+      console.log(`  No content`);
+    }
+
+    if (a.content) {
+      a.contentZh = await translateLongText(a.content);
+      console.log(`  Translated: ${a.contentZh.length} chars`);
+    } else {
       a.contentZh = '';
     }
-    if (i < articles.length - 1) await new Promise((r) => setTimeout(r, 150));
+    delete a.rssBody;
+    if (i < articles.length - 1) await new Promise((r) => setTimeout(r, 300));
   }
 
   // Write output
