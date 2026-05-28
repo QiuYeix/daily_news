@@ -1,0 +1,13 @@
+node_modules/
+.claude/
+.RData
+.Rhistory
+*.Rmd
+*.pptx
+*.pdf
+*.docx
+*.R
+weclone-tutorial.html
+github-ai-trending.html
+时序图.html
+mouse-automation/

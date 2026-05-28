@@ -1,0 +1,17 @@
+{
+  "name": "daily-news",
+  "version": "1.0.0",
+  "description": "International news with Chinese translation - updated daily",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-news.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "@vitalets/google-translate-api": "^9.2.0",
+    "express": "^5.2.1",
+    "jsdom": "^29.1.1",
+    "rss-parser": "^3.13.0"
+  }
+}

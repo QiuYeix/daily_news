@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>International Daily · 国际外刊每日速览</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <h1 class="site-title">International Daily</h1>
+      <p class="site-subtitle">国际外刊每日速览</p>
+      <p class="update-time" id="updateTime">加载中…</p>
+      <button class="refresh-btn" id="refreshBtn" title="挂VPN后点击更新">🔄 刷新新闻</button>
+      <p class="refresh-status" id="refreshStatus"></p>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="loading" class="loading">
+      <div class="spinner"></div>
+      <p>正在加载新闻…</p>
+    </div>
+    <div id="newsList" class="news-list" style="display:none"></div>
+    <div id="errorMsg" class="error-msg" style="display:none">
+      <p>暂无数据。请先运行 <code>node scripts/fetch-news.js</code> 生成新闻数据。</p>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>Automated daily updates · Sources: BBC News, The Guardian, NPR, Al Jazeera</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
