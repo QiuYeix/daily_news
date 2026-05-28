@@ -27,6 +27,30 @@ function stripHtml(html) {
     .replace(/\s{3,}/g, '\n\n').trim();
 }
 
+// --- Content cleaning ---
+
+function cleanContent(text) {
+  return text
+    .split('\n')
+    .filter((line) => {
+      const t = line.trim();
+      if (!t) return true; // keep blank lines for paragraph breaks
+      // Image credit lines: "Carolyn Kaster/AP", "Josh Edelson/AFP via Getty Images"
+      if (/^[A-Z][a-z]+ [A-Z][a-z]+\/(AP|Getty|Reuters|AFP|EPA|NPR|BBC|CNN)\b/.test(t)) return false;
+      if (/^(AP|Getty|Reuters|AFP|EPA)\b/i.test(t) && t.length < 40) return false;
+      // "hide caption" / "toggle caption" / "show caption"
+      if (/^(hide|toggle|show) caption$/i.test(t)) return false;
+      // Timestamp noise: "42 minutes ago", "2 hours ago"
+      if (/^\d+ (minute|hour|day|second)s? ago/.test(t)) return false;
+      // Standalone byline markers
+      if (/^More on this story$/i.test(t)) return false;
+      return true;
+    })
+    .join('\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
 // --- Translation: Google primary, MyMemory fallback ---
 
 async function translateWithGoogle(text) {
@@ -39,7 +63,6 @@ async function translateWithMyMemory(text) {
   const res = await fetch(url);
   const data = await res.json();
   const translated = data.responseData?.translatedText || '';
-  // MyMemory returns error messages in "translated" field when quota exceeded
   if (translated.startsWith('MYMEMORY WARNING')) return '';
   return translated;
 }
@@ -51,28 +74,26 @@ async function translateText(text) {
   }
 }
 
-async function translateLongText(text, maxChars = 450) {
-  if (!text || text.trim().length < 3) return '';
-  const paragraphs = text.split(/\n+/).filter((p) => p.trim().length > 0);
-  const chunks = [];
-  let current = '';
-  for (const p of paragraphs) {
-    if (current && (current + p).length > maxChars) {
-      chunks.push(current.trim());
-      current = p;
-    } else {
-      current += (current ? '\n' : '') + p;
-    }
-  }
-  if (current.trim()) chunks.push(current.trim());
+// Translate paragraph by paragraph for aligned display
+async function translateContent(text) {
+  if (!text || text.trim().length < 3) return [];
+  const cleaned = cleanContent(text);
+  const paragraphs = cleaned
+    .split(/\n\n/)
+    .map((p) => p.trim().replace(/\n/g, ' ').replace(/\s+/g, ' '))
+    .filter((p) => p.length >= 15);
 
-  const translated = [];
-  for (const chunk of chunks) {
-    const t = await translateText(chunk);
-    translated.push(t || chunk);
-    if (chunks.length > 1) await new Promise((r) => setTimeout(r, 300));
+  if (paragraphs.length === 0) return [];
+
+  const pairs = [];
+  for (let i = 0; i < paragraphs.length; i++) {
+    const en = paragraphs[i];
+    console.log(`    [${i + 1}/${paragraphs.length}] ${en.slice(0, 50)}...`);
+    const zh = await translateText(en);
+    pairs.push({ en, zh: zh || en });
+    if (i < paragraphs.length - 1) await new Promise((r) => setTimeout(r, 200));
   }
-  return translated.join('\n');
+  return pairs;
 }
 
 // --- Article content extraction ---
@@ -88,7 +109,7 @@ async function extractFromPage(url) {
     const reader = new Readability(doc.window.document);
     const article = reader.parse();
     if (article && article.textContent) {
-      return article.textContent.replace(/\s{3,}/g, '\n\n').trim().slice(0, 5000);
+      return article.textContent.replace(/\s{3,}/g, '\n\n').trim().slice(0, 6000);
     }
     return '';
   } catch {
@@ -160,7 +181,7 @@ async function main() {
     return;
   }
 
-  // Step 2: Translate titles & summaries (Google → MyMemory fallback)
+  // Step 2: Translate titles & summaries
   console.log(`[TRANS] Translating ${articles.length} titles & summaries...`);
   for (let i = 0; i < articles.length; i++) {
     const a = articles[i];
@@ -174,31 +195,34 @@ async function main() {
     if (i < articles.length - 1) await new Promise((r) => setTimeout(r, 200));
   }
 
-  // Step 3: Get full content & translate
-  console.log(`[PAGE] Extracting & translating full content...`);
+  // Step 3: Get full content, clean, translate paragraph by paragraph
+  console.log(`[PAGE] Extracting & translating full content (paragraph-aligned)...`);
   for (let i = 0; i < articles.length; i++) {
     const a = articles[i];
     console.log(`[PAGE] [${i + 1}/${articles.length}] ${a.title.slice(0, 50)}...`);
 
+    // Get raw content
     const pageContent = await extractFromPage(a.link);
+    let rawContent = '';
     if (pageContent && pageContent.length > (a.rssBody || '').length) {
-      a.content = pageContent;
-      console.log(`  Page: ${pageContent.length} chars`);
+      rawContent = pageContent;
+      console.log(`  Page: ${rawContent.length} chars`);
     } else if (a.rssBody && a.rssBody.length > 200) {
-      a.content = a.rssBody.slice(0, 5000);
-      console.log(`  RSS body: ${a.content.length} chars`);
+      rawContent = a.rssBody.slice(0, 6000);
+      console.log(`  RSS body: ${rawContent.length} chars`);
     } else {
-      a.content = '';
       console.log(`  No content`);
     }
 
-    if (a.content) {
-      a.contentZh = await translateLongText(a.content);
-      console.log(`  Translated: ${a.contentZh.length} chars`);
+    if (rawContent) {
+      a.contentParagraphs = await translateContent(rawContent);
+      console.log(`  Paragraphs: ${a.contentParagraphs.length} pairs`);
     } else {
-      a.contentZh = '';
+      a.contentParagraphs = [];
     }
     delete a.rssBody;
+    delete a.content;
+    delete a.contentZh;
     if (i < articles.length - 1) await new Promise((r) => setTimeout(r, 300));
   }
 

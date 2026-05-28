@@ -22,6 +22,43 @@ function escapeHtml(text) {
   return div.innerHTML;
 }
 
+function renderParagraphContent(cp, idx) {
+  if (!cp || cp.length === 0) return '';
+  return `
+    <button class="expand-btn" data-idx="${idx}">展开全文 ▼</button>
+    <div class="article-full" id="full-${idx}" style="display:none">
+      ${cp.map((p, pi) => `
+        <div class="para-pair" data-pair="${idx}-${pi}">
+          <p class="para-en">${escapeHtml(p.en)}</p>
+          <p class="para-zh">${escapeHtml(p.zh)}</p>
+        </div>
+      `).join('')}
+    </div>`;
+}
+
+function renderFallbackContent(a, idx) {
+  if (a.content) {
+    return `
+      <button class="expand-btn" data-idx="${idx}">展开全文 ▼</button>
+      <div class="article-full" id="full-${idx}" style="display:none">
+        <div class="article-columns">
+          <div class="article-col">
+            <h4 class="col-label">English</h4>
+            <div class="article-body">${escapeHtml(a.content).replace(/\n\n/g, '</p><p class="article-para">')}</div>
+          </div>
+          <div class="article-col">
+            <h4 class="col-label">中文</h4>
+            <div class="article-body">${escapeHtml(a.contentZh || '').replace(/\n\n/g, '</p><p class="article-para">')}</div>
+          </div>
+        </div>
+      </div>`;
+  }
+  if (a.link) {
+    return `<a class="read-link" href="${escapeHtml(a.link)}" target="_blank" rel="noopener">阅读原文 →</a>`;
+  }
+  return '';
+}
+
 function renderArticles(articles) {
   const list = document.getElementById('newsList');
   list.innerHTML = articles.map((a, idx) => `
@@ -34,21 +71,7 @@ function renderArticles(articles) {
       ${a.titleZh ? `<p class="title-zh">${escapeHtml(a.titleZh)}</p>` : ''}
       ${a.summary ? `<p class="summary-en">${escapeHtml(a.summary)}</p>` : ''}
       ${a.summaryZh ? `<p class="summary-zh">${escapeHtml(a.summaryZh)}</p>` : ''}
-      ${a.content ? `
-        <button class="expand-btn" data-idx="${idx}">展开全文 ▼</button>
-        <div class="article-full" id="full-${idx}" style="display:none">
-          <div class="article-columns">
-            <div class="article-col">
-              <h4 class="col-label">English</h4>
-              <div class="article-body">${escapeHtml(a.content).replace(/\n\n/g, '</p><p class="article-para">')}</div>
-            </div>
-            <div class="article-col">
-              <h4 class="col-label">中文</h4>
-              <div class="article-body">${escapeHtml(a.contentZh || '').replace(/\n\n/g, '</p><p class="article-para">')}</div>
-            </div>
-          </div>
-        </div>
-      ` : a.link ? `<a class="read-link" href="${escapeHtml(a.link)}" target="_blank" rel="noopener">阅读原文 →</a>` : ''}
+      ${a.contentParagraphs ? renderParagraphContent(a.contentParagraphs, idx) : renderFallbackContent(a, idx)}
     </article>
   `).join('');
 }
@@ -112,7 +135,6 @@ refreshBtn.addEventListener('click', async () => {
     return;
   }
 
-  // Poll status until done
   const poll = setInterval(async () => {
     try {
       const r = await fetch('/api/status');
