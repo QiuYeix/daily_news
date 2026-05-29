@@ -102,7 +102,7 @@ async function translateContent(text) {
   for (let i = 0; i < paragraphs.length; i++) {
     const en = paragraphs[i];
     const zh = await translateText(en);
-    if (zh) pairs.push({ en, zh });
+    pairs.push({ en, zh: zh || en });
   }
   return pairs;
 }
@@ -294,7 +294,7 @@ async function main() {
     for (const cat of categories) {
       const pool = byCategory[cat] || [];
       if (indices[cat] < pool.length) {
-        final.push(pool[cat][indices[cat]]);
+        final.push(pool[indices[cat]]);
         indices[cat]++;
         added = true;
         if (final.length >= 20) break;
