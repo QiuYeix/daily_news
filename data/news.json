@@ -1,531 +1,672 @@
 {
-  "updated": "2026-05-29T11:18:46.191Z",
-  "count": 12,
+  "updated": "2026-05-29T15:18:23.584Z",
+  "count": 20,
+  "categories": {
+    "world": {
+      "label": "国际",
+      "icon": "🌍"
+    },
+    "tech": {
+      "label": "科技",
+      "icon": "💻"
+    },
+    "business": {
+      "label": "商业",
+      "icon": "📈"
+    },
+    "science": {
+      "label": "科学",
+      "icon": "🔬"
+    }
+  },
   "articles": [
     {
-      "title": "Meteorologists were central to D-Day. 'Pressure' tells the story of navigating uncertainty",
-      "link": "https://www.npr.org/2026/05/29/nx-s1-5834960/pressure-movie-review-brendan-fraser-andrew-scott",
-      "summary": "The new movie, based on writer and actor David Haig's 2014 play, dramatizes the tensions between military leaders and meteorologists in the lead up to the Allied invasion of Normandy.",
-      "pubDate": "Fri, 29 May 2026 07:00:00 -0400",
-      "source": "NPR",
-      "sourceColor": "#e57300",
-      "titleZh": "气象学家是诺曼底登陆的核心。 《压力》讲述了应对不确定性的故事",
-      "summaryZh": "这部新电影改编自作家兼演员大卫·黑格 2014 年的戏剧，戏剧化地展现了盟军入侵诺曼底之前军事领导人和气象学家之间的紧张关系。",
+      "title": "Eight girls arrested on suspicion of arson after Kenya school fire",
+      "link": "https://www.aljazeera.com/news/2026/5/29/eight-girls-arrested-on-suspicion-of-arson-after-kenya-school-fire?traffic_source=rss",
+      "summary": "The fire broke out at the Utumishi Girls Academy Senior School in Gilgil, killing 16 people and wounding 79 others.",
+      "pubDate": "Fri, 29 May 2026 14:40:54 +0000",
+      "source": "Al Jazeera",
+      "category": "world",
+      "sourceColor": "#f79120",
+      "titleZh": "肯尼亚学校火灾后八名女孩因涉嫌纵火被捕",
+      "summaryZh": "吉尔吉尔乌图米希女子学院高中发生火灾，造成 16 人死亡、79 人受伤。",
       "contentParagraphs": [
         {
-          "en": "Andrew Scott stars as James Stagg in Pressure.",
-          "zh": "安德鲁·斯科特在《压力》中饰演詹姆斯·斯塔格。"
-        },
-        {
-          "en": "Alex Bailey/Focus Features",
-          "zh": "亚历克斯·贝利/焦点特征"
-        },
-        {
-          "en": "Alex Bailey/Focus Features",
-          "zh": "亚历克斯·贝利/焦点特征"
-        },
-        {
-          "en": "Operation Overlord, the code name for the Allied invasion of Normandy in 1944, has long been an Anglo-American film event of epic proportions, from the 1962 CinemaScope extravaganza The Longest Day to Steven Spielberg's 1998 Saving Private Ryan. The new movie Pressure, Anthony Maras' screen adaptation of David Haig's acclaimed 2014 play, comes to the big screen in time for the 82nd anniversary of D-Day, carving out a place in the pantheon of films about the World War II liberation of Western Europe away from the action on the beaches.",
-          "zh": "“霸王行动”是 1944 年盟军入侵诺曼底的代号，从 1962 年的 CinemaScope 巨片《最长的一天》到 1998 年史蒂文·斯皮尔伯格的《拯救大兵瑞恩》，长期以来一直是英美电影界的史诗事件。安东尼·马拉斯 (Anthony Maras) 改编自大卫·黑格 (David Haig) 2014 年广受好评的戏剧的新片《压力》(Pressure) 适时在诺曼底登陆 82 周年之际登上大银幕，在讲述二战、解放西欧的电影中，远离海滩行动，在万神殿中占有一席之地。"
-        },
-        {
-          "en": "The film is a closely wound chamber drama charting stormy weather both meteorological and emotional, of the film's main protagonists. The Irish actor Andrew Scott deftly embodies James Stagg, the punctilious Scottish chief meteorologist. Stagg works opposite his military superior General Dwight D. Eisenhower, Supreme Commander of the Allied forces, played by a bullish and baronial Brendan Fraser somewhat at a remove from the pinched steely-eyed Ike seen on the newsreels of the time.",
-          "zh": "这部电影是一部紧凑的室内戏剧，描绘了电影主要主角的暴风雨天气的气象和情感。爱尔兰演员安德鲁·斯科特巧妙地诠释了一丝不苟的苏格兰首席气象学家詹姆斯·斯塔格。斯塔格与他的军事上司德怀特·D·艾森豪威尔将军演对手戏，他是盟军最高统帅，由乐观而高贵的布伦丹·弗雷泽饰演，与当时新闻影片中目光紧绷、眼神坚毅的艾克有些不同。"
-        },
-        {
-          "en": "Maras' film places these protagonists squarely at odds as they are introduced to one another a mere 72 hours from a proposed landing on the beaches of Normandy. Eisenhower's own weatherman, Irving Krick, played at an unnerving extroverted pitch by Chris Messina, is dead sure that the weather will be fine. The academic Stagg is altogether more dour and skeptical, sensing a storm brewing for the planned date of the invasion. Where Krick is busy grandstanding, the darling of his men and superiors, the ever unpopular Stagg urges caution. He wants more data, more detail and more observation of the forces that turn the winds and drive the storms on the distant seas.",
-          "zh": "马拉斯的电影将这些主角置于完全矛盾的境地，因为他们在诺曼底海滩计划登陆仅 72 小时后就相互认识了。艾森豪威尔自己的天气预报员欧文·克里克（由克里斯·梅西纳在令人不安的外向球场上扮演）确信天气会好。学术界的斯塔格则显得更加阴郁和怀疑，他感觉到一场风暴正在为预定的入侵日期酝酿。当克里克忙着哗众取宠时，他是他的下属和上级的宠儿，而一向不受欢迎的斯塔格则敦促人们保持谨慎。他想要更多的数据、更多的细节和更多的观察力，以了解在遥远的海上扭转风向和推动风暴的力量。"
-        },
-        {
-          "en": "The tension between the two boils over into a confrontation which only Eisenhower can adjudicate, a task complicated by his own arrogant British subordinate, a wiry and dislikable General Bernard Montgomery — played with a villainous verve bordering on the pantomime by Damian Lewis.",
-          "zh": "两人之间的紧张关系最终演变成一场只有艾森豪威尔才能裁决的对抗，而他傲慢的英国下属、身材瘦长、令人讨厌的伯纳德·蒙哥马利将军则使这项任务变得更加复杂——他的表演充满了近乎达米安·刘易斯的哑剧般的邪恶神韵。"
-        },
-        {
-          "en": "The film manages a frenetic pace within closed rooms to match the tension of a battlefield. The pressures and the politics are inescapable. But Pressure is less a war story, rapt with the hysteria of battlefield deeds, than an intense exposition on the human capacity to tolerate uncertainty at a time when decisiveness is an imperative for action.",
-          "zh": "这部电影在封闭的房间内进行了疯狂的节奏，以配合战场的紧张气氛。压力和政治是不可避免的。但《压力》并不是一个战争故事，充满了战场上歇斯底里的行为，而是对人类在必须采取果断行动时容忍不确定性的能力进行了深入的阐述。"
-        },
-        {
-          "en": "The airy confines of the stately home where Allied commanders are gathered provide both the grandeur and the contrast to the minutiae inked out on vast maps in the small hours of the night. Maras is able to make the bucolic well-appointed rooms seethe with frustration. The weathermen are in a black box, fed data as it arrives from distant weather balloons from Newfoundland to the African coast. Using these juxtapositions to full effect, the film builds a picture of simultaneous fragility and enormity to match the colossal task of judging the right conditions to commit to the largest sea invasion in recorded history.",
-          "zh": "盟军指挥官聚集的庄严宅邸通风良好，既富丽堂皇，又与深夜在巨大地图上绘制的细节形成鲜明对比。马拉斯能够让田园诗般的设备齐全的房间充满挫败感。气象员在一个黑匣子里，接收从纽芬兰到非洲海岸的遥远气象气球传来的数据。影片充分利用这些并置，构建了一幅脆弱性与巨大性同时存在的画面，以匹配判断实施历史上最大规模海上入侵的适当条件的艰巨任务。"
-        },
-        {
-          "en": "Brendan Fraser as Dwight D. Eisenhower.",
-          "zh": "布兰登·弗雷泽饰演德怀特·D·艾森豪威尔。"
-        },
-        {
-          "en": "Andrew Scott as Captain James Stagg and Kerry Condon as Kay Summersby.",
-          "zh": "安德鲁·斯科特饰演詹姆斯·斯塔格上尉，凯瑞·康登饰演凯·萨默斯比。"
-        },
-        {
-          "en": "Alex Bailey/Focus Features",
-          "zh": "亚历克斯·贝利/焦点特征"
-        },
-        {
-          "en": "Alex Bailey/Focus Features",
-          "zh": "亚历克斯·贝利/焦点特征"
-        },
-        {
-          "en": "The four-handed conflicts between the weathermen and the generals, however, seem a little too contrived at times. The presence of Eisenhower's secretary Kay Summersby (Kerry Condon) is used as a dramatic foil a little too often, notably as a means to salve seemingly irreconcilable clashes between the personalities of her impatient and demonstrative boss and Stagg's soft-spoken yet obstinate martinet. Her character deserved more depth than a short backstory in a monologue.",
-          "zh": "然而，气象员和将军之间的四手冲突有时似乎有点过于做作。艾森豪威尔的秘书凯·萨默斯比（凯瑞·康顿饰）的出现经常被用作戏剧性的陪衬，尤其是作为一种手段来缓解她不耐烦、易怒的老板和斯塔格说话温和但固执的性格之间看似不可调和的冲突。她的角色值得比独白中简短的背景故事有更多的深度。"
-        },
-        {
-          "en": "When Krick and Stagg enter the command boardroom to present their opposing cases mere hours before a decision must be made, the film slips into a type of courtroom drama of stormy exchanges from the benches, with both Stagg and Krick pulling out all the stops to get their forecasts approved.",
-          "zh": "当克里克和斯塔格在必须做出决定前几个小时进入指挥会议室陈述他们对立的案件时，影片陷入了一场法庭戏剧，在法官席上进行了激烈的交流，斯塔格和克里克都使出浑身解数来让他们的预测获得批准。"
-        },
-        {
-          "en": "Yet, as a matter of historical record, it must be said the film makes no mention of Sverre Petterssen, the Norwegian meteorologist who accurately predicted the storms that delayed the mission and pointed out the 36-hour lull between them which cleared the way for the subsequent go-ahead for attacks. His name is perhaps an omission for the sake of dramatic license, but a glaring one at that.",
-          "zh": "然而，作为历史记录，必须指出的是，影片没有提及挪威气象学家斯维尔·佩特森 (Sverre Petterssen)，他准确地预测了导致任务延误的风暴，并指出风暴之间有 36 小时的平静，为随后的袭击扫清了道路。也许是为了戏剧性的原因而省略了他的名字，但这是一个引人注目的名字。"
-        },
-        {
-          "en": "The famous and fateful decision to postpone the invasion opens what is perhaps the more dramatically interesting phase of the film. The storm Stagg predicted arrives with full force and hammers the vast windows, and Krick, a broken man, must come to terms with his hubris and concede his error so he and Stagg can work urgently on setting the next available window for D-Day. Pressure succeeds most when it explores the themes of ego and anxiety in the face of mortal decisions about the lives of others and becomes a drama about this staggering weight of responsibility.",
-          "zh": "推迟入侵的著名而重大的决定开启了影片中也许更戏剧性有趣的阶段。斯塔格预测的风暴将全力袭来，重击巨大的窗户，而克里克，一个破碎的人，必须接受他的傲慢并承认他的错误，这样他和斯塔格就可以紧急工作，为诺曼底登陆设定下一个可用的窗口。当《压力》探讨了面对关乎他人生命的致命决定时的自我和焦虑主题，并成为一部关于这种令人震惊的责任重担的戏剧时，它最成功。"
-        },
-        {
-          "en": "When Pressure finally offers glimpses of the horrors of the Normandy landings, they serve as a visual contrast to the switchboard staff and generals waiting in a cramped radio room, listening to panicked audio from the beaches through headphones pressed against their ears. All ranks are reduced to helpless witnesses, anxiously standing in the eye of a man-made storm that must now run its course.",
-          "zh": "当压力最终让人们一睹诺曼底登陆的恐怖时，他们与在狭窄的广播室里等待的总机工作人员和将军们形成了视觉对比，他们通过贴在耳朵上的耳机聆听海滩上传来的恐慌的声音。所有队伍都沦为无助的目击者，焦急地站在一场现在必须结束的人为风暴的中心。"
-        },
-        {
-          "en": "Perhaps it is these psychological battles that need retelling and make Maras' film all the more prescient. Pressure is about a war of uncertainty and of faith. For all the prior cinematic depictions of storming bunkers and camaraderie under fire, Pressure offers us the quiet heroism of rational restraint in the figure of James Stagg, who weathered his inner storms and bore the courage to be disliked.",
-          "zh": "也许正是这些心理斗争需要重述，并使马拉斯的电影更具先见之明。压力是一场关于不确定性和信仰的战争。尽管之前的电影都描绘了冲锋掩体和炮火下的友情，但《压力》为我们提供了詹姆斯·斯塔格这个人物理性克制的安静英雄主义，他经受住了内心的风暴，并有勇气被人讨厌。"
+          "en": "The fire broke out at the Utumishi Girls Academy Senior School in Gilgil, killing 16 people and wounding 79 others.At least eight students have been arrested on suspicion of arson after fire at a boarding school for girls in Kenya killed 16 students and injured 79, police said.The fire broke out in the early hours of Thursday at the Utumishi Girls Academy Senior School in Gilgil, west-central Kenya.Recommended Stories list of 3 itemslist 1 of 3At least 16 students killed in fire at Kenya girls school dormlist 2 of 3Four reported killed, 30 injured, in Kenyan fuel price protestslist 3 of 3Kenyan court suspends US Ebola quarantine facility planend of listOn Friday, the Directorate of Criminal Investigation said preliminary investigations had identified eight people as “persons of interest in connection with the planning and execution of the suspected arson attack”.“The eight girls have since been arrested and are currently in police custody,” the statement added.Reporting from the school, Al Jazeera’s Catherine Soi said police are still investigating potential arson.“We have been speaking to parents who have been here since the early morning, they were very frustrated earlier because nobody was giving them information,” she said.“We have parents who say they haven’t seen their children at all – I guess those are the ones, the students [who] died – and then we have parents of whose loved ones, the students, are still inside being interrogated,” Soi added.Relatives wait for news at the Utumishi Girls Academy in Gilgil, following Thursday’s fire, May 28, 2026 [AFP]Student Hilda Njeri, who was in one of the dorms most-affected by the fire, told Al Jazeera she was still dealing with everything that happened.“I was badly injured on my leg, and my lower back was badly injured,” Njeri said outside the school on Friday, adding that the principal took the students to hospital and paid all bills for treatment.“The fire was very [big]; we could not pass through the fire because we had no water to put out the fire, so we had to jump through the window,” she said, adding that she struggled to breathe while inside the building.Kenyan Education Minister Julius Ogamba told reporters that early investigations found that two teachers had been informed of the students’ alleged plans, but failed to stop them.Ogamba added that the school failed to follow safety rules, citing overcrowding in the dorms and a locked emergency exit.The Kenyan government has disbanded the school board of management and will take appropriate legal and disciplinary action against any staff found to have neglected their duties, he said.Thursday’s school fire follows others in Kenya. In 2024, a blaze in a primary boarding school in Nyeri County killed 21 students. In 2001, 67 schoolboys at Kyanguli Secondary School were killed in an arson attack.",
+          "zh": "吉尔吉尔乌图米什女子学院高中发生火灾，造成 16 人死亡、79 人受伤。警方称，肯尼亚一所女子寄宿学校发生火灾，造成 16 名学生死亡、79 人受伤，至少 8 名学生因涉嫌纵火被捕。肯尼亚中西部吉尔吉尔的乌图米什女子学院高中于周四凌晨发生火灾。推荐故事列表 3 条中的 1 条至少 16 条学生在肯尼亚女子学校宿舍火灾中丧生 名单中的 2 名学生在肯尼亚燃油价格抗议活动中丧生，30 人受伤 名单中的 3 名 肯尼亚法院暂停美国埃博拉检疫设施计划 名单周五，刑事调查局表示，初步调查已确定八人为“与策划和执行涉嫌纵火袭击有关的人员”。“这八名女孩已被捕，目前被警方拘留，”声明补充说。来自学校的报道，半岛电视台的凯瑟琳·索伊表示，警方仍在调查潜在的纵火案。“我们一直在与从一大早就到这里的家长交谈，他们早些时候非常沮丧，因为没有人向他们提供信息，”她说。“我们有家长说他们根本没有见过自己的孩子——我猜就是那些死的学生——然后我们还有他们的亲人、学生的父母仍在里面接受审问，”索伊2026 年 5 月 28 日星期四发生火灾后，亲戚们在吉尔吉尔的乌图米希女子学院等待消息。 [法新社]学生希尔达·恩杰里 (Hilda Njeri) 住在受火灾影响最严重的宿舍之一，她告诉半岛电视台，她仍在处理所发生的一切。“我的腿受了重伤，我的下背部也受了重伤，”恩杰里周五在学校外说，并补充说校长她说：“火势非常大，我们无法通过火场，因为我们没有水来灭火，所以我们不得不从窗户跳进去。”她补充说，她在大楼内时呼吸困难。肯尼亚教育部长朱利叶斯·奥甘巴告诉记者，早期调查发现两名教师已被告知学生们所谓的计划，但未能阻止他们。奥甘巴补充说，学校没有遵守安全规则，理由是宿舍过度拥挤，紧急出口上锁。他说，肯尼亚政府已经解散了学校管理委员会，并将对任何被发现玩忽职守的员工采取适当的法律和纪律行动。周四，肯尼亚的其他学校也发生火灾。 2024年，涅里县一所小学寄宿学校发生火灾，导致21名学生死亡。 2001年，Kyanguli中学的67名男生在一次纵火袭击中丧生。"
         }
       ]
     },
     {
-      "title": "Photos show the world's 'uncounted' people -- and what it takes to be counted",
-      "link": "https://www.npr.org/2026/05/29/g-s1-124682/photos-birth-certificate-death-certificate-photoville",
-      "summary": "Colombian-American photographer and filmmaker Juan Arredondo turns his lens on the people of the world who do not have birth and death certificates — and how these vital records are created.",
-      "pubDate": "Fri, 29 May 2026 06:49:24 -0400",
-      "source": "NPR",
-      "sourceColor": "#e57300",
-      "titleZh": "照片展示了世界上“无法计算”的人口——以及如何才能被计算在内",
-      "summaryZh": "哥伦比亚裔美国摄影师兼电影制片人胡安·阿雷东多将镜头转向世界上没有出生和死亡证明的人们，以及这些重要记录是如何创建的。",
+      "title": "Why I’m grateful to the Pope for his encyclical on AI | Francine Prose",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/29/pope-ai-encyclical",
+      "summary": "The intelligent and thoughtful encyclical is an important warning of the uses and misuses of a rapidly developing technology. Silicon Valley is wrong to dismiss it\nOften I’m asked if I think that the novels of the future will all be written by AI. It’s not so much a question as a",
+      "pubDate": "Fri, 29 May 2026 10:00:47 GMT",
+      "source": "Guardian Tech",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "为什么我感谢教皇关于人工智能的通谕 |弗朗辛·散文",
+      "summaryZh": "这份明智而深思熟虑的通谕是对快速发展的技术的使用和滥用的重要警告。硅谷忽视它是错误的\n经常有人问我是否认为未来的小说都会由人工智能来写。这与其说是一个问题，不如说是一个",
       "contentParagraphs": [
         {
-          "en": "July 1, 2025. Sirajganj, Bangladesh Mothers who lacked birth certificates for themselves and family members hold up the newly obtained documents after a drive in Dhamainagar Union, part of a campaign to get people to register so they are eligible for social safety new programs.",
-          "zh": "2025 年 7 月 1 日，孟加拉国西拉杰甘吉 缺乏自己和家人出生证明的母亲在达麦讷格尔联盟 (Dhamainagar Union) 开车后举起新获得的文件，这是一项让人们登记的运动的一部分，以便他们有资格享受社会安全新计划。"
+          "en": "Often I’m asked if I think that the novels of the future will all be written by AI. It’s not so much a question as a provocation. Do I worry that a machine can do what I do, only better? I usually say something like: “No algorithm is going to write Anna Karenina!” which is also not a real answer.So I’m grateful to Pope Leo XIV, the American pope, for his recently issued letter to the world, Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence. It’s a long (more than 40,00 words), intelligent and thoughtful encyclical in which the pope addresses the uses and misuses of a rapidly developing technology. Now when someone asks my opinion of AI, I can refer them to the pope’s letter, or at least chapter three.The encyclical begins with an appropriately biblical reference to the tragic consequences of a breakdown in human communication. Humanity faces a “pivotal choice: either to construct a new Tower of Babel or to build a city in which God and humanity dwell together”. What follows is a detailed account of the evolution of the views of Pope Leo’s predecessors, of the Vatican’s ideas about labor, authority, government, science, power and our moral obligation to one another. It cites the work that the church has done in defense of human dignity and freedom.The third chapter, Technology and Dominance. The Grandeur of Humanity in Light of the Promises of AI, delivers on the promise of the encyclical’s title. In an eloquent (and most often quoted) passage explaining what AI is not, the pope essentially defines what it means to be human. “So-called artificial intelligences do not undergo experiences, do not possess a body, do not feel joy or pain, do not mature through relationships and do not know from within what love, work, friendship or responsibility mean.” AI does not have a moral conscience nor does it show any guiding concern for the greater human good.The letter proceeds to say the most important and necessary things about what is possibly the greatest threat posed by AI: it can be programmed solely to maximize profit, a situation that can only result in the suffering of the many for the benefit of the few. The pope warns against the “manipulation of privacy” and the “misuse of information”, against the uses of an algorithm to manage employment, to control access to public services and credit, and to elevate or damage one’s personal reputation.Compassion, mercy and forgiveness – not high on the machine’s list of priorities – will become obsolete. “‘Necessary sacrifices’ may begin to be justified, placing the burden on the most vulnerable in pursuit of the supposed optimization of the species.” If the tools of this new power are placed in the hands of those who already possess wealth and influence, they will be used to elevate the comfort, health and wellbeing of our wealthiest and most privileged citizens.As the letter nears its end, the pope calls on us to remain faithful to the truth, to invest in education, to cultivate relationships, to live in justice and peace – to resist the way in which the new technologies can “exploit the most vulnerable, create new forms of slavery and derive profit from conflict”. What becomes clear is that the pope is not condemning AI outright but rather the way it can be used as a tool of political repression and as a guarantee of worsening economic inequality.In theory, it’s possible to criticize the encyclical for not going far enough, for not using another biblical metaphor – the golden calf – to stigmatize the use of AI because of how it prioritizes cost-saving over spiritual, individual and communal growth. But that ship has already sailed, and there’s not much that Leo XIV – or any religious leader – can do to condemn the new advances as a 21st-century form of idolatry.Even so, the encyclical’s vision of human nature, of the spirit of justice and empathy that needs to prevail, of the essential importance of the highest moral values – is ultimately so beneficent, so positive, so generous, so inarguably clear about our obligation to protect the weak and the poor that it’s hard to find reasons to dismiss it.But that’s the scary part. Apparently there’s been a certain amount of blowback from Silicon Valley, where the inventors and masters of the latest technology have suggested that the pope doesn’t know what he’s talking about.Jeremy Nixon, a founder of AGI House, a group dedicated to proving that AI is essentially equal to the human brain, was quoted in the New York Times as saying that the church hadn’t “thought deeply about … AI”, adding: “They couldn’t have a position on it, because they don’t understand it.” And there seems to be a widespread belief that the end product of the current research will be, in effect a new God, or at least a convincing simulacrum. Concerned about the perils of the future, our society is choosing to overlook the evidence that the downsides of AI are already upon us. A friend’s daughter, a college student majoring in advertising, was recently informed by her adviser that by the time she graduates, all the jobs in advertising will have been taken by AI.If the masters of this new technology fail to agree with what the pope sees as its dangers and drawbacks, we are in very deep trouble indeed. The problem is not that we will have a robot writing Anna Karenina. The problem is that no one will see any possible need for a novel that so exquisitely portrays the sufferings of a woman, a singular human being.There would be no point in a book like that unless that account of a life-changing mistake could be monetized by a forward-thinking tech bro and used to finance the purchase of a bigger and better yacht, presumably serviced by a permanent underclass, by workers whose dignity – whose formerly valued and valuable jobs – have been pirated by the rapacious manifestations of artificial intelligence.",
+          "zh": "经常有人问我是否认为未来的小说都会由人工智能来写。与其说这是一个问题，不如说是一种挑衅。我是否担心机器可以做我所做的事情，甚至做得更好？我通常会这样说：“没有算法能够写出安娜·卡列尼娜！”这也不是一个真正的答案。所以我感谢美国教皇利奥十四世最近向世界发出了一封信，《人性的伟大：论人工智能时代保护人类》。这是一部长篇（超过 40,00 字）、智慧且深思熟虑的通谕，其中教皇谈到了快速发展的技术的使用和误用。现在，当有人问我对人工智能的看法时，我可以向他们推荐教皇的信，或者至少是第三章。通谕首先恰当地引用了圣经，提到了人类交流中断的悲惨后果。人类面临着“关键的选择：要么建造一座新的巴别塔，要么建造一座上帝与人类共同居住的城市”。以下详细介绍了利奥教皇的前任观点的演变，以及梵蒂冈关于劳动、权威、政府、科学、权力以及我们彼此之间的道德义务的观念的演变。它列举了教会在捍卫人类尊严和自由方面所做的工作。第三章，技术与统治。 《人工智能的承诺下的人类的伟大》兑现了通谕标题的承诺。在一段雄辩的（也是最常被引用的）解释人工智能不是什么的段落中，教皇本质上定义了人类的意义。 “所谓的人工智能不会经历经历，不会拥有身体，不会感受快乐或痛苦，不会通过人际关系而成熟，也不知道内心意味着什么爱、工作、友谊或责任。”人工智能没有道德良知，也没有对人类更大的利益表现出任何指导性的关注。这封信接着谈到了人工智能可能构成的最大威胁的最重要和最必要的事情：它只能被编程以实现利润最大化，这种情况只会导致大多数人的痛苦，而少数人的利益。教皇警告不要“操纵隐私”和“滥用信息”，不要使用算法来管理就业、控制公共服务和信贷的获取，以及提升或损害个人声誉。同情、仁慈和宽恕——在机器的优先事项清单上并不靠前——将变得过时。 “‘必要的牺牲’可能开始变得合理，为追求所谓的物种优化而将负担强加给最脆弱的群体。”如果这种新权力的工具被置于那些已经拥有财富和影响力的人手中，它们将被用来提高我们最富有和最有特权的公民的舒适、健康和福祉。在这封信即将结束之际，教宗呼吁我们继续忠于真理，投资于教育，培养关系，生活在正义与和平中，抵制新技术“剥削最弱势群体，创造新形式的奴隶制并从冲突中获利”的方式。显而易见的是，教皇并不是直接谴责人工智能，而是谴责它被用作政治镇压的工具和加剧经济不平等的保证。从理论上讲，我们可以批评通谕走得不够远，没有使用另一个圣经隐喻——金牛犊——来污蔑人工智能的使用，因为它优先考虑节省成本而不是精神、个人和社区的增长。但这艘船已经起航了，利奥十四世——或者任何宗教领袖——都无法谴责这些新进步是21世纪的偶像崇拜。即便如此，通谕对人性、需要占上风的正义和同理心精神、最高道德价值观的至关重要性的愿景，最终还是如此仁慈、如此积极、如此慷慨，如此无可争议地明确了我们保护弱者和穷人的义务，很难找到拒绝它的理由。但这就是可怕的部分。显然，硅谷已经产生了一定程度的反弹，那里的最新技术的发明者和大师表示，教皇不知道他在说什么。 《纽约时报》援引 AGI House 创始人杰里米·尼克松 (Jeremy Nixon) 的话说，教会没有“深入思考……人工智能”，并补充道：“他们不可能对此有立场，因为他们不了解它。”人们似乎普遍相信，当前研究的最终产品实际上将是一个新的上帝，或者至少是一个令人信服的拟像。出于对未来危险的担忧，我们的社会选择忽视人工智能的弊端已经降临到我们身上的证据。一位朋友的女儿是一名广告专业的大学生，最近她的导师告诉她，到她毕业时，广告行业的所有工作都将被人工智能取代。如果这项新技术的大师们不同意教皇所认为的其危险和缺点，我们确实陷入了很大的麻烦。问题不在于我们将有一个机器人来写《安娜·卡列尼娜》。问题是，没有人会认为有必要写一部如此精美地描绘一个女人、一个独特的人类的痛苦的小说。除非对一个改变人生的错误的描述能够被一位有远见的技术兄弟货币化，并用它来资助购买一艘更大更好的游艇，而这艘游艇的服务人员大概是永久的下层阶级，而这些工人的尊严——他们以前有价值和有价值的工作——已经被贪婪的人工智能表现所盗版，那么这样的书就没有意义了。情报。"
         },
         {
-          "en": "\"The Uncounted\" is the name of a project by the Colombian-American photographer and filmmaker Juan Arredondo.",
-          "zh": "“The Uncounted”是哥伦比亚裔美国摄影师兼电影制片人胡安·阿雷东多 (Juan Arredondo) 的一个项目的名称。"
-        },
-        {
-          "en": "That title refers to people who have no life cycle records. No birth certificate. No death certificate. Or in some cases, the document may exist but finding a copy is like trying to climb Mount Everest.",
-          "zh": "这个头衔指的是没有生命周期记录的人。没有出生证明。没有死亡证明。或者在某些情况下，该文档可能存在，但找到副本就像尝试攀登珠穆朗玛峰一样。"
-        },
-        {
-          "en": "Arredondo traveled to six countries to explore the importance of these records and the impact of their absence. His photos are currently part of the sprawling open-air Photoville exhibition in Brooklyn, New York, open through May 30.",
-          "zh": "阿雷东多前往六个国家探讨这些记录的重要性以及它们缺失的影响。他的照片目前是纽约布鲁克林 Photoville 大型露天展览的一部分，展览将持续至 5 月 30 日。"
-        },
-        {
-          "en": "Every unrecorded birth means a life without a legal identity and all the rights, services and protections that come with it.",
-          "zh": "每一次未记录的出生都意味着没有合法身份以及随之而来的所有权利、服务和保护的生活。"
-        },
-        {
-          "en": "June 11, 2025. Musanze District, Rwanda Goodlive Nyiramajyambere (left), Hosee Nziyonemeye (center) and Icamdenien Uwamahoro (right), sort through the paper archives searching for birth and death registration of their relatives at the Civil Registration Office. While Rwanda is actively digitizing all papercivil records, physical copies are still required for some official procedures. The transition to digital systems aims to improve accessibility.",
-          "zh": "2025 年 6 月 11 日，卢旺达穆桑泽区 Goodlive Nyiramajyambere（左）、Hosee Nziyonemeye（中）和 Icamdenien Uwamahoro（右）在民事登记办公室整理纸质档案，寻找其亲属的出生和死亡登记。尽管卢旺达正在积极将所有纸质民事记录数字化，但某些官方程序仍然需要纸质副本。向数字系统的过渡旨在提高可访问性。"
-        },
-        {
-          "en": "Every unrecorded death means that someone is invisible to the health system, their cause of death a missing piece of data that could prevent future losses.",
-          "zh": "每一个未记录的死亡都意味着卫生系统看不到某人，他们的死因是一个可以防止未来损失的缺失数据。"
-        },
-        {
-          "en": "And there are a lot of people who go uncounted. \"Each year, nearly half of all deaths and 25% of all births go unrecorded worldwide,\" Arredondo notes.",
-          "zh": "而且还有很多人没有被统计到。阿雷东多指出：“每年，全球近一半的死亡和 25% 的出生都没有记录。”"
-        },
-        {
-          "en": "February 28, 2025. Agusan del Norte, Philippines Nurses at the Agusan del Norte Provincial Hospital perform initial checkups on the date of the recorded birth.",
-          "zh": "2025 年 2 月 28 日，菲律宾北阿古桑省 北阿古桑省医院的护士在记录的出生日期进行初步检查。"
-        },
-        {
-          "en": "The photo at the top of the story, from Bangladesh, shows mothers holding up newly issued birth certificates after a government registration drive. Having the certificate enables residents to enroll in a food assistance program.",
-          "zh": "故事顶部的照片来自孟加拉国，显示母亲们在政府登记后举着新签发的出生证明。拥有该证书使居民能够参加食品援助计划。"
-        },
-        {
-          "en": "There are other benefits to documentation. \"Fundamental to public health is understanding what the data says about deaths and births,\" especially the causes of children's and other premature deaths, explains Jennifer Ellis, who leads the Bloomberg Philanthropies Data for Health Initiative. The challenge is that across the globe, an estimated half of all deaths and a quarter of all births are left unrecorded. Or even if they are recorded, the paperwork may be unfiled, undigitized and effectively inaccessible.",
-          "zh": "文档还有其他好处。 \"Fundamental to public health is understanding what the data says about deaths and births,\" especially the causes of children's and other premature deaths, explains Jennifer Ellis, who leads the Bloomberg Philanthropies Data for Health Initiative.面临的挑战是，在全球范围内，估计有一半的死亡和四分之一的出生没有被记录。或者，即使它们被记录下来，文书工作也可能未归档、未数字化并且实际上无法访问。"
-        },
-        {
-          "en": "November 29, 2024. University Teaching Hospital, Lusaka, Zambia Forensic pathologists and support staff prepare for the day's death investigations. Records of causes of death are critical in establishing priorities for a country's healthcare system.",
-          "zh": "2024 年 11 月 29 日。赞比亚卢萨卡大学教学医院法医病理学家和支持人员为当天的死亡调查做准备。死亡原因记录对于确定国家医疗保健系统的优先事项至关重要。"
-        },
-        {
-          "en": "Because the majority of deaths in remote or low-income countries occur at home rather than in a hospital, clinical or medical descriptions of the reasons for the mortalities also remain unknown. Without that missing information, Ellis says, communities and governments may lack the means to identify previously unrecognized health threats or track the emergence of communicable disease epidemics. By contrast, with cumulative data in hand, health officials can tailor their policies to respond effectively.",
-          "zh": "由于偏远或低收入国家的大多数死亡发生在家里而不是在医院，因此死亡原因的临床或医学描述也仍然未知。埃利斯说，如果没有这些缺失的信息，社区和政府可能缺乏识别以前未被识别的健康威胁或跟踪传染病流行的出现的方法。相比之下，凭借手中的累积数据，卫生官员可以调整政策以有效应对。"
-        },
-        {
-          "en": "December 3, 2024. Death Registration Office, Kitwe, Zambia Lazarus Kangasa waits at the Kitwe City Council Registration Office for a burial permit, the final step in certifying and obtaining his son's death certificate.",
-          "zh": "2024 年 12 月 3 日，赞比亚基特韦死亡登记办公室 Lazarus Kangasa 在基特韦市议会登记办公室等待埋葬许可证，这是证明和获得儿子死亡证明的最后一步。"
-        },
-        {
-          "en": "That is what happened in Zambia when the Bloomberg Philanthropies program analyzed a childhood mortality study and found found that 75% percent of all children born with HIV but untreated for it would die by the age 5. That led to a change in government policy making sure at risk children would be tested and treated if need be. As a result, that number rose from a low of 3% to children tested and treated, the number rose to 85% percent.",
-          "zh": "这就是赞比亚发生的情况，彭博慈善项目分析了一项儿童死亡率研究，发现所有出生时就携带艾滋病毒但未经治疗的儿童中有 75% 会在 5 岁时死亡。这导致政府政策发生变化，确保高危儿童在需要时接受检测和治疗。结果，这一数字从 3% 的低点上升到接受测试和治疗的儿童，这一数字上升至 85%。"
-        },
-        {
-          "en": "June 14, 2025. Rulindo District, Rwanda Thacien Ngirabatware (left) and his mother, Aurelia Muhayimana, recount the circumstances of her husband's death from heart failure to Aciadomme Inqaise, a verbal autopsy officer. Verbal autopsies are part of a national effort to improve data for death records.",
-          "zh": "2025 年 6 月 14 日，卢旺达鲁林多区 Thacien Ngirabatware（左）和他的母亲 Aurelia Muhayimana 向口头尸检官员 Aciadomme Inqaise 讲述了她丈夫因心力衰竭死亡的情况。口头尸检是国家改善死亡记录数据努力的一部分。"
-        },
-        {
-          "en": "Arredondo worked with the Bloomberg Philanthropies Data for Health (D4H) Initiative and the public health organizations Vital Strategies and CDC Foundation as he made photos that tell the stories of what it means to be uncounted –- and to at long last be counted.",
-          "zh": "阿雷东多与彭博慈善健康数据 (D4H) 计划、公共卫生组织 Vital Strategies 和 CDC 基金会合作，拍摄了一些照片，讲述了未被统计以及最终被统计意味着什么的故事。"
-        },
-        {
-          "en": "February 25, 2025. Quezon City, Philippines Arthur R. Caballero holds the urn containing the ashes of his mother, Erma R. Caballero. The funeral service, provided free of charge, is part of an initiative to support families who cannot afford funeral expenses.",
-          "zh": "2025 年 2 月 25 日，菲律宾奎松市，亚瑟·R·卡巴列罗 (Arthur R. Caballero) 手捧装有他母亲艾尔玛·R·卡巴列罗 (Erma R. Caballero) 骨灰的骨灰瓮。免费提供的葬礼服务是支持无力承担葬礼费用的家庭计划的一部分。"
-        },
-        {
-          "en": "Diane Cole writes for many publications, including The Wall Street Journal and The Washington Post. She is the author of the memoir After Great Pain: A New Life Emerges. Her website is DianeJoyceCole.com",
-          "zh": "黛安·科尔为许多出版物撰稿，包括《华尔街日报》和《华盛顿邮报》。她是回忆录《巨大痛苦之后：新生活的出现》的作者。她的网站是 DianeJoyceCole.com"
+          "en": "Francine Prose is a former president of PEN American Center and a member of the American Academ",
+          "zh": "弗朗辛·普罗斯（Francine Prose）是美国笔会中心前主席、美国科学院院士"
         }
       ]
     },
     {
-      "title": "Anger at decision not to extradite Canadian suicide kit supplier to face UK justice",
-      "link": "https://www.theguardian.com/technology/2026/may/29/anger-decision-not-extradite-canadian-suicide-kit-supplier-face-uk-justice",
-      "summary": "Kenneth Law expected to admit to sending products internationally in knowledge they would probably be used to end lives\nBereaved families whose loved ones were the victims of an online supplier of suicide kits say they feel insulted by a decision not to prosecute him in the UK.\nK",
-      "pubDate": "Fri, 29 May 2026 10:39:02 GMT",
-      "source": "The Guardian",
-      "sourceColor": "#052962",
-      "titleZh": "对不引渡加拿大自杀工具包供应商接受英国司法的决定感到愤怒",
-      "summaryZh": "肯尼思·劳预计将承认将产品运送到国际各地，因为他知道这些产品可能会被用来结束生命\n一些亲人是一家在线自杀工具包供应商受害者的死者家属表示，英国不起诉他的决定让他们感到受到了侮辱。\nK",
-      "contentParagraphs": [
-        {
-          "en": "Bereaved families whose loved ones were the victims of an online supplier of suicide kits say they feel insulted by a decision not to prosecute him in the UK.Kenneth Law was due to appear in court on Friday in Ontario, Canada, accused of selling 1,200 suicide packages across 40 countries, including the UK.He is expected to plead guilty to charges of aiding suicide and to admit sending products internationally in the knowledge they were likely to be used to end lives. Last month his lawyers confirmed a plea agreement under which previous murder charges would be withdrawn.An investigation by the National Crime Agency (NCA) into Canadian websites found that 286 individuals had received packages in the UK, leading to 112 deaths.A day before Law’s court appearance, the NCA and the Crown Prosecution Service told bereaved families they would not be seeking to extradite the 60-year-old to the UK after legal proceedings in Canada had concluded.Aimee Walton, left, who died in 2022 after buying one of the suicide kits from Law’s website, with her sister Adele. Photograph: Adele WaltonAdele Zeynep Walton, the sister of 21-year-old Aimee, from Southampton, who died in 2022 after buying one of the suicide kits from Law’s website, said: “It’s absolutely insane that the NCA and CPS are not going to do anything about it. It is so insulting.”In a letter to the families, the NCA and the CPS said: “After careful assessment, we agreed that Mr Law should be sentenced for the full extent of his offending within a single sentencing process in Canada. This approach is not unusual in cases involving serious offending that crosses international borders.“We recognise that this may be painful to hear, and that some victims and bereaved families may have hoped to see a separate prosecution in England and Wales.”Walton said the scale and novelty of Law’s alleged crimes warranted intervention from the UK authorities. She said: “When have we ever had people using the internet in order to target and seek out vulnerable people and assist them systematically in suicide? This is a new epidemic of assisted suicide. I think the approach of the NCA and CPS needs to adapt with the times.“If they’re not going to prosecute a man who potentially could be one of UK’s biggest serial killers, then what message does that send to other people like him?”Walton added: “There are more victims than the Grenfell disaster and yet no one seems to be talking about this and there’s no willingness from the government, from the NCA and CPS to bring justice to families.”David Parfett, the father of Thomas Parfett, 22, a philosophy student who took his own life in Sunbury-on-Thames, Surrey, said: “I am angry, but I am not surprised. For months, we have been told that the system is working and that existing measures are enough. They are not.“If our own country will not put anyone on trial for these deaths, the very least it can do is hold a proper inquiry into how they were allowed to happen.”Last month the government rejected calls for a public inquiry into the issue.Andy Burrows, the chief executive of the Molly Rose Foundation, said: “Bereaved families have been campaigning tirelessly to hold Kenneth Law to account in the UK and to be told he will not be prosecuted here on the eve of his court case in Canada is a bitter blow.“Families up and down the country have been impacted by Law’s crimes and should have the right to full justice in the UK. As long as the pro-suicide forum remains online, and while this substance is available in the UK and across borders, more vulnerable people are at risk.”Next week the bereaved families will meet their lawyers at Leigh Day to discuss next steps. Walton said: “We are going to keep fighting because the only reason that we continue to share our trauma is to prevent future deaths.”In a joint statement, Joanne Jakymec, the chief crown prosecutor for the CPS, and Craig Turner, a deputy director at the NCA, said: “No outcome in any court can remove the pain victims and their families have suffered. Victims have remained our priority when making decisions to deliver justice.”",
-          "zh": "亲人是一家在线自杀工具包供应商受害者的家属表示，他们对英国不起诉他的决定感到受到了侮辱。肯尼思·劳定于周五在加拿大安大略省出庭，被指控在包括英国在内的 40 个国家出售 1,200 个自杀包。预计他将承认帮助自杀的指控，并承认在知道这些产品可能被用来结束生命的情况下将这些产品发送到国际上。上个月，他的律师确认了一项认罪协议，根据该协议，之前的谋杀指控将被撤销。国家犯罪局 (NCA) 对加拿大网站的调查发现，有 286 人在英国收到了包裹，导致 112 人死亡。劳出庭前一天，国家犯罪局和皇家检察署告诉死者家属，在加拿大的法律诉讼结束后，他们不会寻求将这位 60 岁的老人引渡到英国。艾米·沃尔顿（左）死亡2022 年，她和妹妹阿黛尔 (Adele) 从劳的网站上购买了一套自杀工具包。照片：阿黛尔·沃尔顿 来自南安普敦的 21 岁艾米的妹妹阿黛尔·泽伊内普·沃尔顿 (Adele Zeynep Walton) 于 2022 年在劳先生的网站上购买了一套自杀工具包后去世，她说：“NCA 和 CPS 对此不采取任何行动，这绝对是疯狂的。这是一种侮辱。”NCA 和 CPS 在给家人的一封信中表示：“经过仔细评估，我们一致认为劳先生应该被处决。”在加拿大，这种做法在涉及跨国界严重犯罪的案件中并不罕见。“我们认识到，这可能令人痛苦，一些受害者和死者家属可能希望在英格兰和威尔士看到单独的起诉。”沃尔顿表示，劳所指控的罪行的规模和新颖性值得英国当局进行干预。系统地帮助他们自杀？这是一种新的协助自杀流行病。我认为 NCA 和 CPS 的做法需要与时俱进。“如果他们不起诉一个可能成为英国最大连环杀手之一的人，那么这会给像他这样的其他人传达什么信息？”沃尔顿补充道：“受害者比格伦菲尔灾难还要多，但似乎没有人谈论此事，政府、NCA 和 CPS 也不愿意为家庭伸张正义。” 大卫·帕菲特 (David Parfett)，父亲22 岁的哲学系学生托马斯·帕菲特 (Thomas Parfett) 在萨里郡泰晤士河畔桑伯里结束了自己的生命，他说：“我很生气，但我并不感到惊讶。几个月来，我们一直被告知这个系统正在发挥作用，现有的措施已经足够了。但事实并非如此。如果我们自己的国家不会因这些死亡事件而对任何人进行审判，那么至少它能做的就是对如何允许这些事件发生进行适当的调查。”上个月，政府拒绝了对这一问题进行公开调查的呼吁。安迪莫莉·罗斯基金会首席执行官巴罗斯表示：“失去亲人的家庭一直在不懈地争取让肯尼思·劳在英国承担责任，并在加拿大法庭审理案件前夕得知他不会在这里受到起诉，这对他们来说是一个沉重的打击。”“全国上下的家庭都受到了劳犯罪行为的影响，只要支持自杀的论坛仍然在线，而且这种物质在英国和全国各地都有，他们就应该有权在英国获得充分的正义。”下周，死者家属将在利日会见他们的律师，讨论下一步行动。沃尔顿说：“我们将继续战斗，因为我们继续分担创伤的唯一原因是为了防止未来死亡。”皇家检察署首席检察官乔安妮·贾基梅克和全国刑事法院副主任克雷格·特纳在一份联合声明中表示：“任何法庭的结果都无法消除受害者及其家人所遭受的痛苦。在做出伸张正义的决定时，受害者仍然是我们的首要任务。”"
-        }
-      ]
+      "title": "Only three-quarters of first class mail delivered on time",
+      "link": "https://www.bbc.com/news/articles/cy02jyxz26po?at_medium=RSS&at_campaign=rss",
+      "summary": "Royal Mail says its service is improving and that it is on track to hit the regulator Ofcom's reduced targets",
+      "pubDate": "Fri, 29 May 2026 13:29:10 GMT",
+      "source": "BBC Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "只有四分之三的头等邮件按时送达",
+      "summaryZh": "英国皇家邮政表示，其服务正在改善，有望实现监管机构 Ofcom 降低的目标",
+      "contentParagraphs": []
     },
     {
       "title": "Exploding rocket casts doubts over Nasa's Moon plans",
       "link": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
       "summary": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
       "pubDate": "Fri, 29 May 2026 10:38:46 GMT",
-      "source": "BBC News",
-      "sourceColor": "#b80000",
+      "source": "BBC Science",
+      "category": "science",
+      "sourceColor": "#6a1b9a",
       "titleZh": "火箭爆炸让人们对美国宇航局登月计划产生怀疑",
       "summaryZh": "蓝色起源火箭的爆炸对该公司和美国宇航局的月球计划来说都是一次挫折。",
       "contentParagraphs": [
         {
-          "en": "Exploding rocket casts doubts over Nasa's Moon plans39 minutes agoPallab GhoshScience correspondentThe fireball that lit up the sky over Florida's Kennedy Space Centre last night has put a big question mark over whether Jeff Bezos' Blue Origin can deliver on a string of commitments to Nasa in its efforts to send astronauts to the lunar surface and build a Moon base.Blue Origin's New Glenn rocket exploded at about 21:00 local time during a routine test of its engines.The 98m (322ft) rocket had been due to launch 48 satellites for Amazon's Leo broadband network, as early as 4 June.The explosion is obviously a big setback for the Leo network, which is struggling to be the main competitor for Elon Musk's SpaceX and its Starlink service. But the ramifications will go much further.The good news was that no-one was injured, despite the spectacular explosion.\"All personnel are accounted for and safe,\" Bezos wrote on X. \"Very rough day, but we'll rebuild whatever needs rebuilding and get back to flying. It's worth it.\"But the blast which tore through Space Launch Complex 36 (LC-36) has caused extensive damage. Footage shows one of the pad's lightning protection towers toppling in the aftermath.LC-36 is the only facility in the world built to launch the New Glenn rocket. That means that until the launch pad is rebuilt and re-certified, Blue Origin has no way to fly its largest rocket - and analysts expect that to take months, not weeks.The setback comes just days after Nasa's administrator, Jared Isaacman, announced the first three missions of the agency's plans to build a lunar base - a project he billed as the start of a \"permanent presence\" at the Moon's south pole.The first, Moon Base 1, is due to be flown on Blue Origin's robotic Blue Moon Mark 1 \"Endurance\" lander, and is targeted for launch no earlier than autumn 2026.It is intended to carry two Nasa science payloads to the Shackleton Connecting Ridge and demonstrate the precision-landing techniques needed to keep future crewed landings safe. But the lander was to ride to the Moon on top of a New Glenn - the same type of rocket that is now scattered across LC-36 - raising immediate doubts as to whether that timetable is now possible.Earlier this week, Nasa also handed Blue Origin a contract worth up to $468m to deliver two commercial lunar terrain vehicles, built by Astrolab and Lunar Outpost, to the Moon's south pole by 2028.Those rovers are meant to be in place before astronauts arrive. Nasa has set a target date of 2028 for a crewed landing, though that date had been questioned even before last night's explosion.Blue OriginThe explosion has cast doubts over Blue Origin's next launch timetableThe destroyed rocket had been due to deploy a batch of 48 satellites for Amazon's Leo broadband constellation - the network formerly known as Project Kuiper which is designed to challenge Elon Musk's Starlink.Just over 300 Amazon Leo satellites are currently in orbit, all of them lifted by SpaceX, United Launch Alliance and Arianespace rather than by Blue Origin itself.The gap between Leo and Starlink - which has more than 10,000 satellites in orbit - is now a serious commercial problem for Bezos' group. Under its US Federal Communications Commission (FCC) licence, Amazon is required to have half of its 3,236-satellite constellation in orbit by 30 July 2026. As of late May, the company was already more than 1,300 satellites short of that target, with delays blamed in part on \"launch vehicle availability\" from Blue Origin and other providers.With New Glenn now expected to be grounded for months, Amazon will be even more dependent on its rivals - chief among them SpaceX - to keep its rollout alive, and is almost certain to need a fresh extension to its timetable from the FCC.Elon Musk, SpaceX CEO, responded on X to footage of the blast saying only: \"Most unfortunate. Rockets are hard.\"More problemsNASAEarlier this year, NASA launched the Artemis II mission with four astronauts aboard the Orion spacecraftNasa's next crewed Moon mission, Artemis III, is scheduled to launch next year and is designed to be a low earth orbit flight test of two commercial lunar landers - built by Blue Origin and SpaceX.Until the explosion, Blue Origin was seen as the more prepared of the two. Its Mark 1 demonstrator was already in final stacking in Florida, while SpaceX's Starship has yet to complete a successful in-space propellant transfer.All this leaves Nasa's plan to land astronauts back to the Moon by 2028 and to build a Moon base there with several problems which will inevitably now lead to delays. The lander test for Artemis III depends on the same rocket family, and the Moon Base rover deliveries are contractually tied to New Glenn.Meanwhile, China is forging ahead with its own plans to land its astronauts on the Moon by 2030, leaving Nasa without much room for manoeuvre.Nasa Administrator Jared Isaacman responded to the latest setback on X: \"Spaceflight is unforgiving, and developing new heavy-lift launch capability is extraordinarily difficult.\"But Isaacman's drive to push Nasa's Moon programme to a more ambitious frequency of launches is now seriously in doubt after last night's setback.",
-          "zh": "火箭爆炸使人们对美国宇航局登月计划产生怀疑 39 分钟前 帕拉布·戈什 科学通讯员 昨晚照亮佛罗里达州肯尼迪航天中心上空的火球给杰夫·贝索斯的蓝色起源能否兑现对美国宇航局的一系列承诺打上了一个大大的问号，努力将宇航员送上月球表面并建立月球基地。蓝色起源的新格伦火箭在当地时间 21:00 左右在一次例行飞行中爆炸发动机测试。这枚 98m（322 英尺）火箭原定于 6 月 4 日为亚马逊的 Leo 宽带网络发射 48 颗卫星。这次爆炸显然对 Leo 网络来说是一个重大挫折，该网络正在努力成为埃隆·马斯克的 SpaceX 及其星链服务的主要竞争对手。但后果还会更严重。好消息是，尽管发生了壮观的爆炸，但没有人受伤。贝索斯在 X 上写道：“所有人员都已安全，”贝佐斯在 X 上写道。“非常艰难的一天，但我们将重建所有需要重建的东西，然后重新开始飞行。这是值得的。”但是，撕裂 36 号太空发射综合体（LC-36）的爆炸造成了广泛的破坏。视频显示发射台的一个避雷塔在事故发生后倒塌。LC-36 是世界上唯一为发射新格伦火箭而建造的设施。这意味着，在发射台重建并重新获得认证之前，蓝色起源无法发射其最大的火箭，分析师预计这需要几个月而不是几周的时间。就在几天前，美国宇航局局长贾里德·艾萨克曼宣布了该机构建造月球基地计划的前三项任务，他将这一项目称为在月球南极“永久存在”的开始。第一个任务是月球基地 1 号，预计将在蓝色起源上飞行。 Origin 的机器人 Blue Moon Mark 1“Endurance”着陆器计划不早于 2026 年秋季发射。它的目的是将两个 NASA 科学有效载荷运送到沙克尔顿连接山脊，并展示确保未来载人着陆安全所需的精确着陆技术。但着陆器将乘坐新格伦号（与现在散布在 LC-36 上的同一类型火箭）前往月球，这立即让人怀疑这个时间表现在是否可行。本周早些时候，美国宇航局还向蓝色起源公司提供了一份价值高达 4.68 亿美元的合同，将在 2028 年之前将两辆由 Astrolab 和 Lunar Outpost 制造的商业月球地形车运送到月球南极。这些月球车预计将在 2028 年之前就位。宇航员到达。美国宇航局已将载人着陆的目标日期定为 2028 年，尽管这一日期甚至在昨晚爆炸之前就受到了质疑。蓝色起源这次爆炸使人们对蓝色起源的下一次发射时间表产生了怀疑。被摧毁的火箭原定为亚马逊的 Leo 宽带星座部署一批 48 颗卫星，该网络以前称为柯伊伯计划，旨在挑战埃隆·马斯克的星链。目前只有 300 多颗亚马逊 Leo 卫星在发射。所有这些卫星都是由 SpaceX、联合发射联盟和阿丽亚娜航天公司发射升空，而不是由蓝色起源本身发射。Leo 和 Starlink（在轨卫星数量超过 10,000 颗）之间的差距现在对贝佐斯的团队来说是一个严重的商业问题。根据美国联邦通信委员会 (FCC) 的许可，亚马逊必须在 2026 年 7 月 30 日之前将其 3,236 颗卫星中的一半送入轨道。截至 5 月下旬，该公司已经比该目标少了 1,300 多颗卫星，延误的部分原因归咎于蓝色起源和其他提供商的“运载火箭可用性”。由于新格伦号现在预计将停飞数月，亚马逊将更加依赖其竞争对手（其中主要是 SpaceX）为了保持其推出的活力，几乎肯定需要 FCC 重新延长其时间表。 SpaceX 首席执行官埃隆·马斯克 (Elon Musk) 在 X 上对爆炸视频做出回应，仅表示：“最不幸。火箭很难。”更多问题 美国宇航局今年早些时候，美国宇航局与猎户座飞船上的四名宇航员一起发射了阿耳忒弥斯二号任务。美国宇航局的下一次载人登月任务阿耳忒弥斯三号计划于明年发射，旨在对由蓝色起源和 SpaceX 建造的两个商业月球着陆器进行低地球轨道飞行测试。在爆炸之前，蓝色起源被视为两者中准备得更充分的。它的 Mark 1 验证器已经在佛罗里达州进行最后的堆放，而 SpaceX 的 Starship 尚未成功完成太空推进剂转移。所有这些使得 NASA 计划在 2028 年将宇航员送回月球并在那里建立月球基地，但存在一些问题，这些问题现在将不可避免地导致延误。阿耳忒弥斯三号的着陆器测试依赖于同一个火箭系列，而月球基地漫游车的交付则与新格伦号有合同关系。与此同时，中国正在推进自己的计划，在 2030 年将宇航员送上月球，这让美国宇航局没有太多回旋余地。美国宇航局局长贾里德·艾萨克曼对 X 上的最新挫折做出了回应：“太空飞行是无情的，开发新的重型发射能力是非常重要的但在昨晚的挫折之后，艾萨克曼推动美国宇航局月球计划以更雄心勃勃的发射频率的努力现在受到严重质疑。"
+          "en": "Exploding rocket casts doubts over Nasa's Moon plans5 hours agoPallab GhoshScience correspondentThe fireball that lit up the sky over Florida's Kennedy Space Centre last night has put a big question mark over whether Jeff Bezos' Blue Origin can deliver on a string of commitments to Nasa in its efforts to send astronauts to the lunar surface and build a Moon base.Blue Origin's New Glenn rocket exploded at about 21:00 local time during a routine test of its engines.The 98m (322ft) rocket had been due to launch 48 satellites for Amazon's Leo broadband network, as early as 4 June.The explosion is obviously a big setback for the Leo network, which is struggling to be the main competitor for Elon Musk's SpaceX and its Starlink service. But the ramifications will go much further.The good news was that no-one was injured, despite the spectacular explosion.\"All personnel are accounted for and safe,\" Bezos wrote on X. \"Very rough day, but we'll rebuild whatever needs rebuilding and get back to flying. It's worth it.\"But the blast which tore through Space Launch Complex 36 (LC-36) has caused extensive damage. Footage shows one of the pad's lightning protection towers toppling in the aftermath.LC-36 is the only facility in the world built to launch the New Glenn rocket. That means that until the launch pad is rebuilt and re-certified, Blue Origin has no way to fly its largest rocket - and analysts expect that to take months, not weeks.The setback comes just days after Nasa's administrator, Jared Isaacman, announced the first three missions of the agency's plans to build a lunar base - a project he billed as the start of a \"permanent presence\" at the Moon's south pole.The first, Moon Base 1, is due to be flown on Blue Origin's robotic Blue Moon Mark 1 \"Endurance\" lander, and is targeted for launch no earlier than autumn 2026.It is intended to carry two Nasa science payloads to the Shackleton Connecting Ridge and demonstrate the precision-landing techniques needed to keep future crewed landings safe. But the lander was to ride to the Moon on top of a New Glenn - the same type of rocket that is now scattered across LC-36 - raising immediate doubts as to whether that timetable is now possible.Earlier this week, Nasa also handed Blue Origin a contract worth up to $468m to deliver two commercial lunar terrain vehicles, built by Astrolab and Lunar Outpost, to the Moon's south pole by 2028.Those rovers are meant to be in place before astronauts arrive. Nasa has set a target date of 2028 for a crewed landing, though that date had been questioned even before last night's explosion.Blue OriginThe explosion has cast doubts over Blue Origin's next launch timetableThe destroyed rocket had been due to deploy a batch of 48 satellites for Amazon's Leo broadband constellation - the network formerly known as Project Kuiper which is designed to challenge Elon Musk's Starlink.Just over 300 Amazon Leo satellites are currently in orbit, all of them lifted by SpaceX, United Launch Alliance and Arianespace rather than by Blue Origin itself.The gap between Leo and Starlink - which has more than 10,000 satellites in orbit - is now a serious commercial problem for Bezos' group. Under its US Federal Communications Commission (FCC) licence, Amazon is required to have half of its 3,236-satellite constellation in orbit by 30 July 2026. As of late May, the company was already more than 1,300 satellites short of that target, with delays blamed in part on \"launch vehicle availability\" from Blue Origin and other providers.With New Glenn now expected to be grounded for months, Amazon will be even more dependent on its rivals - chief among them SpaceX - to keep its rollout alive, and is almost certain to need a fresh extension to its timetable from the FCC.Elon Musk, SpaceX CEO, responded on X to footage of the blast saying only: \"Most unfortunate. Rockets are hard.\"More problemsNASAEarlier this year, NASA launched the Artemis II mission with four astronauts aboard the Orion spacecraftNasa's next crewed Moon mission, Artemis III, is scheduled to launch next year and is designed to be a low earth orbit flight test of two commercial lunar landers - built by Blue Origin and SpaceX.Until the explosion, Blue Origin was seen as the more prepared of the two. Its Mark 1 demonstrator was already in final stacking in Florida, while SpaceX's Starship has yet to complete a successful in-space propellant transfer.All this leaves Nasa's plan to land astronauts back to the Moon by 2028 and to build a Moon base there with several problems which will inevitably now lead to delays. The lander test for Artemis III depends on the same rocket family, and the Moon Base rover deliveries are contractually tied to New Glenn.Meanwhile, China is forging ahead with its own plans to land its astronauts on the Moon by 2030, leaving Nasa without much room for manoeuvre.Nasa Administrator Jared Isaacman responded to the latest setback on X: \"Spaceflight is unforgiving, and developing new heavy-lift launch capability is extraordinarily difficult.\"But Isaacman's drive to push Nasa's Moon programme to a more ambitious frequency of launches is now seriously in doubt after last night's setback.",
+          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
         }
       ]
     },
     {
-      "title": "Australian court sets August date for ‘mushroom murderer’ appeal hearing",
-      "link": "https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss",
-      "summary": "Erin Patterson was found guilty of killing three family members as she served them a lunch laced with poisonous fungi.",
-      "pubDate": "Fri, 29 May 2026 10:37:19 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "澳大利亚法院确定“蘑菇杀人犯”上诉听证会八月举行",
-      "summaryZh": "艾琳·帕特森因在给三名家庭成员提供含有有毒真菌的午餐时杀害了他们而被判有罪。",
-      "contentParagraphs": [
-        {
-          "en": "Erin Patterson was found guilty of killing three family members as she served them a lunch laced with poisonous fungi.An Australian court has confirmed that an appeal hearing for Erin Patterson, commonly referred to as the “mushroom murderer,” will be held in August.The Supreme Court of Victoria announced on Friday that the hearing will take place on August 19 and 20. Patterson’s lawyers formally applied to appeal her life sentence in November, arguing that there had been a “substantial miscarriage of justice” during her trial.Recommended Stories list of 3 itemslist 1 of 3Sole survivor of deadly mushroom lunch testifies at Australian murder triallist 2 of 3Erin Patterson guilty of Australian mushroom murders: All about verdictlist 3 of 3Australia ‘mushroom murderer’ sentenced to life in prisonend of listPatterson was sentenced to life in prison in September after being found guilty of murdering three of her estranged husband’s relatives by serving them a lunch laced with poisonous fungi.During the two-day hearing, the court will also consider an appeal from prosecutors, who argue that her sentence, which allows her to be considered for parole after 33 years, is “manifestly inadequate”.Prosecutors unsuccessfully argued during the trial that her sentence should have been life imprisonment without parole.Convicted triple-murderer Erin Patterson was sentenced to life in prison in September (Getty)In July, a jury found Patterson guilty of killing her estranged husband’s parents after serving them a lunch of beef Wellington laced with toxic mushrooms.The case attracted worldwide attention, with more than 250 journalists registering for updates from the court, and the judge deciding to broadcast the sentencing live.Both Gail Patterson and Donald Patterson died in August 2023. Patterson was also found guilty of murdering Gail’s sister, Heather Wilkinson, who died that same month, and of attempting to kill Wilkinson’s husband, Ian. He spent seven weeks in hospital following the poisoning and received a liver transplant.Patterson is appealing her conviction on seven grounds, including what her lawyers described as a “fundamental irregularity” relating to the sequestration of the jury, who stayed in the same hotel as key figures in the case, including a police witness and two prosecutors.Patterson’s lawyers also argue that several pieces of evidence presented during the trial were either irrelevant or unfairly prejudicial, and that the prosecution’s cross-examination of her was “unfair and oppressive”.Patterson maintains her innocence, arguing that the poisoning was accidental.",
-          "zh": "艾琳·帕特森 (Erin Patterson) 在为三名家庭成员提供含有有毒真菌的午餐时被判杀害三名家庭成员。澳大利亚一家法院已确认，通常被称为“蘑菇凶手”的艾琳·帕特森 (Erin Patterson) 的上诉听证会将于 8 月举行。维多利亚州最高法院周五宣布，听证会将于 8 月 19 日至 20 日举行。帕特森的律师于 11 月正式申请对她的无期徒刑提出上诉，称存在“实质性”审判期间“误判”。 推荐故事列表 3 项清单 1（共 3） 致命蘑菇午餐的唯一幸存者在澳大利亚谋杀案审判中作证 3 中的第 2 艾琳·帕特森犯有澳大利亚蘑菇谋杀案：所有关于判决列表 3（共 3）澳大利亚“蘑菇杀人犯”被判处终身监禁列表列表帕特森因谋杀她分居丈夫的三名亲属而于 9 月被判处终身监禁在为期两天的听证会上，法院还将考虑检察官的上诉，检察官认为对她的判决“明显不够”，这使得她在 33 年后可以考虑假释。检察官在审判期间辩称她的判决应该是终身监禁，不得假释，但没有成功。被定罪的三重杀人犯艾琳·帕特森于 9 月被判处终身监禁（盖蒂）。帕特森在为分居的丈夫的父母提供了一顿带有有毒蘑菇的惠灵顿牛肉午餐后，被认定犯有杀害他们的罪名。此案引起了全世界的关注，有超过 250 名记者注册以获取法庭的最新消息，法官决定现场直播判决结果。盖尔·帕特森和唐纳德·帕特森均于 2023 年 8 月去世。帕特森还被判谋杀盖尔的妹妹希瑟·威尔金森，后者于同月去世，试图杀死威尔金森的丈夫伊恩。中毒后，他在医院住了七周，并接受了肝脏移植手术。帕特森以七项理由对她的定罪提出上诉，其中包括她的律师所说的与隔离陪审团有关的“根本违规行为”，陪审团与案件关键人物（包括一名警方证人和两名检察官）住在同一家酒店。帕特森的律师还辩称，审判期间提供的几项证据要么不相关，要么有不公平的偏见，检方的指控对她的盘问是“不公平和压迫性的”。帕特森坚称她无罪，认为中毒是意外。"
-        }
-      ]
-    },
-    {
-      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
-      "link": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep.",
-      "pubDate": "Fri, 29 May 2026 10:34:23 GMT",
+      "title": "Canadian 'poison seller' pleads guilty to aiding suicides by selling toxic chemical online",
+      "link": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Families say he should also be charged in Britain after he sold lethal substances to people across the world, including the UK.",
+      "pubDate": "Fri, 29 May 2026 14:35:43 GMT",
       "source": "BBC News",
+      "category": "world",
       "sourceColor": "#b80000",
-      "titleZh": "肯尼亚涉嫌致命学校纵火袭击，八名学生被捕",
-      "summaryZh": "十六名学生在睡觉时吞噬宿舍的大火中丧生。",
+      "titleZh": "加拿大“毒药销售者”承认通过在线销售有毒化学品帮助自杀",
+      "summaryZh": "家人表示，在向包括英国在内的世界各地的人们出售致命物质后，他也应该在英国受到指控。",
       "contentParagraphs": []
     },
     {
-      "title": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
-      "link": "https://www.npr.org/2026/05/29/g-s1-124773/russian-drone-romania",
-      "summary": "A Russian drone that was part of an overnight attack on Ukraine crashed into an apartment building in eastern Romania, injuring two people, Romanian authorities said Friday.",
-      "pubDate": "Fri, 29 May 2026 06:32:10 -0400",
-      "source": "NPR",
-      "sourceColor": "#e57300",
-      "titleZh": "俄罗斯针对乌克兰发射的无人机在罗马尼亚坠毁，造成2人受伤",
-      "summaryZh": "罗马尼亚当局周五表示，一架俄罗斯无人机在夜间对乌克兰发动的袭击中坠入罗马尼亚东部的一栋公寓楼，造成两人受伤。",
-      "contentParagraphs": [
-        {
-          "en": "This photo released by Romania's Department for Emergency Situations shows a fire on top of a block of flats after a drone crash caused an explosion and fire on impact, in Galati, eastern Romania near the Ukrainian border, Friday May 29, 2026.",
-          "zh": "罗马尼亚紧急情况部发布的这张照片显示，2026 年 5 月 29 日星期五，在罗马尼亚东部靠近乌克兰边境的加拉茨，无人机坠毁导致爆炸和火灾后，一栋公寓楼顶起火。"
-        },
-        {
-          "en": "via AP/ISU Galati",
-          "zh": "经由美联社/国际滑联加拉茨"
-        },
-        {
-          "en": "via AP/ISU Galati",
-          "zh": "经由美联社/国际滑联加拉茨"
-        },
-        {
-          "en": "KYIV, Ukraine — A Russian drone that was part of an overnight attack on Ukraine crashed into an apartment building in eastern Romania, injuring two people, Romanian authorities said Friday.",
-          "zh": "乌克兰基辅——罗马尼亚当局周五表示，一架俄罗斯无人机在夜间对乌克兰发动的袭击中坠入罗马尼亚东部的一栋公寓楼，造成两人受伤。"
-        },
-        {
-          "en": "In response to the crash in the city of Galati, NATO member Romania asked the alliance for a faster transfer of anti-drone capabilities to its military, the Foreign Ministry said, calling the drone's flight a serious violation of international law.",
-          "zh": "外交部表示，针对加拉茨市的坠机事件，北约成员国罗马尼亚要求该联盟更快地将反无人机能力移交给其军队，称无人机的飞行严重违反了国际法。"
-        },
-        {
-          "en": "Gen. Gheorghe Maxim, a stand-in commander for the Romanian armed forces' joint staff, said at a press conference Friday that the incident \"is not an attack from Russia against Romania,\" but \"Romanians should understand that Russia is a threat to the security of the countries in the area.\"",
-          "zh": "罗马尼亚武装部队联合参谋部代理指挥官格奥尔基·马克西姆将军在周五的新闻发布会上表示，这一事件“不是俄罗斯对罗马尼亚的袭击”，但“罗马尼亚人应该明白，俄罗斯对该地区国家的安全构成威胁”。"
-        },
-        {
-          "en": "Police and other agencies responded at the scene. Galati is on the Danube River, near the borders of Ukraine and Moldova.",
-          "zh": "警方和其他机构在现场做出了回应。加拉茨位于多瑙河畔，靠近乌克兰和摩尔多瓦边境。"
-        },
-        {
-          "en": "Ukrainian forces shot down 217 drones overnight on Friday according to the country's air force. In total, Russia attacked with 232 drones and one ballistic missile. Hits were recorded in 14 areas, the air force said.",
-          "zh": "据乌克兰空军称，周五夜间，该国军队击落了 217 架无人机。俄罗斯总共出动了 232 架无人机和一枚弹道导弹进行攻击。空军表示，14 个地区均被击中。"
-        },
-        {
-          "en": "The drone was tracked by radar in Romanian airspace and crashed onto the roof of a building in Galati, Romania's Defense Ministry said in a statement. The impact was followed by a fire. Two people suffered minor injuries, and several others were evacuated.",
-          "zh": "罗马尼亚国防部在一份声明中表示，这架无人机在罗马尼亚领空被雷达跟踪并坠毁在加拉茨一栋建筑物的屋顶上。撞击之后引发了火灾。两人受轻伤，另有几人被疏散。"
-        },
-        {
-          "en": "Romania calls it the worst of many incidents",
-          "zh": "罗马尼亚称这是众多事件中最严重的一次"
-        },
-        {
-          "en": "While Romania has confirmed drone fragments on its territory on multiple occasions since the war started in 2022, including in Galati in April this year, no one has previously been hurt in any of the drone incidents in which many landed in remote areas.",
-          "zh": "尽管自 2022 年战争爆发以来，罗马尼亚已多次确认其领土上有无人机碎片，包括今年 4 月在加拉茨的无人机碎片，但此前没有人在任何无人机事件中受伤，其中许多无人机降落在偏远地区。"
-        },
-        {
-          "en": "In response to the latest incursion, Romanian President Nicusor Dan convened the NATO member's top defense body for a meeting on Friday to discuss the implications of what he called \"the worst incident to hit the national territory\" since Russia invaded Ukraine, and blamed Russia directly for the incident.",
-          "zh": "针对最近的入侵事件，罗马尼亚总统尼库索尔·丹周五召集北约成员国最高防务机构召开会议，讨论他所说的自俄罗斯入侵乌克兰以来“袭击国家领土的最严重事件”的影响，并直接将这一事件归咎于俄罗斯。"
-        },
-        {
-          "en": "\"We will have proportional measures in relation to the Russian Federation. ... There is no ambiguity about the author and the cause of this assault,\" he wrote in a post on Facebook.",
-          "zh": "“我们将对俄罗斯联邦采取相应的措施……对于袭击者和这次袭击的原因没有任何含糊之处，”他在脸书上的一篇帖子中写道。"
-        },
-        {
-          "en": "Dan added that his thoughts are with the injured people, families and residents \"who experienced terrible moments in their own homes.\"",
-          "zh": "丹补充说，他的心与受伤的人、家人和居民在一起，“他们在自己的家中经历了可怕的时刻”。"
-        },
-        {
-          "en": "The Romanian military scrambled two F-16 fighter jets and a helicopter that were authorized to engage targets, and alert messages were sent to residents of the affected areas.",
-          "zh": "罗马尼亚军方紧急出动两架F-16战斗机和一架直升机，授权它们与目标交战，并向受影响地区的居民发送警报信息。"
-        },
-        {
-          "en": "In recent years, airspace violations have become so common in Romania that lawmakers adopted legislation last year allowing the army to shoot down drones entering its airspace as a last resort. But Romania has remained cautious in downing errant drones, which can pose risks to populated areas.",
-          "zh": "近年来，侵犯领空的行为在罗马尼亚变得非常普遍，以至于立法者去年通过了立法，允许军队击落进入其领空的无人机作为最后手段。但罗马尼亚在击落失控的无人机方面仍保持谨慎态度，因为这可能对人口稠密地区构成风险。"
-        },
-        {
-          "en": "Russia has been using long-range ballistic missiles and drones to damage Ukraine's power grid and hammer cities, and Ukraine has braced for further heavy bombardments.",
-          "zh": "俄罗斯一直在使用远程弹道导弹和无人机破坏乌克兰的电网并重创城市，而乌克兰也已做好了进一步猛烈轰炸的准备。"
-        },
-        {
-          "en": "Allies rally to condemn incursion",
-          "zh": "盟友集会谴责入侵"
-        },
-        {
-          "en": "NATO Secretary-General Mark Rutte said that he had spoken to Romania's president and expressed the organization's \"absolute solidarity\" with its ally.",
-          "zh": "北约秘书长马克·吕特表示，他已与罗马尼亚总统通话，并表示该组织对其盟友“绝对声援”。"
-        },
-        {
-          "en": "In a post on X, Rutte said he \"affirmed that NATO stands ready to defend every inch of Allied territory. We will continue to enhance our readiness to deter and defend against any threat, including from drones.\"",
-          "zh": "吕特在 X 上的一篇帖子中表示，他“确认北约随时准备保卫盟军的每一寸领土。我们将继续加强准备，以威慑和防御任何威胁，包括来自无人机的威胁。”"
-        },
-        {
-          "en": "NATO allies are talking informally about the incursion but no official meeting about it was due to take place on Friday. Romania can request formal NATO consultations if it feels that it's territory or security is under threat.",
-          "zh": "北约盟国正在非正式地讨论这次入侵，但周五不会就此举行正式会议。如果罗马尼亚认为其领土或安全受到威胁，可以请求北约进行正式磋商。"
-        },
-        {
-          "en": "Finnish President Alexander Stubb condemned the drone strike in Romania and wrote in a social media post that \"Russia is crossing another line in its war of aggression against Ukraine.\"",
-          "zh": "芬兰总统亚历山大·斯塔布谴责了罗马尼亚的无人机袭击事件，并在社交媒体帖子中写道，“俄罗斯在侵略乌克兰的战争中正在跨越另一条界限。”"
-        },
-        {
-          "en": "European Commission President Ursula von der Leyen also said the incident showed that Russia \"has crossed yet another line.\" She said the EU will keep strengthening security along its eastern border and was actively drafting another set of sanctions against Russia, the 21st so far.",
-          "zh": "欧盟委员会主席乌苏拉·冯德莱恩也表示，这一事件表明俄罗斯“又越过了一条底线”。她表示，欧盟将继续加强东部边境安全，并正在积极起草另一套针对俄罗斯的制裁措施，这是迄今为止的第21项制裁措施。"
-        },
-        {
-          "en": "\"A Russian drone incursion struck a densely populated area in Romania, injuring civilians,\" she wrote in a social media post. \"On EU territory.\"",
-          "zh": "她在社交媒体帖子中写道：“俄罗斯无人机袭击了罗马尼亚人口稠密地区，造成平民受伤。” “在欧盟领土上。”"
-        },
-        {
-          "en": "Estonian Foreign Minister Margus Tsahkna said the risk of such \"serious incidents\" was raised by \" Putin's increasing nervousness, driven by military setbacks.\"",
-          "zh": "爱沙尼亚外交部长马古斯·查克纳表示，“普京因军事挫折而日益紧张”，增加了发生此类“严重事件”的风险。"
-        },
-        {
-          "en": "\"Russia is growing weaker on the battlefield in its war against Ukraine, yet it continues to pursue its objectives through brutal drone and missile attacks,\" he said in a statement.",
-          "zh": "他在一份声明中表示：“俄罗斯在对乌克兰的战争战场上日益衰弱，但它继续通过残酷的无人机和导弹袭击来实现其目标。”"
-        },
-        {
-          "en": "Zelenskyy appeals for more Patriot missiles",
-          "zh": "泽伦斯基呼吁购买更多爱国者导弹"
-        },
-        {
-          "en": "Ukrainian President Volodymyr Zelenskyy said Thursday he was pressing the United States to provide more Patriot air defense missiles that can counter the Russian attacks.",
-          "zh": "乌克兰总统泽连斯基周四表示，他正在敦促美国提供更多爱国者防空导弹，以对抗俄罗斯的袭击。"
-        },
-        {
-          "en": "He warned that deliveries to Ukraine are falling dangerously short as the Iran war diverts and depletes U.S. stocks. \"I believe (the U.S.) must act quicker. We are being very persistent,\" Zelenskyy told reporters during a visit to Sweden.",
-          "zh": "他警告说，随着伊朗战争转移并耗尽美国库存，对乌克兰的交付量正在严重短缺。 “我认为（美国）必须更快地采取行动。我们非常坚持，”泽伦斯基在访问瑞典期间对记者说。"
-        },
-        {
-          "en": "U.N. Secretary-General António Guterres warned the U.N. Security Council that the escalation and intensification of attacks risks getting out of control, with \"unknown and unintended consequences.\" He said that more civilians have been killed in the first four months of this year than in the same period in the past three years.",
-          "zh": "联合国秘书长安东尼奥·古特雷斯警告联合国安理会，袭击的升级和加剧有失控的风险，会带来“未知和意想不到的后果”。他说，今年前四个月的平民被杀人数比过去三年同期还要多。"
-        },
-        {
-          "en": "Guterres called for more diplomacy, immediate de-escalation and \"a full and unconditional ceasefire.\"",
-          "zh": "古特雷斯呼吁采取更多外交手段，立即缓和紧张局势并“全面、无条件停火”。"
-        }
-      ]
+      "title": "Humanoid robots 'the future' of car making, says BMW",
+      "link": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US.",
+      "pubDate": "Thu, 28 May 2026 23:36:45 GMT",
+      "source": "BBC Tech",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "宝马称人形机器人是汽车制造的“未来”",
+      "summaryZh": "宝马正在将人形机器人引入欧洲的一家汽车工厂，其基础是美国的类似项目。",
+      "contentParagraphs": []
     },
     {
-      "title": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
-      "link": "https://www.aljazeera.com/news/2026/5/29/dangerous-colonial-occupation-israels-digital-west-bank-land-register?traffic_source=rss",
-      "summary": "A digital register of land ownership in the West Bank is seen as an escalation of Israel's occupation.",
-      "pubDate": "Fri, 29 May 2026 10:28:18 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "“危险的殖民占领”：以色列西岸数字土地登记册",
-      "summaryZh": "西岸土地所有权的数字登记被视为以色列占领的升级。",
-      "contentParagraphs": [
-        {
-          "en": "A digital register of land ownership in the West Bank is seen as an escalation of Israel’s occupation.Occupied East Jerusalem, Palestine – A controversial Israeli plan to digitally register property ownership in the occupied West Bank is a “dangerous colonial occupation step that represents a direct assault on the historical and legal rights of the Palestinian people to their land and property”, the Palestinian Land Authority has said.The Palestinian Jerusalem Governorate and the Colonization and Wall Resistance Commission (CRRC) have urged Palestinians in the West Bank not to engage with any Israeli “entities, committees, platforms, or procedures” of lands and property.Recommended Stories list of 4 itemslist 1 of 4Palestinian graduates in the West Bank enter a collapsed job marketlist 2 of 4UN ‘adds Israel to blacklist’ for conflict-related sexual violencelist 3 of 4EU sanctions ‘extremist’ Israeli settlers in occupied West Banklist 4 of 4State of trauma: Israel wrestles with mental aftershocks of warend of listIsrael reportedly launched the online “Land Registry and Settlement of Rights” platform on which it plans to “update” property ownership in the occupied West Bank on Wednesday this week.The Jerusalem Governorate and the CRRC have called on the international community, the United Nations, the International Criminal Court and all international human rights and legal institutions to “take their urgent responsibilities to stop these illegal procedures and hold the occupying state accountable for its continuous violations against the Palestinian people, their land, and their resources”, they said.Moayad Shaaban, head of the CRRC, which is part of the Palestine Liberation Organization, said the move reveals “the occupation’s transition from traditional policies of field control to digital and administrative colonial engineering aimed at imposing permanent legal realities on the occupied Palestinian territory”.‘Annexation’ by land registryIn May 2025, the Israeli Security Cabinet launched a new, aggressive land settlement process throughout the West Bank, with the aim of “completing the legal and administrative annexation of the occupied territories through fully registering the lands under Israeli authority”, the Jerusalem Governorate said.Then, in July 2025, Israel’s parliament approved a symbolic measure calling for the annexation of the occupied West Bank. The move was first tabled in 2024 by Israel’s far-right Finance Minister Bezalel Smotrich, who himself lives in an illegal Israeli settlement.On February 15, 2026, the permanent acquisition and registration of approximately 58 percent of Area C – the part of the West Bank over which Israel exerts total control – began.(Al Jazeera)Under that decision, Palestinian land registration in the Israeli “Tabu” – the land registry extract – began for the first time since the occupation of the West Bank in 1967. It is a final measure that will be difficult to challenge in Israeli courts, the Israel Hayom newspaper reported in February.With the onset of land settlement, the Israeli Land Registry unit will take over the regulation and registration of land ownership in Area C. It also has the power to issue sales permits and to collect fees. Israel aims to complete the full settlement of 15 percent of the West Bank by the end of 2030.Some 700,000 Israeli settlers already live in the West Bank and East Jerusalem, as illegal settlement has expanded under the government of Prime Minister Benjamin Netanyahu.Rights groups say settlement approvals, along with rising settler violence against Palestinian communities, have accelerated since Israel launched its genocidal war on Gaza on October 7, 2023.(Al Jazeera)",
-          "zh": "西岸土地所有权的数字登记被视为以色列占领的升级。 被占领的东耶路撒冷、巴勒斯坦——巴勒斯坦土地管理局表示，以色列计划在被占领的西岸对财产所有权进行数字登记是一项“危险的殖民占领步骤，代表着对巴勒斯坦人民对其土地和财产的历史和合法权利的直接攻击”。巴勒斯坦耶路撒冷省和殖民与隔离墙抵抗委员会（CRRC）敦促西岸的巴勒斯坦人不要参与其中推荐故事列表 4 项列表 4 项中的 1 项西岸巴勒斯坦毕业生进入崩溃的就业市场 列表 2 项（共 4 项） 联合国将以色列列入与冲突有关的性暴力的黑名单 列表 4 项欧盟制裁中的 3 项 被占领西岸的“极端主义”以色列定居者 列表 4 项（共 4 项） 创伤状态：以色列与战争造成的精神余震作斗争据报道，以色列推出了在线“土地登记和权利解决”平台，计划于本周周三“更新”被占领西岸的财产所有权。耶路撒冷省和CRRC呼吁国际社会、联合国、国际刑事法院以及所有国际人权和法律机构“承担紧急责任，制止这些非法程序，并追究占领国对其持续侵犯巴勒斯坦人民、他们的土地和资源的责任”。Moayad Shaaban，巴勒斯坦解放组织下属的 CRRC 负责人表示，此举揭示了“占领从传统的实地控制政策转向数字和行政殖民工程，旨在将永久的法律现实强加于被占巴勒斯坦领土”。 土地登记的‘吞并’ 2025 年 5 月，以色列安全内阁在整个西岸启动了新的、积极的土地定居进程，目的是“通过将以色列领土上的土地完全登记，完成对被占领土的法律和行政吞并”耶路撒冷省表示。随后，2025 年 7 月，以色列议会批准了一项象征性措施，要求吞并被占领的约旦河西岸。这一举措于 2024 年由以色列极右翼财政部长贝扎莱尔·斯莫特里奇首次提出，他本人居住在以色列的非法定居点。2026 年 2 月 15 日，开始永久收购和登记 C 区约 58% 的土地，即以色列完全控制的西岸部分。（半岛电视台）根据这一决定，自占领以来首次开始在以色列“塔布”（土地登记摘录）进行巴勒斯坦土地登记。 1967年，以色列《Hayom》报纸报道称，这是一项最终措施，在以色列法院很难受到质疑。随着土地定居的开始，以色列土地登记部门将接管C区土地所有权的监管和登记。它还有权颁发销售许可证和收取费用。以色列的目标是到 2030 年底完成西岸 15% 地区的全部定居点。随着总理本杰明·内塔尼亚胡政府领导下的非法定居点不断扩大，约 70 万以色列定居者已经居住在西岸和东耶路撒冷。人权组织表示，自 2023 年 10 月 7 日以色列对加沙发动种族灭绝战争以来，定居点批准以及定居者针对巴勒斯坦社区的暴力行为不断增加。（半岛电视台）"
-        }
-      ]
-    },
-    {
-      "title": "WHO chief visits DRC amidst Ebola crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss",
-      "summary": "WHO chief visits DRC amidst Ebola crisis and urges international community to increase support.",
-      "pubDate": "Fri, 29 May 2026 10:24:27 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "世卫组织总干事在埃博拉危机期间访问刚果民主共和国",
-      "summaryZh": "世卫组织总干事在埃博拉危机中访问刚果民主共和国，敦促国际社会加大支持力度。",
-      "contentParagraphs": [
-        {
-          "en": "WHO chief visits DRC amidst Ebola crisis and urges international community to increase supportNewsFeedWHO chief Tedros Adhanom Ghebreyesus visits the DR Congo to highlight challenges being faced in dealing with the Ebola crisis. He called on the international community to ‘increase their support’ so that countries affected by Ebola outbreaks can control the epidemic and prevent it from spreading.Published On 29 May 2026",
-          "zh": "世卫组织总干事谭德塞访问刚果民主共和国，强调应对埃博拉危机面临的挑战。他呼吁国际社会“增加支持”，以便受埃博拉疫情影响的国家能够控制疫情并防止其蔓延。发布于2026年5月29日"
-        }
-      ]
-    },
-    {
-      "title": "US-Iran 60-day proposal: What we know",
-      "link": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know?traffic_source=rss",
-      "summary": "US-Iran memorandum of understanding reportedly covers Strait of Hormuz, sanctions relief and enriched uranium limits.",
-      "pubDate": "Fri, 29 May 2026 10:23:16 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "美伊 60 天提案：我们所知道的",
-      "summaryZh": "据报道，美伊谅解备忘录涵盖霍尔木兹海峡、制裁解除和浓缩铀限制。",
-      "contentParagraphs": [
-        {
-          "en": "The United States and Iran reportedly reached a preliminary memorandum of understanding (MOU) on Thursday, agreeing to extend the ceasefire between the two countries for a further 60 days and to begin negotiations for permanently ending the war, officials said.Official US sources have told Al Jazeera that the framework still needs President Donald Trump’s final approval.Neither the US nor Iran have made any comment about the MOU as regional tensions continue, however.Citing a source close to the ⁠negotiating team, Iran’s semi-official Tasnim ⁠news ⁠agency reported that ⁠the text of the MOU had not yet been finalised or confirmed, and the public would be notified once that occurred.Here’s what we know so far about the MOU, its terms, aims and what it means for the war.What will the proposed agreement contain?According to a report by US news outlet Axios, citing two unnamed US officials and one unnamed regional source involved in the mediation efforts, the MOU will include agreements about the following:The Strait of HormuzAccording to media reports, the MOU will state that shipping through the Strait of Hormuz is to be “unrestricted”, meaning there will be no tolls, no “harassment”, and that Iran will have 30 days to remove all mines.(Al Jazeera)The ongoing US naval blockade on Iranian ports will also be lifted “in proportion to the restoration of commercial shipping” through the strait. The US will also waive a number of sanctions on Iran, allowing it to sell oil freely.The issue over control of the strait has been a major sticking point in peace negotiations between the US and Iran – mostly conducted via Pakistani mediators.Since early March, Iran has restricted shipping through the narrow waterway linking the Gulf to the open ocean, through which 20 percent of the world’s oil and liquefied natural gas (LNG) supplies are shipped during peacetime. Iran has allowed the passage of a few vessels from select countries, but they have been required to negotiate transit with the Islamic Revolutionary Guard Corps (IRGC) – with some paying tolls of as much as $2m per ship at points during the conflict.In April, the US began a corresponding naval blockade on Iranian ports, further adding to the disruption of global oil and gas supplies.In its previous proposals to end the war, Iran has referred to charging transit tolls for vessels. Washington and other countries have repeatedly rejected the prospect.Under international maritime law, countries whose territorial waters cover natural straits such as Hormuz are not permitted to charge tolls for passage. They may, however, charge fees for “services” to ships passing through.Iran’s nuclear capabilitiesThe MOU will also reportedly include a commitment from Iran not to work towards building a nuclear weapon. During the 60-day window following the start of the new agreement, the first issue to be discussed in peace talks will be Iran’s uranium enrichment programme, and how to dispose of Iran’s stock of highly enriched uranium.The issue of enriched uranium has also been a bone of contention between the US and Iran.Iran is believed to be holding an estimated 440kg (970lb) of uranium enriched to 60 percent, short of the 90 percent required for weapons-grade material, but at the point at which it becomes much quicker to reach 90 percent.Tehran has said for years that its nuclear programme is for civilian purposes only and it does not intend to build nuclear weapons. But Israel, the US and other Western countries allege that Iran is in fact preparing to have the capacity to build nuclear weapons. They argue the 60 percent enrichment level achieved so far is well above what is needed for a civilian nuclear energy programme – between 3 and 5 percent enrichment.The US wants this stock to be handed over to it, but Iran has rejected this idea. It was reportedly willing to consider transferring it to a third party, however. Last week, it was reported that Iranian Supreme Leader Mojtaba Khamenei issued a directive that Iran’s enriched uranium should not be sent abroad at all.Since the war on Iran began, it has also emerged that on February 26, during informal negotiations with the US in Geneva two days before the US and Israel launched attacks on Iran, Tehran had offered to “downblend” the stockpile from 60 percent enrichment to 3.67 percent, in an irreversible process.That was the level it had been allowed to enrich uranium to under the 2015 Obama-era Joint Comprehensive Plan of Action (JCPOA) deal Iran reached with a number of countries, and which took several years to negotiate. Trump, however, withdrew the US from that deal during his first term as president, despite international inspectors saying Iran had stuck to this level.Aid and sanctionsThe MOU reportedly contains a mechanism for Iran to receive humanitarian aid. Additionally, the US will commit to discussing sanctions relief and unfreezing Iranian assets overseas.Iran is one of the most heavily sanctioned countries in the world, having been subject to US sanctions for decades. The lifting of some of these under the 2015 nuclear agreement was reversed when Trump walked out of the landmark deal. Billions of dollars of Iranian assets remain frozen in foreign banks as a result.LebanonAccording to media reports, Israel’s war on Lebanon, where it has occupied a large part of the south of the country, will end under the agreement.Israel states that it is attacking strongholds of the Iran-backed Hezbollah there. Hezbollah began strikes on northern Israel following the first US-Israeli attacks on Tehran on February 28.On March 2, Israel intensified its war on Lebanon, expanding its invasion and occupation of southern towns and villages. Since then, Israel has killed more than 3,000 people, including paramedics and civilians.Despite Trump announcing an extension to the April 8 ceasefire on April 16, Israeli attacks on Lebanon have continued.How are diplomatic efforts progressing?Pakistan’s Deputy Prime Minister and",
-          "zh": "据报道，美国和伊朗周四达成了一份初步谅解备忘录（MOU），同意将两国之间的停火再延长 60 天，并开始永久结束战争的谈判。美国官方消息人士告诉半岛电视台，该框架仍需要唐纳德·特朗普总统的最终批准。然而，由于地区紧张局势仍在继续，美国和伊朗都没有对谅解备忘录发表任何评论。援引一位接近谈判团队的消息人士的话称，伊朗半官方的塔斯尼姆通讯社报道称，谅解备忘录的文本尚未最终确定或确认，一旦发生，将通知公众。以下是我们迄今为止所了解的谅解备忘录及其条款、目标及其对战争的意义。拟议的协议将包含什么内容？根据美国新闻媒体 Axios 的报道，援引参与调解工作的两名未透露姓名的美国官员和一名未透露姓名的地区消息人士的话说，谅解备忘录将包括有关以下内容的协议： 霍尔木兹海峡 据媒体报道，谅解备忘录将规定通过霍尔木兹海峡的航运将“不受限制”，这意味着不会收费，不会“骚扰”，并且伊朗将有30天的时间清除所有水雷。（半岛电视台）美国对伊朗港口正在进行的海上封锁也将“按照恢复通过该海峡的商业航运的比例”解除。美国还将免除对伊朗的多项制裁，允许其自由出售石油。海峡控制权问题一直是美国和伊朗之间和平谈判的主要症结所在——主要是通过巴基斯坦调解人进行的。自3月初以来，伊朗限制了通过连接海湾与公海的狭窄水道的运输，和平时期世界上20%的石油和液化天然气(LNG)供应是通过这条水道运输的。伊朗已允许来自特定国家的几艘船只通过，但它们被要求与伊斯兰革命卫队 (IRGC) 进行过境谈判——在冲突期间，一些船只在某些时候支付了高达 200 万美元的通行费。4 月份，美国开始对伊朗港口进行相应的海上封锁，进一步加剧了全球石油和天然气供应的中断。在之前结束战争的提议中，伊朗曾提到对船只收取过境费。华盛顿和其他国家一再拒绝这一前景。根据国际海事法，领海覆盖霍尔木兹海峡等自然海峡的国家不得收取通行费。然而，他们可能会向经过的船只收取“服务”费用。 伊朗的核能力 据报道，谅解备忘录还将包括伊朗不致力于制造核武器的承诺。在新协议开始后的60天窗口期内，和谈中首先要讨论的问题将是伊朗的铀浓缩计划，以及如何处置伊朗库存的高浓缩铀。浓缩铀问题也一直是美国和伊朗之间争论的焦点。据信伊朗持有约440公斤（970磅）浓缩至60%的铀，低于武器级材料需要 90%，但达到 90% 的速度会更快。德黑兰多年来一直表示，其核计划仅用于民用目的，并不打算制造核武器。但以色列、美国和其他西方国家声称，伊朗实际上正在准备拥有制造核武器的能力。他们认为，迄今为止达到的 60% 的浓缩水平远远高于民用核能计划所需的浓缩度（3% 至 5%）。美国希望将这些库存移交给它，但伊朗拒绝了这一想法。不过，据报道，它愿意考虑将其转让给第三方。上周，有报道称，伊朗最高领袖哈梅内伊发布指令，伊朗的浓缩铀根本不应该运往国外。自对伊战争开始以来，还有消息称，2月26日，在美国和以色列对伊朗发动袭击的前两天，德黑兰在日内瓦与美国进行非正式谈判时，提出将库存浓缩铀从60%“降低”至3.67%，这是一个不可逆转的过程。根据 2015 年奥巴马时代伊朗与多个国家达成的联合全面行动计划 (JCPOA) 协议，伊朗允许浓缩铀的水平，该协议花了数年时间进行谈判。然而，特朗普在他的第一个总统任期内让美国退出该协议，尽管国际检查人员表示伊朗一直坚持这一水平。 援助和制裁 据报道，谅解备忘录包含伊朗接受人道主义援助的机制。此外，美国将致力于讨论解除制裁和解冻伊朗海外资产。伊朗是世界上受制裁最严重的国家之一，几十年来一直受到美国的制裁。当特朗普退出这项具有里程碑意义的协议时，2015 年核协议中取消的部分条款被撤销。伊朗数十亿美元资产因此仍被冻结在外国银行。 黎巴嫩 据媒体报道，以色列占领黎巴嫩南部大片地区的战争将根据协议结束。以色列表示，正在袭击伊朗支持的真主党在当地的据点。继2月28日美以首次袭击德黑兰后，真主党开始对以色列北部发动袭击。3月2日，以色列加紧对黎巴嫩的战争，扩大对南部城镇和村庄的入侵和占领。此后，以色列已造成3000多人死亡，其中包括医护人员和平民。尽管特朗普于4月16日宣布延长4月8日停火，但以色列对黎巴嫩的袭击仍在继续。外交努力进展如何？巴基斯坦副总理和"
-        }
-      ]
+      "title": "Top UK chefs call for cutting VAT for pubs and restaurants to 10%",
+      "link": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tom Kerridge, Yotam Ottolenghi, Ravneet Gill and Simon Rogan told BBC Newsnight VAT should be halved to ease mounting pressure on the hospitality industry.",
+      "pubDate": "Fri, 29 May 2026 10:55:45 GMT",
+      "source": "BBC Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "英国顶级厨师呼吁将酒吧和餐馆的增值税削减至 10%",
+      "summaryZh": "Tom Kerridge、Yotam Ottolenghi、Ravneet Gill 和 Simon Rogan 告诉 BBC 新闻之夜，增值税应该减半，以缓解酒店业日益增长的压力。",
+      "contentParagraphs": []
     },
     {
       "title": "WHO chief lands in Congo to address rare Ebola outbreak amid distrust and insecurity",
       "link": "https://www.npr.org/2026/05/29/nx-s1-5838635/who-chief-visits-congo-ebola-outbreak",
       "summary": "The head of the World Health Organization arrived in Congo's capital, Kinshasa, to witness efforts against an outbreak of a rare type of Ebola virus.",
       "pubDate": "Fri, 29 May 2026 06:16:53 -0400",
-      "source": "NPR",
-      "sourceColor": "#e57300",
+      "source": "NPR Science",
+      "category": "science",
+      "sourceColor": "#6a1b9a",
       "titleZh": "世卫组织总干事抵达刚果，应对不信任和不安全局势下罕见的埃博拉疫情",
       "summaryZh": "世界卫生组织总干事抵达刚果首都金沙萨，亲眼目睹了抗击罕见埃博拉病毒爆发的努力。",
       "contentParagraphs": [
         {
           "en": "Director-General of the World Health Organisation (WHO), Tedros Adhanom Ghebreyesus, speaks to the media upon his arrival at N'djili International Airport in Kinshasa, Congo, Thursday, May 28, 2026.",
-          "zh": "世界卫生组织 (WHO) 总干事谭德塞于 2026 年 5 月 28 日星期四抵达刚果金沙萨恩吉利国际机场后向媒体发表讲话。"
+          "zh": "Director-General of the World Health Organisation (WHO), Tedros Adhanom Ghebreyesus, speaks to the media upon his arrival at N'djili International Airport in Kinshasa, Congo, Thursday, May 28, 2026."
         },
         {
           "en": "Samy Ntumba Shambuyi/AP",
-          "zh": "Samy Ntumba 通讯员/美联社"
+          "zh": "Samy Ntumba Shambuyi/AP"
         },
         {
           "en": "Samy Ntumba Shambuyi/AP",
-          "zh": "Samy Ntumba 通讯员/美联社"
+          "zh": "Samy Ntumba Shambuyi/AP"
         },
         {
           "en": "KINSHASA, Congo — The head of the World Health Organization arrived in Congo's capital, Kinshasa, late Thursday to witness efforts against an outbreak of a rare type of Ebola virus, as medical personnel struggle with a lack of equipment, a distrustful population and armed groups in a volatile region.",
-          "zh": "刚果金沙萨——世界卫生组织总干事周四晚间抵达刚果首都金沙萨，亲眼目睹了抗击一种罕见埃博拉病毒爆发的努力。在这个动荡的地区，医务人员正面临着设备缺乏、民众不信任和武装团体的困扰。"
+          "zh": "KINSHASA, Congo — The head of the World Health Organization arrived in Congo's capital, Kinshasa, late Thursday to witness efforts against an outbreak of a rare type of Ebola virus, as medical personnel struggle with a lack of equipment, a distrustful population and armed groups in a volatile region."
         },
         {
           "en": "\"To come here is to really show to the community that they're not alone,\" WHO Director-General Tedros Adhanom Ghebreyesus told reporters at the airport.",
-          "zh": "世卫组织总干事谭德塞在机场对记者说：“来到这里是为了真正向社区表明，他们并不孤单。”"
+          "zh": "\"To come here is to really show to the community that they're not alone,\" WHO Director-General Tedros Adhanom Ghebreyesus told reporters at the airport."
         },
         {
           "en": "\"Pushing orders from my comfortable office in Geneva is easy, but I'm asking my colleagues to work with the community and I am asking communities to protect themselves,\" he added.",
-          "zh": "他补充说：“从我在日内瓦舒适的办公室下达命令很容易，但我要求我的同事与社区合作，我要求社区保护自己。”"
+          "zh": "\"Pushing orders from my comfortable office in Geneva is easy, but I'm asking my colleagues to work with the community and I am asking communities to protect themselves,\" he added."
         },
         {
           "en": "Medical aid donated by the European Union arrived in Ituri province, the heart of Congo's Ebola outbreak, on Thursday. The United States announced the same day $80 million in additional aid, bringing its total commitment to more than $112 million.",
-          "zh": "欧盟捐赠的医疗援助周四抵达刚果埃博拉疫情中心的伊图里省。美国当天宣布追加8000万美元援助，使其承诺总额超过1.12亿美元。"
+          "zh": "Medical aid donated by the European Union arrived in Ituri province, the heart of Congo's Ebola outbreak, on Thursday. The United States announced the same day $80 million in additional aid, bringing its total commitment to more than $112 million."
         },
         {
           "en": "Health workers with scant supplies have been struggling to contain an outbreak of the Bundibugyo virus, a kind of Ebola that has no approved treatment or vaccine. In some areas, doctors have resorted to wearing expired medical masks while treating suspected patients.",
-          "zh": "物资匮乏的卫生工作者一直在努力控制本迪布焦病毒的爆发，这是一种埃博拉病毒，目前还没有批准的治疗方法或疫苗。在一些地区，医生在治疗疑似患者时不得不佩戴过期的医用口罩。"
+          "zh": "Health workers with scant supplies have been struggling to contain an outbreak of the Bundibugyo virus, a kind of Ebola that has no approved treatment or vaccine. In some areas, doctors have resorted to wearing expired medical masks while treating suspected patients."
         },
         {
           "en": "According to WHO, 1,077 suspected cases and 238 suspected deaths have been recorded as of Tuesday,",
-          "zh": "据世界卫生组织称，截至周二，已记录 1,077 例疑似病例和 238 例疑似死亡。"
+          "zh": "According to WHO, 1,077 suspected cases and 238 suspected deaths have been recorded as of Tuesday,"
         },
         {
           "en": "Dangers faced by health workers have been heightened by anger among residents over the stringent medical protocols for dealing with the bodies of victims, which clash with local burial rites. Residents have launched at least three attacks against health centers.",
-          "zh": "居民对处理受害者尸体的严格医疗规定感到愤怒，这加剧了卫生工作者面临的危险，这些规定与当地的埋葬仪式相冲突。居民对医疗中心发动了至少三起袭击。"
+          "zh": "Dangers faced by health workers have been heightened by anger among residents over the stringent medical protocols for dealing with the bodies of victims, which clash with local burial rites. Residents have launched at least three attacks against health centers."
         },
         {
           "en": "Tedros said other challenges are also complicating the containment of the outbreak, including the high number of people displaced by armed conflict in the region, and food insecurity.",
-          "zh": "谭德塞表示，其他挑战也使疫情的控制变得更加复杂，包括该地区武装冲突导致大量人员流离失所，以及粮食不安全。"
+          "zh": "Tedros said other challenges are also complicating the containment of the outbreak, including the high number of people displaced by armed conflict in the region, and food insecurity."
         },
         {
           "en": "On Wednesday, he had called for a ceasefire in a region where armed groups have staged violent attacks for decades.",
-          "zh": "周三，他呼吁该地区停火，几十年来，该地区的武装团体一直在发动暴力袭击。"
+          "zh": "On Wednesday, he had called for a ceasefire in a region where armed groups have staged violent attacks for decades."
         },
         {
           "en": "\"We cannot build community trust or isolate the sick while bombs are falling,\" Tedros said.",
-          "zh": "谭德塞说：“当炸弹落下时，我们无法建立社区信任或隔离病人。”"
+          "zh": "\"We cannot build community trust or isolate the sick while bombs are falling,\" Tedros said."
         },
         {
           "en": "Tucked in the northeastern part of Congo close to the Ugandan border, Ituri province has been reeling from attacks by the Allied Democratic Force, a rebel group allied with the Islamic State group, and a coalition of ethnic militias. In early May, the ADF killed at least 40 people and burned several homes in Ituri.",
-          "zh": "伊图里省位于刚果东北部，靠近乌干达边境，一直受到民主联盟军、与伊斯兰国组织结盟的叛乱组织以及少数民族民兵联盟的袭击。 5 月初，民主同盟军在伊图里杀死了至少 40 人，并烧毁了几所房屋。"
+          "zh": "Tucked in the northeastern part of Congo close to the Ugandan border, Ituri province has been reeling from attacks by the Allied Democratic Force, a rebel group allied with the Islamic State group, and a coalition of ethnic militias. In early May, the ADF killed at least 40 people and burned several homes in Ituri."
         },
         {
           "en": "The illness also has been reported in the Congolese provinces of North Kivu and South Kivu, south of Ituri, where the Rwanda-backed M23 rebel group controls many key cities, including Goma and Bukavu. The rebels have reported two cases.",
-          "zh": "伊图里以南的刚果北基伍省和南基伍省也报告了这种疾病，卢旺达支持的 M23 叛乱组织控制着许多主要城市，包括戈马和布卡武。叛乱分子报告了两起案件。"
+          "zh": "The illness also has been reported in the Congolese provinces of North Kivu and South Kivu, south of Ituri, where the Rwanda-backed M23 rebel group controls many key cities, including Goma and Bukavu. The rebels have reported two cases."
         },
         {
           "en": "The region's main airport in Goma, which doubles as a staging ground for humanitarian efforts into the region, has been closed since January 2025, when M23 seized the city.",
-          "zh": "该地区位于戈马的主要机场自 2025 年 1 月“3·23”运动占领该市以来一直关闭，该机场同时也是进入该地区的人道主义工作的中转站。"
+          "zh": "The region's main airport in Goma, which doubles as a staging ground for humanitarian efforts into the region, has been closed since January 2025, when M23 seized the city."
         },
         {
           "en": "The conflict has precipitated one of the world's largest humanitarian crises, with at least 7 million people displaced in eastern Congo.",
-          "zh": "这场冲突引发了世界上最大的人道主义危机之一，刚果东部至少有 700 万人流离失所。"
+          "zh": "The conflict has precipitated one of the world's largest humanitarian crises, with at least 7 million people displaced in eastern Congo."
         },
         {
           "en": "The WHO chief said Thursday he discourages countries from imposing travel bans against nationals of countries affected by the outbreak.",
-          "zh": "世界卫生组织总干事周四表示，他不鼓励各国对受疫情影响国家的国民实施旅行禁令。"
+          "zh": "The WHO chief said Thursday he discourages countries from imposing travel bans against nationals of countries affected by the outbreak."
         },
         {
           "en": "\"There are ways to manage workers and to manage cases without having a strong, restricted travel ban and we don't encourage that as WHO,\" Tedros said.",
-          "zh": "谭德塞说：“有一些方法可以在没有严格、限制性旅行禁令的情况下管理工人和管理病例，作为世卫组织，我们不鼓励这样做。”"
+          "zh": "\"There are ways to manage workers and to manage cases without having a strong, restricted travel ban and we don't encourage that as WHO,\" Tedros said."
         },
         {
           "en": "The Trump administration last week announced a temporary ban on the entry of people without U.S. passports, as well as U.S. green-card holders, who have visited Congo, Uganda or South Sudan in the past 21 days. It said Wednesday it plans to send Americans who are exposed to Ebola to a new facility in Kenya instead of flying them to the U.S. Congo's neighbors, Uganda and Rwanda, recently closed their borders.",
-          "zh": "特朗普政府上周宣布临时禁止过去 21 天内访问过刚果、乌干达或南苏丹的无美国护照以及美国绿卡持有者入境。该公司周三表示，计划将接触埃博拉病毒的美国人送往肯尼亚的一个新设施，而不是将他们飞往美国刚果的邻国乌干达和卢旺达，最近关闭了边境。"
+          "zh": "The Trump administration last week announced a temporary ban on the entry of people without U.S. passports, as well as U.S. green-card holders, who have visited Congo, Uganda or South Sudan in the past 21 days. It said Wednesday it plans to send Americans who are exposed to Ebola to a new facility in Kenya instead of flying them to the U.S. Congo's neighbors, Uganda and Rwanda, recently closed their borders."
         }
       ]
     },
     {
-      "title": "Kenyan court suspends US Ebola quarantine facility plan",
-      "link": "https://www.aljazeera.com/news/2026/5/29/kenyan-court-suspends-us-ebola-quarantine-facility-plan?traffic_source=rss",
-      "summary": "The plan to send Ebola-exposed US nationals to Kenya, which has no known cases of the virus, has provoked a backlash.",
-      "pubDate": "Fri, 29 May 2026 10:12:26 +0000",
+      "title": "Kambo: What is the frog poison ‘spiritual ritual’ killing detoxers?",
+      "link": "https://www.aljazeera.com/news/2026/5/29/kambo-what-is-the-frog-poison-spiritual-ritual-killing?traffic_source=rss",
+      "summary": "Indigenous groups have warned against the use of kambo by non-specialist practitioners.",
+      "pubDate": "Fri, 29 May 2026 14:35:33 +0000",
       "source": "Al Jazeera",
+      "category": "world",
       "sourceColor": "#f79120",
-      "titleZh": "肯尼亚法院暂停美国埃博拉检疫设施计划",
-      "summaryZh": "将感染埃博拉病毒的美国国民送往肯尼亚的计划引发了强烈反对，肯尼亚目前还没有已知的病毒病例。",
+      "titleZh": "Kambo：什么是青蛙毒“精神仪式”杀死解毒者？",
+      "summaryZh": "土著团体警告非专业从业者不要使用坎博。",
       "contentParagraphs": [
         {
-          "en": "A Kenyan court has suspended a plan to establish an Ebola quarantine facility for United States nationals exposed to the virus following a backlash from health workers and rights activists.High Court Judge Patricia Nyaundi on Friday ordered a halt to the agreement on the facility, pending a ruling in a legal challenge brought by activists. The case should be heard next week.Recommended Stories list of 4 itemslist 1 of 4World Cup dark horses: Unheralded Netherlands should not be written offlist 2 of 4NATO states slam Russia after drone crashes in Romanialist 3 of 4South Korea’s SK Hynix enters exclusive $1 trillion clublist 4 of 4Gaza parents brave dental dilemma: Costly treatment or food on the table?end of listThe proposed arrangement emerged amid fears that the disease could spread beyond Central Africa. An outbreak centred on the eastern Democratic Republic of the Congo (DRC) and crossing into Uganda has killed more than 200 people.As countries seek to avert the spread internationally, the US struck a deal to isolate and monitor potentially exposed citizens in Kenya rather than transport them directly home for treatment.The Katiba Institute, a Kenyan rights group, said in a petition challenging the planned facility, which was due to start operating on Friday, that it was being established in secrecy and unilaterally and that it “raises grave constitutional concerns”.The filing warned of “grave and imminent risks” to public health, arguing in court that bringing Ebola-exposed individuals into Kenya, which has no known cases of the virus, could increase the risk of the disease spreading in the country.National biosecurityWhen the legal challenge was issued, it was unclear where the facility was to be located, or whether the Kenyan government had formally approved the plan.Nairobi has publicly acknowledged discussions with Washington over support for Ebola preparedness efforts, but has not directly addressed the reports about a quarantine facility.“The secretive, unilateral establishment of an Ebola quarantine facility raises grave constitutional concerns regarding the rights to life, health, fair administrative action, public participation, and parliamentary oversight,” the Katiba Institute said in a statement.US Secretary of State Marco Rubio said Washington intended to commit $13.5m towards Kenya’s Ebola preparedness efforts, though he did not publicly confirm details of the proposed quarantine arrangement.US officials later said a facility with 50 isolation beds, intended to quarantine US nationals arriving from the DRC, was due to open on Friday.The facility was to be managed by US medical staff at Laikipia Air Base, about 200km (124 miles) from the capital, Nairobi, they added, according to the AFP news agency.The Kenyan doctors’ union on Thursday issued a 48-hour strike alert in preparation should the government proceed with the deal, accusing authorities of putting public health at risk.The union said the US appeared unwilling to allow Ebola-exposed individuals onto its soil and warned Kenya should not become a “dumping ground”.“As the vanguard of Kenya’s healthcare system, we are utterly disgusted by the government’s apparent willingness to trade national biosecurity and the lives of its citizens for foreign aid,” the union’s secretary-general, Davji Atellah, said in a statement.The Law Society of Kenya also warned the country lacked “the high-containment infrastructure required to safely manage such a facility”, potentially exposing the public to serious health risks.‘Catastrophic collision’The dispute comes as health authorities race to contain the outbreak of the Bundibugyo strain of Ebola in northeastern DRC, where overstretched health workers, limited medical supplies, and ongoing conflict and displacement have hampered efforts to stop the virus from spreading.Unlike several other forms of Ebola, the Bundibugyo strain has no approved vaccine or specific treatment.World Health Organization Director-General Tedros Adhanom Ghebreyesus said the outbreak was heavily concentrated in Ituri province in northeastern DRC, which accounts for more than 90 percent of reported cases, with smaller numbers also detected in North Kivu and South Kivu provinces.The region has been at the centre of conflict for decades, as armed groups compete for control of the vast mineral wealth it holds. Huge numbers of displaced people huddled in refugee camps and the breakdown of state services are complicating efforts to quash the outbreak.“Eastern DRC now faces a catastrophic collision of disease and conflict,” Tedros wrote on social media on Wednesday.The Congolese government has confirmed more than 1,000 suspected cases and at least 220 deaths since declaring the outbreak on May 15.WHO believes the true scale of the outbreak is likely much larger, warning the virus had been spreading undetected for weeks before it was identified by authorities.Uganda has also confirmed seven cases and one death linked to the outbreak.President Donald Trump criticised governments during previous outbreaks for shipping infected US nationals home.Earlier this month, a doctor working in DRC and testing positive for Ebola was sent to Germany for medical care, while a missionary was taken to the Czech Republic.Washington’s refusal to repatriate US nationals for treatment but to send them to third countries, where quality of care may be questioned, has also led to criticism from US doctors, with one calling it “a moral abdication of what this country owes its own”, according to The Associated Press news agency.Concern is now rising in Europe. Italian Prime Minister Giorgia Meloni urged European Union leaders on Friday to strengthen border vigilance and coordination to prevent the virus from spreading to the continent.",
-          "zh": "在遭到卫生工作者和维权人士的强烈反对后，肯尼亚一家法院暂停了为接触埃博拉病毒的美国国民建立埃博拉检疫设施的计划。高等法院法官帕特里夏·尼亚温迪 (Patricia Nyaundi) 周五下令停止建立该设施的协议，等待活动人士提出的法律挑战的裁决。此案将于下周审理。 推荐故事清单 4 项清单 4 项世界杯黑马中的 1 项：不应该将默默无闻的荷兰从名单上除名 4 个北约国家中的 2 项在罗马尼亚无人机坠毁后猛烈抨击俄罗斯 4 项中的 3 项韩国 SK 海力士进入独家 1 万亿美元俱乐部名单 4 项中的 4 项加沙家长勇敢的牙科困境：昂贵的治疗或餐桌上的食物？清单末尾提议的安排是在担心疾病可能传播的情况下出现的超越中非。以刚果民主共和国（DRC）东部为中心并进入乌干达的疫情已造成 200 多人死亡。随着各国寻求避免国际传播，美国达成了一项协议，隔离和监测肯尼亚可能受到感染的公民，而不是直接将他们送回国接受治疗。肯尼亚人权组织卡蒂巴研究所在一份请愿书中对计划中的设施提出质疑，该设施定于周五开始运营，该设施是单方面秘密建立的，并且“引起了严重的关注”。该文件警告称，这对公共卫生构成“严重且迫在眉睫的风险”，并在法庭上辩称，将埃博拉暴露者带入肯尼亚（该国尚无已知病毒病例）可能会增加该疾病在该国传播的风险。国家生物安全提出法律质疑时，尚不清楚该设施将设在何处，也不清楚肯尼亚政府是否已正式批准该计划。内罗毕已公开承认与华盛顿就支持埃博拉防备工作进行了讨论，但没有直接解决这一问题卡蒂巴研究所在一份声明中表示，“秘密、单方面建立埃博拉检疫设施引发了对生命权、健康权、公平行政行动、公众参与和议会监督等权利的严重宪法关切。”美国国务卿马可·鲁比奥表示，华盛顿打算为肯尼亚的埃博拉防备工作投入 1350 万美元，但他没有公开证实拟议检疫安排的细节。美国官员后来表示，该设施设有 50 张隔离床位，旨在隔离美国据法新社报道，他们补充说，该设施将由莱基皮亚空军基地的美国医务人员管理，距离首都内罗毕约 200 公里（124 英里）。肯尼亚医生工会周四发布了 48 小时罢工警报，为政府推进该交易做好准备，指责当局将公共健康置于危险之中。工会表示，美国似乎不愿意允许联盟秘书长达夫吉·阿特拉（Davji Atellah）在一份声明中表示，“作为肯尼亚医疗保健系统的先锋，我们对政府明显愿意用国家生物安全和公民生命换取外国援助的行为感到非常反感。”肯尼亚律师协会还警告说，该国缺乏“安全管理此类设施所需的高防护基础设施”，可能使公众面临暴露在危险之中的风险。这场争端发生之际，卫生当局正在竞相遏制刚果民主共和国东北部本迪布焦埃博拉病毒株的爆发，那里的卫生工作者不堪重负，医疗用品有限，以及持续不断的冲突和流离失所，阻碍了阻止病毒传播的努力。与其他几种形式的埃博拉病毒不同，本迪布焦病毒株没有获得批准的疫苗或具体治疗方法。世界卫生组织总干事谭德塞表示，疫情主要集中在刚果民主共和国东北部的伊图里省占报告病例的 90% 以上，北基伍省和南基伍省也发现了少量病例。该地区几十年来一直处于冲突中心，因为武装团体争夺对该地区拥有的巨大矿产财富的控制权。大量流离失所者挤在难民营中，国家服务崩溃，使平息疫情的努力变得更加复杂。谭德塞周三在社交媒体上写道，“刚果民主共和国东部现在面临疾病与冲突的灾难性碰撞。”自5月15日宣布疫情爆发以来，刚果政府已确认了1000多例疑似病例，至少220人死亡。世卫组织认为，疫情的真实规模可能要大得多，并警告病毒在当局确诊之前，该病毒已经在未被发现的情况下传播了数周。乌干达也确认了与疫情有关的七例病例和一例死亡。唐纳德·特朗普总统批评政府在之前的疫情爆发期间将受感染的美国公民运送回家。本月早些时候，一名在刚果民主共和国工作的埃博拉病毒检测呈阳性的医生被送往德国接受治疗，而一名传教士则被送往捷克共和国。华盛顿拒绝遣返美国国民接受治疗，而是将他们送往医疗质量较高的第三国据美联社报道，这可能会受到质疑，也引起了美国医生的批评，其中一位医生称其为“对这个国家应尽的道德放弃”。欧洲的担忧正在加剧。意大利总理乔治亚·梅洛尼周五敦促欧盟领导人加强边境警戒和协调，以防止病毒传播到欧洲大陆。"
+          "en": "A number of people around the world have died after taking part in an ancient healing practice known as kambo, which involves ingesting frog poison.The spiritual ritual of kambo, which is promoted among Western “wellness communities” as a one‑stop cure for a spectrum of physical and mental ailments, from anxiety to arthritis, is not backed by any scientific evidence.In April this year, 40-year-old United Kingdom wellness coach and cancer survivor Kristian Trend was the latest to die after reportedly taking part in a “cleansing ceremony” which involved kambo, local media reported.Trend’s mother told the UK national newspaper, The Telegraph, that she wanted the practice to be banned. While it is legal to buy frog poison for kambo in the UK, it is not considered a licensed medicine.The practice has also been banned by other countries.What is kambo?Kambo is an ancient shamanic healing ritual with its roots in traditional South American medicine. It was practised by Amazonian Indigenous tribes centuries ago. The term “kambo” refers to the secretions of the giant monkey frog (Phyllomedusa bicolor), which are applied to small burns on the skin during the ritual.Experts say it is hard to pin down the exact origins of kambo since knowledge of the ritual was generally passed down orally, rather than being written down.The earliest known written documentation of the practice was made in 1925, when French missionary Constant Tastevin wrote about kambo being practised in the border regions between Peru and Brazil.The monkey frog actually secretes kambo to kill or harm predators that try to attack it. The secretions are also called sapo, which translates to “toad” in Spanish.Many amphibians release such toxins. In February this year, European countries accused Russia of using a toxin made from the secretions of South American dart frogs to kill Kremlin critic Alexey Navalny.How does kambo work?Kambo is an ancient spiritual and healing practice traditionally carried out by a specialised practitioner called a shaman.The frog’s secretions are collected and dried before the animal is released back into the wild. A heated rod is then used to make a series of small, superficial burns on the skin, and the dried secretion is applied to these points by the shaman, who recites hymns while waiting for the kambo to take effect.A bucket is usually placed in front of the person receiving the treatment in anticipation of vomiting – a common reaction to the ritual. Then, the kambo is wiped off the burns.Frog poison is dabbed onto superficial burns on the skin in the kambo ritual [Shutterstock]What is the kambo poison?Kambo is considered poisonous because it contains a complex mix of bioactive peptides – short chains of amino acids – including some that violently stimulate the digestive tract, causing intense nausea and vomiting, and others that act directly on the cardiovascular system, leading to rapid drops in blood pressure and fainting.Some peptides have opioid‑like effects, altering breathing patterns and affecting the central nervous system. In extreme cases, this combination can trigger sudden cardiac problems or severe organ toxicity, which can be fatal.Before the ritual, the person receiving kambo is often advised to drink large amounts of water. Combined with heavy vomiting and fluid shifts, this can lead to hyponatremia – dangerously low sodium levels in the blood, sometimes referred to as water intoxication. Severe hyponatremia can cause brain swelling, seizures, coma and, in the worst cases, brain death.Kambo also causes the gastrointestinal tract to contract violently, which can cause the oesophagus to rupture, also resulting in death.What is the kambo ritual for?Kambo is known as a “cleansing” ritual, believed to detox the body and, in some traditions, to enhance fertility, virility and even bring good luck.It is also used to treat diseases and disorders including addiction, Alzheimer’s disease, anxiety, cancer, chronic pain, depression, diabetes, hepatitis, HIV and AIDS, infections, rheumatism and vascular conditions, according to the US health information website, Healthline.But doctors say there is no scientific evidence that kambo is effective at treating any of these conditions, and modern medical case reports have instead linked kambo to severe illness and death.Healthline lists the possible side effects of kambo as nausea, vomiting, diarrhoea, abdominal pain, dizziness, heart palpitations, a sensation of a lump in the throat, difficulty swallowing, swelling of the lips, eyelids or face and even loss of bladder control.A man prepares frog poison for a kambo ceremony [Shutterstock]Who has been using it?Over the past two decades, kambo has become popular in Western and Latin American countries. It has been adopted in “wellness” circles and alternative medicine communities in Brazil, Australia, the UK and the United States.Indigenous experts have warned against the use of kambo by non-Indigenous practitioners, however. UK media recently reported that Yamanawa leader Joaquim Luz has criticised the online sale of kambo and warned that using it without the preparation or permission of Indigenous communities puts people at risk. The Yamanawa people originate in the Brazilian Amazon state of Acre, with communities extending into Peru and Bolivia.Who has died from kambo?There have been at least six known deaths associated with the use of kambo worldwide in recent years.In 2008, a 52-year-old man died in Brazil after receiving the kambo treatment.In 2018, a man in Italy died from an abnormal heart rate while experiencing kambo. The man had obesity and ventricular hypertrophy, a condition which causes the heart’s main pumping chambers to thicken.In 2019, Australian woman Natasha Lechner, 39, died while taking part in a kambo ceremony to cure her chronic back pain.In October 2021, Australian man Jarrad Antonovich died after kambo was performed on him. It was suspected that he died from a perforated oesophagu",
+          "zh": "世界各地有很多人在参加一种名为“kambo”的古老疗法后死亡，这种疗法涉及服用青蛙毒药。在西方“健康社区”中推广的“kambo”精神仪式是治疗从焦虑到关节炎等一系列身心疾病的一站式疗法，但这种仪式并没有任何科学证据支持。今年 4 月，40 岁的英国健康教练兼癌症幸存者克里斯蒂安·特伦德 (Kristian Trend) 是最新一位因参加一项名为“kambo”的疗法而去世的人。据当地媒体报道，涉及坎博的“净化仪式”。特伦德的母亲告诉英国全国性报纸《电讯报》，她希望禁止这种做法。虽然在英国购买青蛙毒药坎博是合法的，但它不被视为获得许可的药物。这种做法也被其他国家禁止。什么是坎博？坎博是一种古老的萨满治疗仪式，根源于传统南美医学。几个世纪前，亚马逊土著部落就已经实行了这种做法。 “kambo”一词指的是巨型猴蛙（Phyllomedusa bicolor）的分泌物，在仪式过程中将其涂抹在皮肤上的小烧伤处。专家表示，很难确定 kambo 的确切起源，因为有关仪式的知识通常是口头传承的，而不是书面记录。有关该做法的最早的书面记录是在 1925 年制作的，当时法国传教士 Constant Tastevin 写到，秘鲁和秘鲁之间的边境地区正在练习 kambo。巴西。猴蛙实际上会分泌坎博来杀死或伤害试图攻击它的掠食者。这种分泌物也被称为“sapo”，在西班牙语中翻译为“蟾蜍”。许多两栖动物都会释放此类毒素。今年2月，欧洲国家指责俄罗斯使用南美箭蛙分泌物制成的毒素杀死克里姆林宫批评家阿列克谢·纳瓦尔尼。卡姆博是如何发挥作用的？卡姆博是一种古老的精神和治疗实践，传统上由称为萨满的专业从业者进行。青蛙的分泌物被收集并干燥，然后将其放回野外。然后用一根加热的棒在皮肤上造成一系列小而浅的烧伤，萨满将干燥的分泌物涂抹在这些点上，萨满在等待 kambo 生效的同时背诵赞美诗。通常会在接受治疗的人面前放置一个水桶，以防呕吐——这是仪式的常见反应。然后，将 kambo 擦去烧伤处。在 kambo 仪式中，将青蛙毒药涂抹在皮肤浅表烧伤处 [Shutterstock]什么是 kambo 毒药？Kambo 被认为是有毒的，因为它含有生物活性肽（短链氨基酸）的复杂混合物，其中一些会猛烈刺激消化道，引起强烈的恶心和呕吐，而另一些则直接作用于心血管系统，导致血压迅速下降和昏厥。有些肽具有阿片类药物的成分影响，改变呼吸模式并影响中枢神经系统。在极端情况下，这种组合可能会引发突发的心脏问题或严重的器官毒性，这可能是致命的。在仪式之前，通常建议接受 kambo 的人喝大量的水。再加上严重呕吐和液体转移，可能会导致低钠血症——血液中钠含量极低，有时被称为水中毒。严重的低钠血症会导致脑肿胀、癫痫发作、昏迷，最严重的情况下会导致脑死亡。Kambo 还会导致胃肠道剧烈收缩，从而导致食道破裂，从而导致死亡。Kambo 仪式的用途是什么？Kambo 被称为“净化”仪式，被认为可以为身体排毒，在某些传统中，可以增强生育能力、男子气概，甚至带来好运。它还用于治疗疾病和失调，包括成瘾、据美国健康信息网站 Healthline 报道，阿兹海默症、焦虑症、癌症、慢性疼痛、抑郁症、糖尿病、肝炎、艾滋病毒和艾滋病、感染、风湿病和血管疾病。但医生们表示，没有科学证据表明坎博能有效治疗这些疾病，现代医学病例报告反而将坎博与严重疾病和死亡联系起来。健康线列出了坎博可能产生的副作用，包括恶心、呕吐、腹泻、腹痛、头晕、心悸、心慌等。喉咙里有肿块，吞咽困难，嘴唇、眼睑或脸部肿胀，甚至膀胱失控。一名男子为坎博仪式准备青蛙毒药 [Shutterstock]谁在使用它？过去二十年来，坎博在西方和拉丁美洲国家流行起来。它已被巴西、澳大利亚、英国和美国的“健康”圈和替代医学社区采用。然而，土著专家警告非土著从业者不要使用卡姆博。英国媒体最近报道称，山绳党领导人若阿金·卢兹批评了网上销售坎博的行为，并警告称，未经原住民社区准备或许可而使用坎博会使人们面临风险。山那瓦人起源于巴西亚马逊的阿卡州，社区延伸至秘鲁和玻利维亚。谁死于卡姆博？近年来，全球范围内已知至少有六人因使用卡姆博而死亡。2008年，巴西一名52岁男子在接受卡姆博治疗后死亡。2018年，意大利一名男子在接受卡姆博治疗时因心率异常而死亡。该男子患有肥胖症和心室肥大，这种情况会导致心脏的主要泵室增厚。2019 年，39 岁的澳大利亚妇女 Natasha Lechner 在参加 kambo 仪式以治疗慢性背痛时死亡。2021 年 10 月，澳大利亚男子 Jarrad Antonovich 在接受 kambo 仪式后死亡。据怀疑他死于食道穿孔"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic reaches valuation of $965bn, beating OpenAI to become world’s most valuable AI firm",
+      "link": "https://www.theguardian.com/technology/2026/may/28/anthropic-ai-valuation",
+      "summary": "Claude’s parent company’s $65bn in latest funding round underscores vast sums of money still flowing into industry\nAnthropic, the AI firm behind the Claude chatbot, announced on Thursday it had raised $65bn in funding to value the company at $965bn post-money. The move makes Anth",
+      "pubDate": "Thu, 28 May 2026 19:56:23 GMT",
+      "source": "Guardian Tech",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "Anthropic 估值达 9650 亿美元，击败 OpenAI 成为全球最有价值的人工智能公司",
+      "summaryZh": "Claude 母公司最新一轮融资 650 亿美元，凸显大量资金仍在流入行业\nClaude 聊天机器人背后的人工智能公司 Anthropic 周四宣布，已筹集 650 亿美元资金，使该公司的投后估值达到 9650 亿美元。此举让安特",
+      "contentParagraphs": [
+        {
+          "en": "Anthropic, the AI firm behind the Claude chatbot, announced on Thursday it had raised $65bn in funding to value the company at $965bn post-money. The move makes Anthropic the world’s most valuable AI startup, eclipsing its competitor OpenAI.The deal marks an exceedingly successful period of growth for Anthropic, which was once considered to be a smaller player in the global AI arms race. The widespread adoption of its products by large enterprise businesses, especially following its release of powerful coding assistants late last year, has turned it into a dominant player in the industry.Anthropic’s new valuation cements a reshuffling of the AI industry’s power dynamics, putting a dollar figure on Claude’s increased cultural and commercial prominence. The deal is also likely to have implications for this year’s blockbuster slate of initial public offerings, which includes rivals OpenAI and SpaceX.The company touted the new funding round, which was led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital, as proof that its AI models and vision for the future of the technology are winning out.“Claude is increasingly indispensable to our growing global community of customers, and we work tirelessly to make tools like Claude Code and Cowork more helpful, more powerful, and more adaptable to their needs,” Krishna Rao, chief financial officer of Anthropic, said in a blogpost.In addition to orienting its business more towards enterprise and coding services than some of its consumer-forward competitors, Anthropic has also postured itself as a more safety-focused company. One of Anthropic’s co-founders was present earlier this month at Pope Leo’s release of a more than 43,000-word encyclical which warned against the dangers of AI and called for a reining-in of the technology.The firm is also still locked in a legal battle with the Pentagon following its refusal earlier this year to remove safeguards that would allow Claude to be used for mass domestic surveillance or lethal autonomous weapons systems, which could kill people without human input. The US government has reportedly used Claude for military operations including missile strikes on Iran and the capture of Nicolás Maduro, the Venezuelan leader.The White House was forced to ease its feud with Anthropic somewhat in recent weeks, however, after the company announced that it was withholding the release of its latest Mythos model over cybersecurity concerns. The episode sparked a small-scale geopolitical crisis as nations worried about vulnerabilities to financial systems and critical infrastructure, as well as prompting a call from JD Vance, the US vice-president, to the heads of AI companies urging their cooperation.Anthropic is additionally set to be an influential force in the US midterm elections, pouring millions into lobbying efforts and Super Pacs aimed at candidates and legislation that aligns with its views on regulating AI. The firm has called for more government oversight of the technology, breaking with other tech industry leaders and OpenAI which advocate for a more lax regulatory framework.The company’s valuation underscores the enormous amounts of money still flowing into the AI industry, despite widespread public distrust of the technology. Anthropic’s valuation follows OpenAI raising $122bn in March to be valued at $852bn, with the possibility it will seek a $1tn IPO later this year.",
+          "zh": "Claude 聊天机器人背后的人工智能公司 Anthropic 周四宣布，已筹集 650 亿美元资金，使该公司的投后估值达到 9650 亿美元。此举使 Anthropic 成为全球最有价值的人工智能初创公司，超越了其竞争对手 OpenAI。这笔交易标志着 Anthropic 的一个极其成功的增长期，该公司曾被认为是全球人工智能军备竞赛中较小的参与者。其产品被大型企业广泛采用，特别是在去年年底发布了强大的编码助手之后，它已成为该行业的主导者。Anthropic 的新估值巩固了人工智能行业权力动态的重新洗牌，为 Claude 日益增强的文化和商业影响力奠定了基础。这笔交易还可能对今年的重磅首次公开募股产生影响，其中包括竞争对手 OpenAI 和 SpaceX。该公司宣传了由 Altimeter Capital、Dragoneer、Greenoaks 和红杉资本领投的新一轮融资，证明其人工智能模型和对技术未来的愿景正在获胜。 Anthropic 首席财务官 Krishna Rao 在一篇博文中表示：“我们的产品更有帮助、更强大、更能适应他们的需求。”Anthropic 的首席财务官 Krishna Rao 在一篇博文中表示。 除了比一些面向消费者的竞争对手更注重企业和编码服务之外，Anthropic 还将自己定位为一家更加注重安全的公司。 Anthropic 的一位联合创始人本月早些时候出席了教皇利奥 (Pope Leo) 发布的一份超过 43,000 字的通谕，该通谕警告人们警惕人工智能的危险，并呼吁控制该技术。该公司还与五角大楼陷入了一场法律战，因为五角大楼今年早些时候拒绝取消允许 Claude 用于大规模家庭监控或致命自主武器系统的保障措施，这些系统无需人工干预即可杀人。据报道，美国政府曾利用克劳德进行军事行动，包括对伊朗进行导弹袭击和抓捕委内瑞拉领导人尼古拉斯·马杜罗。然而，最近几周，在 Anthropic 公司宣布因网络安全问题而暂缓发布其最新的 Mythos 模型后，白宫被迫在一定程度上缓和了与 Anthropic 的不和。这一事件引发了一场小规模的地缘政治危机，各国担心金融系统和关键基础设施的脆弱性，并促使美国副总统 JD Vance 致电人工智能公司负责人，敦促他们合作。Anthropic 还将成为美国中期选举中的一支有影响力的力量，投入数百万美元用于针对候选人的游说活动和超级政治行动委员会，以及与其监管人工智能观点一致的立法。该公司呼吁政府加强对该技术的监管，与其他科技行业领导者和 OpenAI 主张更宽松的监管框架不同。该公司的估值突显出，尽管公众对该技术普遍不信任，但仍有大量资金流入人工智能行业。 Anthropic 的估值是在 OpenAI 三月份筹集 1220 亿美元后估值达到 8520 亿美元，并有可能在今年晚些时候寻求 1 万亿美元的 IPO 时实现的。"
+        }
+      ]
+    },
+    {
+      "title": "FIFA's World Cup ticket sales outraged fans. Now they are under investigation",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5836514/2026-world-cup-fifa-ticket-prices",
+      "summary": "FIFA has always had a peculiar way to sell tickets to the World Cup. It never faced any major issues — until prices soared for the 2026 tournament.",
+      "pubDate": "Thu, 28 May 2026 13:48:15 -0400",
+      "source": "NPR Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "国际足联世界杯门票销售激怒了球迷。现在他们正在接受调查",
+      "summaryZh": "国际足联一直有一种独特的方式来销售世界杯门票。它从未遇到过任何重大问题——直到 2026 年锦标赛的价格飙升。",
+      "contentParagraphs": [
+        {
+          "en": "FIFA — led by Gianni Infantino — is facing a joint probe from attorneys general in New Jersey and New York.",
+          "zh": "由詹尼·因凡蒂诺领导的国际足联正面临新泽西州和纽约州总检察长的联合调查。"
+        },
+        {
+          "en": "Win McNamee/Getty Images",
+          "zh": "赢得麦克纳米/盖蒂图片社"
+        },
+        {
+          "en": "Win McNamee/Getty Images",
+          "zh": "赢得麦克纳米/盖蒂图片社"
+        },
+        {
+          "en": "FIFA President Gianni Infantino has had an answer when asked about the sky-high ticket prices for this summer's World Cup: They are simply adapting to the North American market.",
+          "zh": "当被问及今夏世界杯天价票价时，国际足联主席因凡蒂诺给出了这样的答案：他们只是在适应北美市场。"
+        },
+        {
+          "en": "That's the justification FIFA has used to sharply increase ticket prices for the World Cup taking place in the United States, Mexico and Canada this summer compared to previous tournaments.",
+          "zh": "这就是国际足联大幅提高今年夏天在美国、墨西哥和加拿大举行的世界杯门票价格的理由。"
+        },
+        {
+          "en": "But those increases could come with some serious consequences: The New York and New Jersey attorneys general said on Wednesday they have launched a probe into FIFA over ticket practices.",
+          "zh": "但这些增加可能会带来一些严重的后果：纽约和新泽西州总检察长周三表示，他们已对国际足联的门票做法展开调查。"
+        },
+        {
+          "en": "And it's not just the ticket prices. New York Atty Gen. Letitia James and New Jersey Atty Gen. Jennifer Davenport are also looking at FIFA's sales process, including the way it has allocated tickets to fans and whether the organization's sales tactics have contributed to \"soaring prices.\"",
+          "zh": "这不仅仅是票价。纽约州检察长利蒂西亚·詹姆斯和新泽西州检察长詹妮弗·达文波特也在关注国际足联的销售流程，包括向球迷分配门票的方式以及该组织的销售策略是否导致了“价格飙升”。"
+        },
+        {
+          "en": "Here's what to know about how FIFA sells tickets — and why it has become such a flash point with just two weeks to go before the start of the tournament.",
+          "zh": "以下是关于国际足联如何出售门票的信息，以及为什么在距离世界杯开始仅剩两周的时间里它成为了一个热点。"
+        },
+        {
+          "en": "FIFA's prices draw condemnation",
+          "zh": "国际足联的价格招致谴责"
+        },
+        {
+          "en": "Ticket prices for this tournament aren't just much higher than previous World Cups. For the first time, FIFA has introduced dynamic pricing, leading to sharply higher prices for many World Cup games.",
+          "zh": "本届世界杯的门票价格不仅比往届世界杯高出很多。国际足联首次引入动态定价，导致许多世界杯比赛的价格大幅上涨。"
+        },
+        {
+          "en": "A clear example is for the final match, set to take place in New Jersey on July 19. FIFA initially sold the most expensive tickets at $6,730 — already much higher than the about $1,600 price for the most expensive tickets for the 2022 FIFA World Cup in Qatar.",
+          "zh": "一个明显的例子是定于 7 月 19 日在新泽西州举行的决赛。国际足联最初以 6,730 美元的价格出售最贵的门票，这已经远远高于 2022 年卡塔尔国际足联世界杯最贵门票的约 1,600 美元。"
+        },
+        {
+          "en": "By its latest sales windows starting in April, the same category of tickets cost $10,990.",
+          "zh": "截至 4 月份开始的最新销售窗口，同类门票售价为 10,990 美元。"
+        },
+        {
+          "en": "The prices have sparked widespread outrage — and drawn wide scrutiny on FIFA. Even President Trump, who has established a close relationship with Infantino, told the New York Post he wouldn't pay the roughly $1,000 for nosebleed seats for the U.S. opening game against Paraguay next month.",
+          "zh": "这些价格引发了广泛的愤怒，并引起了国际足联的广泛审查。就连与因凡蒂诺关系密切的特朗普总统也对《纽约邮报》表示，他不会为下个月美国队对阵巴拉圭队的揭幕战支付大约 1,000 美元的流鼻血座位费。"
+        },
+        {
+          "en": "Compounding the problem, FIFA back in April also unveiled an entirely new category of tickets called \"Front Category\" seats, offering front row seats across the stadium, that were priced even more expensively.",
+          "zh": "使问题更加复杂的是，国际足联在四月份还推出了一种全新的门票类别，称为“前类别”座位，提供整个体育场的前排座位，但价格更加昂贵。"
+        },
+        {
+          "en": "A front row seat in the lower bowl for the final costs more than $30,000.",
+          "zh": "决赛下层碗区的前排座位售价超过 30,000 美元。"
+        },
+        {
+          "en": "FIFA's sales tactics also under scrutiny",
+          "zh": "国际足联的销售策略也受到审查"
+        },
+        {
+          "en": "One looming legal question is whether FIFA acted as a monopoly and unfairly used its status to sell tickets, attorneys and ticketing experts told NPR.",
+          "zh": "律师和票务专家告诉美国国家公共广播电台，一个迫在眉睫的法律问题是，国际足联是否充当垄断者，不公平地利用其地位来出售门票。"
+        },
+        {
+          "en": "Derek Howard, an attorney who also teaches at the University of San Francisco, said FIFA has closely guarded information about how it's pricing tickets, how many tickets are left to sell and when it decides to adjust prices. That's kept ticket buyers in the dark, and FIFA holding all the cards.",
+          "zh": "同时在旧金山大学任教的律师德里克·霍华德表示，国际足联一直严格保密有关门票定价方式、剩余门票数量以及何时决定调整价格的信息。这让购票者蒙在鼓里，而国际足联掌握着所有的牌。"
+        },
+        {
+          "en": "\"FIFA has been using what we might call scare tactics to create a demand for a ticket and telling people that they have to pay the high prices because if they don't, they're going to miss out on this once in a lifetime event,\" Howard says. \"The problem behind that is that the consumers have no way of knowing whether or not that's true.\"",
+          "zh": "霍华德说：“国际足联一直在使用我们所谓的恐吓策略来创造门票需求，并告诉人们他们必须支付高价，因为如果他们不这样做，他们就会错过这场一生一次的赛事。” “这背后的问题是消费者无法知道这是否属实。”"
+        },
+        {
+          "en": "Infantino poses with President Trump, Mexican President Claudia Sheinbaum, and Canadian Prime Minister Mark Carney at the World Cup draw ceremony held in Washington, D.C., on Dec. 5, 2025.",
+          "zh": "因凡蒂诺于 2025 年 12 月 5 日在华盛顿特区举行的世界杯抽签仪式上与特朗普总统、墨西哥总统克劳迪娅·辛鲍姆和加拿大总理马克·卡尼合影。"
+        },
+        {
+          "en": "Even in the current \"last-minute sales\" window, FIFA releases tickets across games at periodic times — while encouraging fans to act now. That means someone logging in any given day has no way to know if the tickets being offered are the last remaining or whether more will be available later and at what price.",
+          "zh": "即使在当前的“最后一刻销售”窗口中，国际足联也会定期在比赛中发布门票，同时鼓励球迷立即采取行动。这意味着登录任何一天的用户都无法知道所提供的门票是否是最后一张门票，或者以后是否会有更多门票以什么价格出售。"
+        },
+        {
+          "en": "\"Being honest about ticket sales is not complicated. But FIFA has turned buying a ticket to the World Cup into a gauntlet of confusion, fake scarcity, and impossibly high prices — all at the expense of consumers and hardworking New Jerseyans,\" Davenport said in her statement.",
+          "zh": "“对门票销售诚实并不复杂。但国际足联已经把购买世界杯门票变成了一场混乱、虚假稀缺和不可能的高价格的挑战--所有这些都是以牺牲消费者和勤奋的新泽西人为代价的。”达文波特在她的声明中说。"
+        },
+        {
+          "en": "FIFA has wide discretion in assigning seat locations",
+          "zh": "国际足联在分配座位位置方面拥有广泛的自由裁量权"
+        },
+        {
+          "en": "One of the big peculiarities of World Cup ticket sales is that fans are not able to pick a specific seat until much later in the process.",
+          "zh": "世界杯门票销售的一大特点是，球迷要到很久以后才能选择特定的座位。"
+        },
+        {
+          "en": "Initially, fans can only pick between four broad ticket categories; later they are assigned specific seats by FIFA. That's not typical in the U.S., where fans are accustomed to picking the seat they want at the time of purchase.",
+          "zh": "最初，球迷只能在四大门票类别中进行选择；后来，国际足联为他们分配了特定的座位。这在美国并不常见，在美国，粉丝习惯于在购买时选择自己想要的座位。"
+        },
+        {
+          "en": "Seating maps for most stadiums like the one in New Jersey indicated that Category 1 tickets — or the most expensive ones — cover large parts of the lower bowl of a stadium. By glancing at those stadium maps, fans could assume they had a good shot at getting a prime sideline view. What FIFA doesn't clearly spell out is that a number of those sideline seats are reserved for premium tickets and other categories of ticket holders such as corporate sponsors.",
+          "zh": "大多数体育场（如新泽西州的体育场）的座位地图显示， 1类门票（或最昂贵的门票）覆盖了体育场下碗的大部分区域。通过浏览这些体育场地图，球迷们可能会认为他们有一个很好的机会获得一个主要的边线视图。国际足联没有明确说明的是，其中一些副业座位是为高级门票和其他类别的门票持有者（如企业赞助商）保留的。"
+        },
+        {
+          "en": "There's no way of knowing how many seats are left in any of the sections — and many fans who bought those expensive Category 1 tickets have complained they got stuck in less desirable seats, such as behind corners.",
+          "zh": "没有办法知道任何部分还有多少座位—许多购买这些昂贵的第一类门票的粉丝抱怨他们被困在不太理想的座位上，例如角落后面。"
+        },
+        {
+          "en": "This World Cup is not the first time FIFA has used this blind ticketing system, but it is the first time it's charged such high prices, sparking outrage among fans who feel they've been overcharged.",
+          "zh": "本届世界杯并不是国际足联第一次使用这种盲目售票系统，但这是第一次收取如此高的价格，引发了觉得自己被收费过高的球迷的愤怒。"
+        },
+        {
+          "en": "FIFA can also change seating charts",
+          "zh": "国际足联也可以更改座位表"
+        },
+        {
+          "en": "Like most sports, FIFA divvies up the stadium seating map into different categories with different prices. Lower sideline seats are more expensive than those in the high up, \"nosebleed section,\" for example.",
+          "zh": "与大多数体育项目一样，国际足联将体育场座位地图划分为不同的类别，价格也不同。例如，较低的侧排座椅比较高的侧排座椅更昂贵，例如“流鼻血部分”。"
+        },
+        {
+          "en": "But FIFA reserves the right to adjust seating charts as it wants. That means, FIFA could increase the number of seats considered Category 1, so a fan who thought they were buying in a top-tier section could end up in a previously lower-category seat.",
+          "zh": "但国际足联保留根据需要调整座位表的权利。这意味着，国际足联可以增加被视为第1类的座位数量，因此，认为自己在顶级区域购买的球迷最终可能会获得以前较低类别的座位。"
+        },
+        {
+          "en": "FIFA has traditionally sold tickets this way. But James took issue with that.",
+          "zh": "国际足联传统上以这种方式出售门票。但詹姆斯对此表示不满。"
+        },
+        {
+          "en": "\"No one should be manipulated into payin",
+          "zh": "\"任何人都不应被操纵进入付费系统"
+        }
+      ]
+    },
+    {
+      "title": "Blue Origin rocket explodes on the launch pad during an engine-firing test",
+      "link": "https://www.npr.org/2026/05/29/nx-s1-5838582/blue-origin-rocket-explodes-on-the-launch-pad-during-an-engine-firing-test",
+      "summary": "A rocket belonging to Jeff Bezos' Blue Origin exploded during a test at the launch pad Thursday night, ahead of a satellite launch planned for next week.",
+      "pubDate": "Fri, 29 May 2026 01:49:21 -0400",
+      "source": "NPR Science",
+      "category": "science",
+      "sourceColor": "#6a1b9a",
+      "titleZh": "蓝色起源火箭在发动机点火测试期间在发射台上爆炸",
+      "summaryZh": "周四晚上，杰夫·贝佐斯的蓝色起源公司的一枚火箭在发射台进行的一次测试中爆炸，该火箭计划于下周发射卫星。",
+      "contentParagraphs": [
+        {
+          "en": "A Blue Origin New Glenn rocket stands ready for launch at the Cape Canaveral Space Force station in Cape Canaveral, Fla., April 18, 2026.",
+          "zh": "A Blue Origin New Glenn rocket stands ready for launch at the Cape Canaveral Space Force station in Cape Canaveral, Fla., April 18, 2026."
+        },
+        {
+          "en": "CAPE CANAVERAL, Fla. — A rocket belonging to Jeff Bezos' Blue Origin exploded during a test at the launch pad Thursday night, shaking nearby homes and briefly painting the sky orange.",
+          "zh": "CAPE CANAVERAL, Fla. — A rocket belonging to Jeff Bezos' Blue Origin exploded during a test at the launch pad Thursday night, shaking nearby homes and briefly painting the sky orange."
+        },
+        {
+          "en": "Blue Origin said its New Glenn rocket exploded during an engine-firing test being conducted ahead of a satellite launch planned for next week. No one was hurt, according to officials at Cape Canaveral Space Force Station.",
+          "zh": "Blue Origin said its New Glenn rocket exploded during an engine-firing test being conducted ahead of a satellite launch planned for next week. No one was hurt, according to officials at Cape Canaveral Space Force Station."
+        },
+        {
+          "en": "\"It's too early to know the root cause but we're already working to find it,\" Bezos said via X. \"Very rough day, but we'll rebuild whatever needs rebuilding and get back to flying. It's worth it.\"",
+          "zh": "\"It's too early to know the root cause but we're already working to find it,\" Bezos said via X. \"Very rough day, but we'll rebuild whatever needs rebuilding and get back to flying. It's worth it.\""
+        },
+        {
+          "en": "The massive New Glenn was grounded in April after it left a satellite in the wrong orbit because of engine failure. It was only the third flight of the rocket that Blue Origin intends to use to launch landers to the moon for NASA, including the landers that will take astronauts to the lunar surface.",
+          "zh": "The massive New Glenn was grounded in April after it left a satellite in the wrong orbit because of engine failure. It was only the third flight of the rocket that Blue Origin intends to use to launch landers to the moon for NASA, including the landers that will take astronauts to the lunar surface."
+        },
+        {
+          "en": "The company had been on track to launch a prototype lunar lander to the moon on a flight test this fall. Earlier this week, the space agency awarded Blue Origin a contract worth hundreds of millions of dollars to launch a pair of moon buggies in the next few years as part of the Artemis program.",
+          "zh": "The company had been on track to launch a prototype lunar lander to the moon on a flight test this fall. Earlier this week, the space agency awarded Blue Origin a contract worth hundreds of millions of dollars to launch a pair of moon buggies in the next few years as part of the Artemis program."
+        },
+        {
+          "en": "\"Spaceflight is unforgiving, and developing new heavy-lift launch capability is extraordinarily difficult,\" NASA Administrator Jared Isaacman said via X. He promised to provide information on any impacts to the Artemis program, including the moon base that he recently outlined.",
+          "zh": "\"Spaceflight is unforgiving, and developing new heavy-lift launch capability is extraordinarily difficult,\" NASA Administrator Jared Isaacman said via X. He promised to provide information on any impacts to the Artemis program, including the moon base that he recently outlined."
+        },
+        {
+          "en": "A Blue Origin New Glenn rocket explodes during an engine-firing test on Thursday, May 28, 2026, in Cape Canaveral, Fla.",
+          "zh": "A Blue Origin New Glenn rocket explodes during an engine-firing test on Thursday, May 28, 2026, in Cape Canaveral, Fla."
+        },
+        {
+          "en": "Homes shook in nearby Cape Canaveral and Cocoa Beach around 9 p.m., with residents turning to social media to wonder what happened. Launch Complex 36 is visible from the beach, and the internet quickly filled with photos of an orange fireball.",
+          "zh": "Homes shook in nearby Cape Canaveral and Cocoa Beach around 9 p.m., with residents turning to social media to wonder what happened. Launch Complex 36 is visible from the beach, and the internet quickly filled with photos of an orange fireball."
+        },
+        {
+          "en": "The rocket was supposed to blast off next week with internet satellites that are part of the Amazon Leo constellation in orbit.",
+          "zh": "The rocket was supposed to blast off next week with internet satellites that are part of the Amazon Leo constellation in orbit."
+        },
+        {
+          "en": "Emergency crews remained more than an hour after the explosion. Officials stressed there was no threat due to fumes or other potential hazards.",
+          "zh": "Emergency crews remained more than an hour after the explosion. Officials stressed there was no threat due to fumes or other potential hazards."
+        },
+        {
+          "en": "Space Force officials said the explosion would not affect upcoming launches by other companies from other pads. United Launch Alliance's Atlas V rocket is due to blast off Friday night with a batch of Amazon Leo satellites, the same kind that this rocket was supposed to take up.",
+          "zh": "Space Force officials said the explosion would not affect upcoming launches by other companies from other pads. United Launch Alliance's Atlas V rocket is due to blast off Friday night with a batch of Amazon Leo satellites, the same kind that this rocket was supposed to take up."
+        },
+        {
+          "en": "SpaceX's Elon Musk, who's had his own share of rocket explosions, offered his condolences. \"Sorry to see this, I hope you recover quickly,\" he told Blue Origin via X.",
+          "zh": "SpaceX's Elon Musk, who's had his own share of rocket explosions, offered his condolences. \"Sorry to see this, I hope you recover quickly,\" he told Blue Origin via X."
+        },
+        {
+          "en": "Towering at 321 feet (98 meters), New Glenn made its debut in 2025. It is named after John Glenn, the first American to orbit Earth, and is much bigger and more powerful than the New Shepard rockets that have carried tourists to the fringes of space from Texas.",
+          "zh": "Towering at 321 feet (98 meters), New Glenn made its debut in 2025. It is named after John Glenn, the first American to orbit Earth, and is much bigger and more powerful than the New Shepard rockets that have carried tourists to the fringes of space from Texas."
+        }
+      ]
+    },
+    {
+      "title": "Sudan medical group says RSF-affiliated fighters kill 27 civilians",
+      "link": "https://www.aljazeera.com/news/2026/5/29/sudan-medical-group-says-rsf-affiliated-fighters-kill-27-civilians?traffic_source=rss",
+      "summary": "The attacks come as nearly 19.5 million Sudanese face severe hunger amid the country’s deepening humanitarian crisis.",
+      "pubDate": "Fri, 29 May 2026 14:01:59 +0000",
+      "source": "Al Jazeera",
+      "category": "world",
+      "sourceColor": "#f79120",
+      "titleZh": "苏丹医疗组织称无国界医生组织附属武装分子杀死 27 名平民",
+      "summaryZh": "这些袭击发生之际，苏丹人道主义危机日益严重，近 1950 万苏丹人面临严重饥饿。",
+      "contentParagraphs": [
+        {
+          "en": "The attacks come as nearly 19.5 million Sudanese face severe hunger amid the country’s deepening humanitarian crisis.A force affiliated with the paramilitary Rapid Support Forces (RSF) has killed at least 27 people, including elderly residents, in an attack on villages west of Bara in Sudan’s North Kordofan state, according to the Sudan Doctors Network.The Cairo-based medical NGO said the attacks took place on Thursday in the al-Murrah area, describing them as “a new crime targeting unarmed civilians in areas with no military presence”.Recommended Stories list of 4 itemslist 1 of 4French prosecutors to probe Israeli treatment of flotilla activistslist 2 of 4‘Brazilians of Europe’: How France created football’s deepest talent poollist 3 of 4UN urges ‘urgent’ action to protect children onlinelist 4 of 4Firefighters work to free riders stuck atop a rollercoaster in Texasend of listSudan has been engulfed in civil war since April 2023, when long-running tensions between the Sudanese army and the RSF erupted into a full-scale conflict that has killed hundreds of thousands of people and displaced millions.The Kordofan region has become one of the war’s main battlegrounds, with fighting intensifying across several fronts, including through drone attacks.The RSF and allied groups control much of the western Darfur region, as well as parts of Kordofan along the border with South Sudan, areas rich in oil fields and gold mines. The paramilitary force has also repeatedly clashed with the army over the town of Bara.Thursday’s assault took place during the second day of Eid al-Adha.In a statement posted on Facebook, the Sudan Doctors Network said that “targeting villages and civilian areas and executing citizens in such a brutal manner constitutes a flagrant violation of international humanitarian law and all norms and conventions that prohibit attacks on civilians, especially amid the catastrophic humanitarian conditions people are enduring because of the ongoing war”.The group added that the “continued attacks on civilians and safe villages” are worsening the humanitarian crisis and forcing more families into displacement, suffering and the loss of their livelihoods.The attacks come as more than 40 percent of Sudan’s population faces acute hunger, according to a report released on Thursday by the United Nations-backed Integrated Food Security Phase Classification (IPC).The report said nearly 19.5 million people across the country are facing severe food insecurity as the conflict drives what aid agencies describe as one of the world’s worst humanitarian crises.The Sudan Doctors Network also called on the “international community and human rights and humanitarian organizations to condemn these violations and act urgently to protect civilians and stop the repeated attacks on residential areas by pressuring RSF leaders to end violations against civilians”.",
+          "zh": "这些袭击发生之际，该国人道主义危机日益严重，近 1950 万苏丹人面临严重饥饿。据苏丹医生网络报道，准军事快速支援部队 (RSF) 下属的一支部队在苏丹北科尔多凡州巴拉以西村庄的袭击中，造成至少 27 人死亡，其中包括老年居民。总部位于开罗的医疗非政府组织表示，袭击发生在周四的穆拉地区，并将其描述为“针对目标群体的新犯罪”。推荐故事列表 4 项列表 4 项中的 1 项法国检察官调查以色列对待船队积极分子的方式列表 4 项中的 2 项“欧洲巴西人”：法国如何创建足球界最深厚的人才库列表 4 项中的 3 项联合国敦促采取“紧急”行动保护在线儿童列表 4 项中的 4 项消防队员为被困在德克萨斯州过山车上的搭便车者提供帮助 列表结束自 2023 年 4 月以来，苏丹军队与无国界部队之间的长期紧张关系爆发为全面冲突，导致数十万人死亡，数百万人流离失所。科尔多凡地区已成为战争的主战场之一，多条战线的战斗不断加剧，包括无人机袭击。无国界医生组织和盟军控制着达尔富尔西部地区的大部分地区，以及与南苏丹接壤的科尔多凡地区的部分地区。拥有丰富的油田和金矿。准军事部队还多次与军队就巴拉镇发生冲突。周四的袭击发生在古尔邦节第二天。苏丹医生网络在 Facebook 上发布的一份声明中表示，“以村庄和平民地区为目标，以如此残忍的方式处决公民，公然违反了国际人道法以及禁止攻击平民的所有规范和公约，特别是在人们因持续战争而遭受灾难性人道主义状况的情况下”。该组织补充说，“对平民和安全村庄的持续袭击”正在加剧人道主义危机，迫使更多家庭流离失所、遭受苦难和失去生计。根据联合国支持的综合粮食安全阶段分类（IPC）周四发布的一份报告，袭击发生之际，苏丹超过 40% 的人口面临严重饥饿。报告称，由于冲突推动了援助机构所描述的世界上最严重的粮食不安全之一，该国近 1950 万人面临严重的粮食不安全。苏丹医生网络还呼吁“国际社会以及人权和人道主义组织谴责这些侵犯行为，并采取紧急行动保护平民，并通过向无国界医生组织领导人施压，要求其停止针对平民的侵犯行为，制止对居民区的反复袭击”。"
+        }
+      ]
+    },
+    {
+      "title": "California Attorney General sues 23andMe successor for 2023 data breach",
+      "link": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Attorney General Rob Bonta alleges the company lied about the breach's severity.",
+      "pubDate": "Thu, 28 May 2026 18:28:42 GMT",
+      "source": "BBC Tech",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "加州总检察长因 2023 年数据泄露起诉 23andMe 继任者",
+      "summaryZh": "司法部长罗布·邦塔 (Rob Bonta) 指控该公司在泄露事件的严重性方面撒了谎。",
+      "contentParagraphs": [
+        {
+          "en": "California Attorney General sues 23andMe successor for 2023 data breach21 hours agoLily JamaliNorth America Technology correspondentReutersCalifornia Attorney General Rob Bonta has said he will sue DNA testing firm Chrome Holding following a probe on Thursday, alleging its predecessor company 23andMe failed to protect sensitive customer data.Bonta said the failure resulted in a 2023 data breach which exposed genetic predispositions and risk factors of nearly seven million users, plus information about biological relatives, ancestry, and ethnicity.\"Our investigation found that the company failed to take basic steps to protect users' data,\" said Bonta, who added 23andMe \"lied to consumers about the severity of its 2023 data breach.\"The BBC has requested comment from Chrome Holding. The company was rebranded after 23andMe filed for bankruptcy last year.Bonta also alleges the subsequent sale of 23andMe user data on the dark web by threat actors specifically touted that it belonged to Asian American Pacific Islanders (AAPI) and Jewish users.\"This is disturbing and incredibly dangerous\" given it occurred during a period of \"mounting anti-Asian American and Pacific Islander and antisemitic hate and violence,\" Bonta said.Users were targeted by a so-called \"credential stuffing\" attack in which hackers used passwords exposed in previous breaches to access 23andMe accounts for which people had used similar credentials.The 2023 data breach has resulted in international regulatory scrutiny for the company.The ICO said personal data of 155,592 UK residents was accessed.The company has said it has \"made several binding commitments to enhance protections for customer data and privacy.\"The ICO's probe was conducted in coordination with Canada's privacy commissioner and found 23andMe violated UK law by failing to implement appropriate authentication and verification measures for customers during its login process.At the time, some users expressed concern over the prospect of insurance companies purchasing their data and using it to determine whether to provide coverage.23andMe was cofounded by Anne Wojcicki, sister of the late YouTube boss Susan Wojcicki and ex-wife of Google co-founder Sergey Brin.The company once counted Snoop Dogg, Oprah Winfrey, and Eva Longoria as customers and saw its share price top $300 at its peak before crashing in 2024.",
+          "zh": "加州总检察长起诉 23andMe 继任者 2023 年数据泄露 21 小时前 莉莉·贾玛利 (Lily Jamali) 北美科技通讯员路透社 加州总检察长罗布·邦塔 (Rob Bonta) 表示，他将在周四进行调查后起诉 DNA 检测公司 Chrome Holding，指控其前身公司 23andMe 未能保护敏感客户数据。Bonta 表示，这一失败导致了 2023 年数据泄露，暴露了近 700 万用户的遗传倾向和风险因素， Bonta 表示：“我们的调查发现，该公司未能采取基本措施来保护用户数据。”他补充道，23andMe“就 2023 年数据泄露的严重性向消费者撒了谎。”BBC 已要求 Chrome Holding 发表评论。去年 23andMe 申请破产后，该公司被重新命名。Bonta 还声称，威胁行为者随后在暗网上出售了 23andMe 用户数据，并专门宣称这些数据属于亚裔美国人太平洋岛民 (AAPI) 和犹太用户。邦塔说，鉴于它发生在“反亚裔美国人和太平洋岛民以及反犹太仇恨和暴力日益严重”的时期，“这是令人不安和极其危险的”。 “撞库”攻击，黑客使用之前泄露的密码访问人们使用类似凭据的 23andMe 帐户。2023 年的数据泄露导致该公司受到国际监管审查。ICO 表示，155,592 名英国居民的个人数据被访问。该公司表示，它“做出了几项具有约束力的承诺，以加强对客户数据和隐私的保护。”ICO 的调查是与加拿大隐私专员协调进行的并发现 23andMe 在登录过程中未能对客户实施适当的身份验证和验证措施，违反了英国法律。当时，一些用户对保险公司购买其数据并利用这些数据来确定是否提供承保的前景表示担忧。23andMe 是由已故 YouTube 老板苏珊·沃西基 (Susan Wojcicki) 的妹妹、谷歌联合创始人谢尔盖·布林 (Sergey Brin) 的前妻安妮·沃西基 (Anne Wojcicki) 共同创立的。该公司曾数过史努比狗狗 (Snoop Dogg)、奥普拉·温弗瑞 (Oprah Winfrey) 和伊娃 (Eva)。 Longoria 是其客户，其股价在 2024 年暴跌之前曾一度突破 300 美元。"
+        }
+      ]
+    },
+    {
+      "title": "'I've applied for more than 400 roles' - how young people are facing the job shortage",
+      "link": "https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC has been hearing from young people who are struggling to find work about how they are tackling the challenge.",
+      "pubDate": "Thu, 28 May 2026 15:56:03 GMT",
+      "source": "BBC Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "“我申请了400多个职位”——年轻人如何面对就业短缺",
+      "summaryZh": "BBC 一直在听取那些正在努力寻找工作的年轻人讲述他们如何应对这一挑战。",
+      "contentParagraphs": []
+    },
+    {
+      "title": "Moment Blue Origin rocket explodes during test in Florida",
+      "link": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.",
+      "pubDate": "Fri, 29 May 2026 03:02:48 GMT",
+      "source": "BBC Science",
+      "category": "science",
+      "sourceColor": "#6a1b9a",
+      "titleZh": "蓝色起源火箭在佛罗里达州测试期间爆炸的瞬间",
+      "summaryZh": "周四晚上，蓝色起源公司的一枚新格伦火箭在佛罗里达州卡纳维拉尔角的发射台上爆炸。",
+      "contentParagraphs": [
+        {
+          "en": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.The space technology company, which was founded in 2000 by Amazon billionaire Jeff Bezos, said there were no injuries from the incident. \"All personnel have been accounted for. We will provide updates as we learn more,\" Blue Origin said in a statement. The explosion occurred during a \"hotfire test\", the company said, describing the incident as an \"anomaly\". Read more on this story here.",
+          "zh": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.The space technology company, which was founded in 2000 by Amazon billionaire Jeff Bezos, said there were no injuries from the incident. \"All personnel have been accounted for. We will provide updates as we learn more,\" Blue Origin said in a statement. The explosion occurred during a \"hotfire test\", the company said, describing the incident as an \"anomaly\". Read more on this story here."
+        }
+      ]
+    },
+    {
+      "title": "QUAD to build Fiji port: A new US-China flashpoint?",
+      "link": "https://www.aljazeera.com/features/2026/5/29/quad-to-build-fiji-port-a-new-us-china-flashpoint?traffic_source=rss",
+      "summary": "Quad kicks back to life in Asia Pacific, looking to develop ports in Fiji, in a counter to China's rise.",
+      "pubDate": "Fri, 29 May 2026 13:56:29 +0000",
+      "source": "Al Jazeera",
+      "category": "world",
+      "sourceColor": "#f79120",
+      "titleZh": "四方建设斐济港：美中新的爆发点？",
+      "summaryZh": "Quad在亚太地区重新焕发活力，寻求开发斐济的港口，以对抗中国的崛起。",
+      "contentParagraphs": [
+        {
+          "en": "New Delhi, India – The foreign ministers of India, the United States, Australia and Japan have announced plans to jointly develop port infrastructure in Fiji, a strategically important Pacific island nation, following their meeting in New Delhi earlier this week.Their grouping, called the Quadrilateral Security Dialogue alliance – or Quad, for short – has worked over the past two decades as a counter force to China’s economic and political influence in the Asia Pacific region.China, in turn, has said groupings should “not target any third party”, and Beijing opposes “engaging in bloc confrontation”.Australian Foreign Minister Penny Wong hailed the initiative in Fiji as the strongest commitment to deliver high-quality infrastructure that the Quad has made in the Pacific region. She said a pilot for port infrastructure in Fiji reflects the group’s ability to deliver high-quality infrastructure in response to Pacific priorities.As the grouping faces questions about its relevance in today’s world order, and US President Donald Trump has been wooing China, Washington has pivoted away from the region as its top priority in favour of the Western Hemisphere and the Middle East.So, what is the significance of a port development in Fiji? And could this be the next flashpoint in the up-and-down relationship between the US and China?Penny Wong, Australia’s foreign affairs minister, centre, Subrahmanyam Jaishankar, India’s external affairs minister, fourth left, and US Secretary of State Antony Blinken arrive for the Quadrilateral Security Dialogue (Quad) ministerial meeting on July 29, 2024 in Tokyo, Japan [Kiyoshi Ota/Getty Images]What are the plans for port development in Fiji?Fiji’s foreign minister said Suva and Lautoka would be the first ports to be developed on the island under a pilot project by the newly announced “Quad Ports of the Future Partnership”.This marks the first such joint initiative by the Quad.Suva, the capital, is already the largest and busiest port of the country. Lautoka, which was historically established around sugar exports, sits in the northwest of Fiji, in the second-largest city.“It will have to be the two major ones,” Sakiasi Ditoka told the Fijian press, referring to Suva and Lautoka. “And then eventually we’ll probably spread it around – maybe Vanua Levu if you look north, and then maybe Levuka if the project goes that far.”However, there are as yet very few specific details about plans for the ports.The Suva port agency, 41 percent of which is owned by Fiji’s government, has discussed $181m of port upgrades, as well as a potential $1.82bn plan to relocate Suva Port, with the US officials, Fijian media reported this week.Suresh Prasad, the Fiji Ports acting chief executive officer who said he was “rather surprised” by the announcement, told reporters: “If it’s a Quad project, it is going to be a mega project, which is Suva Port most likely.”In 2023, Fiji’s Prime Minister Sitiveni Rabuka discussed the redevelopment of the Suva port with China, but plans for that did not materialise.Rabuka told the Fijian parliament this Monday about an agreement to undertake a study for potential US-backed infrastructure with the US Millennium Challenge Corporation, Washington’s foreign aid agency, adding that any project would be funded by grants, not loans.What does the Quad do in the Asia Pacific?The four Quad countries are the most influential powers in the region outside of Russia and China.The Quad’s area of cooperation has expanded beyond its original security-focused outlook and now stretches to a wide range of Asia Pacific initiatives for maritime security, infrastructure, technology, health and supply chains.The grouping also operates the Indo-Pacific Partnership for Maritime Domain Awareness (IPMDA), which helps Pacific countries monitor illegal fishing, smuggling and other maritime activity with the use of satellite data. It cooperates on facilitating supply chains for lithium, rare-earth minerals and other strategic minerals to reduce dependence on China, alongside cooperation on quantum computing and cybersecurity.Fiji has traditionally been aligned with Australia, and the Quad countries have pledged cooperation on disaster relief, climate resilience and humanitarian assistance to smaller Pacific islands.Quad countries also hold joint military exercises under the annual Malabar Exercise in the region, including anti-submarine warfare, aircraft carrier operations and maritime interoperability.Chinese President Xi Jinping speaks during a meeting with Fiji’s Prime Minister Sitiveni Rabuka at the Great Hall of the People in Beijing, China, August 20, 2024 [Andres Martinez Casres/Reuters]Why is China unhappy about the Quad?“China perceives the Quad as an anti-China coalition, and this new project in Fiji is viewed as the Quad expanding its operations from Indo-Pacific hotspots into the Pacific Island countries,” said Sana Hashmi, a postdoctoral fellow at the Taiwan-Asia Exchange Foundation with a special focus on China.Over the past few years, Beijing has pumped billions of dollars into the region, and its influence has risen in parallel.In response to a question from the media this week about the Quad’s initiative in Fiji, Chinese Foreign Ministry spokesperson Mao Ning warned that any cooperation in the region “should not target any third party”.“China has stated its position on the Quad on multiple occasions. Cooperation between countries should be conducive to regional peace, stability, and prosperity, and not target any third party,” she told reporters. “We oppose forming exclusive groupings or engaging in bloc confrontation.”In a joint statement following their meeting in New Delhi this week, the Quad countries’ foreign ministers also expressed concern about rising tensions in the East China Sea and the South China Sea, reiterating “strong opposition to any destabilising or unilateral actions, including by force or coercion, that threaten peace and stability in the regi",
+          "zh": "印度新德里 — 印度、美国、澳大利亚和日本外长本周早些时候在新德里会晤后，宣布了在具有重要战略意义的太平洋岛国斐济联合开发港口基础设施的计划。他们的组织被称为四边安全对话联盟（简称四方），在过去二十年里一直致力于对抗中国在亚太地区的经济和政治影响力。中国则表示，该组织不应“针对任何第三方”，而北京反对“搞集团对抗”。澳大利亚外长黄英贤盛赞斐济的倡议是四方在太平洋地区做出的提供高质量基础设施的最有力承诺。她表示，斐济港口基础设施试点项目反映了该集团提供高质量基础设施以应对太平洋优先事项的能力。由于该集团面临着其在当今世界秩序中的相关性的质疑，加上美国总统特朗普一直在拉拢中国，华盛顿已将重心从该地区转向西半球和中东。那么，斐济港口开发的意义何在？这是否会成为中美关系上下波动的下一个爆发点？澳大利亚外交部长黄英贤（中）、印度外交部长苏杰生（左四）和美国国务卿安东尼·布林肯将于 2024 年 7 月 29 日抵达日本东京参加四边安全对话 (Quad) 部长级会议 [Kiyoshi Ota/Getty Images]斐济？斐济外交部长表示，苏瓦和劳托卡将成为新宣布的“未来伙伴关系四方港口”试点项目下首批在岛上开发的港口。这标志着四方港口首次开展此类联合倡议。首都苏瓦已经是该国最大、最繁忙的港口。劳托卡历史上是围绕食糖出口而建立的，位于斐济西北部，是第二大城市。“这必须是两个主要城市，”萨基西·迪托卡告诉斐济媒体，他指的是苏瓦和劳托卡。 “然后最终我们可能会将其扩展到各地——如果你向北看，可能是瓦努阿岛，如果项目进展到那么远，可能是莱武岛。”然而，关于港口计划的具体细节还很少。 据斐济媒体报道，苏瓦港口机构（其中斐济政府拥有 41% 的股份）已与美国官员讨论了价值 1.81 亿美元的港口升级，以及可能价值 18.2 亿美元的苏瓦港搬迁计划。斐济港口代理首席执行官苏雷什·普拉萨德 (Suresh Prasad) 表示，他对这一消息感到“相当惊讶”，他告诉记者：“如果这是一个 Quad 项目，那么这将是一个大型项目，最有可能的是苏瓦港。” 2023 年，斐济总理西蒂维尼·拉布卡 (Sitiveni Rabuka) 与中国讨论了苏瓦港的重建计划，但这一计划并未实现。拉布卡本周一向斐济议会表示，将签署一项开展研究的协议与华盛顿的对外援助机构美国千年挑战公司合作，寻求美国支持的潜在基础设施建设，并补充说，任何项目都将通过赠款而不是贷款来资助。四方在亚太地区做什么？四方四个国家是该地区除俄罗斯和中国之外最有影响力的国家。四方的合作领域已经超出了其最初以安全为重点的前景，现在已扩展到海事安全、基础设施、技术、卫生和供应链等广泛的亚太倡议。该组织还运营印度-太平洋海域意识伙伴关系（IPMDA），帮助太平洋国家利用卫星数据监控非法捕鱼、走私和其他海上活动。它在促进锂、稀土矿和其他战略矿产的供应链方面进行合作，以减少对中国的依赖，同时在量子计算和网络安全方面进行合作。斐济传统上与澳大利亚保持一致，四方国家已承诺在救灾、气候适应和向太平洋较小岛屿提供人道主义援助方面进行合作。四方国家还在该地区举行年度马拉巴尔演习期间举行联合军事演习，包括反潜战、航母行动和海上互操作性。中国国家主席习近平在与斐济总理会晤时发表讲话西蒂维尼·拉布卡部长于中国北京人民大会堂，2024 年 8 月 20 日 [安德烈斯·马丁内斯·卡斯雷斯/路透社]为什么中国对四方机制不满意？“中国认为四方机制是一个反华联盟，而斐济的这个新项目被视为四方机制将其业务从印度-太平洋热点地区扩展到太平洋岛国，”台湾亚洲交流基金会博士后研究员萨纳·哈什米（Sana Hashmi）说道。中国。过去几年，北京向该地区注入了数十亿美元，其影响力也随之上升。本周在回答媒体有关斐济四国倡议的问题时，中国外交部发言人毛宁警告称，该地区的任何合作“不应针对任何第三方”。她对记者说：“中方已多次在四方机制上阐明了立场。各国之间的合作应有利于地区和平、稳定与繁荣，而不是针对任何第三方。” “我们反对形成排他性集团或进行集团对抗。”本周在新德里举行会议后发表的联合声明中，四国外长还对东海和南海紧张局势升级表示担忧，重申“强烈反对任何威胁地区和平与稳定的破坏稳定或单边行动，包括武力或胁迫行动”。"
+        }
+      ]
+    },
+    {
+      "title": "So dumb it just might work: can these dumbphone evangelists convince you to dump smartphones?",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/may/28/dumb-flip-phone",
+      "summary": "As part of a growing anti-tech movement, startup dumb.co is pushing flip phones as a way for young people to find ‘social and spiritual freedom’\n“They aren’t as dumb as they look,” our facilitator said, referring to the dark gray flip phone in his hand. He just as easily could ha",
+      "pubDate": "Thu, 28 May 2026 15:01:03 GMT",
+      "source": "Guardian Tech",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "太愚蠢了，它可能会起作用：这些愚蠢的手机传播者能说服你放弃智能手机吗？",
+      "summaryZh": "作为不断发展的反科技运动的一部分，初创公司 dumb.co 正在推广翻盖手机，以此作为年轻人寻找“社交和精神自由”的一种方式\n“他们并不像看上去那么愚蠢，”我们的协调员指着他手中的深灰色翻盖手机说道。他同样可以轻松地",
+      "contentParagraphs": [
+        {
+          "en": "“They aren’t as dumb as they look,” our facilitator said, referring to the dark gray flip phone in his hand. He just as easily could have been talking about us, the 28 New York residents before him who had signed up to use the device for the entire month of March. He explained that the relic was loaded with WhatsApp, iMessage, Google Maps, Uber, Microsoft 2FA – nothing like my seventh-grade flip phone.We each had paid $75 to participate in Month Offline, or MO, a program that challenged us to swear off our smartphones entirely. Another $25 went to dumb.co, the company behind MO, for the so-called dumbphones we would use as we navigated daily life.In its early days, MO had given out flip phones so dumb – no maps, no ride-sharing, iffy texting – that participants struggled to use them during and after the month-long experiment. So my MO cohort was the first to test dumb.co’s souped-up version, a discontinued TCL Flip 2 bolstered with the messaging and mapping functions many of us are dependent upon.A retrofitted TCL Flip 2 at the dumb.co launch party dinner in New York City on 1 May. Photograph: Jacques Morel/Courtesy of dumb.coI was skeptical. Most of us came to MO sick of being glued to the supercomputers in our palms, angling hours of our attention downwards each day. Disaffected with tech companies and their devices, we were eager to dabble in the growing analog movement and compelled by MO’s mission to restore “our social, psychological, and spiritual freedom”, as per the offline pledge we signed on day one.But if “less is MO,” why was the dumbphone being enabled to do more?Was dumb.co authentic in its offline aspirations, or was it really a tech startup trying to ride the anti-tech zeitgeist?“We all have iPhones,” Danny Hogenkamp, CEO and co-founder of dumb.co, told me of his nine-person team. Their headquarters in Washington DC was soon to be flush with summer interns. “They just don’t leave the office.”Hogenkamp, 31, founded his first company, a DC data and technology firm called Grassroots Analytics specializing in fundraising for progressive causes, when he was just 22 years old. It became ground zero for his “dumbing down”. After instituting device-free meetings when his team returned to the office after Covid-19 lockdowns, Hogenkamp observed an increase in creativity and productivity – from his staff and himself.Hogenkamp’s experimentation with de-digitizing escalated to the point when, in 2023, his roommate gave him a flip phone as a joke. The phone, Hognekamp said, “barely worked” – which is to say, it really worked. In addition to gaining back what would have otherwise been screen time, Hogenkamp noticed he simply felt better. (Indeed, research papers have indicated that low levels of screen time are linked to better quality of life in children and adults.)Danny Hogenkamp, dumb.co’s CEO, at the New York event. Photograph: Jacques Morel/Courtesy of dumb.coAnd so Hogenkamp decided that the future is dumb. With the money he made from his first company, he tried seven different “dumb ideas”, including investing in an app that let users bet against each other’s screen time, a phone-free bar in DC, and various charity and political efforts. He also bought 150 Yondr pouches, fabric bags that phones are magnetically locked into, and started hosting his own phone-free parties in DC just for fun. “I was the pouch guy,” he said.In 2024, Hogenkamp and his pouches were summoned to enable a phone-free Shabbat dinner. Grant Besner, 29, who had recently moved to DC after stints on a regenerative farm in Virginia and as a natural building apprentice in upstate New York, showed up too. When Hogenkamp tried to check his phone in at the door, Besner held up a low-tech phone of his own – a habit he picked up after struggling to write his master’s thesis with his smartphone lurking nearby.Hogenkamp and Besner were both gobsmacked; it was rare to meet a fellow traveler. They became friends and started brainstorming, eventually coming up with the idea for MO in early 2025. “We’re probably going into this dystopian hellscape, where everyone is a slave to their device,” Besner said of their thought process. “But what if there was a different future where we branched off and everyone started getting flip phones? Might as well try that.”Hogenkamp, who was funding the project, bought flip phones for MO participants to borrow and enrolled in the first two cohorts in DC. While happily participating (and realizing his “lifelong dream to hang out with other people with flip phones”), Hogenkamp noticed that people were having “deeply spiritual experiences”, with many wanting to keep their flip phones at the end of the month. “How do we make that happen for them? I guess that’s just what a phone company is,” he said.Before starting dumb.co, Hogenkamp hosted phone-free parties in DC using Yondr pouches, fabric bags that phones are magnetically locked into. Photograph: Jacques Morel/Courtesy of dumb.coThis sense of shared awakening underpins many of the other neo-luddite communities sprouting up offline, with analog advocacy groups such as the Luddite Club hosting regular chapter meetings across the country, and the New York-based Strother School of Radical Attention facilitating workshops to “build sanctuaries of attention” and protest “coercive digital technologies”. MO participants in my own cohort shared that “flipping off” their smartphones felt like waking up. We got lost, talked to strangers, and had the disturbing and unending experience of being the only person looking up in a subway car. A sense of enlightenment seemed to emerge simply from being more mindful (a conclusion I imagine will prompt Buddhists to think: well, duh).By summer 2025, participants were given the option to keep their TCL Flip 2s after MO ended. In December, Hogenkamp retired from Grassroots to focus on dumb.co – a tech startup, lifestyle brand, and yes, phone company – building a team of loosely anti-tech gen Zers, many plucked",
+          "zh": "“他们并不像看上去那么愚蠢，”我们的协调员指着他手中的深灰色翻盖手机说道。他也可以轻松地谈论我们，即在他之前签约使用该设备整个 3 月的 28 名纽约居民。他解释说，这个遗物上装满了 WhatsApp、iMessage、谷歌地图、Uber、微软 2FA——完全不像我七年级的翻盖手机。我们每人支付了 75 美元参加了“离线月”（MO）计划，该计划要求我们完全放弃智能手机。另外 25 美元捐给了 mud.co，MO 背后的公司，用于购买我们在日常生活中使用的所谓哑手机。在早期，MO 发放的翻盖手机非常笨——没有地图，没有拼车，发短信也不稳定——以至于参与者在长达一个月的实验期间和之后都很难使用它们。因此，我的 MO 团队是第一个测试 dumb.co 增强版的人，这是一款已停产的 TCL Flip 2，增强了我们许多人所依赖的消息传递和地图功能。 5 月 1 日，在纽约举办的 dumb.co 发布会晚宴上，改装了 TCL Flip 2。照片：Jacques Morel/dumb.co 提供我对此表示怀疑。我们中的大多数人来到密苏里州后，都厌倦了被手中的超级计算机所束缚，每天都要花几个小时的注意力。由于对科技公司及其设备感到不满，我们渴望涉足日益增长的模拟运动，并被 MO 的使命所迫，按照我们第一天签署的线下承诺，恢复“我们的社会、心理和精神自由”。但如果“MO 越少”，为什么哑手机能够做得更多呢？dumb.co 的线下愿望是真实的，还是真的是一家试图顺应反科技时代精神的科技初创公司？“我们都有 iPhone，” dumb.co 的首席执行官兼联合创始人丹尼·霍根坎普 (Danny Hogenkamp) 向我讲述了他的九人团队。他们位于华盛顿特区的总部很快就挤满了暑期实习生。 “他们就是不离开办公室。”31 岁的霍根坎普创立了他的第一家公司，这是一家名为 Grassroots Analytics 的华盛顿数据和技术公司，专门为进步事业筹款，当时他只有 22 岁。他的“愚钝”变成了归零。在 Covid-19 封锁后，当他的团队返回办公室时，霍根坎普开始了无设备会议，他发现员工和他自己的创造力和生产力都得到了提高。霍根坎普的去数字化实验升级到了2023年，他的室友开玩笑地给了他一部翻盖手机。霍格内坎普说，这款手机“几乎不能用”——也就是说，它确实能用。霍根坎普发现，除了重新获得屏幕时间之外，他还感觉好多了。 （事实上​​，研究论文表明，较少的屏幕时间与儿童和成人更好的生活质量有关。）dumb.co 首席执行官丹尼·霍根坎普 (Danny Hogenkamp) 在纽约活动上。摄影：Jacques Morel/dumb.co 提供因此 Hogenkamp 认为未来是愚蠢的。用他从第一家公司赚到的钱，他尝试了七种不同的“愚蠢的想法”，包括投资一款让用户可以相互打赌屏幕时间的应用程序、在华盛顿特区开设一个没有电话的酒吧，以及各种慈善和政治努力。他还购买了 150 个 Yondr 袋子，即用磁力将手机锁在里面的布袋，并开始在华盛顿举办自己的无手机派对，只是为了好玩。他说：“我是袋子里的人。”2024 年，霍根坎普和他的袋子被召集起来，以实现无电话的安息日晚餐。 29 岁的格兰特·贝斯纳 (Grant Besner) 也出现了，他在弗吉尼亚州的一个再生农场工作了一段时间，并在纽约州北部做过自然建筑学徒，最近搬到了华盛顿。当霍根坎普试图在门口检查他的手机时，贝斯纳举起了自己的一部低科技手机——这是他在智能手机潜藏在附近的情况下努力写硕士论文后养成的习惯。霍根坎普和贝斯纳都目瞪口呆；难得遇见同路人。他们成为了朋友，开始集思广益，最终在 2025 年初提出了 MO 的想法。“我们可能会进入这个反乌托邦的地狱，每个人都是他们设备的奴隶，”贝斯纳谈到他们的思考过程时说道。 “但是，如果有一个不同的未来，我们分门别类，每个人都开始使用翻盖手机呢？不妨尝试一下。”资助该项目的霍根坎普购买了翻盖手机供 MO 参与者借用，并参加了华盛顿特区的前两个队列。霍根坎普在愉快地参与其中（并实现了他“用翻盖手机与其他人一起出去玩的毕生梦想”）的同时，注意到人们正在经历“深刻的精神体验”，许多人希望在月底保留他们的翻盖手机。他说：“我们如何才能让他们实现这一目标？我想这就是电话公司。”在创办 dumb.co 之前，Hogenkamp 使用 Yondr 袋（手机被磁性锁定在其中的布袋）在华盛顿举办了无电话派对。照片：Jacques Morel/Courtesy of mud.co 这种共同的觉醒感支撑着许多其他新勒德分子社区在线下兴起，类似的倡导团体如勒德分子俱乐部在全国各地定期举办分会会议，总部位于纽约的斯特罗瑟激进注意力学院举办研讨会，以“建立注意力避难所”并抗议“强制性数字技术”。我自己的队列中的 MO 参与者分享说，“关闭”他们的智能手机感觉就像醒来一样。我们迷路了，和陌生人交谈，并经历了成为地铁车厢里唯一抬头看的人的令人不安和无休止的经历。一种启蒙感似乎只是从更加正念中出现（我想这个结论会促使佛教徒思考：好吧，废话）。到 2025 年夏天，参与者可以选择在 MO 结束后保留​​他们的 TCL Flip 2。去年 12 月，Hogenkamp 从 Grassroots 退休，专注于 dumb.co——一家科技初创公司、生活方式品牌，当然还有电话公司——建立了一支由松散的反科技 Z 世代组成的团队，其中许多人都是被挑选出来的"
+        }
+      ]
+    },
+    {
+      "title": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
+      "link": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A report warns the number of 16 to 24-year-olds out of work, education or training is set to rise to 1.25 million by 2031.",
+      "pubDate": "Thu, 28 May 2026 15:09:57 GMT",
+      "source": "BBC Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "关于“迷失的一代”的重要报告称太多年轻人的机会正在减少",
+      "summaryZh": "一份报告警告称，到 2031 年，失业、教育或培训的 16 至 24 岁青少年人数将增至 125 万人。",
+      "contentParagraphs": []
+    },
+    {
+      "title": "Happy, who taught researchers that elephants can recognize themselves, is euthanized",
+      "link": "https://www.npr.org/2026/05/28/nx-s1-5837163/happy-elephant-euthanized",
+      "summary": "Happy, a Bronx Zoo elephant who gave researchers new insight into the animal's behavior and became the crux of a closely watched animal rights case, has been euthanized at age 55.",
+      "pubDate": "Thu, 28 May 2026 01:56:33 -0400",
+      "source": "NPR Science",
+      "category": "science",
+      "sourceColor": "#6a1b9a",
+      "titleZh": "哈皮（Happy）曾教导研究人员大象可以认出自己，却被安乐死",
+      "summaryZh": "布朗克斯动物园的大象哈皮 (Happy) 在 55 岁时被安乐死，它让研究人员对动物的行为有了新的认识，并成为备受关注的动物权利案件的关键。",
+      "contentParagraphs": [
+        {
+          "en": "Bronx Zoo elephant \"Happy\" strolls inside the zoo's Asia Habitat in New York, Oct. 2, 2018.",
+          "zh": "Bronx Zoo elephant \"Happy\" strolls inside the zoo's Asia Habitat in New York, Oct. 2, 2018."
+        },
+        {
+          "en": "NEW YORK — Happy, a Bronx Zoo elephant who gave researchers new insight into the animal's behavior and became the crux of a closely watched animal rights case, has been euthanized at age 55, the zoo said Wednesday.",
+          "zh": "NEW YORK — Happy, a Bronx Zoo elephant who gave researchers new insight into the animal's behavior and became the crux of a closely watched animal rights case, has been euthanized at age 55, the zoo said Wednesday."
+        },
+        {
+          "en": "The Asian elephant was put to sleep Tuesday at the zoo where she lived for almost a half-century. Zoo officials said some age-related conditions accelerated in recent weeks, and she showed signs of a falloff in kidney or liver function. A necropsy revealed arthritis and large, inoperable uterine tumors that are impossible to diagnose in elephants through exams or imaging, the zoo said.",
+          "zh": "The Asian elephant was put to sleep Tuesday at the zoo where she lived for almost a half-century. Zoo officials said some age-related conditions accelerated in recent weeks, and she showed signs of a falloff in kidney or liver function. A necropsy revealed arthritis and large, inoperable uterine tumors that are impossible to diagnose in elephants through exams or imaging, the zoo said."
+        },
+        {
+          "en": "\"She was a wonderful elephant,\" interim zoo director Craig Piper said in an interview Wednesday, as heavy-hearted staffers absorbed the loss of an animal some had tended for over 30 years. \"She served as a tremendous ambassador for elephants and for elephant conservation.\"",
+          "zh": "\"She was a wonderful elephant,\" interim zoo director Craig Piper said in an interview Wednesday, as heavy-hearted staffers absorbed the loss of an animal some had tended for over 30 years. \"She served as a tremendous ambassador for elephants and for elephant conservation.\""
+        },
+        {
+          "en": "Since Happy's death, the zoo's 57-year-old Patty is the last elephant on exhibit in the United States' largest city. The zoo's parent institution, the Wildlife Conservation Society, decided 20 years ago to stop acquiring pachyderms.",
+          "zh": "Since Happy's death, the zoo's 57-year-old Patty is the last elephant on exhibit in the United States' largest city. The zoo's parent institution, the Wildlife Conservation Society, decided 20 years ago to stop acquiring pachyderms."
+        },
+        {
+          "en": "Born in the wild in Asia, Happy was brought to the U.S. as a 1-year-old. She was named for a character from \"Snow White and the Seven Dwarfs\" before arriving at the zoo in 1977.",
+          "zh": "Born in the wild in Asia, Happy was brought to the U.S. as a 1-year-old. She was named for a character from \"Snow White and the Seven Dwarfs\" before arriving at the zoo in 1977."
+        },
+        {
+          "en": "Happy keenly engaged with her keepers and was easy to motivate with favorite treats, such as watermelon or strawberries, said Keith Lovett, the zoo's director of animal programs. Piper said she sometimes stashed treats in her ear to save for later.",
+          "zh": "Happy keenly engaged with her keepers and was easy to motivate with favorite treats, such as watermelon or strawberries, said Keith Lovett, the zoo's director of animal programs. Piper said she sometimes stashed treats in her ear to save for later."
+        },
+        {
+          "en": "In 2005, she showed researchers that elephants can recognize themselves in a mirror — a sign of self-awareness seen in only a few other species. During the experiment, Happy faced her reflection and repeatedly used her trunk to touch an \"X\" painted above her eye, a mark she could see only in the mirror.",
+          "zh": "In 2005, she showed researchers that elephants can recognize themselves in a mirror — a sign of self-awareness seen in only a few other species. During the experiment, Happy faced her reflection and repeatedly used her trunk to touch an \"X\" painted above her eye, a mark she could see only in the mirror."
+        },
+        {
+          "en": "She was paired with other elephants until her last partner died in 2006. Happy then lived separately from Patty and a third elephant out of concern that they wouldn't get along, though Lovett said the animals could see, smell and touch each other over a divider. The third elephant, called Maxine, died in 2018.",
+          "zh": "She was paired with other elephants until her last partner died in 2006. Happy then lived separately from Patty and a third elephant out of concern that they wouldn't get along, though Lovett said the animals could see, smell and touch each other over a divider. The third elephant, called Maxine, died in 2018."
+        },
+        {
+          "en": "Zoo officials said the median life expectancy for Asian elephants in U.S. zoos is about 45 years. Their life expectancy in the wild is more difficult to pinpoint.",
+          "zh": "Zoo officials said the median life expectancy for Asian elephants in U.S. zoos is about 45 years. Their life expectancy in the wild is more difficult to pinpoint."
+        },
+        {
+          "en": "During Happy's lifetime, zoo elephant exhibits came under increased scrutiny. Some experts said urban animal parks were too small for creatures that roam extensive distances in the wild. Animal rights activists argued that zoo enclosures were no place for big-brained, social pachyderms.",
+          "zh": "During Happy's lifetime, zoo elephant exhibits came under increased scrutiny. Some experts said urban animal parks were too small for creatures that roam extensive distances in the wild. Animal rights activists argued that zoo enclosures were no place for big-brained, social pachyderms."
+        },
+        {
+          "en": "Some zoos phased out their exhibits and sent elephants to sanctuaries, though some other zoos remain committed to keeping and breeding the creatures, arguing that they help keep people interested in saving wildlife.",
+          "zh": "Some zoos phased out their exhibits and sent elephants to sanctuaries, though some other zoos remain committed to keeping and breeding the creatures, arguing that they help keep people interested in saving wildlife."
+        },
+        {
+          "en": "One activist group, the Nonhuman Rights Project, sued the Bronx Zoo in 2018, seeking to have Happy declared a \"person\" for legal purposes and moved to a large animal sanctuary. It was the first such case about an elephant, according to the group.",
+          "zh": "One activist group, the Nonhuman Rights Project, sued the Bronx Zoo in 2018, seeking to have Happy declared a \"person\" for legal purposes and moved to a large animal sanctuary. It was the first such case about an elephant, according to the group."
+        },
+        {
+          "en": "Citing a principle that's used to challenge the legality of a person's imprisonment, the activist group said Happy was \"an extraordinarily cognitively complex and autonomous nonhuman being\" who was unlawfully deprived of her liberty and suffered from being pent up in a exhibit without other elephants.",
+          "zh": "Citing a principle that's used to challenge the legality of a person's imprisonment, the activist group said Happy was \"an extraordinarily cognitively complex and autonomous nonhuman being\" who was unlawfully deprived of her liberty and suffered from being pent up in a exhibit without other elephants."
+        },
+        {
+          "en": "Zoo officials said Happy was assiduously cared for and had space for swimming, foraging and other natural behavior. Uprooting her from her longtime home could harm her, the zoo said.",
+          "zh": "Zoo officials said Happy was assiduously cared for and had space for swimming, foraging and other natural behavior. Uprooting her from her longtime home could harm her, the zoo said."
+        },
+        {
+          "en": "New York's top court ultimately rejected the activists' claim, by a 5-2 majority. Colorado's highest court later issued a similar ruling about five elephants in a zoo there.",
+          "zh": "New York's top court ultimately rejected the activists' claim, by a 5-2 majority. Colorado's highest court later issued a similar ruling about five elephants in a zoo there."
+        },
+        {
+          "en": "Still, two of the New York high court judges wrote pointed dissents. One called Happy's captivity \"inherently unjust and inhumane\" and \"an affront to a civilized society.\"",
+          "zh": "Still, two of the New York high court judges wrote pointed dissents. One called Happy's captivity \"inherently unjust and inhumane\" and \"an affront to a civilized society.\""
+        },
+        {
+          "en": "The Nonhuman Rights Project has continued pursuing cases about elephants in various other states.",
+          "zh": "The Nonhuman Rights Project has continued pursuing cases about elephants in various other states."
+        },
+        {
+          "en": "Happy spent her final weeks, by her choice, in an off-exhibit barn and yard within her enclosure, Piper said. In a zoo version of hospice care, staffers provided hydration, nutrition and pain management, he said.",
+          "zh": "Happy spent her final weeks, by her choice, in an off-exhibit barn and yard within her enclosure, Piper said. In a zoo version of hospice care, staffers provided hydration, nutrition and pain management, he said."
+        },
+        {
+          "en": "Meanwhile, Patty is doing well, the zoo said.",
+          "zh": "Meanwhile, Patty is doing well, the zoo said."
+        },
+        {
+          "en": "The Wildlife Conservation Society said in 2006 that once there was only one elephant, the animal might be moved to another zoo if circumstances were right. Piper said the zoo will be \"really thoughtful and careful\" in contemplating whether to move Patty from her home of 53 years.",
+          "zh": "The Wildlife Conservation Society said in 2006 that once there was only one elephant, the animal might be moved to another zoo if circumstances were right. Piper said the zoo will be \"really thoughtful and careful\" in contemplating whether to move Patty from her home of 53 years."
         }
       ]
     }
