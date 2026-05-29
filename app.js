@@ -1,3 +1,5 @@
+// --- Utils ---
+
 function formatDate(isoStr) {
   const d = new Date(isoStr);
   const now = new Date();
@@ -12,7 +14,10 @@ function formatDate(isoStr) {
 }
 
 function sourceClass(source) {
-  const map = { 'BBC News': 'bbc', 'The Guardian': 'guardian', 'NPR': 'npr', 'ABC News': 'abc', 'Al Jazeera': 'aljazeera' };
+  const map = { 'BBC News': 'bbc', 'BBC Tech': 'bbc', 'BBC Business': 'bbc', 'BBC Science': 'bbc',
+    'The Guardian': 'guardian', 'Guardian Tech': 'guardian',
+    'NPR News': 'npr', 'NPR Technology': 'npr', 'NPR Business': 'npr', 'NPR Science': 'npr',
+    'Al Jazeera': 'aljazeera' };
   return map[source] || 'bbc';
 }
 
@@ -21,6 +26,13 @@ function escapeHtml(text) {
   div.textContent = text;
   return div.innerHTML;
 }
+
+function catLabel(cat) {
+  const map = { world: '🌍 国际', tech: '💻 科技', business: '📈 商业', science: '🔬 科学' };
+  return map[cat] || cat;
+}
+
+// --- Rendering ---
 
 function renderParagraphContent(cp, idx) {
   if (!cp || cp.length === 0) return '';
@@ -61,10 +73,15 @@ function renderFallbackContent(a, idx) {
 
 function renderArticles(articles) {
   const list = document.getElementById('newsList');
+  if (articles.length === 0) {
+    list.innerHTML = '<div class="empty-cat">该分类暂无文章</div>';
+    return;
+  }
   list.innerHTML = articles.map((a, idx) => `
     <article class="news-card">
       <div class="card-header">
         <span class="source-tag source-${sourceClass(a.source)}">${a.source}</span>
+        ${a.category ? `<span class="cat-badge">${catLabel(a.category)}</span>` : ''}
         <span class="card-date">${formatDate(a.pubDate)}</span>
       </div>
       <p class="title-en">${escapeHtml(a.title)}</p>
@@ -88,19 +105,61 @@ function setupExpandListeners() {
   });
 }
 
+// --- Data & Category Management ---
+
+let allArticles = [];
+let currentCat = 'all';
+let categories = {};
+
+function buildCategoryTabs() {
+  const tabs = document.getElementById('catTabs');
+  const entries = Object.entries(categories);
+  tabs.innerHTML = `
+    <button class="cat-tab active" data-cat="all">全部</button>
+    ${entries.map(([key, val]) => `
+      <button class="cat-tab" data-cat="${key}">${val.icon || ''} ${val.label || key}</button>
+    `).join('')}
+  `;
+
+  tabs.querySelectorAll('.cat-tab').forEach((tab) => {
+    tab.addEventListener('click', () => {
+      tabs.querySelectorAll('.cat-tab').forEach((t) => t.classList.remove('active'));
+      tab.classList.add('active');
+      currentCat = tab.dataset.cat;
+      filterAndRender();
+
+      // Scroll active tab into view on mobile
+      tab.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    });
+  });
+}
+
+function filterAndRender() {
+  const filtered = currentCat === 'all'
+    ? allArticles
+    : allArticles.filter((a) => a.category === currentCat);
+  renderArticles(filtered);
+  setupExpandListeners();
+}
+
 async function loadNews() {
   try {
     const res = await fetch('data/news.json');
     if (!res.ok) throw new Error('Data not found');
     const data = await res.json();
+
     document.getElementById('loading').style.display = 'none';
     document.getElementById('newsList').style.display = 'flex';
 
     const timeEl = document.getElementById('updateTime');
     timeEl.textContent = `更新于 ${new Date(data.updated).toLocaleString('zh-CN')}`;
 
-    renderArticles(data.articles);
-    setupExpandListeners();
+    allArticles = data.articles || [];
+    categories = data.categories || {};
+    currentCat = 'all';
+
+    buildCategoryTabs();
+    filterAndRender();
   } catch (e) {
     document.getElementById('loading').style.display = 'none';
     document.getElementById('errorMsg').style.display = 'block';
@@ -110,7 +169,8 @@ async function loadNews() {
 
 loadNews();
 
-// Refresh button — localhost uses backend API, GitHub Pages links to Actions
+// --- Refresh button ---
+
 const refreshBtn = document.getElementById('refreshBtn');
 const refreshStatus = document.getElementById('refreshStatus');
 const isGitHubPages = window.location.hostname.includes('github.io');
@@ -125,7 +185,7 @@ if (isGitHubPages) {
   refreshBtn.addEventListener('click', async () => {
     refreshBtn.disabled = true;
     refreshBtn.textContent = '⏳ 更新中…';
-    refreshStatus.textContent = '正在抓取新闻和翻译，请耐心等待（约1-2分钟）…';
+    refreshStatus.textContent = '正在抓取新闻和翻译，请耐心等待（约 2 分钟）…';
 
     try {
       const res = await fetch('/api/refresh', { method: 'POST' });

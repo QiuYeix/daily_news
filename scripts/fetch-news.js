@@ -2,7 +2,7 @@ import Parser from 'rss-parser';
 import { translate as googleTranslate } from '@vitalets/google-translate-api';
 import { JSDOM } from 'jsdom';
 import { Readability } from '@mozilla/readability';
-import { writeFileSync, mkdirSync, existsSync } from 'fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -14,11 +14,29 @@ const parser = new Parser({
   headers: { 'User-Agent': 'DailyNewsAggregator/1.0' },
 });
 
+const CATEGORIES = {
+  world: { label: '国际', icon: '🌍' },
+  tech: { label: '科技', icon: '💻' },
+  business: { label: '商业', icon: '📈' },
+  science: { label: '科学', icon: '🔬' },
+};
+
 const FEEDS = [
-  { name: 'BBC News', url: 'https://feeds.bbci.co.uk/news/world/rss.xml', color: '#b80000' },
-  { name: 'The Guardian', url: 'https://www.theguardian.com/world/rss', color: '#052962' },
-  { name: 'NPR', url: 'https://feeds.npr.org/1001/rss.xml', color: '#e57300' },
-  { name: 'Al Jazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml', color: '#f79120' },
+  // World
+  { name: 'BBC News', url: 'https://feeds.bbci.co.uk/news/world/rss.xml', category: 'world', color: '#b80000' },
+  { name: 'The Guardian', url: 'https://www.theguardian.com/world/rss', category: 'world', color: '#052962' },
+  { name: 'NPR News', url: 'https://feeds.npr.org/1001/rss.xml', category: 'world', color: '#e57300' },
+  { name: 'Al Jazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml', category: 'world', color: '#f79120' },
+  // Technology
+  { name: 'BBC Tech', url: 'https://feeds.bbci.co.uk/news/technology/rss.xml', category: 'tech', color: '#1a73e8' },
+  { name: 'NPR Technology', url: 'https://feeds.npr.org/1019/rss.xml', category: 'tech', color: '#1a73e8' },
+  { name: 'Guardian Tech', url: 'https://www.theguardian.com/technology/rss', category: 'tech', color: '#1a73e8' },
+  // Business
+  { name: 'BBC Business', url: 'https://feeds.bbci.co.uk/news/business/rss.xml', category: 'business', color: '#0d7a3e' },
+  { name: 'NPR Business', url: 'https://feeds.npr.org/1006/rss.xml', category: 'business', color: '#0d7a3e' },
+  // Science
+  { name: 'NPR Science', url: 'https://feeds.npr.org/1007/rss.xml', category: 'science', color: '#6a1b9a' },
+  { name: 'BBC Science', url: 'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml', category: 'science', color: '#6a1b9a' },
 ];
 
 function stripHtml(html) {
@@ -34,15 +52,11 @@ function cleanContent(text) {
     .split('\n')
     .filter((line) => {
       const t = line.trim();
-      if (!t) return true; // keep blank lines for paragraph breaks
-      // Image credit lines: "Carolyn Kaster/AP", "Josh Edelson/AFP via Getty Images"
+      if (!t) return true;
       if (/^[A-Z][a-z]+ [A-Z][a-z]+\/(AP|Getty|Reuters|AFP|EPA|NPR|BBC|CNN)\b/.test(t)) return false;
       if (/^(AP|Getty|Reuters|AFP|EPA)\b/i.test(t) && t.length < 40) return false;
-      // "hide caption" / "toggle caption" / "show caption"
       if (/^(hide|toggle|show) caption$/i.test(t)) return false;
-      // Timestamp noise: "42 minutes ago", "2 hours ago"
       if (/^\d+ (minute|hour|day|second)s? ago/.test(t)) return false;
-      // Standalone byline markers
       if (/^More on this story$/i.test(t)) return false;
       return true;
     })
@@ -74,7 +88,6 @@ async function translateText(text) {
   }
 }
 
-// Translate paragraph by paragraph for aligned display
 async function translateContent(text) {
   if (!text || text.trim().length < 3) return [];
   const cleaned = cleanContent(text);
@@ -88,10 +101,8 @@ async function translateContent(text) {
   const pairs = [];
   for (let i = 0; i < paragraphs.length; i++) {
     const en = paragraphs[i];
-    console.log(`    [${i + 1}/${paragraphs.length}] ${en.slice(0, 50)}...`);
     const zh = await translateText(en);
-    pairs.push({ en, zh: zh || en });
-    if (i < paragraphs.length - 1) await new Promise((r) => setTimeout(r, 200));
+    if (zh) pairs.push({ en, zh });
   }
   return pairs;
 }
@@ -111,12 +122,11 @@ async function extractFromPage(url) {
     const html = await res.text();
     const doc = new JSDOM(html, { url });
 
-    // Try JSON-LD structured data first (more reliable, works for BBC)
+    // Try JSON-LD first
     try {
       const scripts = doc.window.document.querySelectorAll('script[type="application/ld+json"]');
       for (const script of scripts) {
         const data = JSON.parse(script.textContent);
-        // Handle @graph structure
         const items = data['@graph'] || [data];
         for (const item of items) {
           if (item['@type'] === 'NewsArticle' || item['@type'] === 'Article') {
@@ -147,10 +157,10 @@ async function extractFromPage(url) {
 // --- RSS Fetching ---
 
 async function fetchFeed(feed) {
-  console.log(`[RSS] Fetching ${feed.name}...`);
+  console.log(`[RSS] Fetching ${feed.name} (${feed.category})...`);
   try {
     const result = await parser.parseURL(feed.url);
-    const items = (result.items || []).slice(0, 6).map((item) => {
+    const items = (result.items || []).slice(0, 4).map((item) => {
       const rssContent = stripHtml(item['content:encoded'] || item.content || '');
       const rssSummary = stripHtml(item.contentSnippet || item.summary || item.description || '');
       const content = rssContent.length > rssSummary.length ? rssContent : rssSummary;
@@ -162,6 +172,7 @@ async function fetchFeed(feed) {
         rssBody: content.length > 80 ? content : rssSummary,
         pubDate: item.pubDate || item.isoDate || new Date().toISOString(),
         source: feed.name,
+        category: feed.category,
         sourceColor: feed.color,
       };
     });
@@ -183,52 +194,64 @@ function deduplicate(articles) {
   });
 }
 
+// --- Persistence: merge new articles with existing ---
+
+function loadExisting() {
+  try {
+    if (existsSync(DATA_PATH)) {
+      const raw = readFileSync(DATA_PATH, 'utf-8');
+      const data = JSON.parse(raw);
+      return data.articles || [];
+    }
+  } catch {}
+  return [];
+}
+
+function mergeArticles(existing, incoming) {
+  const all = deduplicate([...incoming, ...existing]);
+  all.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+  // Remove articles older than 36 hours
+  const cutoff = Date.now() - 36 * 3600 * 1000;
+  const fresh = all.filter((a) => new Date(a.pubDate).getTime() > cutoff);
+
+  console.log(`[MERGE] ${existing.length} existing + ${incoming.length} new → ${all.length} after dedup → ${fresh.length} fresh`);
+
+  return fresh;
+}
+
 // --- Main ---
 
 async function main() {
   console.log('=== Daily News Fetcher ===');
   console.log(new Date().toISOString());
 
-  // Step 1: Fetch RSS feeds
+  // Step 1: Fetch RSS feeds (each source gets fewer articles to keep total manageable)
   const results = await Promise.all(FEEDS.map(fetchFeed));
-  let articles = results.flat();
-  articles = deduplicate(articles);
-  articles.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-  articles = articles.slice(0, 12);
+  let newArticles = results.flat();
+  newArticles = deduplicate(newArticles);
+  console.log(`[INFO] ${newArticles.length} new articles from RSS`);
 
-  console.log(`[INFO] Total after dedup: ${articles.length} articles`);
-
-  if (articles.length === 0) {
-    console.log('[WARN] No articles fetched.');
-    const output = { updated: new Date().toISOString(), count: 0, articles: [] };
-    const dir = dirname(DATA_PATH);
-    if (!existsSync(dir)) mkdirSync(dir, { recursive: true });
-    writeFileSync(DATA_PATH, JSON.stringify(output, null, 2), 'utf-8');
-    console.log('[DONE] Empty result written.');
-    return;
-  }
-
-  // Step 2: Translate titles & summaries
-  console.log(`[TRANS] Translating ${articles.length} titles & summaries...`);
-  for (let i = 0; i < articles.length; i++) {
-    const a = articles[i];
-    console.log(`[TRANS] [${i + 1}/${articles.length}] ${a.title.slice(0, 60)}...`);
+  // Step 2: Translate titles & summaries for new articles
+  console.log(`[TRANS] Translating ${newArticles.length} titles & summaries...`);
+  for (let i = 0; i < newArticles.length; i++) {
+    const a = newArticles[i];
+    console.log(`[TRANS] [${i + 1}/${newArticles.length}] ${a.title.slice(0, 60)}...`);
     const [titleZh, summaryZh] = await Promise.all([
       translateText(a.title),
       translateText(a.summary),
     ]);
     a.titleZh = titleZh;
     a.summaryZh = summaryZh;
-    if (i < articles.length - 1) await new Promise((r) => setTimeout(r, 200));
+    if (i < newArticles.length - 1) await new Promise((r) => setTimeout(r, 200));
   }
 
-  // Step 3: Get full content, clean, translate paragraph by paragraph
-  console.log(`[PAGE] Extracting & translating full content (paragraph-aligned)...`);
-  for (let i = 0; i < articles.length; i++) {
-    const a = articles[i];
-    console.log(`[PAGE] [${i + 1}/${articles.length}] ${a.title.slice(0, 50)}...`);
+  // Step 3: Get full content & translate for new articles
+  console.log(`[PAGE] Extracting & translating full content...`);
+  for (let i = 0; i < newArticles.length; i++) {
+    const a = newArticles[i];
+    console.log(`[PAGE] [${i + 1}/${newArticles.length}] ${a.title.slice(0, 50)}...`);
 
-    // Get raw content
     const pageContent = await extractFromPage(a.link);
     let rawContent = '';
     if (pageContent && pageContent.length > (a.rssBody || '').length) {
@@ -238,7 +261,7 @@ async function main() {
       rawContent = a.rssBody.slice(0, 6000);
       console.log(`  RSS fallback: ${rawContent.length} chars`);
     } else {
-      console.log(`  No content (page=${pageContent.length}, rss=${(a.rssBody||'').length})`);
+      console.log(`  No content`);
     }
 
     if (rawContent) {
@@ -248,10 +271,47 @@ async function main() {
       a.contentParagraphs = [];
     }
     delete a.rssBody;
-    delete a.content;
-    delete a.contentZh;
-    if (i < articles.length - 1) await new Promise((r) => setTimeout(r, 300));
+    if (i < newArticles.length - 1) await new Promise((r) => setTimeout(r, 300));
   }
+
+  // Step 4: Merge with existing articles
+  const existing = loadExisting();
+  const merged = mergeArticles(existing, newArticles);
+
+  // Ensure at least some per category, max 20 total
+  const byCategory = {};
+  for (const a of merged) {
+    if (!byCategory[a.category]) byCategory[a.category] = [];
+    byCategory[a.category].push(a);
+  }
+
+  // Interleave: take 1 from each category, repeat, until we have 20
+  const categories = Object.keys(CATEGORIES);
+  const final = [];
+  const indices = Object.fromEntries(categories.map((c) => [c, 0]));
+  while (final.length < 20) {
+    let added = false;
+    for (const cat of categories) {
+      const pool = byCategory[cat] || [];
+      if (indices[cat] < pool.length) {
+        final.push(pool[cat][indices[cat]]);
+        indices[cat]++;
+        added = true;
+        if (final.length >= 20) break;
+      }
+    }
+    if (!added) break;
+  }
+
+  // Add any remaining if interleave didn't fill 20
+  for (const a of merged) {
+    if (final.length >= 20) break;
+    if (!final.find((f) => f.title === a.title)) {
+      final.push(a);
+    }
+  }
+
+  console.log(`[FINAL] ${final.length} articles (${categories.map((c) => `${c}: ${indices[c]}`).join(', ')})`);
 
   // Write output
   const dir = dirname(DATA_PATH);
@@ -259,12 +319,13 @@ async function main() {
 
   const output = {
     updated: new Date().toISOString(),
-    count: articles.length,
-    articles,
+    count: final.length,
+    categories: CATEGORIES,
+    articles: final,
   };
 
   writeFileSync(DATA_PATH, JSON.stringify(output, null, 2), 'utf-8');
-  console.log(`[DONE] Written ${articles.length} articles to news.json`);
+  console.log(`[DONE] Written ${final.length} articles to news.json`);
 }
 
 main().catch((e) => {
