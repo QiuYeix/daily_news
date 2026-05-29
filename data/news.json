@@ -1,454 +1,533 @@
 {
-  "updated": "2026-05-28T11:28:22.165Z",
+  "updated": "2026-05-29T11:18:46.191Z",
   "count": 12,
   "articles": [
     {
-      "title": "U.S. strikes Iran again. And, DOJ charges Google staffer over Polymarket trades",
-      "link": "https://www.npr.org/2026/05/28/g-s1-124621/up-first-newsletter-iran-lebanon-israel-us-war-ebola-congo-food-insecurity-google-polymarket",
-      "summary": "The U.S. says it has struck Iran again as peace talks continue to end the conflict. And, the federal government has charged a Google staffer for allegedly using insider information in Polymarket trades.",
-      "pubDate": "Thu, 28 May 2026 07:19:50 -0400",
+      "title": "Meteorologists were central to D-Day. 'Pressure' tells the story of navigating uncertainty",
+      "link": "https://www.npr.org/2026/05/29/nx-s1-5834960/pressure-movie-review-brendan-fraser-andrew-scott",
+      "summary": "The new movie, based on writer and actor David Haig's 2014 play, dramatizes the tensions between military leaders and meteorologists in the lead up to the Allied invasion of Normandy.",
+      "pubDate": "Fri, 29 May 2026 07:00:00 -0400",
       "source": "NPR",
       "sourceColor": "#e57300",
-      "titleZh": "美国再次打击伊朗。而且，司法部就 Polymarket 交易向谷歌员工提出指控",
-      "summaryZh": "美国表示，随着和平谈判继续结束冲突，美国再次袭击了伊朗。而且，联邦政府还指控一名谷歌员工涉嫌在 Polymarket 交易中使用内幕信息。",
+      "titleZh": "气象学家是诺曼底登陆的核心。 《压力》讲述了应对不确定性的故事",
+      "summaryZh": "这部新电影改编自作家兼演员大卫·黑格 2014 年的戏剧，戏剧化地展现了盟军入侵诺曼底之前军事领导人和气象学家之间的紧张关系。",
       "contentParagraphs": [
         {
-          "en": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.",
-          "zh": "早上好。您正在阅读 Up First 时事通讯。在此订阅，将其发送到您的收件箱，并收听 Up First 播客，了解开始新的一天所需的所有新闻。"
+          "en": "Andrew Scott stars as James Stagg in Pressure.",
+          "zh": "安德鲁·斯科特在《压力》中饰演詹姆斯·斯塔格。"
         },
         {
-          "en": "Today's top stories",
-          "zh": "今日头条新闻"
+          "en": "Alex Bailey/Focus Features",
+          "zh": "亚历克斯·贝利/焦点特征"
         },
         {
-          "en": "U.S. forces shot down Iranian drones near the Strait of Hormuz and struck an area along Iran's coast overnight, according to a U.S. official who spoke to NPR. In retaliation for the attack on Bandar Abbas, Iran's Revolutionary Guard says this morning it targeted the American base that launched the attack. U.S. and Iran peace talks continue.",
-          "zh": "据一位接受美国国家公共广播电台采访的美国官员称，美军连夜在霍尔木兹海峡附近击落了伊朗无人机，并袭击了伊朗沿海地区。为了报复对阿巴斯港的袭击，伊朗革命卫队今天早上表示，他们的目标是发动袭击的美国基地。美国和伊朗的和平谈判仍在继续。"
+          "en": "Alex Bailey/Focus Features",
+          "zh": "亚历克斯·贝利/焦点特征"
         },
         {
-          "en": "President Donald Trump (2nd-L) speaks as (L-R) Secretary of State Marco Rubio, Secretary of Defense Pete Hegseth, Commerce Secretary Howard Lutnick and Transportation Secretary Sean Duffy listen during a Cabinet meeting in the Cabinet Room of the White House on May 27, 2026, in Washington, D.C. Trump meets with his Cabinet days after saying a peace deal with Iran was \"largely negotiated\" amid expectations around the reopening of the Strait of Hormuz.",
-          "zh": "唐纳德·特朗普总统（左二）在 2026 年 5 月 27 日于华盛顿特区的白宫内阁会议室举行的内阁会议上讲话，（从左到右）国务卿马可·卢比奥、国防部长皮特·赫格塞斯、商务部长霍华德·卢特尼克和交通部长肖恩·达菲在听。几天后，特朗普表示与伊朗的和平协议“基本上已通过谈判”，在霍尔木兹海峡重新开放的预期下与伊朗达成了和平协议。"
+          "en": "Operation Overlord, the code name for the Allied invasion of Normandy in 1944, has long been an Anglo-American film event of epic proportions, from the 1962 CinemaScope extravaganza The Longest Day to Steven Spielberg's 1998 Saving Private Ryan. The new movie Pressure, Anthony Maras' screen adaptation of David Haig's acclaimed 2014 play, comes to the big screen in time for the 82nd anniversary of D-Day, carving out a place in the pantheon of films about the World War II liberation of Western Europe away from the action on the beaches.",
+          "zh": "“霸王行动”是 1944 年盟军入侵诺曼底的代号，从 1962 年的 CinemaScope 巨片《最长的一天》到 1998 年史蒂文·斯皮尔伯格的《拯救大兵瑞恩》，长期以来一直是英美电影界的史诗事件。安东尼·马拉斯 (Anthony Maras) 改编自大卫·黑格 (David Haig) 2014 年广受好评的戏剧的新片《压力》(Pressure) 适时在诺曼底登陆 82 周年之际登上大银幕，在讲述二战、解放西欧的电影中，远离海滩行动，在万神殿中占有一席之地。"
         },
         {
-          "en": "Win McNamee/Getty Images",
-          "zh": "赢得麦克纳米/盖蒂图片社"
+          "en": "The film is a closely wound chamber drama charting stormy weather both meteorological and emotional, of the film's main protagonists. The Irish actor Andrew Scott deftly embodies James Stagg, the punctilious Scottish chief meteorologist. Stagg works opposite his military superior General Dwight D. Eisenhower, Supreme Commander of the Allied forces, played by a bullish and baronial Brendan Fraser somewhat at a remove from the pinched steely-eyed Ike seen on the newsreels of the time.",
+          "zh": "这部电影是一部紧凑的室内戏剧，描绘了电影主要主角的暴风雨天气的气象和情感。爱尔兰演员安德鲁·斯科特巧妙地诠释了一丝不苟的苏格兰首席气象学家詹姆斯·斯塔格。斯塔格与他的军事上司德怀特·D·艾森豪威尔将军演对手戏，他是盟军最高统帅，由乐观而高贵的布伦丹·弗雷泽饰演，与当时新闻影片中目光紧绷、眼神坚毅的艾克有些不同。"
         },
         {
-          "en": "Win McNamee/Getty Images",
-          "zh": "赢得麦克纳米/盖蒂图片社"
+          "en": "Maras' film places these protagonists squarely at odds as they are introduced to one another a mere 72 hours from a proposed landing on the beaches of Normandy. Eisenhower's own weatherman, Irving Krick, played at an unnerving extroverted pitch by Chris Messina, is dead sure that the weather will be fine. The academic Stagg is altogether more dour and skeptical, sensing a storm brewing for the planned date of the invasion. Where Krick is busy grandstanding, the darling of his men and superiors, the ever unpopular Stagg urges caution. He wants more data, more detail and more observation of the forces that turn the winds and drive the storms on the distant seas.",
+          "zh": "马拉斯的电影将这些主角置于完全矛盾的境地，因为他们在诺曼底海滩计划登陆仅 72 小时后就相互认识了。艾森豪威尔自己的天气预报员欧文·克里克（由克里斯·梅西纳在令人不安的外向球场上扮演）确信天气会好。学术界的斯塔格则显得更加阴郁和怀疑，他感觉到一场风暴正在为预定的入侵日期酝酿。当克里克忙着哗众取宠时，他是他的下属和上级的宠儿，而一向不受欢迎的斯塔格则敦促人们保持谨慎。他想要更多的数据、更多的细节和更多的观察力，以了解在遥远的海上扭转风向和推动风暴的力量。"
         },
         {
-          "en": "🎧 It is difficult to determine if a deal is imminent, but all signs suggest that President Trump is pursuing a diplomatic solution with Iran instead of more war, NPR's Aya Batrawy tells Up First. The president has just shared a draft of the Iran deal with Israel's prime minister and several regional leaders, according to a person familiar with the matter who is not authorized to speak publicly. The interim deal would extend the ceasefire and reopen the Strait, but it would not include details on Iran's nuclear program. Iran has said there would be no deal with the U.S. without the war in Lebanon also coming to an end. Israel, a key U.S. ally, has expressed that it doesn't favor making a deal with Iran and wants to continue its war in Lebanon. Israel has issued evacuation warnings for Tyre, one of Lebanon's largest cities, deepening the conflict that has already displaced more than a million people in the country.",
-          "zh": "NPR 的 Aya Batrawy 告诉 Up First，很难确定是否即将达成协议，但所有迹象都表明特朗普总统正在寻求与伊朗的外交解决方案，而不是更多的战争。据一位未获授权公开发言的知情人士透露，总统刚刚与以色列总理和几位地区领导人分享了伊朗协议草案。临时协议将延长停火并重新开放海峡，但不包括伊朗核计划的细节。伊朗表示，如果黎巴嫩战争不结束，就不会与美国达成协议。美国的重要盟友以色列已表示不赞成与伊朗达成协议，并希望继续在黎巴嫩进行战争。以色列向黎巴嫩最大城市之一提尔发出疏散警告，加剧了已经导致该国超过一百万人流离失所的冲突。"
+          "en": "The tension between the two boils over into a confrontation which only Eisenhower can adjudicate, a task complicated by his own arrogant British subordinate, a wiry and dislikable General Bernard Montgomery — played with a villainous verve bordering on the pantomime by Damian Lewis.",
+          "zh": "两人之间的紧张关系最终演变成一场只有艾森豪威尔才能裁决的对抗，而他傲慢的英国下属、身材瘦长、令人讨厌的伯纳德·蒙哥马利将军则使这项任务变得更加复杂——他的表演充满了近乎达米安·刘易斯的哑剧般的邪恶神韵。"
         },
         {
-          "en": "The director-general of the World Health Organization is expected to arrive in the Democratic Republic of Congo today, as the country struggles to contain an Ebola outbreak. Officials say there are more than 1,000 suspected cases and over 200 suspected deaths in the country. Congo's neighboring countries, Rwanda and Uganda, have closed their borders.",
-          "zh": "世界卫生组织总干事预计将于今天抵达刚果民主共和国，该国正在努力遏制埃博拉疫情。官员称，该国已有1000多例疑似病例，200多例疑似死亡。刚果的邻国卢旺达和乌干达已关闭边界。"
+          "en": "The film manages a frenetic pace within closed rooms to match the tension of a battlefield. The pressures and the politics are inescapable. But Pressure is less a war story, rapt with the hysteria of battlefield deeds, than an intense exposition on the human capacity to tolerate uncertainty at a time when decisiveness is an imperative for action.",
+          "zh": "这部电影在封闭的房间内进行了疯狂的节奏，以配合战场的紧张气氛。压力和政治是不可避免的。但《压力》并不是一个战争故事，充满了战场上歇斯底里的行为，而是对人类在必须采取果断行动时容忍不确定性的能力进行了深入的阐述。"
         },
         {
-          "en": "🎧 WHO's director-general has described eastern Congo as the site of a \"catastrophic collision of disease and conflict,\" and reporter Emmet Livingstone says catastrophic sums up the situation. The region is suffering from militia violence and extreme poverty. The outbreak's epicenter is a remote gold-mining town called Mongbwalu, where health workers and NGOs face significant challenges. Some residents don't believe Ebola exists, and there have been violent attacks on hospitals and isolation tents. There are also certain areas of the town that have now become no-go zones. Livingstone spoke with Dr. Esther Sterk, a tropical disease specialist for Doctors Without Borders in Mongbwalu, who told him that hospitals and NGOs in the area are struggling to keep up with the scale of the outbreak.",
-          "zh": "🎧 世界卫生组织总干事将刚果东部描述为“疾病与冲突灾难性碰撞”的地点，记者埃米特·利文斯通（Emmet Livingstone）表示，灾难性的情况概括了这一情况。该地区正遭受民兵暴力和极端贫困之苦。此次疫情的震中是一个名为蒙布瓦鲁的偏远金矿小镇，那里的卫生工作者和非政府组织面临着严峻的挑战。一些居民不相信埃博拉病毒的存在，医院和隔离帐篷也发生过暴力袭击事件。该镇的某些区域现已成为禁区。利文斯通采访了蒙布瓦鲁无国界医生组织的热带病专家埃丝特·斯特克博士，她告诉他，该地区的医院和非政府组织正在努力应对疫情的规模。"
+          "en": "The airy confines of the stately home where Allied commanders are gathered provide both the grandeur and the contrast to the minutiae inked out on vast maps in the small hours of the night. Maras is able to make the bucolic well-appointed rooms seethe with frustration. The weathermen are in a black box, fed data as it arrives from distant weather balloons from Newfoundland to the African coast. Using these juxtapositions to full effect, the film builds a picture of simultaneous fragility and enormity to match the colossal task of judging the right conditions to commit to the largest sea invasion in recorded history.",
+          "zh": "盟军指挥官聚集的庄严宅邸通风良好，既富丽堂皇，又与深夜在巨大地图上绘制的细节形成鲜明对比。马拉斯能够让田园诗般的设备齐全的房间充满挫败感。气象员在一个黑匣子里，接收从纽芬兰到非洲海岸的遥远气象气球传来的数据。影片充分利用这些并置，构建了一幅脆弱性与巨大性同时存在的画面，以匹配判断实施历史上最大规模海上入侵的适当条件的艰巨任务。"
         },
         {
-          "en": "More people in the United States are experiencing hunger now than during the COVID-19 pandemic six years ago, according to a survey released yesterday by the Federal Reserve Bank of New York. The New York Fed periodically surveys Americans about their food security, inquiring about whether they skip meals, depend on food donations or receive federal assistance for groceries. Replies from the most recent survey, conducted in February, show 10% of families nationwide reported missing meals due to a lack of food, and nearly 16% relied on food donations. For families earning less than $50,000 a year, food insecurity rates were nearly double, with almost 20% having to skip meals or go without food.",
-          "zh": "纽约联邦储备银行昨天发布的一项调查显示，现在美国遭受饥饿的人数比六年前的 COVID-19 大流行期间还要多。纽约联储定期对美国人的食品安全情况进行调查，询问他们是否不吃饭、依赖食品捐赠或接受联邦食品杂货援助。 2 月份进行的最新调查的答复显示，全国有 10% 的家庭因缺乏食物而缺餐，近 16% 的家庭依赖食物捐赠。对于年收入低于 50,000 美元的家庭，粮食不安全率几乎翻倍，近 20% 的家庭不得不不吃饭或不吃饭。"
+          "en": "Brendan Fraser as Dwight D. Eisenhower.",
+          "zh": "布兰登·弗雷泽饰演德怀特·D·艾森豪威尔。"
         },
         {
-          "en": "A Google software engineer has been charged with leveraging confidential company information to make $1.2 million on the prediction market site Polymarket. This marks the second known case of the federal government filing criminal charges against someone for allegedly using insider information on a prediction market site. Michele Spagnuolo, an Italian citizen residing in Switzerland, was arrested yesterday and is facing charges of commodities fraud, wire fraud, money laundering and other counts for allegedly placing bets on search trends based on internal Google data that tracked user searches. Operating under the username AlphaRaccoon, the 36-year-old allegedly placed a number of bets on Google's most-searched person for 2025 and knew the outcomes of these wagers before the trading public did, according to prosecutors.",
-          "zh": "一名谷歌软件工程师被指控利用公司机密信息在预测市场网站 Polymarket 上赚取 120 万美元。这是联邦政府对涉嫌在预测市场网站上使用内幕信息的人提出刑事指控的第二起已知案件。居住在瑞士的意大利公民米歇尔·斯帕纽洛 (Michele Spagnuolo) 昨天被捕，因涉嫌根据跟踪用户搜索的谷歌内部数据对搜索趋势进行押注，面临商品欺诈、电信欺诈、洗钱和其他罪名的指控。检察官称，这名 36 岁的男子以 AlphaRaccoon 为用户名，据称对 2025 年谷歌搜索次数最多的人物进行了多次押注，并在交易公众之前知道了这些押注的结果。"
+          "en": "Andrew Scott as Captain James Stagg and Kerry Condon as Kay Summersby.",
+          "zh": "安德鲁·斯科特饰演詹姆斯·斯塔格上尉，凯瑞·康登饰演凯·萨默斯比。"
         },
         {
-          "en": "Church and State",
-          "zh": "教会与国家"
+          "en": "Alex Bailey/Focus Features",
+          "zh": "亚历克斯·贝利/焦点特征"
         },
         {
-          "en": "\"The Prayer at Valley Forge\", a 1975 painting by Arnold Friberg done for America's bicentennial celebration in 1976.",
-          "zh": "《福吉谷的祈祷》是阿诺德·弗里伯格 1975 年为 1976 年美国二百周年庆典创作的画作。"
+          "en": "Alex Bailey/Focus Features",
+          "zh": "亚历克斯·贝利/焦点特征"
         },
         {
-          "en": "First Freedom Art Company",
-          "zh": "第一自由艺术公司"
+          "en": "The four-handed conflicts between the weathermen and the generals, however, seem a little too contrived at times. The presence of Eisenhower's secretary Kay Summersby (Kerry Condon) is used as a dramatic foil a little too often, notably as a means to salve seemingly irreconcilable clashes between the personalities of her impatient and demonstrative boss and Stagg's soft-spoken yet obstinate martinet. Her character deserved more depth than a short backstory in a monologue.",
+          "zh": "然而，气象员和将军之间的四手冲突有时似乎有点过于做作。艾森豪威尔的秘书凯·萨默斯比（凯瑞·康顿饰）的出现经常被用作戏剧性的陪衬，尤其是作为一种手段来缓解她不耐烦、易怒的老板和斯塔格说话温和但固执的性格之间看似不可调和的冲突。她的角色值得比独白中简短的背景故事有更多的深度。"
         },
         {
-          "en": "First Freedom Art Company",
-          "zh": "第一自由艺术公司"
+          "en": "When Krick and Stagg enter the command boardroom to present their opposing cases mere hours before a decision must be made, the film slips into a type of courtroom drama of stormy exchanges from the benches, with both Stagg and Krick pulling out all the stops to get their forecasts approved.",
+          "zh": "当克里克和斯塔格在必须做出决定前几个小时进入指挥会议室陈述他们对立的案件时，影片陷入了一场法庭戏剧，在法官席上进行了激烈的交流，斯塔格和克里克都使出浑身解数来让他们的预测获得批准。"
         },
         {
-          "en": "This week at NPR, we're going to explore the increased intermixing of God and government in a new series we're calling Church and State. It's an idea that has been gaining momentum through the first and second Trump administrations, not only within U.S. politics but also throughout American culture, in songs and paintings, schoolbooks and worship events infused with faith and politics.",
-          "zh": "本周，在 NPR，我们将在我们称之为“教会与国家”的新系列中探讨上帝与政府的日益混合。这一理念在特朗普第一届和第二届政府中不断增强，不仅在美国政界，而且在整个美国文化中，在充满信仰和政治的歌曲、绘画、教科书和礼拜活动中。"
+          "en": "Yet, as a matter of historical record, it must be said the film makes no mention of Sverre Petterssen, the Norwegian meteorologist who accurately predicted the storms that delayed the mission and pointed out the 36-hour lull between them which cleared the way for the subsequent go-ahead for attacks. His name is perhaps an omission for the sake of dramatic license, but a glaring one at that.",
+          "zh": "然而，作为历史记录，必须指出的是，影片没有提及挪威气象学家斯维尔·佩特森 (Sverre Petterssen)，他准确地预测了导致任务延误的风暴，并指出风暴之间有 36 小时的平静，为随后的袭击扫清了道路。也许是为了戏剧性的原因而省略了他的名字，但这是一个引人注目的名字。"
         },
         {
-          "en": "The Trump administration is using a painting that depicts George Washington praying to argue that the Founding Fathers were devout Christians. Historians question whether the moment in the painting actually occurred. The image has appeared in social media posts for the Defense Department, the Department of Labor, the Department of Homeland Security and more. It is even for sale on a federal government website that celebrates America's 250th anniversary. Many conservative evangelicals have adopted the 1975 Arnold Friberg painting, \"The Prayer at Valley Forge,\" as a rebuke to mainstream historians. Nicholas Shrum, a doctoral student researching Latter-day Saint identity in Am",
-          "zh": "特朗普政府正在使用一幅描绘乔治·华盛顿祈祷的画作来证明开国元勋是虔诚的基督徒。历史学家质疑画中的那一刻是否真实发生过。该图像出现在国防部、劳工部、国土安全部等机构的社交媒体帖子中。它甚至在庆祝美国成立 250 周年的联邦政府网站上出售。许多保守派福音派人士采用了阿诺德·弗里伯格 1975 年的画作《福吉谷的祈祷》，作为对主流历史学家的谴责。尼古拉斯·施鲁姆 (Nicholas Shrum)，一名博士生，研究现代圣徒身份"
+          "en": "The famous and fateful decision to postpone the invasion opens what is perhaps the more dramatically interesting phase of the film. The storm Stagg predicted arrives with full force and hammers the vast windows, and Krick, a broken man, must come to terms with his hubris and concede his error so he and Stagg can work urgently on setting the next available window for D-Day. Pressure succeeds most when it explores the themes of ego and anxiety in the face of mortal decisions about the lives of others and becomes a drama about this staggering weight of responsibility.",
+          "zh": "推迟入侵的著名而重大的决定开启了影片中也许更戏剧性有趣的阶段。斯塔格预测的风暴将全力袭来，重击巨大的窗户，而克里克，一个破碎的人，必须接受他的傲慢并承认他的错误，这样他和斯塔格就可以紧急工作，为诺曼底登陆设定下一个可用的窗口。当《压力》探讨了面对关乎他人生命的致命决定时的自我和焦虑主题，并成为一部关于这种令人震惊的责任重担的戏剧时，它最成功。"
+        },
+        {
+          "en": "When Pressure finally offers glimpses of the horrors of the Normandy landings, they serve as a visual contrast to the switchboard staff and generals waiting in a cramped radio room, listening to panicked audio from the beaches through headphones pressed against their ears. All ranks are reduced to helpless witnesses, anxiously standing in the eye of a man-made storm that must now run its course.",
+          "zh": "当压力最终让人们一睹诺曼底登陆的恐怖时，他们与在狭窄的广播室里等待的总机工作人员和将军们形成了视觉对比，他们通过贴在耳朵上的耳机聆听海滩上传来的恐慌的声音。所有队伍都沦为无助的目击者，焦急地站在一场现在必须结束的人为风暴的中心。"
+        },
+        {
+          "en": "Perhaps it is these psychological battles that need retelling and make Maras' film all the more prescient. Pressure is about a war of uncertainty and of faith. For all the prior cinematic depictions of storming bunkers and camaraderie under fire, Pressure offers us the quiet heroism of rational restraint in the figure of James Stagg, who weathered his inner storms and bore the courage to be disliked.",
+          "zh": "也许正是这些心理斗争需要重述，并使马拉斯的电影更具先见之明。压力是一场关于不确定性和信仰的战争。尽管之前的电影都描绘了冲锋掩体和炮火下的友情，但《压力》为我们提供了詹姆斯·斯塔格这个人物理性克制的安静英雄主义，他经受住了内心的风暴，并有勇气被人讨厌。"
         }
       ]
     },
     {
-      "title": "A federal judge in D.C. declines to block Trump's executive order on voting by mail",
-      "link": "https://www.npr.org/2026/05/28/nx-s1-5797889/trump-mail-in-voting-order",
-      "summary": "A federal judge in Washington, D.C., has declined to temporarily block President Trump's executive order that calls for restricting mail-in voting. Another judge may rule on the order soon.",
-      "pubDate": "Thu, 28 May 2026 07:13:55 -0400",
+      "title": "Photos show the world's 'uncounted' people -- and what it takes to be counted",
+      "link": "https://www.npr.org/2026/05/29/g-s1-124682/photos-birth-certificate-death-certificate-photoville",
+      "summary": "Colombian-American photographer and filmmaker Juan Arredondo turns his lens on the people of the world who do not have birth and death certificates — and how these vital records are created.",
+      "pubDate": "Fri, 29 May 2026 06:49:24 -0400",
       "source": "NPR",
       "sourceColor": "#e57300",
-      "titleZh": "华盛顿特区的一名联邦法官拒绝阻止特朗普关于邮寄投票的行政命令",
-      "summaryZh": "华盛顿特区的一名联邦法官拒绝暂时阻止特朗普总统要求限制邮寄投票的行政命令。另一位法官可能很快就会对该命令做出裁决。",
+      "titleZh": "照片展示了世界上“无法计算”的人口——以及如何才能被计算在内",
+      "summaryZh": "哥伦比亚裔美国摄影师兼电影制片人胡安·阿雷东多将镜头转向世界上没有出生和死亡证明的人们，以及这些重要记录是如何创建的。",
       "contentParagraphs": [
         {
-          "en": "President Trump holds his signed executive order that calls for restricting voting by mail in the White House's Oval Office in March.",
-          "zh": "特朗普总统持有其签署的行政命令，呼吁限制 3 月份在白宫椭圆形办公室通过邮寄投票。"
+          "en": "July 1, 2025. Sirajganj, Bangladesh Mothers who lacked birth certificates for themselves and family members hold up the newly obtained documents after a drive in Dhamainagar Union, part of a campaign to get people to register so they are eligible for social safety new programs.",
+          "zh": "2025 年 7 月 1 日，孟加拉国西拉杰甘吉 缺乏自己和家人出生证明的母亲在达麦讷格尔联盟 (Dhamainagar Union) 开车后举起新获得的文件，这是一项让人们登记的运动的一部分，以便他们有资格享受社会安全新计划。"
         },
         {
-          "en": "A federal judge has declined to temporarily block President Trump's executive order that calls for restricting voting by mail.",
-          "zh": "一名联邦法官拒绝暂时阻止特朗普总统要求限制邮寄投票的行政命令。"
+          "en": "\"The Uncounted\" is the name of a project by the Colombian-American photographer and filmmaker Juan Arredondo.",
+          "zh": "“The Uncounted”是哥伦比亚裔美国摄影师兼电影制片人胡安·阿雷东多 (Juan Arredondo) 的一个项目的名称。"
         },
         {
-          "en": "The ruling released Thursday by U.S. District Judge Carl Nichols, a Trump nominee based in Washington, D.C., leaves in place — at least for now — an executive order on voting that tests the limits of the president's power under the Constitution. A separate, 2025 executive order on voting was halted by courts.",
-          "zh": "华盛顿特区的特朗普提名人、美国地区法官卡尔·尼科尔斯周四发布的裁决保留了——至少目前如此——一项关于投票的行政命令，该命令测试了宪法规定的总统权力的限制。法院中止了一项单独的 2025 年投票行政命令。"
+          "en": "That title refers to people who have no life cycle records. No birth certificate. No death certificate. Or in some cases, the document may exist but finding a copy is like trying to climb Mount Everest.",
+          "zh": "这个头衔指的是没有生命周期记录的人。没有出生证明。没有死亡证明。或者在某些情况下，该文档可能存在，但找到副本就像尝试攀登珠穆朗玛峰一样。"
         },
         {
-          "en": "The latest executive order, issued March 31, calls for the Department of Homeland Security to work with the Social Security Administration to create lists of adult U.S. citizens in each state, and to send those lists to state election officials. It also calls for the U.S. Postal Service — a federal agency that's independent of a president's administration — to come up with lists of eligible voters and to only deliver mail-in ballots to people on those lists.",
-          "zh": "3 月 31 日发布的最新行政命令要求国土安全部与社会保障管理局合作，创建每个州的成年美国公民名单，并将这些名单发送给州选举官员。它还要求美国邮政服务（一个独立于总统政府的联邦机构）制定合格选民名单，并只向名单上的人邮寄选票。"
+          "en": "Arredondo traveled to six countries to explore the importance of these records and the impact of their absence. His photos are currently part of the sprawling open-air Photoville exhibition in Brooklyn, New York, open through May 30.",
+          "zh": "阿雷东多前往六个国家探讨这些记录的重要性以及它们缺失的影响。他的照片目前是纽约布鲁克林 Photoville 大型露天展览的一部分，展览将持续至 5 月 30 日。"
         },
         {
-          "en": "\"The Court recognizes that the Postal Service may ultimately issue a final rule that directly affects Plaintiffs or their members, or that the Government may develop State Citizenship Lists that omit specific individuals due to particularized flaws. Plaintiffs may, of course, renew their motions if and when those future actions occur. Until then, however, Plaintiffs cannot show that preliminary injunctive relief is warranted,\" Nichols wrote about the decision not to block the order.",
-          "zh": "“法院认识到，邮政服务最终可能会发布直接影响原告或其成员的最终规则，或者政府可能会制定国家公民名单，由于特定的缺陷而忽略特定个人。当然，如果未来发生这些行动，原告可以更新他们的动议。然而，在此之前，原告无法证明初步禁令救济是必要的，”尼科尔斯在谈到不阻止该命令的决定时写道。"
+          "en": "Every unrecorded birth means a life without a legal identity and all the rights, services and protections that come with it.",
+          "zh": "每一次未记录的出生都意味着没有合法身份以及随之而来的所有权利、服务和保护的生活。"
         },
         {
-          "en": "Nichols' ruling comes as another federal judge is preparing to issue a ruling in the coming weeks for a similar set of lawsuits based in Boston.",
-          "zh": "尼科尔斯做出裁决之际，另一位联邦法官正准备在未来几周内对波士顿的一系列类似诉讼做出裁决。"
+          "en": "June 11, 2025. Musanze District, Rwanda Goodlive Nyiramajyambere (left), Hosee Nziyonemeye (center) and Icamdenien Uwamahoro (right), sort through the paper archives searching for birth and death registration of their relatives at the Civil Registration Office. While Rwanda is actively digitizing all papercivil records, physical copies are still required for some official procedures. The transition to digital systems aims to improve accessibility.",
+          "zh": "2025 年 6 月 11 日，卢旺达穆桑泽区 Goodlive Nyiramajyambere（左）、Hosee Nziyonemeye（中）和 Icamdenien Uwamahoro（右）在民事登记办公室整理纸质档案，寻找其亲属的出生和死亡登记。尽管卢旺达正在积极将所有纸质民事记录数字化，但某些官方程序仍然需要纸质副本。向数字系统的过渡旨在提高可访问性。"
         },
         {
-          "en": "Since Trump signed the order, it's been unclear whether and how it would actually affect mail-in voting, which has been taking place for state primaries in this year's midterm election. In early May, the administration said in a court filing that federal agencies were still deliberating how to carry out the order. Acting U.S. Attorney General Todd Blanche later told a Senate Appropriations subcommittee that the Justice Department is working with other agencies to \"make sure\" the order's goals are implemented.",
-          "zh": "自特朗普签署该命令以来，尚不清楚它是否以及如何真正影响今年中期选举中州初选的邮寄投票。 5月初，政府在一份法庭文件中表示，联邦机构仍在审议如何执行该命令。美国代理司法部长托德·布兰奇后来告诉参议院拨款小组委员会，司法部正在与其他机构合作，“确保”该命令的目标得到实施。"
+          "en": "Every unrecorded death means that someone is invisible to the health system, their cause of death a missing piece of data that could prevent future losses.",
+          "zh": "每一个未记录的死亡都意味着卫生系统看不到某人，他们的死因是一个可以防止未来损失的缺失数据。"
         },
         {
-          "en": "Democrats, voting rights groups and almost two dozen states, plus Washington, D.C., have filed five lawsuits challenging the order.",
-          "zh": "民主党、投票权团体和近二十几个州，加上华盛顿特区，已提起五起诉讼，质疑该命令。"
+          "en": "And there are a lot of people who go uncounted. \"Each year, nearly half of all deaths and 25% of all births go unrecorded worldwide,\" Arredondo notes.",
+          "zh": "而且还有很多人没有被统计到。阿雷东多指出：“每年，全球近一半的死亡和 25% 的出生都没有记录。”"
         },
         {
-          "en": "They argue that Article I of the Constitution gives state legislatures and Congress — not the president — the power to set rules for federal elections. Their lawsuits also contend that Trump's order directs USPS to make rules about election mail that would overstep the mailing agency's authority.",
-          "zh": "他们认为，宪法第一条赋予州立法机关和国会（而不是总统）制定联邦选举规则的权力。他们的诉讼还称，特朗普的命令指示美国邮政局制定有关选举邮件的规则，这将超越邮寄机构的权力。"
+          "en": "February 28, 2025. Agusan del Norte, Philippines Nurses at the Agusan del Norte Provincial Hospital perform initial checkups on the date of the recorded birth.",
+          "zh": "2025 年 2 月 28 日，菲律宾北阿古桑省 北阿古桑省医院的护士在记录的出生日期进行初步检查。"
         },
         {
-          "en": "Trump, who himself voted by mail in Florida in March, has said he issued the order to stop illegal voting by noncitizens in federal elections, which reviews and research have found to be incredibly rare. While there are voters across the partisan divide who rely on mail-in voting, more registered Democrats than Republicans say they voted by mail in the last national election in 2024.",
-          "zh": "特朗普本人于三月份在佛罗里达州通过邮寄方式投票，他表示，他发布了禁止非公民在联邦选举中非法投票的命令，审查和研究发现这种情况极为罕见。尽管不同党派的选民都依赖邮寄投票，但表示在 2024 年上一次全国选举中通过邮寄投票的登记民主党人多于共和党人。"
+          "en": "The photo at the top of the story, from Bangladesh, shows mothers holding up newly issued birth certificates after a government registration drive. Having the certificate enables residents to enroll in a food assistance program.",
+          "zh": "故事顶部的照片来自孟加拉国，显示母亲们在政府登记后举着新签发的出生证明。拥有该证书使居民能够参加食品援助计划。"
         },
         {
-          "en": "The new court ruling on Trump's order comes out of the three lawsuits filed in federal court in D.C. A decision on a similar request to block provisions of the order may come out of the two Massachusetts-based lawsuits as soon as early June.",
-          "zh": "法院对特朗普命令的新裁决是在华盛顿特区联邦法院提起的三起诉讼中作出的。马萨诸塞州的两起诉讼最早可能会在 6 月初针对阻止该命令条款的类似请求做出决定。"
+          "en": "There are other benefits to documentation. \"Fundamental to public health is understanding what the data says about deaths and births,\" especially the causes of children's and other premature deaths, explains Jennifer Ellis, who leads the Bloomberg Philanthropies Data for Health Initiative. The challenge is that across the globe, an estimated half of all deaths and a quarter of all births are left unrecorded. Or even if they are recorded, the paperwork may be unfiled, undigitized and effectively inaccessible.",
+          "zh": "文档还有其他好处。 \"Fundamental to public health is understanding what the data says about deaths and births,\" especially the causes of children's and other premature deaths, explains Jennifer Ellis, who leads the Bloomberg Philanthropies Data for Health Initiative.面临的挑战是，在全球范围内，估计有一半的死亡和四分之一的出生没有被记录。或者，即使它们被记录下来，文书工作也可能未归档、未数字化并且实际上无法访问。"
         },
         {
-          "en": "Edited by Benjamin Swasey",
-          "zh": "本杰明·斯瓦西编辑"
+          "en": "November 29, 2024. University Teaching Hospital, Lusaka, Zambia Forensic pathologists and support staff prepare for the day's death investigations. Records of causes of death are critical in establishing priorities for a country's healthcare system.",
+          "zh": "2024 年 11 月 29 日。赞比亚卢萨卡大学教学医院法医病理学家和支持人员为当天的死亡调查做准备。死亡原因记录对于确定国家医疗保健系统的优先事项至关重要。"
+        },
+        {
+          "en": "Because the majority of deaths in remote or low-income countries occur at home rather than in a hospital, clinical or medical descriptions of the reasons for the mortalities also remain unknown. Without that missing information, Ellis says, communities and governments may lack the means to identify previously unrecognized health threats or track the emergence of communicable disease epidemics. By contrast, with cumulative data in hand, health officials can tailor their policies to respond effectively.",
+          "zh": "由于偏远或低收入国家的大多数死亡发生在家里而不是在医院，因此死亡原因的临床或医学描述也仍然未知。埃利斯说，如果没有这些缺失的信息，社区和政府可能缺乏识别以前未被识别的健康威胁或跟踪传染病流行的出现的方法。相比之下，凭借手中的累积数据，卫生官员可以调整政策以有效应对。"
+        },
+        {
+          "en": "December 3, 2024. Death Registration Office, Kitwe, Zambia Lazarus Kangasa waits at the Kitwe City Council Registration Office for a burial permit, the final step in certifying and obtaining his son's death certificate.",
+          "zh": "2024 年 12 月 3 日，赞比亚基特韦死亡登记办公室 Lazarus Kangasa 在基特韦市议会登记办公室等待埋葬许可证，这是证明和获得儿子死亡证明的最后一步。"
+        },
+        {
+          "en": "That is what happened in Zambia when the Bloomberg Philanthropies program analyzed a childhood mortality study and found found that 75% percent of all children born with HIV but untreated for it would die by the age 5. That led to a change in government policy making sure at risk children would be tested and treated if need be. As a result, that number rose from a low of 3% to children tested and treated, the number rose to 85% percent.",
+          "zh": "这就是赞比亚发生的情况，彭博慈善项目分析了一项儿童死亡率研究，发现所有出生时就携带艾滋病毒但未经治疗的儿童中有 75% 会在 5 岁时死亡。这导致政府政策发生变化，确保高危儿童在需要时接受检测和治疗。结果，这一数字从 3% 的低点上升到接受测试和治疗的儿童，这一数字上升至 85%。"
+        },
+        {
+          "en": "June 14, 2025. Rulindo District, Rwanda Thacien Ngirabatware (left) and his mother, Aurelia Muhayimana, recount the circumstances of her husband's death from heart failure to Aciadomme Inqaise, a verbal autopsy officer. Verbal autopsies are part of a national effort to improve data for death records.",
+          "zh": "2025 年 6 月 14 日，卢旺达鲁林多区 Thacien Ngirabatware（左）和他的母亲 Aurelia Muhayimana 向口头尸检官员 Aciadomme Inqaise 讲述了她丈夫因心力衰竭死亡的情况。口头尸检是国家改善死亡记录数据努力的一部分。"
+        },
+        {
+          "en": "Arredondo worked with the Bloomberg Philanthropies Data for Health (D4H) Initiative and the public health organizations Vital Strategies and CDC Foundation as he made photos that tell the stories of what it means to be uncounted –- and to at long last be counted.",
+          "zh": "阿雷东多与彭博慈善健康数据 (D4H) 计划、公共卫生组织 Vital Strategies 和 CDC 基金会合作，拍摄了一些照片，讲述了未被统计以及最终被统计意味着什么的故事。"
+        },
+        {
+          "en": "February 25, 2025. Quezon City, Philippines Arthur R. Caballero holds the urn containing the ashes of his mother, Erma R. Caballero. The funeral service, provided free of charge, is part of an initiative to support families who cannot afford funeral expenses.",
+          "zh": "2025 年 2 月 25 日，菲律宾奎松市，亚瑟·R·卡巴列罗 (Arthur R. Caballero) 手捧装有他母亲艾尔玛·R·卡巴列罗 (Erma R. Caballero) 骨灰的骨灰瓮。免费提供的葬礼服务是支持无力承担葬礼费用的家庭计划的一部分。"
+        },
+        {
+          "en": "Diane Cole writes for many publications, including The Wall Street Journal and The Washington Post. She is the author of the memoir After Great Pain: A New Life Emerges. Her website is DianeJoyceCole.com",
+          "zh": "黛安·科尔为许多出版物撰稿，包括《华尔街日报》和《华盛顿邮报》。她是回忆录《巨大痛苦之后：新生活的出现》的作者。她的网站是 DianeJoyceCole.com"
         }
       ]
     },
     {
-      "title": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
-      "link": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
-      "summary": "Southern Lebanon empties out under bombardment as Red Cross warns of worsening crisis.",
-      "pubDate": "Thu, 28 May 2026 10:58:12 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "以色列加强对黎巴嫩南部的袭击 造成至少16人死亡",
-      "summaryZh": "红十字会警告危机恶化，黎巴嫩南部空无一人。",
+      "title": "Anger at decision not to extradite Canadian suicide kit supplier to face UK justice",
+      "link": "https://www.theguardian.com/technology/2026/may/29/anger-decision-not-extradite-canadian-suicide-kit-supplier-face-uk-justice",
+      "summary": "Kenneth Law expected to admit to sending products internationally in knowledge they would probably be used to end lives\nBereaved families whose loved ones were the victims of an online supplier of suicide kits say they feel insulted by a decision not to prosecute him in the UK.\nK",
+      "pubDate": "Fri, 29 May 2026 10:39:02 GMT",
+      "source": "The Guardian",
+      "sourceColor": "#052962",
+      "titleZh": "对不引渡加拿大自杀工具包供应商接受英国司法的决定感到愤怒",
+      "summaryZh": "肯尼思·劳预计将承认将产品运送到国际各地，因为他知道这些产品可能会被用来结束生命\n一些亲人是一家在线自杀工具包供应商受害者的死者家属表示，英国不起诉他的决定让他们感到受到了侮辱。\nK",
       "contentParagraphs": [
         {
-          "en": "Southern Lebanon empties out under bombardment as Red Cross warns of worsening crisis.At least 16 people have been killed and 58 wounded in Israeli attacks in southern Lebanon, according to Lebanese health authorities, as Israel intensifies its assault and issues mass displacement orders across the region.Lebanon’s state-run National News Agency reported on Thursday that six of the victims belonged to the same family. They were killed in an Israeli drone strike while trying to flee at dawn along the Adloun Highway, a key route linking Sidon and Tyre, it said.Recommended Stories list of 3 itemslist 1 of 3Why is Israel ramping up attacks in Lebanon despite a ceasefire?list 2 of 3What’s happening on Iran war day 90 as US launches new strikeslist 3 of 3Israeli attack on Gaza City kills at least 10, including four childrenend of listThe attack came as Israel expanded its bombardment across southern Lebanon, hitting residential areas, roads and civilian infrastructure.The Lebanese army said one of its soldiers was killed in an Israeli strike in the Nabatieh area, the latest in a string of attacks targeting military personnel. Other soldiers have also been killed in recent days in strikes across southern Lebanon and the western Beqaa Valley.Israel has also issued sweeping displacement orders covering large parts of the south, including Tyre and surrounding areas. Residents were told to evacuate immediately and move north of the Zahrani River, roughly 40km (25 miles) from the Lebanon-Israel border.The orders, shared on social media with marked buildings, have forced thousands of people to flee under threat of attack.‘Things are only going to get worse’In Tyre, Israeli air strikes hit a building and a cafe overnight, setting off fires and leaving emergency crews searching through debris for casualties.The Israeli military said it is targeting what it calls Hezbollah “infrastructure”, but Israeli strikes have repeatedly hit civilian neighbourhoods and populated areas.Al Jazeera’s Obaida Hitto, reporting from Tyre, said the attacks on the city were relentless.“Since midnight, there have been over a dozen strikes on the city of Tyre and its surrounding areas.”“Yesterday, people left the city over the course of the day. It seems like the city, for the most part, is pretty empty,” he added.The International Committee of the Red Cross has warned that Israel’s large-scale forced displacements and continued strikes on urban centres are placing civilians at severe risk and deepening a humanitarian crisis.“The fear is that things are only going to get worse,” Hitto said.Al Jazeera’s Zeina Khodr, reporting from Beirut, said a US-brokered ceasefire that took effect last month had failed to halt the violence.“It was just ink on paper. It remained very much an active warzone.”“But what we have seen over the past three or four days is some of the heaviest Israeli bombardment yet across southern Lebanon since this latest confrontation began in early March,” she added.The escalation came as United States-mediated talks between Israel and Lebanon are due to resume on Thursday, beginning with technical discussions before moving to broader negotiations in early June.However, Israel has significantly intensified its military operations in the past two days, casting doubt over the prospects for diplomacy.“It is unclear how these talks will proceed,” Hitto said.“People here are extremely frustrated and would like to see the Lebanese government take a stronger position at these talks, but that doesn’t look like it’s going to happen,” he added.",
-          "zh": "红十字会警告危机恶化，黎巴嫩南部空无一人。据黎巴嫩卫生当局称，以色列在黎巴嫩南部发动的袭击已造成至少 16 人死亡、58 人受伤，以色列加大了袭击力度，并在整个地区发布了大规模流离失所令。黎巴嫩国营国家通讯社周四报道称，其中 6 名受害者属于同一家庭。报道称，黎明时分，他们试图沿阿德隆高速公路（连接西顿和提尔的一条重要路线）逃离，但在一次以色列无人机袭击中丧生。推荐故事列表（共 3 项）列表 1（共 3 项）为什么以色列在停火后仍加大对黎巴嫩的袭击力度？列表 2（共 3 项）美国发动新的空袭，伊朗战争日 90 发生了什么列表 3 项（共 3 项）以色列对加沙城的袭击造成至少 10 人死亡，其中包括 4 名儿童end of listThe袭击发生之际，以色列扩大了对黎巴嫩南部的轰炸，袭击了居民区、道路和民用基础设施。黎巴嫩军队表示，一名士兵在以色列对纳巴提耶地区的袭击中丧生，这是针对军事人员的一系列袭击中的最新一起。最近几天，其他士兵也在黎巴嫩南部和贝卡谷地西部的袭击中丧生。以色列还发布了全面的流离失所令，覆盖南部大部分地区，包括提尔及周边地区。居民被告知立即撤离，转移到距黎巴嫩-以色列边境约 40 公里（25 英里）的扎赫拉尼河以北。这些命令在社交媒体上与标记的建筑物分享，迫使数千人在受到袭击威胁的情况下逃离。“情况只会变得更糟”。在提尔，以色列的空袭连夜袭击了一座建筑物和一家咖啡馆，引发火灾，让紧急救援人员在废墟中搜寻伤亡人员。以色列军方表示，他们的目标是所谓的目标。真主党的“基础设施”，但以色列的袭击一再袭击平民社区和人口稠密地区。半岛电视台记者奥贝达·希托从提尔报道称，对该市的袭击是无情的。“自午夜以来，提尔市及其周边地区发生了十几次袭击。”“昨天，人们在一天中离开了这座城市。看起来这座城市大部分都是空的，”他补充道。红十字会警告说，以色列的大规模强迫流离失所和对城市中心的持续袭击使平民面临严重危险，并加剧了人道主义危机。希托说：“令人担心的是，事情只会变得更糟。”半岛电视台记者泽纳·科德尔在贝鲁特报道称，上个月在美国斡旋下生效的停火协议未能阻止暴力活动。“这只是纸上谈兵。它仍然是一个非常活跃的战区。”她补充说，过去三四天内，以色列对黎巴嫩南部进行了自三月初最近一次对抗以来最猛烈的轰炸。事态升级之际，美国调解的以色列和黎巴嫩之间的谈判将于周四恢复，首先进行技术讨论，然后在六月初进行更广泛的谈判。然而，以色列在过去两天显着加强了军事行动，使人们对外交前景产生了怀疑。“目前尚不清楚这些谈判将如何进行，”Hitto “这里的人们非常沮丧，希望看到黎巴嫩政府在这些谈判中采取更强硬的立场，但这看起来不会发生，”他补充道。"
+          "en": "Bereaved families whose loved ones were the victims of an online supplier of suicide kits say they feel insulted by a decision not to prosecute him in the UK.Kenneth Law was due to appear in court on Friday in Ontario, Canada, accused of selling 1,200 suicide packages across 40 countries, including the UK.He is expected to plead guilty to charges of aiding suicide and to admit sending products internationally in the knowledge they were likely to be used to end lives. Last month his lawyers confirmed a plea agreement under which previous murder charges would be withdrawn.An investigation by the National Crime Agency (NCA) into Canadian websites found that 286 individuals had received packages in the UK, leading to 112 deaths.A day before Law’s court appearance, the NCA and the Crown Prosecution Service told bereaved families they would not be seeking to extradite the 60-year-old to the UK after legal proceedings in Canada had concluded.Aimee Walton, left, who died in 2022 after buying one of the suicide kits from Law’s website, with her sister Adele. Photograph: Adele WaltonAdele Zeynep Walton, the sister of 21-year-old Aimee, from Southampton, who died in 2022 after buying one of the suicide kits from Law’s website, said: “It’s absolutely insane that the NCA and CPS are not going to do anything about it. It is so insulting.”In a letter to the families, the NCA and the CPS said: “After careful assessment, we agreed that Mr Law should be sentenced for the full extent of his offending within a single sentencing process in Canada. This approach is not unusual in cases involving serious offending that crosses international borders.“We recognise that this may be painful to hear, and that some victims and bereaved families may have hoped to see a separate prosecution in England and Wales.”Walton said the scale and novelty of Law’s alleged crimes warranted intervention from the UK authorities. She said: “When have we ever had people using the internet in order to target and seek out vulnerable people and assist them systematically in suicide? This is a new epidemic of assisted suicide. I think the approach of the NCA and CPS needs to adapt with the times.“If they’re not going to prosecute a man who potentially could be one of UK’s biggest serial killers, then what message does that send to other people like him?”Walton added: “There are more victims than the Grenfell disaster and yet no one seems to be talking about this and there’s no willingness from the government, from the NCA and CPS to bring justice to families.”David Parfett, the father of Thomas Parfett, 22, a philosophy student who took his own life in Sunbury-on-Thames, Surrey, said: “I am angry, but I am not surprised. For months, we have been told that the system is working and that existing measures are enough. They are not.“If our own country will not put anyone on trial for these deaths, the very least it can do is hold a proper inquiry into how they were allowed to happen.”Last month the government rejected calls for a public inquiry into the issue.Andy Burrows, the chief executive of the Molly Rose Foundation, said: “Bereaved families have been campaigning tirelessly to hold Kenneth Law to account in the UK and to be told he will not be prosecuted here on the eve of his court case in Canada is a bitter blow.“Families up and down the country have been impacted by Law’s crimes and should have the right to full justice in the UK. As long as the pro-suicide forum remains online, and while this substance is available in the UK and across borders, more vulnerable people are at risk.”Next week the bereaved families will meet their lawyers at Leigh Day to discuss next steps. Walton said: “We are going to keep fighting because the only reason that we continue to share our trauma is to prevent future deaths.”In a joint statement, Joanne Jakymec, the chief crown prosecutor for the CPS, and Craig Turner, a deputy director at the NCA, said: “No outcome in any court can remove the pain victims and their families have suffered. Victims have remained our priority when making decisions to deliver justice.”",
+          "zh": "亲人是一家在线自杀工具包供应商受害者的家属表示，他们对英国不起诉他的决定感到受到了侮辱。肯尼思·劳定于周五在加拿大安大略省出庭，被指控在包括英国在内的 40 个国家出售 1,200 个自杀包。预计他将承认帮助自杀的指控，并承认在知道这些产品可能被用来结束生命的情况下将这些产品发送到国际上。上个月，他的律师确认了一项认罪协议，根据该协议，之前的谋杀指控将被撤销。国家犯罪局 (NCA) 对加拿大网站的调查发现，有 286 人在英国收到了包裹，导致 112 人死亡。劳出庭前一天，国家犯罪局和皇家检察署告诉死者家属，在加拿大的法律诉讼结束后，他们不会寻求将这位 60 岁的老人引渡到英国。艾米·沃尔顿（左）死亡2022 年，她和妹妹阿黛尔 (Adele) 从劳的网站上购买了一套自杀工具包。照片：阿黛尔·沃尔顿 来自南安普敦的 21 岁艾米的妹妹阿黛尔·泽伊内普·沃尔顿 (Adele Zeynep Walton) 于 2022 年在劳先生的网站上购买了一套自杀工具包后去世，她说：“NCA 和 CPS 对此不采取任何行动，这绝对是疯狂的。这是一种侮辱。”NCA 和 CPS 在给家人的一封信中表示：“经过仔细评估，我们一致认为劳先生应该被处决。”在加拿大，这种做法在涉及跨国界严重犯罪的案件中并不罕见。“我们认识到，这可能令人痛苦，一些受害者和死者家属可能希望在英格兰和威尔士看到单独的起诉。”沃尔顿表示，劳所指控的罪行的规模和新颖性值得英国当局进行干预。系统地帮助他们自杀？这是一种新的协助自杀流行病。我认为 NCA 和 CPS 的做法需要与时俱进。“如果他们不起诉一个可能成为英国最大连环杀手之一的人，那么这会给像他这样的其他人传达什么信息？”沃尔顿补充道：“受害者比格伦菲尔灾难还要多，但似乎没有人谈论此事，政府、NCA 和 CPS 也不愿意为家庭伸张正义。” 大卫·帕菲特 (David Parfett)，父亲22 岁的哲学系学生托马斯·帕菲特 (Thomas Parfett) 在萨里郡泰晤士河畔桑伯里结束了自己的生命，他说：“我很生气，但我并不感到惊讶。几个月来，我们一直被告知这个系统正在发挥作用，现有的措施已经足够了。但事实并非如此。如果我们自己的国家不会因这些死亡事件而对任何人进行审判，那么至少它能做的就是对如何允许这些事件发生进行适当的调查。”上个月，政府拒绝了对这一问题进行公开调查的呼吁。安迪莫莉·罗斯基金会首席执行官巴罗斯表示：“失去亲人的家庭一直在不懈地争取让肯尼思·劳在英国承担责任，并在加拿大法庭审理案件前夕得知他不会在这里受到起诉，这对他们来说是一个沉重的打击。”“全国上下的家庭都受到了劳犯罪行为的影响，只要支持自杀的论坛仍然在线，而且这种物质在英国和全国各地都有，他们就应该有权在英国获得充分的正义。”下周，死者家属将在利日会见他们的律师，讨论下一步行动。沃尔顿说：“我们将继续战斗，因为我们继续分担创伤的唯一原因是为了防止未来死亡。”皇家检察署首席检察官乔安妮·贾基梅克和全国刑事法院副主任克雷格·特纳在一份联合声明中表示：“任何法庭的结果都无法消除受害者及其家人所遭受的痛苦。在做出伸张正义的决定时，受害者仍然是我们的首要任务。”"
         }
       ]
     },
     {
-      "title": "Man arrested after three injured in stabbing at Swiss train station",
-      "link": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The suspect, a 31-year-old Swiss man, has been arrested, police say, as areas around the station are cordoned off.",
-      "pubDate": "Thu, 28 May 2026 10:52:21 GMT",
+      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
+      "link": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
+      "pubDate": "Fri, 29 May 2026 10:38:46 GMT",
       "source": "BBC News",
       "sourceColor": "#b80000",
-      "titleZh": "瑞士火车站刺伤三人受伤男子被捕",
-      "summaryZh": "警方称，由于车站周围地区已被封锁，嫌疑人是一名 31 岁的瑞士男子，他已被逮捕。",
+      "titleZh": "火箭爆炸让人们对美国宇航局登月计划产生怀疑",
+      "summaryZh": "蓝色起源火箭的爆炸对该公司和美国宇航局的月球计划来说都是一次挫折。",
+      "contentParagraphs": [
+        {
+          "en": "Exploding rocket casts doubts over Nasa's Moon plans39 minutes agoPallab GhoshScience correspondentThe fireball that lit up the sky over Florida's Kennedy Space Centre last night has put a big question mark over whether Jeff Bezos' Blue Origin can deliver on a string of commitments to Nasa in its efforts to send astronauts to the lunar surface and build a Moon base.Blue Origin's New Glenn rocket exploded at about 21:00 local time during a routine test of its engines.The 98m (322ft) rocket had been due to launch 48 satellites for Amazon's Leo broadband network, as early as 4 June.The explosion is obviously a big setback for the Leo network, which is struggling to be the main competitor for Elon Musk's SpaceX and its Starlink service. But the ramifications will go much further.The good news was that no-one was injured, despite the spectacular explosion.\"All personnel are accounted for and safe,\" Bezos wrote on X. \"Very rough day, but we'll rebuild whatever needs rebuilding and get back to flying. It's worth it.\"But the blast which tore through Space Launch Complex 36 (LC-36) has caused extensive damage. Footage shows one of the pad's lightning protection towers toppling in the aftermath.LC-36 is the only facility in the world built to launch the New Glenn rocket. That means that until the launch pad is rebuilt and re-certified, Blue Origin has no way to fly its largest rocket - and analysts expect that to take months, not weeks.The setback comes just days after Nasa's administrator, Jared Isaacman, announced the first three missions of the agency's plans to build a lunar base - a project he billed as the start of a \"permanent presence\" at the Moon's south pole.The first, Moon Base 1, is due to be flown on Blue Origin's robotic Blue Moon Mark 1 \"Endurance\" lander, and is targeted for launch no earlier than autumn 2026.It is intended to carry two Nasa science payloads to the Shackleton Connecting Ridge and demonstrate the precision-landing techniques needed to keep future crewed landings safe. But the lander was to ride to the Moon on top of a New Glenn - the same type of rocket that is now scattered across LC-36 - raising immediate doubts as to whether that timetable is now possible.Earlier this week, Nasa also handed Blue Origin a contract worth up to $468m to deliver two commercial lunar terrain vehicles, built by Astrolab and Lunar Outpost, to the Moon's south pole by 2028.Those rovers are meant to be in place before astronauts arrive. Nasa has set a target date of 2028 for a crewed landing, though that date had been questioned even before last night's explosion.Blue OriginThe explosion has cast doubts over Blue Origin's next launch timetableThe destroyed rocket had been due to deploy a batch of 48 satellites for Amazon's Leo broadband constellation - the network formerly known as Project Kuiper which is designed to challenge Elon Musk's Starlink.Just over 300 Amazon Leo satellites are currently in orbit, all of them lifted by SpaceX, United Launch Alliance and Arianespace rather than by Blue Origin itself.The gap between Leo and Starlink - which has more than 10,000 satellites in orbit - is now a serious commercial problem for Bezos' group. Under its US Federal Communications Commission (FCC) licence, Amazon is required to have half of its 3,236-satellite constellation in orbit by 30 July 2026. As of late May, the company was already more than 1,300 satellites short of that target, with delays blamed in part on \"launch vehicle availability\" from Blue Origin and other providers.With New Glenn now expected to be grounded for months, Amazon will be even more dependent on its rivals - chief among them SpaceX - to keep its rollout alive, and is almost certain to need a fresh extension to its timetable from the FCC.Elon Musk, SpaceX CEO, responded on X to footage of the blast saying only: \"Most unfortunate. Rockets are hard.\"More problemsNASAEarlier this year, NASA launched the Artemis II mission with four astronauts aboard the Orion spacecraftNasa's next crewed Moon mission, Artemis III, is scheduled to launch next year and is designed to be a low earth orbit flight test of two commercial lunar landers - built by Blue Origin and SpaceX.Until the explosion, Blue Origin was seen as the more prepared of the two. Its Mark 1 demonstrator was already in final stacking in Florida, while SpaceX's Starship has yet to complete a successful in-space propellant transfer.All this leaves Nasa's plan to land astronauts back to the Moon by 2028 and to build a Moon base there with several problems which will inevitably now lead to delays. The lander test for Artemis III depends on the same rocket family, and the Moon Base rover deliveries are contractually tied to New Glenn.Meanwhile, China is forging ahead with its own plans to land its astronauts on the Moon by 2030, leaving Nasa without much room for manoeuvre.Nasa Administrator Jared Isaacman responded to the latest setback on X: \"Spaceflight is unforgiving, and developing new heavy-lift launch capability is extraordinarily difficult.\"But Isaacman's drive to push Nasa's Moon programme to a more ambitious frequency of launches is now seriously in doubt after last night's setback.",
+          "zh": "火箭爆炸使人们对美国宇航局登月计划产生怀疑 39 分钟前 帕拉布·戈什 科学通讯员 昨晚照亮佛罗里达州肯尼迪航天中心上空的火球给杰夫·贝索斯的蓝色起源能否兑现对美国宇航局的一系列承诺打上了一个大大的问号，努力将宇航员送上月球表面并建立月球基地。蓝色起源的新格伦火箭在当地时间 21:00 左右在一次例行飞行中爆炸发动机测试。这枚 98m（322 英尺）火箭原定于 6 月 4 日为亚马逊的 Leo 宽带网络发射 48 颗卫星。这次爆炸显然对 Leo 网络来说是一个重大挫折，该网络正在努力成为埃隆·马斯克的 SpaceX 及其星链服务的主要竞争对手。但后果还会更严重。好消息是，尽管发生了壮观的爆炸，但没有人受伤。贝索斯在 X 上写道：“所有人员都已安全，”贝佐斯在 X 上写道。“非常艰难的一天，但我们将重建所有需要重建的东西，然后重新开始飞行。这是值得的。”但是，撕裂 36 号太空发射综合体（LC-36）的爆炸造成了广泛的破坏。视频显示发射台的一个避雷塔在事故发生后倒塌。LC-36 是世界上唯一为发射新格伦火箭而建造的设施。这意味着，在发射台重建并重新获得认证之前，蓝色起源无法发射其最大的火箭，分析师预计这需要几个月而不是几周的时间。就在几天前，美国宇航局局长贾里德·艾萨克曼宣布了该机构建造月球基地计划的前三项任务，他将这一项目称为在月球南极“永久存在”的开始。第一个任务是月球基地 1 号，预计将在蓝色起源上飞行。 Origin 的机器人 Blue Moon Mark 1“Endurance”着陆器计划不早于 2026 年秋季发射。它的目的是将两个 NASA 科学有效载荷运送到沙克尔顿连接山脊，并展示确保未来载人着陆安全所需的精确着陆技术。但着陆器将乘坐新格伦号（与现在散布在 LC-36 上的同一类型火箭）前往月球，这立即让人怀疑这个时间表现在是否可行。本周早些时候，美国宇航局还向蓝色起源公司提供了一份价值高达 4.68 亿美元的合同，将在 2028 年之前将两辆由 Astrolab 和 Lunar Outpost 制造的商业月球地形车运送到月球南极。这些月球车预计将在 2028 年之前就位。宇航员到达。美国宇航局已将载人着陆的目标日期定为 2028 年，尽管这一日期甚至在昨晚爆炸之前就受到了质疑。蓝色起源这次爆炸使人们对蓝色起源的下一次发射时间表产生了怀疑。被摧毁的火箭原定为亚马逊的 Leo 宽带星座部署一批 48 颗卫星，该网络以前称为柯伊伯计划，旨在挑战埃隆·马斯克的星链。目前只有 300 多颗亚马逊 Leo 卫星在发射。所有这些卫星都是由 SpaceX、联合发射联盟和阿丽亚娜航天公司发射升空，而不是由蓝色起源本身发射。Leo 和 Starlink（在轨卫星数量超过 10,000 颗）之间的差距现在对贝佐斯的团队来说是一个严重的商业问题。根据美国联邦通信委员会 (FCC) 的许可，亚马逊必须在 2026 年 7 月 30 日之前将其 3,236 颗卫星中的一半送入轨道。截至 5 月下旬，该公司已经比该目标少了 1,300 多颗卫星，延误的部分原因归咎于蓝色起源和其他提供商的“运载火箭可用性”。由于新格伦号现在预计将停飞数月，亚马逊将更加依赖其竞争对手（其中主要是 SpaceX）为了保持其推出的活力，几乎肯定需要 FCC 重新延长其时间表。 SpaceX 首席执行官埃隆·马斯克 (Elon Musk) 在 X 上对爆炸视频做出回应，仅表示：“最不幸。火箭很难。”更多问题 美国宇航局今年早些时候，美国宇航局与猎户座飞船上的四名宇航员一起发射了阿耳忒弥斯二号任务。美国宇航局的下一次载人登月任务阿耳忒弥斯三号计划于明年发射，旨在对由蓝色起源和 SpaceX 建造的两个商业月球着陆器进行低地球轨道飞行测试。在爆炸之前，蓝色起源被视为两者中准备得更充分的。它的 Mark 1 验证器已经在佛罗里达州进行最后的堆放，而 SpaceX 的 Starship 尚未成功完成太空推进剂转移。所有这些使得 NASA 计划在 2028 年将宇航员送回月球并在那里建立月球基地，但存在一些问题，这些问题现在将不可避免地导致延误。阿耳忒弥斯三号的着陆器测试依赖于同一个火箭系列，而月球基地漫游车的交付则与新格伦号有合同关系。与此同时，中国正在推进自己的计划，在 2030 年将宇航员送上月球，这让美国宇航局没有太多回旋余地。美国宇航局局长贾里德·艾萨克曼对 X 上的最新挫折做出了回应：“太空飞行是无情的，开发新的重型发射能力是非常重要的但在昨晚的挫折之后，艾萨克曼推动美国宇航局月球计划以更雄心勃勃的发射频率的努力现在受到严重质疑。"
+        }
+      ]
+    },
+    {
+      "title": "Australian court sets August date for ‘mushroom murderer’ appeal hearing",
+      "link": "https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss",
+      "summary": "Erin Patterson was found guilty of killing three family members as she served them a lunch laced with poisonous fungi.",
+      "pubDate": "Fri, 29 May 2026 10:37:19 +0000",
+      "source": "Al Jazeera",
+      "sourceColor": "#f79120",
+      "titleZh": "澳大利亚法院确定“蘑菇杀人犯”上诉听证会八月举行",
+      "summaryZh": "艾琳·帕特森因在给三名家庭成员提供含有有毒真菌的午餐时杀害了他们而被判有罪。",
+      "contentParagraphs": [
+        {
+          "en": "Erin Patterson was found guilty of killing three family members as she served them a lunch laced with poisonous fungi.An Australian court has confirmed that an appeal hearing for Erin Patterson, commonly referred to as the “mushroom murderer,” will be held in August.The Supreme Court of Victoria announced on Friday that the hearing will take place on August 19 and 20. Patterson’s lawyers formally applied to appeal her life sentence in November, arguing that there had been a “substantial miscarriage of justice” during her trial.Recommended Stories list of 3 itemslist 1 of 3Sole survivor of deadly mushroom lunch testifies at Australian murder triallist 2 of 3Erin Patterson guilty of Australian mushroom murders: All about verdictlist 3 of 3Australia ‘mushroom murderer’ sentenced to life in prisonend of listPatterson was sentenced to life in prison in September after being found guilty of murdering three of her estranged husband’s relatives by serving them a lunch laced with poisonous fungi.During the two-day hearing, the court will also consider an appeal from prosecutors, who argue that her sentence, which allows her to be considered for parole after 33 years, is “manifestly inadequate”.Prosecutors unsuccessfully argued during the trial that her sentence should have been life imprisonment without parole.Convicted triple-murderer Erin Patterson was sentenced to life in prison in September (Getty)In July, a jury found Patterson guilty of killing her estranged husband’s parents after serving them a lunch of beef Wellington laced with toxic mushrooms.The case attracted worldwide attention, with more than 250 journalists registering for updates from the court, and the judge deciding to broadcast the sentencing live.Both Gail Patterson and Donald Patterson died in August 2023. Patterson was also found guilty of murdering Gail’s sister, Heather Wilkinson, who died that same month, and of attempting to kill Wilkinson’s husband, Ian. He spent seven weeks in hospital following the poisoning and received a liver transplant.Patterson is appealing her conviction on seven grounds, including what her lawyers described as a “fundamental irregularity” relating to the sequestration of the jury, who stayed in the same hotel as key figures in the case, including a police witness and two prosecutors.Patterson’s lawyers also argue that several pieces of evidence presented during the trial were either irrelevant or unfairly prejudicial, and that the prosecution’s cross-examination of her was “unfair and oppressive”.Patterson maintains her innocence, arguing that the poisoning was accidental.",
+          "zh": "艾琳·帕特森 (Erin Patterson) 在为三名家庭成员提供含有有毒真菌的午餐时被判杀害三名家庭成员。澳大利亚一家法院已确认，通常被称为“蘑菇凶手”的艾琳·帕特森 (Erin Patterson) 的上诉听证会将于 8 月举行。维多利亚州最高法院周五宣布，听证会将于 8 月 19 日至 20 日举行。帕特森的律师于 11 月正式申请对她的无期徒刑提出上诉，称存在“实质性”审判期间“误判”。 推荐故事列表 3 项清单 1（共 3） 致命蘑菇午餐的唯一幸存者在澳大利亚谋杀案审判中作证 3 中的第 2 艾琳·帕特森犯有澳大利亚蘑菇谋杀案：所有关于判决列表 3（共 3）澳大利亚“蘑菇杀人犯”被判处终身监禁列表列表帕特森因谋杀她分居丈夫的三名亲属而于 9 月被判处终身监禁在为期两天的听证会上，法院还将考虑检察官的上诉，检察官认为对她的判决“明显不够”，这使得她在 33 年后可以考虑假释。检察官在审判期间辩称她的判决应该是终身监禁，不得假释，但没有成功。被定罪的三重杀人犯艾琳·帕特森于 9 月被判处终身监禁（盖蒂）。帕特森在为分居的丈夫的父母提供了一顿带有有毒蘑菇的惠灵顿牛肉午餐后，被认定犯有杀害他们的罪名。此案引起了全世界的关注，有超过 250 名记者注册以获取法庭的最新消息，法官决定现场直播判决结果。盖尔·帕特森和唐纳德·帕特森均于 2023 年 8 月去世。帕特森还被判谋杀盖尔的妹妹希瑟·威尔金森，后者于同月去世，试图杀死威尔金森的丈夫伊恩。中毒后，他在医院住了七周，并接受了肝脏移植手术。帕特森以七项理由对她的定罪提出上诉，其中包括她的律师所说的与隔离陪审团有关的“根本违规行为”，陪审团与案件关键人物（包括一名警方证人和两名检察官）住在同一家酒店。帕特森的律师还辩称，审判期间提供的几项证据要么不相关，要么有不公平的偏见，检方的指控对她的盘问是“不公平和压迫性的”。帕特森坚称她无罪，认为中毒是意外。"
+        }
+      ]
+    },
+    {
+      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+      "link": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep.",
+      "pubDate": "Fri, 29 May 2026 10:34:23 GMT",
+      "source": "BBC News",
+      "sourceColor": "#b80000",
+      "titleZh": "肯尼亚涉嫌致命学校纵火袭击，八名学生被捕",
+      "summaryZh": "十六名学生在睡觉时吞噬宿舍的大火中丧生。",
       "contentParagraphs": []
     },
     {
-      "title": "The West Bank’s Youth Unemployment Crisis",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/the-west-banks-youth-unemployment-crisis?traffic_source=rss",
-      "summary": "The West Bank's Youth Unemployment Crisis",
-      "pubDate": "Thu, 28 May 2026 10:51:06 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "西岸的青年失业危机",
-      "summaryZh": "西岸的青年失业危机",
-      "contentParagraphs": [
-        {
-          "en": "The West Bank's Youth Unemployment CrisisNewsFeedThere are only enough jobs for about half the students who graduate university here in the occupied West Bank. But that isn’t stopping Palestinians from finishing school and celebrating. Al Jazeera’s Leila Warah spoke to the generation bearing the brunt of it.By Leila WarahPublished On 28 May 2026",
-          "zh": "约旦河西岸的青年失业危机新闻动态 在被占领的约旦河西岸，只有大约一半的大学毕业生能够找到工作。但这并不能阻止巴勒斯坦人完成学业并庆祝。半岛电视台的莱拉·瓦拉 (Leila Warah) 对首当其冲的一代人发表了讲话。 作者：莱拉·瓦拉 (Leila Warah) 发布于 2026 年 5 月 28 日"
-        }
-      ]
-    },
-    {
-      "title": "Israel kills children in strikes on Gaza as fear taints Eid joy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
-      "summary": "As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks.",
-      "pubDate": "Thu, 28 May 2026 10:47:19 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "以色列在加沙空袭中杀害儿童，因为恐惧破坏了开斋节的欢乐",
-      "summaryZh": "当世界各地的穆斯林庆祝开斋节时，加沙的巴勒斯坦人正面临恐惧、悲伤和致命的袭击。",
-      "contentParagraphs": [
-        {
-          "en": "Israel kills children in strikes on Gaza as fear taints Eid joyNewsFeedAs Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks.",
-          "zh": "以色列在加沙空袭中杀害儿童，恐惧玷污了开斋节的欢乐新闻动态当世界各地的穆斯林庆祝开斋节时，加沙的巴勒斯坦人正面临恐惧、悲伤和致命的袭击。"
-        },
-        {
-          "en": "Overnight strikes in Gaza City killed children near one of the Strip’s few remaining playgrounds, leaving families terrified to leave their tents on what should have been a day of joy and peace.Published On 28 May 2026",
-          "zh": "加沙城的隔夜罢工导致加沙地带仅存的几个游乐场之一附近的儿童死亡，让许多家庭在本应是欢乐与和平的一天离开帐篷。发布于 2026 年 5 月 28 日"
-        }
-      ]
-    },
-    {
-      "title": "Ireland football coach urges players to ‘win this war’ against Israel",
-      "link": "https://www.aljazeera.com/sports/2026/5/28/ireland-football-coach-urges-players-to-win-this-war-against-israel?traffic_source=rss",
-      "summary": "Ireland are set to play Israel in home and away Nations League matches, but there has been pressure to boycott games.",
-      "pubDate": "Thu, 28 May 2026 10:42:25 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "爱尔兰足球教练敦促球员“赢得这场针对以色列的战争”",
-      "summaryZh": "爱尔兰将在国家联赛主客场对阵以色列，但抵制比赛的压力一直存在。",
-      "contentParagraphs": [
-        {
-          "en": "Ireland are set to play Israel in home and away Nations League matches, but there has been pressure to boycott games.Republic of Ireland manager Heimir Hallgrimsson has challenged his players to “win this war” against Israel when the teams meet in the Nations League amid renewed protests in the Irish parliament about the games.The Football Association of Ireland has been under pressure to boycott the two matches, including a home fixture in Dublin on October 4.Recommended Stories list of 4 itemslist 1 of 4Neymar injury threatens Brazil forward’s World Cup as scans needed on calflist 2 of 4Messi’s GOAT statue in India to be removed over safety concernslist 3 of 4‘Why not us?’: Does the US really have a chance of lifting the World Cup?list 4 of 4FIFA subpoenaed by New York, New Jersey in World Cup ticket investigationend of listSeveral pro-Palestinian Irish politicians and football figures have urged the federation to withdraw from the fixtures over Israel’s conduct during its genocidal war on Gaza.The FAI passed a motion in November requesting that UEFA immediately suspend Israel from international competition, but received no support from European football’s governing body.There were new protests at the Dail – the Irish parliament – on Wednesday over the fixtures.In October, Icelandic boss Hallgrimsson was among those calling for Israel to be banned from international football competition.The 58-year-old, speaking ahead of a friendly game against Qatar in Dublin, said: “I’ve already expressed my opinion on this matter, you don’t need to repeat that one.“But from a footballing perspective – it’s an obstacle I don’t like, and it’s unfair for the players to be in this position and us to be in this position – but from a footballing perspective, I don’t like us to be the bad guys. We are not the bad guys here.”He added: “I think the best answer for us is just to win this game, to win this war against them [Israel]. That would be a perfect answer from my end.“Other decisions are not made by us, but all the players would like to represent the country and do well for them, no matter who is the opponent.”Israel played their World Cup qualifiers in Hungary and are set to use a neutral venue for their Nations League match against Ireland on September 27.Such has been the outcry in Ireland concerning the October 4 match in Dublin in particular, there have been suggestions it could be played elsewhere, with the FAI insisting in February it had “no choice” but to fulfil the two fixtures against Israel.Hallgrimsson, however, said: “It would obviously be a disadvantage from footballing reasons not to play at home. We’ve done really well at home.“It’s building to be a strong fortress for us, Aviva [Lansdowne Road], and to move it obviously will lower our chances, so I hope people can rally around the players and us playing instead of protesting or doing something that’s damaging.”",
-          "zh": "爱尔兰将在国家联赛主场和客场对阵以色列，但抵制比赛的压力一直存在。在爱尔兰议会再次对比赛提出抗议之际，爱尔兰共和国主帅海米尔·哈尔格里姆森向他的球员发起挑战，要求他的球员在国家联赛中对阵以色列时“赢得这场战争”。爱尔兰足协一直面临抵制这两场比赛的压力，其中包括 10 月 4 日在都柏林举行的主场比赛。推荐故事列表 4 项列表（共 4 项）内马尔受伤威胁巴西前锋的世界杯，因为小牛需要扫描 list 2 of 4 出于安全考虑，印度的梅西山羊雕像将被移除 list 3 of 4“为什么不是我们？”：美国真的有机会举起世界杯吗？ list 4 4 国际足联在世界杯门票调查中被纽约、新泽西传唤 名单结束 几位亲巴勒斯坦的爱尔兰政治家和足球人物敦促联合会退出比赛以色列在加沙种族灭绝战争期间的行为。FAI于11月通过了一项动议，要求欧足联立即暂停以色列参加国际比赛，但没有得到欧洲足球管理机构的支持。周三，爱尔兰议会因赛程引发了新的抗议。10月，冰岛主帅哈尔格里姆森是呼吁禁止以色列参加国际足球比赛的人之一。这位58岁的球员在都柏林与卡塔尔的友谊赛前发表讲话说： “我已经就这件事表达了我的看法，你不需要重复这一点。“但从足球的角度来看——这是我不喜欢的障碍，球员处于这个位置，我们处于这个位置是不公平的——但从足球的角度来看，我不喜欢我们成为坏人。我们不是这里的坏人。”他补充道：“我认为对我们来说最好的答案就是赢得这场比赛，赢得这场针对他们（以色列）的战争。这将是我最后一个完美的答案。“其他决定不是由我们做出的，但所有球员都愿意代表国家并为他们做好准备，无论对手是谁。”以色列在匈牙利进行了世界杯预选赛，并将在 9 月 27 日对阵爱尔兰的国家联赛中使用中立场地。爱尔兰对 10 月 4 日在都柏林举行的比赛表示强烈抗议，有人建议比赛可以在其他地方进行，而 FAI 坚持认为比赛可以在其他地方进行二月份，它“别无选择”，只能完成对阵以色列的两场比赛。然而，霍尔格里姆森表示：“出于足球原因，不在主场比赛显然是不利的。我们在主场做得非常好。“它正在成为我们英杰华（兰斯当路）的坚固堡垒，而移动它显然会降低我们的机会，所以我希望人们能够团结在球员和我们比赛周围，而不是抗议或做一些有破坏性的事情。"
-        }
-      ]
-    },
-    {
-      "title": "Argentina’s ‘El Loco’ faces Uruguay mutiny ahead of World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/5/28/former-chelsea-boss-biesla-facing-world-cup-mutiny-with-uruguay?traffic_source=rss",
-      "summary": "Marcelo Bielsa's demanding coaching style faces internal threat in Uruguay camp ahead of World Cup as results slide.",
-      "pubDate": "Thu, 28 May 2026 10:20:21 +0000",
-      "source": "Al Jazeera",
-      "sourceColor": "#f79120",
-      "titleZh": "阿根廷“疯子”在世界杯前面临乌拉圭叛变",
-      "summaryZh": "随着成绩下滑，马塞洛·贝尔萨苛刻的执教风格在世界杯前的乌拉圭阵营中面临着内部威胁。",
-      "contentParagraphs": [
-        {
-          "en": "Marcelo Bielsa is widely revered as a pioneer of coaching, but his unconventional methods risk ruining Uruguay’s World Cup chances before the tournament has even begun, with rumours of dressing room unrest.Nicknamed “El Loco”, which means madman, the 70-year-old’s bold, attacking approach has proved an inspiration to a younger generation of coaches, including Pep Guardiola and USA boss Mauricio Pochettino.Recommended Stories list of 4 itemslist 1 of 4Scotland fans book 20 school buses for games at ‘inaccessible’ US World Cuplist 2 of 4Messi’s GOAT statue in India to be removed over safety concernslist 3 of 4How Senegal became genuine World Cup 2026 contenders – at a costlist 4 of 4World Cup broadcast hopes boosted in India as Zee Entertainment in talksend of listYet, his famously demanding standards have often caused friction during a nomadic coaching career, and his stint in Uruguay has been no exception.The Argentinian’s arrival initially generated huge excitement, which was fuelled by landmark victories over Brazil and Argentina in qualifying.But they needed that flying start just to make it through after winning just three of their final 12 qualifiers.The tipping point for many in the squad came at the Copa America in 2024.Uruguay finished a creditable third, eliminating Brazil along the way, but Bielsa’s intensity during the monthlong tournament did not endear him to his players.Luis Suarez hit out at Bielsa’s methods after retiring from international football months later, claiming he had reduced former Liverpool striker Darwin Nunez to tears at half-time of a 2-0 win over Argentina, such was the force of his criticism.Bielsa accepted that after the former Barcelona striker’s backlash, his “authority was affected” with the rest of the dressing room.Results have also regressed, with Bielsa stating he was “ashamed” by a 5-1 friendly defeat by the USA in November.Now, as his third World Cup with a third different nation approaches, the question is whether Bielsa can win back the faith of his players for a country so used to punching above its weight on the world stage.And there are doubts as to how his high-energy style will fare in the gruelling conditions of Miami and Guadalajara, where Uruguay will face Saudi Arabia, Cape Verde and Spain in Group F.Pochettino hails Bielsa as a ‘genius’Bielsa made his name winning three league titles in Argentina with Newell’s Old Boys, where the stadium now bears his name, and Velez Sarsfield.“For me, he’s a person I will always admire,” said Pochettino, whom Bielsa recruited for Newell’s as a 13-year-old.“He’s a genius. A person with charisma and a personality very different from us, normal coaches, and that’s what makes him special.”Bielsa’s sides in Bilbao with Athletic Club, where he reached the Europa League and Copa del Rey finals in 2011-12, and Marseille, where he led Ligue 1 at the halfway stage in 2014-15, were also admired but ended up empty-handed as their energy ran out.In Leeds, murals still bear Bielsa’s face, four years on from his departure, after he led a sleeping giant of English football back to the Premier League for the first time in 16 years in 2020.His time there ended in familiar fashion with an exhausted squad that was relegated to the second tier the season after he departed.Yet, the esteem with which he is held for his daring tactical approach endures.“To be loved is this biggest title, bigger than the Champions League or Premier League or whatever,” said Guardiola, who went to visit Bielsa in Argentina before setting out as a coach at Barcelona.“To be loved is the most important thing, and I think Marcelo has that more than any other manager in the world.”Bielsa, who oversaw Argentina’s group-stage elimination in 2002 and Chile’s round-of-16 loss to hosts Brazil in 2014, has already hinted ‌that he may not remain as manager ⁠of Uruguay beyond ⁠July, saying his job with the team ends with the World Cup.“Our job ends with the World Cup,” ⁠Bielsa said at an event organised by the Uruguayan Football Association last Friday.Although he did not elaborate on his remarks, local media reported ⁠that the Argentinian will not continue once his current contract expires at the end of the June 11-July 19 tournament.“It is a miracle in any ‌professional’s sporting career to take part in the World Cup,” he said. “I will be forever grateful to Uruguay for allowing me to enjoy a competition like the World Cup.”",
-          "zh": "马塞洛·贝尔萨被广泛尊为教练先驱，但他的非传统方法有可能在比赛开始前就毁掉乌拉圭世界杯的机会，甚至有更衣室骚乱的传言。这位70岁老人绰号“El Loco”，意思是疯子，他大胆的进攻方式给包括瓜迪奥拉和美国队主教练毛里西奥·波切蒂诺在内的年轻一代教练带来了灵感。 4 项目列表 4 中的 1 苏格兰球迷预订了 20 辆校车参加“难以到达”的美国世界杯 列表 4 中的 2 梅西在印度的山羊雕像因安全问题将被拆除列表 4 中的 3 塞内加尔如何成为 2026 年世界杯真正的竞争者 - 成本高昂 列表 4 中的 4 世界杯转播希望在印度增强，因为 Zee 娱乐在列表的谈话中 然而，他著名的苛刻标准经常在游牧期间引起摩擦教练生涯，他在乌拉圭的任期也不例外。阿根廷人的到来最初引起了巨大的兴奋，而在预选赛中对巴西和阿根廷取得的里程碑式的胜利更是推动了这种兴奋。但他们需要一个良好的开局，才能在最后 12 场预选赛中只赢得三场后成功晋级。对队中许多人来说，转折点出现在 2024 年的美洲杯上。乌拉圭队获得了值得称赞的第三名，一路淘汰了巴西队，但贝尔萨的球队长达一个月的比赛期间的强度并没有让他受到球员们的喜爱。几个月后从国际足坛退役后，路易斯·苏亚雷斯猛烈抨击了贝尔萨的方法，声称他在2-0战胜阿根廷的比赛中半场让前利物浦前锋达尔文·努涅斯落泪，这就是他批评的力量。贝尔萨承认，在这位前巴塞罗那前锋的强烈反对之后，他与更衣室其他人的“权威受到了影响”。结果也有所倒退，贝尔萨表示，他对11月友谊赛以5比1输给美国队感到“羞愧”。现在，随着他第三次与第三个不同的国家队参加世界杯，问题是贝尔萨是否能赢回球员们对这个习惯于在世界舞台上超常发挥的国家的信心。而且人们怀疑他的高能量风格将如何在迈阿密和瓜达拉哈拉的艰苦条件下发挥作用，乌拉圭将在小组中面对沙特阿拉伯、佛得角和西班牙波切蒂诺称赞贝尔萨是“天才”。贝尔萨在阿根廷随纽维尔老男孩队和贝莱斯萨斯菲尔德赢得了三个联赛冠军，现在球场以他的名字命名。“对我来说，他是一个我永远钦佩的人，”贝尔萨在 13 岁时为纽维尔队招募的波切蒂诺说道。贝尔萨在毕尔巴鄂竞技俱乐部的球队，他在 2011-12 赛季打进了欧罗巴联赛和国王杯决赛，而在马赛，他在 2014-15 赛季的半程阶段带领法甲球队也受到了赞赏，但最终因为能量耗尽而空手而归。在利兹，壁画上仍然刻着贝尔萨的脸，四年过去了2020年，他带领这支沉睡的英格兰足球巨人时隔16年首次重返英超。他在英超的时光以一种熟悉的方式结束，球队在他离开后的那个赛季被降级到了第二级别联赛。然而，他因大胆的战术方法而受到的尊重依然存在。“被爱是这个最大的冠军，比冠军联赛或英超联赛或其他任何东西都重要，”前往参观的瓜迪奥拉说道。贝尔萨在前往巴塞罗那担任教练之前在阿根廷。“被爱是最重要的事情，我认为马塞洛比世界上任何其他教练都更能做到这一点。”贝尔萨曾在 2002 年带领阿根廷队小组赛被淘汰，并在 2014 年带领智利队在 16 强中输给东道主巴西队，他已经暗示他可能不会在 7 月份之后继续担任乌拉圭队主教练，并表示他在球队的工作将在上周五，贝尔萨在乌拉圭足协组织的一次活动中表示：“我们的工作随着世界杯而结束。”尽管他没有详细说明自己的言论，但当地媒体报道称，一旦他目前的合同在 6 月 11 日至 7 月 19 日世界杯结束后到期，阿根廷人将不会继续继续踢球。“参加世界杯对于任何职业球员的体育生涯来说都是一个奇迹，”他说。 “我将永远感激乌拉圭让我享受世界杯这样的比赛。”"
-        }
-      ]
-    },
-    {
-      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say",
-      "link": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
-      "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
-      "pubDate": "Thu, 28 May 2026 10:15:03 GMT",
-      "source": "BBC News",
-      "sourceColor": "#b80000",
-      "titleZh": "报道称，美国司法部对特朗普指控者让·卡罗尔展开刑事调查",
-      "summaryZh": "该案的重点是这位前专栏作家是否对她针对美国总统的民事诉讼所获得的资金撒了谎。",
-      "contentParagraphs": []
-    },
-    {
-      "title": "An Ohio pastor-turned-lawmaker backs a Charlie Kirk American Heritage Act for schools",
-      "link": "https://www.npr.org/2026/05/28/nx-s1-5798726/christian-conservative-church-state-charlie-kirk",
-      "summary": "The bill says it would permit the teaching of the positive impact of Judeo-Christian values in U.S. history. Opponents say it offers a skewed view of history.",
-      "pubDate": "Thu, 28 May 2026 06:00:00 -0400",
+      "title": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
+      "link": "https://www.npr.org/2026/05/29/g-s1-124773/russian-drone-romania",
+      "summary": "A Russian drone that was part of an overnight attack on Ukraine crashed into an apartment building in eastern Romania, injuring two people, Romanian authorities said Friday.",
+      "pubDate": "Fri, 29 May 2026 06:32:10 -0400",
       "source": "NPR",
       "sourceColor": "#e57300",
-      "titleZh": "俄亥俄州牧师出身的立法者支持《查理·柯克美国学校遗产法案》",
-      "summaryZh": "该法案表示，它将允许教授犹太基督教价值观对美国历史的积极影响。反对者表示，它提供了一种扭曲的历史观。",
+      "titleZh": "俄罗斯针对乌克兰发射的无人机在罗马尼亚坠毁，造成2人受伤",
+      "summaryZh": "罗马尼亚当局周五表示，一架俄罗斯无人机在夜间对乌克兰发动的袭击中坠入罗马尼亚东部的一栋公寓楼，造成两人受伤。",
       "contentParagraphs": [
         {
-          "en": "Republican state Rep. Gary Click, from northern Ohio, is a Baptist pastor and three-term lawmaker. Here, he poses for a portrait in his office in Columbus, Ohio, in February.",
-          "zh": "来自俄亥俄州北部的共和党州众议员加里·克里克 (Gary Click) 是一名浸信会牧师和三届立法者。这张照片是二月，他在俄亥俄州哥伦布市的办公室里摆姿势拍照。"
+          "en": "This photo released by Romania's Department for Emergency Situations shows a fire on top of a block of flats after a drone crash caused an explosion and fire on impact, in Galati, eastern Romania near the Ukrainian border, Friday May 29, 2026.",
+          "zh": "罗马尼亚紧急情况部发布的这张照片显示，2026 年 5 月 29 日星期五，在罗马尼亚东部靠近乌克兰边境的加拉茨，无人机坠毁导致爆炸和火灾后，一栋公寓楼顶起火。"
         },
         {
-          "en": "Andrew Spear for NPR",
-          "zh": "NPR 的安德鲁·斯皮尔"
+          "en": "via AP/ISU Galati",
+          "zh": "经由美联社/国际滑联加拉茨"
         },
         {
-          "en": "Andrew Spear for NPR",
-          "zh": "NPR 的安德鲁·斯皮尔"
+          "en": "via AP/ISU Galati",
+          "zh": "经由美联社/国际滑联加拉茨"
         },
         {
-          "en": "Ohio state Rep. Gary Click recalls the comfort he felt going to church as a child and when he declared his faith before a congregation at the age of 12.",
-          "zh": "俄亥俄州众议员加里·克里克 (Gary Click) 回忆起他小时候去教堂以及 12 岁时在会众面前宣示信仰时所感受到的安慰。"
+          "en": "KYIV, Ukraine — A Russian drone that was part of an overnight attack on Ukraine crashed into an apartment building in eastern Romania, injuring two people, Romanian authorities said Friday.",
+          "zh": "乌克兰基辅——罗马尼亚当局周五表示，一架俄罗斯无人机在夜间对乌克兰发动的袭击中坠入罗马尼亚东部的一栋公寓楼，造成两人受伤。"
         },
         {
-          "en": "\"I went down and I just told the Lord, I said, if you want me to be a pastor, I'll be a pastor,\" Click recounted in an interview.",
-          "zh": "“我下去告诉主，我说，如果你想让我当牧师，我就当牧师，”克里克在接受采访时回忆道。"
+          "en": "In response to the crash in the city of Galati, NATO member Romania asked the alliance for a faster transfer of anti-drone capabilities to its military, the Foreign Ministry said, calling the drone's flight a serious violation of international law.",
+          "zh": "外交部表示，针对加拉茨市的坠机事件，北约成员国罗马尼亚要求该联盟更快地将反无人机能力移交给其军队，称无人机的飞行严重违反了国际法。"
         },
         {
-          "en": "He did become a Baptist pastor — and later, a lawmaker. Click, 60, is a three-term Ohio legislator. God created three institutions, he says: the family, the home and the government.",
-          "zh": "他确实成为了一名浸信会牧师，后来又成为了一名立法者。 60 岁的克里克是一位连任三届的俄亥俄州议员。他说，上帝创造了三个机构：家庭、家庭和政府。"
+          "en": "Gen. Gheorghe Maxim, a stand-in commander for the Romanian armed forces' joint staff, said at a press conference Friday that the incident \"is not an attack from Russia against Romania,\" but \"Romanians should understand that Russia is a threat to the security of the countries in the area.\"",
+          "zh": "罗马尼亚武装部队联合参谋部代理指挥官格奥尔基·马克西姆将军在周五的新闻发布会上表示，这一事件“不是俄罗斯对罗马尼亚的袭击”，但“罗马尼亚人应该明白，俄罗斯对该地区国家的安全构成威胁”。"
         },
         {
-          "en": "\"As good stewards, we should be involved in all of those, to one extent or the other,\" Click says.",
-          "zh": "“作为优秀的管理者，我们应该在某种程度上参与所有这些活动，”克里克说。"
+          "en": "Police and other agencies responded at the scene. Galati is on the Danube River, near the borders of Ukraine and Moldova.",
+          "zh": "警方和其他机构在现场做出了回应。加拉茨位于多瑙河畔，靠近乌克兰和摩尔多瓦边境。"
         },
         {
-          "en": "He's the architect of the state's ban on gender-affirming surgeries and hormone treatments for minors. He's backed a range of bills, from less-controversial ones like requiring schools to allow excused absences for religious reasons to hotly debated ones, like restricting abortion and requiring K-12 schools to let students leave during the day for religious study.",
-          "zh": "他是该州禁止对未成年人进行性别确认手术和激素治疗的创始人。他支持一系列法案，从争议较小的法案（例如要求学校允许因宗教原因缺勤）到备受争议的法案（例如限制堕胎和要求 K-12 学校允许学生在白天离开学校进行宗教学习）。"
+          "en": "Ukrainian forces shot down 217 drones overnight on Friday according to the country's air force. In total, Russia attacked with 232 drones and one ballistic missile. Hits were recorded in 14 areas, the air force said.",
+          "zh": "据乌克兰空军称，周五夜间，该国军队击落了 217 架无人机。俄罗斯总共出动了 232 架无人机和一枚弹道导弹进行攻击。空军表示，14 个地区均被击中。"
         },
         {
-          "en": "Artwork depicting the late conservative activist Charlie Kirk is seen in the office of Ohio state Rep. Gary Click.",
-          "zh": "在俄亥俄州众议员加里·克里克的办公室里可以看到描绘已故保守派活动家查理·柯克的艺术品。"
+          "en": "The drone was tracked by radar in Romanian airspace and crashed onto the roof of a building in Galati, Romania's Defense Ministry said in a statement. The impact was followed by a fire. Two people suffered minor injuries, and several others were evacuated.",
+          "zh": "罗马尼亚国防部在一份声明中表示，这架无人机在罗马尼亚领空被雷达跟踪并坠毁在加拉茨一栋建筑物的屋顶上。撞击之后引发了火灾。两人受轻伤，另有几人被疏散。"
         },
         {
-          "en": "Andrew Spear for NPR",
-          "zh": "NPR 的安德鲁·斯皮尔"
+          "en": "Romania calls it the worst of many incidents",
+          "zh": "罗马尼亚称这是众多事件中最严重的一次"
         },
         {
-          "en": "Andrew Spear for NPR",
-          "zh": "NPR 的安德鲁·斯皮尔"
+          "en": "While Romania has confirmed drone fragments on its territory on multiple occasions since the war started in 2022, including in Galati in April this year, no one has previously been hurt in any of the drone incidents in which many landed in remote areas.",
+          "zh": "尽管自 2022 年战争爆发以来，罗马尼亚已多次确认其领土上有无人机碎片，包括今年 4 月在加拉茨的无人机碎片，但此前没有人在任何无人机事件中受伤，其中许多无人机降落在偏远地区。"
         },
         {
-          "en": "But Click says he's not legislating his own religion, because you don't have to be a Christian to agree with what he introduces and advances.",
-          "zh": "但克里克表示，他并没有为自己的宗教立法，因为你不必是基督徒也能同意他所介绍和推进的内容。"
+          "en": "In response to the latest incursion, Romanian President Nicusor Dan convened the NATO member's top defense body for a meeting on Friday to discuss the implications of what he called \"the worst incident to hit the national territory\" since Russia invaded Ukraine, and blamed Russia directly for the incident.",
+          "zh": "针对最近的入侵事件，罗马尼亚总统尼库索尔·丹周五召集北约成员国最高防务机构召开会议，讨论他所说的自俄罗斯入侵乌克兰以来“袭击国家领土的最严重事件”的影响，并直接将这一事件归咎于俄罗斯。"
         },
         {
-          "en": "A bill named for Charlie Kirk about teaching religion's impact on America",
-          "zh": "以查理·柯克 (Charlie Kirk) 命名的一项关于教授宗教对美国影响的法案"
+          "en": "\"We will have proportional measures in relation to the Russian Federation. ... There is no ambiguity about the author and the cause of this assault,\" he wrote in a post on Facebook.",
+          "zh": "“我们将对俄罗斯联邦采取相应的措施……对于袭击者和这次袭击的原因没有任何含糊之处，”他在脸书上的一篇帖子中写道。"
         },
         {
-          "en": "\"The Bible says 'Thou shalt not kill.' Now, am I legislating the Bible if I support laws against murder? No, I'm not,\" he says. \"Says 'Thou shalt not steal.' If we have laws against theft, and actually, I have a burglary bill right now, am I legislating my religion?\"",
-          "zh": "“圣经说‘不可杀人。’”现在，如果我支持禁止谋杀的法律，我是否在为圣经立法？不，我不是，”他说。 “说‘不可偷盗。’如果我们有反盗窃的法律，事实上，我现在有一项防盗法案，我是否在立法我的宗教？”"
+          "en": "Dan added that his thoughts are with the injured people, families and residents \"who experienced terrible moments in their own homes.\"",
+          "zh": "丹补充说，他的心与受伤的人、家人和居民在一起，“他们在自己的家中经历了可怕的时刻”。"
         },
         {
-          "en": "Since last year, Click's been working on passing the Charlie Kirk American Heritage Act. It has passed the state House and is in the Senate.",
-          "zh": "自去年以来，克里克一直致力于通过《查理·柯克美国遗产法案》。该法案已在州众议院获得通过，并进入参议院。"
+          "en": "The Romanian military scrambled two F-16 fighter jets and a helicopter that were authorized to engage targets, and alert messages were sent to residents of the affected areas.",
+          "zh": "罗马尼亚军方紧急出动两架F-16战斗机和一架直升机，授权它们与目标交战，并向受影响地区的居民发送警报信息。"
         },
         {
-          "en": "The bill says it would permit the teaching of the positive impact of \"Judeo-Christian\" values in U.S. history. It lists two dozen examples, from appeals to divine power in the Declaration of Independence and the religious backgrounds of the signers, to the impact of evangelical Billy Graham.",
-          "zh": "该法案表示，它将允许教授“犹太基督教”价值观对美国历史的积极影响。它列出了两打例子，从《独立宣言》中对神圣力量的呼吁和签署者的宗教背景，到福音派比利·格雷厄姆的影响。"
+          "en": "In recent years, airspace violations have become so common in Romania that lawmakers adopted legislation last year allowing the army to shoot down drones entering its airspace as a last resort. But Romania has remained cautious in downing errant drones, which can pose risks to populated areas.",
+          "zh": "近年来，侵犯领空的行为在罗马尼亚变得非常普遍，以至于立法者去年通过了立法，允许军队击落进入其领空的无人机作为最后手段。但罗马尼亚在击落失控的无人机方面仍保持谨慎态度，因为这可能对人口稠密地区构成风险。"
         },
         {
-          "en": "A couple of other states have similar bills, though they're not named after the slain conservative activist and occasional confidante of President Trump. Click says he hopes his will be a model.",
-          "zh": "其他几个州也有类似的法案，尽管它们不是以被杀的保守派活动家和特朗普总统偶尔的红颜知己的名字命名的。 Click 说他希望自己能成为一名模特。"
+          "en": "Russia has been using long-range ballistic missiles and drones to damage Ukraine's power grid and hammer cities, and Ukraine has braced for further heavy bombardments.",
+          "zh": "俄罗斯一直在使用远程弹道导弹和无人机破坏乌克兰的电网并重创城市，而乌克兰也已做好了进一步猛烈轰炸的准备。"
         },
         {
-          "en": "Ohio state Rep. Mark Johnson prays in March during \"Prayer at the Statehouse,\" a quarterly event hosted by the Center for Christian Virtue to pray with lawmakers in the state Capitol in Columbus, Ohio.",
-          "zh": "俄亥俄州众议员马克·约翰逊三月份在“州议会祈祷”期间祈祷，这是由基督教美德中心主办的季度活动，与俄亥俄州哥伦布州议会大厦的立法者一起祈祷。"
+          "en": "Allies rally to condemn incursion",
+          "zh": "盟友集会谴责入侵"
         },
         {
-          "en": "Maddie McGarvey for NPR",
-          "zh": "NPR 的麦迪·麦加维"
+          "en": "NATO Secretary-General Mark Rutte said that he had spoken to Romania's president and expressed the organization's \"absolute solidarity\" with its ally.",
+          "zh": "北约秘书长马克·吕特表示，他已与罗马尼亚总统通话，并表示该组织对其盟友“绝对声援”。"
         },
         {
-          "en": "Maddie McGarvey for NPR",
-          "zh": "NPR 的麦迪·麦加维"
+          "en": "In a post on X, Rutte said he \"affirmed that NATO stands ready to defend every inch of Allied territory. We will continue to enhance our readiness to deter and defend against any threat, including from drones.\"",
+          "zh": "吕特在 X 上的一篇帖子中表示，他“确认北约随时准备保卫盟军的每一寸领土。我们将继续加强准备，以威慑和防御任何威胁，包括来自无人机的威胁。”"
         },
         {
-          "en": "Click named the bill after Kirk, whose rhetoric offended some but resonated with others, because he sees a connection.",
-          "zh": "克里克以柯克的名字命名了该法案，柯克的言论冒犯了一些人，但也引起了其他人的共鸣，因为他看到了其中的联系。"
+          "en": "NATO allies are talking informally about the incursion but no official meeting about it was due to take place on Friday. Romania can request formal NATO consultations if it feels that it's territory or security is under threat.",
+          "zh": "北约盟国正在非正式地讨论这次入侵，但周五不会就此举行正式会议。如果罗马尼亚认为其领土或安全受到威胁，可以请求北约进行正式磋商。"
         },
         {
-          "en": "\"One of the reasons that people hated Charlie, I think, is because he was advancing Christian principles. The Christian history of our nation. And people didn't like that. They hated that,\" he says. \"They rejected that. And I think that's what took his life. And so I think people need a better education.\"",
-          "zh": "“我认为，人们讨厌查理的原因之一是因为他正在推进基督教原则。我们国家的基督教历史。人们不喜欢这一点。他们讨厌这一点，”他说。 “他们拒绝了。我认为这就是他的生命。所以我认为人们需要更好的教育。”"
+          "en": "Finnish President Alexander Stubb condemned the drone strike in Romania and wrote in a social media post that \"Russia is crossing another line in its war of aggression against Ukraine.\"",
+          "zh": "芬兰总统亚历山大·斯塔布谴责了罗马尼亚的无人机袭击事件，并在社交媒体帖子中写道，“俄罗斯在侵略乌克兰的战争中正在跨越另一条界限。”"
         },
         {
-          "en": "Opponents say the bill would invite a skewed version of history",
-          "zh": "反对者表示，该法案将带来扭曲的历史版本"
+          "en": "European Commission President Ursula von der Leyen also said the incident showed that Russia \"has crossed yet another line.\" She said the EU will keep strengthening security along its eastern border and was actively drafting another set of sanctions against Russia, the 21st so far.",
+          "zh": "欧盟委员会主席乌苏拉·冯德莱恩也表示，这一事件表明俄罗斯“又越过了一条底线”。她表示，欧盟将继续加强东部边境安全，并正在积极起草另一套针对俄罗斯的制裁措施，这是迄今为止的第21项制裁措施。"
         },
         {
-          "en": "Opponents of the bill say it's unnecessary — or worse.",
-          "zh": "该法案的反对者表示，这是不必要的，甚至更糟。"
+          "en": "\"A Russian drone incursion struck a densely populated area in Romania, injuring civilians,\" she wrote in a social media post. \"On EU territory.\"",
+          "zh": "她在社交媒体帖子中写道：“俄罗斯无人机袭击了罗马尼亚人口稠密地区，造成平民受伤。” “在欧盟领土上。”"
         },
         {
-          "en": "\"I have never heard of a single teacher in Ohio that says they're afraid to teach any of the content that's in this bill,\" says Ohio Council for the Social Studies President Sarah Kaka.",
-          "zh": "俄亥俄州社会研究委员会主席萨拉·卡卡 (Sarah Kaka) 表示：“我从未听说过俄亥俄州有哪个老师表示他们害怕教授该法案中的任何内容。”"
+          "en": "Estonian Foreign Minister Margus Tsahkna said the risk of such \"serious incidents\" was raised by \" Putin's increasing nervousness, driven by military setbacks.\"",
+          "zh": "爱沙尼亚外交部长马古斯·查克纳表示，“普京因军事挫折而日益紧张”，增加了发生此类“严重事件”的风险。"
         },
         {
-          "en": "She worries anytime the legislature is dictating the direction of educational content, she says.",
-          "zh": "她说，每当立法机关决定教育内容的方向时，她都会感到担忧。"
+          "en": "\"Russia is growing weaker on the battlefield in its war against Ukraine, yet it continues to pursue its objectives through brutal drone and missile attacks,\" he said in a statement.",
+          "zh": "他在一份声明中表示：“俄罗斯在对乌克兰的战争战场上日益衰弱，但它继续通过残酷的无人机和导弹袭击来实现其目标。”"
         },
         {
-          "en": "\"It is such a skewed perspective on history, right?\" she says. \"It's not balanced by any means, and our organization as a whole, we are very much proponents of historical inquiry, right? Teaching students not what to think, but how to think.\"",
-          "zh": "“这是一种扭曲的历史观，对吗？”她说。 “无论如何，这都是不平衡的，我们的组织作为一个整体，我们非常支持历史探究，对吧？教学生的不是思考什么，而是如何思考。”"
+          "en": "Zelenskyy appeals for more Patriot missiles",
+          "zh": "泽伦斯基呼吁购买更多爱国者导弹"
         },
         {
-          "en": "Groups backing laws that center on conservative views of Christianity go back generations, including the Moral Majority of the 1980s, and have won court backing in recent years with the elimination of the federal right to abortion and the weakening of bans on school prayer.",
-          "zh": "支持以基督教保守观点为中心的法律的团体可以追溯到几代人之前，其中包括 20 世纪 80 年代的道德多数派，并且近年来随着联邦堕胎权的取消和学校祈祷禁令的削弱而赢得了法院的支持。"
+          "en": "Ukrainian President Volodymyr Zelenskyy said Thursday he was pressing the United States to provide more Patriot air defense missiles that can counter the Russian attacks.",
+          "zh": "乌克兰总统泽连斯基周四表示，他正在敦促美国提供更多爱国者防空导弹，以对抗俄罗斯的袭击。"
         },
         {
-          "en": "People participate in \"Prayer at the Statehouse\" in March.",
-          "zh": "三月，人们参加“州议会祈祷”。"
+          "en": "He warned that deliveries to Ukraine are falling dangerously short as the Iran war diverts and depletes U.S. stocks. \"I believe (the U.S.) must act quicker. We are being very persistent,\" Zelenskyy told reporters during a visit to Sweden.",
+          "zh": "他警告说，随着伊朗战争转移并耗尽美国库存，对乌克兰的交付量正在严重短缺。 “我认为（美国）必须更快地采取行动。我们非常坚持，”泽伦斯基在访问瑞典期间对记者说。"
         },
         {
-          "en": "Maddie McGarvey for NPR",
-          "zh": "NPR 的麦迪·麦加维"
+          "en": "U.N. Secretary-General António Guterres warned the U.N. Security Council that the escalation and intensification of attacks risks getting out of control, with \"unknown and unintended consequences.\" He said that more civilians have been killed in the first four months of this year than in the same period in the past three years.",
+          "zh": "联合国秘书长安东尼奥·古特雷斯警告联合国安理会，袭击的升级和加剧有失控的风险，会带来“未知和意想不到的后果”。他说，今年前四个月的平民被杀人数比过去三年同期还要多。"
         },
         {
-          "en": "Maddie McGarvey for NPR",
-          "zh": "NPR 的麦迪·麦加维"
-        },
-        {
-          "en": "Indiana University Indianapolis professor Andrew Whitehead is among those who describe the movement as Christian Nationalism.",
-          "zh": "印第安纳大学印第安纳波利斯分校教授安德鲁怀特海德是将这场运动描述为基督教民族主义的人之一。"
-        },
-        {
-          "en": "\"[It's] the desire to fuse together a very particular expression of Christianity with American civic life, and then having the government at all levels, defend and preserve that connection and fusion,\" Whitehead says. He adds that this specific view sees an America primarily for white Protestant men and leans toward authoritarianism.",
-          "zh": "“[这是]将基督教的一种非常特殊的表达方式与美国公民生活融合在一起的愿望，然后让各级政府捍卫和维护这种联系和融合，”怀特海德说。他补充说，这种特定观点认为美国主要是白人新教徒的国家，并且倾向于威权主义。"
-        },
-        {
-          "en": "Click rejects the term. \"That is a dog whistle,\" he says. \"That's a crisis language in order to scare people and take them back to this idea of you're forcing your religion on us.\"",
-          "zh": "单击拒绝该术语。 “那是狗哨，”他说。 “这是一种危机语言，目的是吓唬人们，让他们回想起你把你的宗教信仰强加给我们的想法。”"
-        },
-        {
-          "en": "Click is a member of the National Association of Christian Lawmakers, which shares model legislation against abortion access and transgender rights. He says the group is interested in the Charlie Kirk bill. Their website also includes proposals to ban same-sex marriage and to tie currency to gold and silver.",
-          "zh": "Click 是全国基督教立法者协会的成员，该协会分享反对堕胎和变性人权利的示范立法。他说该组织对查理柯克法案感兴趣。他们的网站还包括禁止同性婚姻以及将货币与黄金和白银挂钩的提案。"
-        },
-        {
-          "en": "In Ohio, legislation infused with religion has gained noticeable traction. The decades-old Center for Christian Virtue has notched \"lots\" of recent wins, President Aaron Baer says.",
-          "zh": "在俄亥俄州，充满宗教色彩的立法获得了显着的关注。具有数十年历史的基督教美德中心最近取得了“很多”胜利，主席亚伦·贝尔说。"
-        },
-        {
-          "en": "Aaron Baer, president of the Center for Christian Virtue, speaks during \"Prayer at the Statehouse\" in March.",
-          "zh": "基督教美德中心主席亚伦·贝尔 (Aaron Baer) 在三月份的“州议会祈祷”期间发表讲话。"
-        },
-        {
-          "en": "Maddie McGarvey for NPR",
-          "zh": "NPR 的麦迪·麦加维"
-        },
-        {
-          "en": "Maddie McGarvey for NPR",
-          "zh": "NPR 的麦迪·麦加维"
-        },
-        {
-          "en": "\"It's never us,\" Baer says. \"We don't have any votes, right? It's the lawmakers, but we worked with lawmakers on all of these issues.\"",
-          "zh": "“从来都不是我们，”贝尔说。 “我们没有任何选票，对吧？是立法者，但我们在所有这些问题上与立法者合作。”"
-        },
-        {
-          "en": "A few years ago, CCV bought a four-story building across the street from the Capitol.",
-          "zh": "几年前，CCV 购买了国会大厦街对面的一栋四层建筑。"
-        },
-        {
-          "en": "Under Baer, CCV looks at legislation across the board, branching out from standard religious right issues — against abortion, obscenity, gambling — into lobbying on a range of",
-          "zh": "在贝尔的领导下，CCV 着眼于全面立法，从标准的宗教权利问题（反对堕胎、淫秽、赌博）扩展到游说一系列问题"
+          "en": "Guterres called for more diplomacy, immediate de-escalation and \"a full and unconditional ceasefire.\"",
+          "zh": "古特雷斯呼吁采取更多外交手段，立即缓和紧张局势并“全面、无条件停火”。"
         }
       ]
     },
     {
-      "title": "Iran says it targeted American base after fresh US strikes",
-      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
-      "pubDate": "Thu, 28 May 2026 09:58:49 GMT",
-      "source": "BBC News",
-      "sourceColor": "#b80000",
-      "titleZh": "伊朗称在美国发动新一轮袭击后，其目标是美国基地",
-      "summaryZh": "敌对行动发生在美国和伊朗之间脆弱的停火期间，并且为结束三个月的战争而进行了旷日持久的谈判。",
-      "contentParagraphs": []
+      "title": "‘Dangerous colonial occupation’: Israel’s digital West Bank land register",
+      "link": "https://www.aljazeera.com/news/2026/5/29/dangerous-colonial-occupation-israels-digital-west-bank-land-register?traffic_source=rss",
+      "summary": "A digital register of land ownership in the West Bank is seen as an escalation of Israel's occupation.",
+      "pubDate": "Fri, 29 May 2026 10:28:18 +0000",
+      "source": "Al Jazeera",
+      "sourceColor": "#f79120",
+      "titleZh": "“危险的殖民占领”：以色列西岸数字土地登记册",
+      "summaryZh": "西岸土地所有权的数字登记被视为以色列占领的升级。",
+      "contentParagraphs": [
+        {
+          "en": "A digital register of land ownership in the West Bank is seen as an escalation of Israel’s occupation.Occupied East Jerusalem, Palestine – A controversial Israeli plan to digitally register property ownership in the occupied West Bank is a “dangerous colonial occupation step that represents a direct assault on the historical and legal rights of the Palestinian people to their land and property”, the Palestinian Land Authority has said.The Palestinian Jerusalem Governorate and the Colonization and Wall Resistance Commission (CRRC) have urged Palestinians in the West Bank not to engage with any Israeli “entities, committees, platforms, or procedures” of lands and property.Recommended Stories list of 4 itemslist 1 of 4Palestinian graduates in the West Bank enter a collapsed job marketlist 2 of 4UN ‘adds Israel to blacklist’ for conflict-related sexual violencelist 3 of 4EU sanctions ‘extremist’ Israeli settlers in occupied West Banklist 4 of 4State of trauma: Israel wrestles with mental aftershocks of warend of listIsrael reportedly launched the online “Land Registry and Settlement of Rights” platform on which it plans to “update” property ownership in the occupied West Bank on Wednesday this week.The Jerusalem Governorate and the CRRC have called on the international community, the United Nations, the International Criminal Court and all international human rights and legal institutions to “take their urgent responsibilities to stop these illegal procedures and hold the occupying state accountable for its continuous violations against the Palestinian people, their land, and their resources”, they said.Moayad Shaaban, head of the CRRC, which is part of the Palestine Liberation Organization, said the move reveals “the occupation’s transition from traditional policies of field control to digital and administrative colonial engineering aimed at imposing permanent legal realities on the occupied Palestinian territory”.‘Annexation’ by land registryIn May 2025, the Israeli Security Cabinet launched a new, aggressive land settlement process throughout the West Bank, with the aim of “completing the legal and administrative annexation of the occupied territories through fully registering the lands under Israeli authority”, the Jerusalem Governorate said.Then, in July 2025, Israel’s parliament approved a symbolic measure calling for the annexation of the occupied West Bank. The move was first tabled in 2024 by Israel’s far-right Finance Minister Bezalel Smotrich, who himself lives in an illegal Israeli settlement.On February 15, 2026, the permanent acquisition and registration of approximately 58 percent of Area C – the part of the West Bank over which Israel exerts total control – began.(Al Jazeera)Under that decision, Palestinian land registration in the Israeli “Tabu” – the land registry extract – began for the first time since the occupation of the West Bank in 1967. It is a final measure that will be difficult to challenge in Israeli courts, the Israel Hayom newspaper reported in February.With the onset of land settlement, the Israeli Land Registry unit will take over the regulation and registration of land ownership in Area C. It also has the power to issue sales permits and to collect fees. Israel aims to complete the full settlement of 15 percent of the West Bank by the end of 2030.Some 700,000 Israeli settlers already live in the West Bank and East Jerusalem, as illegal settlement has expanded under the government of Prime Minister Benjamin Netanyahu.Rights groups say settlement approvals, along with rising settler violence against Palestinian communities, have accelerated since Israel launched its genocidal war on Gaza on October 7, 2023.(Al Jazeera)",
+          "zh": "西岸土地所有权的数字登记被视为以色列占领的升级。 被占领的东耶路撒冷、巴勒斯坦——巴勒斯坦土地管理局表示，以色列计划在被占领的西岸对财产所有权进行数字登记是一项“危险的殖民占领步骤，代表着对巴勒斯坦人民对其土地和财产的历史和合法权利的直接攻击”。巴勒斯坦耶路撒冷省和殖民与隔离墙抵抗委员会（CRRC）敦促西岸的巴勒斯坦人不要参与其中推荐故事列表 4 项列表 4 项中的 1 项西岸巴勒斯坦毕业生进入崩溃的就业市场 列表 2 项（共 4 项） 联合国将以色列列入与冲突有关的性暴力的黑名单 列表 4 项欧盟制裁中的 3 项 被占领西岸的“极端主义”以色列定居者 列表 4 项（共 4 项） 创伤状态：以色列与战争造成的精神余震作斗争据报道，以色列推出了在线“土地登记和权利解决”平台，计划于本周周三“更新”被占领西岸的财产所有权。耶路撒冷省和CRRC呼吁国际社会、联合国、国际刑事法院以及所有国际人权和法律机构“承担紧急责任，制止这些非法程序，并追究占领国对其持续侵犯巴勒斯坦人民、他们的土地和资源的责任”。Moayad Shaaban，巴勒斯坦解放组织下属的 CRRC 负责人表示，此举揭示了“占领从传统的实地控制政策转向数字和行政殖民工程，旨在将永久的法律现实强加于被占巴勒斯坦领土”。 土地登记的‘吞并’ 2025 年 5 月，以色列安全内阁在整个西岸启动了新的、积极的土地定居进程，目的是“通过将以色列领土上的土地完全登记，完成对被占领土的法律和行政吞并”耶路撒冷省表示。随后，2025 年 7 月，以色列议会批准了一项象征性措施，要求吞并被占领的约旦河西岸。这一举措于 2024 年由以色列极右翼财政部长贝扎莱尔·斯莫特里奇首次提出，他本人居住在以色列的非法定居点。2026 年 2 月 15 日，开始永久收购和登记 C 区约 58% 的土地，即以色列完全控制的西岸部分。（半岛电视台）根据这一决定，自占领以来首次开始在以色列“塔布”（土地登记摘录）进行巴勒斯坦土地登记。 1967年，以色列《Hayom》报纸报道称，这是一项最终措施，在以色列法院很难受到质疑。随着土地定居的开始，以色列土地登记部门将接管C区土地所有权的监管和登记。它还有权颁发销售许可证和收取费用。以色列的目标是到 2030 年底完成西岸 15% 地区的全部定居点。随着总理本杰明·内塔尼亚胡政府领导下的非法定居点不断扩大，约 70 万以色列定居者已经居住在西岸和东耶路撒冷。人权组织表示，自 2023 年 10 月 7 日以色列对加沙发动种族灭绝战争以来，定居点批准以及定居者针对巴勒斯坦社区的暴力行为不断增加。（半岛电视台）"
+        }
+      ]
     },
     {
-      "title": "Sixteen pupils killed in Kenya school fire",
-      "link": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
-      "summary": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
-      "pubDate": "Thu, 28 May 2026 09:57:26 GMT",
-      "source": "BBC News",
-      "sourceColor": "#b80000",
-      "titleZh": "肯尼亚学校火灾 16 名学生丧生",
-      "summaryZh": "火灾还造成数十人受伤，目前起火原因尚不清楚。",
-      "contentParagraphs": []
+      "title": "WHO chief visits DRC amidst Ebola crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss",
+      "summary": "WHO chief visits DRC amidst Ebola crisis and urges international community to increase support.",
+      "pubDate": "Fri, 29 May 2026 10:24:27 +0000",
+      "source": "Al Jazeera",
+      "sourceColor": "#f79120",
+      "titleZh": "世卫组织总干事在埃博拉危机期间访问刚果民主共和国",
+      "summaryZh": "世卫组织总干事在埃博拉危机中访问刚果民主共和国，敦促国际社会加大支持力度。",
+      "contentParagraphs": [
+        {
+          "en": "WHO chief visits DRC amidst Ebola crisis and urges international community to increase supportNewsFeedWHO chief Tedros Adhanom Ghebreyesus visits the DR Congo to highlight challenges being faced in dealing with the Ebola crisis. He called on the international community to ‘increase their support’ so that countries affected by Ebola outbreaks can control the epidemic and prevent it from spreading.Published On 29 May 2026",
+          "zh": "世卫组织总干事谭德塞访问刚果民主共和国，强调应对埃博拉危机面临的挑战。他呼吁国际社会“增加支持”，以便受埃博拉疫情影响的国家能够控制疫情并防止其蔓延。发布于2026年5月29日"
+        }
+      ]
+    },
+    {
+      "title": "US-Iran 60-day proposal: What we know",
+      "link": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know?traffic_source=rss",
+      "summary": "US-Iran memorandum of understanding reportedly covers Strait of Hormuz, sanctions relief and enriched uranium limits.",
+      "pubDate": "Fri, 29 May 2026 10:23:16 +0000",
+      "source": "Al Jazeera",
+      "sourceColor": "#f79120",
+      "titleZh": "美伊 60 天提案：我们所知道的",
+      "summaryZh": "据报道，美伊谅解备忘录涵盖霍尔木兹海峡、制裁解除和浓缩铀限制。",
+      "contentParagraphs": [
+        {
+          "en": "The United States and Iran reportedly reached a preliminary memorandum of understanding (MOU) on Thursday, agreeing to extend the ceasefire between the two countries for a further 60 days and to begin negotiations for permanently ending the war, officials said.Official US sources have told Al Jazeera that the framework still needs President Donald Trump’s final approval.Neither the US nor Iran have made any comment about the MOU as regional tensions continue, however.Citing a source close to the ⁠negotiating team, Iran’s semi-official Tasnim ⁠news ⁠agency reported that ⁠the text of the MOU had not yet been finalised or confirmed, and the public would be notified once that occurred.Here’s what we know so far about the MOU, its terms, aims and what it means for the war.What will the proposed agreement contain?According to a report by US news outlet Axios, citing two unnamed US officials and one unnamed regional source involved in the mediation efforts, the MOU will include agreements about the following:The Strait of HormuzAccording to media reports, the MOU will state that shipping through the Strait of Hormuz is to be “unrestricted”, meaning there will be no tolls, no “harassment”, and that Iran will have 30 days to remove all mines.(Al Jazeera)The ongoing US naval blockade on Iranian ports will also be lifted “in proportion to the restoration of commercial shipping” through the strait. The US will also waive a number of sanctions on Iran, allowing it to sell oil freely.The issue over control of the strait has been a major sticking point in peace negotiations between the US and Iran – mostly conducted via Pakistani mediators.Since early March, Iran has restricted shipping through the narrow waterway linking the Gulf to the open ocean, through which 20 percent of the world’s oil and liquefied natural gas (LNG) supplies are shipped during peacetime. Iran has allowed the passage of a few vessels from select countries, but they have been required to negotiate transit with the Islamic Revolutionary Guard Corps (IRGC) – with some paying tolls of as much as $2m per ship at points during the conflict.In April, the US began a corresponding naval blockade on Iranian ports, further adding to the disruption of global oil and gas supplies.In its previous proposals to end the war, Iran has referred to charging transit tolls for vessels. Washington and other countries have repeatedly rejected the prospect.Under international maritime law, countries whose territorial waters cover natural straits such as Hormuz are not permitted to charge tolls for passage. They may, however, charge fees for “services” to ships passing through.Iran’s nuclear capabilitiesThe MOU will also reportedly include a commitment from Iran not to work towards building a nuclear weapon. During the 60-day window following the start of the new agreement, the first issue to be discussed in peace talks will be Iran’s uranium enrichment programme, and how to dispose of Iran’s stock of highly enriched uranium.The issue of enriched uranium has also been a bone of contention between the US and Iran.Iran is believed to be holding an estimated 440kg (970lb) of uranium enriched to 60 percent, short of the 90 percent required for weapons-grade material, but at the point at which it becomes much quicker to reach 90 percent.Tehran has said for years that its nuclear programme is for civilian purposes only and it does not intend to build nuclear weapons. But Israel, the US and other Western countries allege that Iran is in fact preparing to have the capacity to build nuclear weapons. They argue the 60 percent enrichment level achieved so far is well above what is needed for a civilian nuclear energy programme – between 3 and 5 percent enrichment.The US wants this stock to be handed over to it, but Iran has rejected this idea. It was reportedly willing to consider transferring it to a third party, however. Last week, it was reported that Iranian Supreme Leader Mojtaba Khamenei issued a directive that Iran’s enriched uranium should not be sent abroad at all.Since the war on Iran began, it has also emerged that on February 26, during informal negotiations with the US in Geneva two days before the US and Israel launched attacks on Iran, Tehran had offered to “downblend” the stockpile from 60 percent enrichment to 3.67 percent, in an irreversible process.That was the level it had been allowed to enrich uranium to under the 2015 Obama-era Joint Comprehensive Plan of Action (JCPOA) deal Iran reached with a number of countries, and which took several years to negotiate. Trump, however, withdrew the US from that deal during his first term as president, despite international inspectors saying Iran had stuck to this level.Aid and sanctionsThe MOU reportedly contains a mechanism for Iran to receive humanitarian aid. Additionally, the US will commit to discussing sanctions relief and unfreezing Iranian assets overseas.Iran is one of the most heavily sanctioned countries in the world, having been subject to US sanctions for decades. The lifting of some of these under the 2015 nuclear agreement was reversed when Trump walked out of the landmark deal. Billions of dollars of Iranian assets remain frozen in foreign banks as a result.LebanonAccording to media reports, Israel’s war on Lebanon, where it has occupied a large part of the south of the country, will end under the agreement.Israel states that it is attacking strongholds of the Iran-backed Hezbollah there. Hezbollah began strikes on northern Israel following the first US-Israeli attacks on Tehran on February 28.On March 2, Israel intensified its war on Lebanon, expanding its invasion and occupation of southern towns and villages. Since then, Israel has killed more than 3,000 people, including paramedics and civilians.Despite Trump announcing an extension to the April 8 ceasefire on April 16, Israeli attacks on Lebanon have continued.How are diplomatic efforts progressing?Pakistan’s Deputy Prime Minister and",
+          "zh": "据报道，美国和伊朗周四达成了一份初步谅解备忘录（MOU），同意将两国之间的停火再延长 60 天，并开始永久结束战争的谈判。美国官方消息人士告诉半岛电视台，该框架仍需要唐纳德·特朗普总统的最终批准。然而，由于地区紧张局势仍在继续，美国和伊朗都没有对谅解备忘录发表任何评论。援引一位接近谈判团队的消息人士的话称，伊朗半官方的塔斯尼姆通讯社报道称，谅解备忘录的文本尚未最终确定或确认，一旦发生，将通知公众。以下是我们迄今为止所了解的谅解备忘录及其条款、目标及其对战争的意义。拟议的协议将包含什么内容？根据美国新闻媒体 Axios 的报道，援引参与调解工作的两名未透露姓名的美国官员和一名未透露姓名的地区消息人士的话说，谅解备忘录将包括有关以下内容的协议： 霍尔木兹海峡 据媒体报道，谅解备忘录将规定通过霍尔木兹海峡的航运将“不受限制”，这意味着不会收费，不会“骚扰”，并且伊朗将有30天的时间清除所有水雷。（半岛电视台）美国对伊朗港口正在进行的海上封锁也将“按照恢复通过该海峡的商业航运的比例”解除。美国还将免除对伊朗的多项制裁，允许其自由出售石油。海峡控制权问题一直是美国和伊朗之间和平谈判的主要症结所在——主要是通过巴基斯坦调解人进行的。自3月初以来，伊朗限制了通过连接海湾与公海的狭窄水道的运输，和平时期世界上20%的石油和液化天然气(LNG)供应是通过这条水道运输的。伊朗已允许来自特定国家的几艘船只通过，但它们被要求与伊斯兰革命卫队 (IRGC) 进行过境谈判——在冲突期间，一些船只在某些时候支付了高达 200 万美元的通行费。4 月份，美国开始对伊朗港口进行相应的海上封锁，进一步加剧了全球石油和天然气供应的中断。在之前结束战争的提议中，伊朗曾提到对船只收取过境费。华盛顿和其他国家一再拒绝这一前景。根据国际海事法，领海覆盖霍尔木兹海峡等自然海峡的国家不得收取通行费。然而，他们可能会向经过的船只收取“服务”费用。 伊朗的核能力 据报道，谅解备忘录还将包括伊朗不致力于制造核武器的承诺。在新协议开始后的60天窗口期内，和谈中首先要讨论的问题将是伊朗的铀浓缩计划，以及如何处置伊朗库存的高浓缩铀。浓缩铀问题也一直是美国和伊朗之间争论的焦点。据信伊朗持有约440公斤（970磅）浓缩至60%的铀，低于武器级材料需要 90%，但达到 90% 的速度会更快。德黑兰多年来一直表示，其核计划仅用于民用目的，并不打算制造核武器。但以色列、美国和其他西方国家声称，伊朗实际上正在准备拥有制造核武器的能力。他们认为，迄今为止达到的 60% 的浓缩水平远远高于民用核能计划所需的浓缩度（3% 至 5%）。美国希望将这些库存移交给它，但伊朗拒绝了这一想法。不过，据报道，它愿意考虑将其转让给第三方。上周，有报道称，伊朗最高领袖哈梅内伊发布指令，伊朗的浓缩铀根本不应该运往国外。自对伊战争开始以来，还有消息称，2月26日，在美国和以色列对伊朗发动袭击的前两天，德黑兰在日内瓦与美国进行非正式谈判时，提出将库存浓缩铀从60%“降低”至3.67%，这是一个不可逆转的过程。根据 2015 年奥巴马时代伊朗与多个国家达成的联合全面行动计划 (JCPOA) 协议，伊朗允许浓缩铀的水平，该协议花了数年时间进行谈判。然而，特朗普在他的第一个总统任期内让美国退出该协议，尽管国际检查人员表示伊朗一直坚持这一水平。 援助和制裁 据报道，谅解备忘录包含伊朗接受人道主义援助的机制。此外，美国将致力于讨论解除制裁和解冻伊朗海外资产。伊朗是世界上受制裁最严重的国家之一，几十年来一直受到美国的制裁。当特朗普退出这项具有里程碑意义的协议时，2015 年核协议中取消的部分条款被撤销。伊朗数十亿美元资产因此仍被冻结在外国银行。 黎巴嫩 据媒体报道，以色列占领黎巴嫩南部大片地区的战争将根据协议结束。以色列表示，正在袭击伊朗支持的真主党在当地的据点。继2月28日美以首次袭击德黑兰后，真主党开始对以色列北部发动袭击。3月2日，以色列加紧对黎巴嫩的战争，扩大对南部城镇和村庄的入侵和占领。此后，以色列已造成3000多人死亡，其中包括医护人员和平民。尽管特朗普于4月16日宣布延长4月8日停火，但以色列对黎巴嫩的袭击仍在继续。外交努力进展如何？巴基斯坦副总理和"
+        }
+      ]
+    },
+    {
+      "title": "WHO chief lands in Congo to address rare Ebola outbreak amid distrust and insecurity",
+      "link": "https://www.npr.org/2026/05/29/nx-s1-5838635/who-chief-visits-congo-ebola-outbreak",
+      "summary": "The head of the World Health Organization arrived in Congo's capital, Kinshasa, to witness efforts against an outbreak of a rare type of Ebola virus.",
+      "pubDate": "Fri, 29 May 2026 06:16:53 -0400",
+      "source": "NPR",
+      "sourceColor": "#e57300",
+      "titleZh": "世卫组织总干事抵达刚果，应对不信任和不安全局势下罕见的埃博拉疫情",
+      "summaryZh": "世界卫生组织总干事抵达刚果首都金沙萨，亲眼目睹了抗击罕见埃博拉病毒爆发的努力。",
+      "contentParagraphs": [
+        {
+          "en": "Director-General of the World Health Organisation (WHO), Tedros Adhanom Ghebreyesus, speaks to the media upon his arrival at N'djili International Airport in Kinshasa, Congo, Thursday, May 28, 2026.",
+          "zh": "世界卫生组织 (WHO) 总干事谭德塞于 2026 年 5 月 28 日星期四抵达刚果金沙萨恩吉利国际机场后向媒体发表讲话。"
+        },
+        {
+          "en": "Samy Ntumba Shambuyi/AP",
+          "zh": "Samy Ntumba 通讯员/美联社"
+        },
+        {
+          "en": "Samy Ntumba Shambuyi/AP",
+          "zh": "Samy Ntumba 通讯员/美联社"
+        },
+        {
+          "en": "KINSHASA, Congo — The head of the World Health Organization arrived in Congo's capital, Kinshasa, late Thursday to witness efforts against an outbreak of a rare type of Ebola virus, as medical personnel struggle with a lack of equipment, a distrustful population and armed groups in a volatile region.",
+          "zh": "刚果金沙萨——世界卫生组织总干事周四晚间抵达刚果首都金沙萨，亲眼目睹了抗击一种罕见埃博拉病毒爆发的努力。在这个动荡的地区，医务人员正面临着设备缺乏、民众不信任和武装团体的困扰。"
+        },
+        {
+          "en": "\"To come here is to really show to the community that they're not alone,\" WHO Director-General Tedros Adhanom Ghebreyesus told reporters at the airport.",
+          "zh": "世卫组织总干事谭德塞在机场对记者说：“来到这里是为了真正向社区表明，他们并不孤单。”"
+        },
+        {
+          "en": "\"Pushing orders from my comfortable office in Geneva is easy, but I'm asking my colleagues to work with the community and I am asking communities to protect themselves,\" he added.",
+          "zh": "他补充说：“从我在日内瓦舒适的办公室下达命令很容易，但我要求我的同事与社区合作，我要求社区保护自己。”"
+        },
+        {
+          "en": "Medical aid donated by the European Union arrived in Ituri province, the heart of Congo's Ebola outbreak, on Thursday. The United States announced the same day $80 million in additional aid, bringing its total commitment to more than $112 million.",
+          "zh": "欧盟捐赠的医疗援助周四抵达刚果埃博拉疫情中心的伊图里省。美国当天宣布追加8000万美元援助，使其承诺总额超过1.12亿美元。"
+        },
+        {
+          "en": "Health workers with scant supplies have been struggling to contain an outbreak of the Bundibugyo virus, a kind of Ebola that has no approved treatment or vaccine. In some areas, doctors have resorted to wearing expired medical masks while treating suspected patients.",
+          "zh": "物资匮乏的卫生工作者一直在努力控制本迪布焦病毒的爆发，这是一种埃博拉病毒，目前还没有批准的治疗方法或疫苗。在一些地区，医生在治疗疑似患者时不得不佩戴过期的医用口罩。"
+        },
+        {
+          "en": "According to WHO, 1,077 suspected cases and 238 suspected deaths have been recorded as of Tuesday,",
+          "zh": "据世界卫生组织称，截至周二，已记录 1,077 例疑似病例和 238 例疑似死亡。"
+        },
+        {
+          "en": "Dangers faced by health workers have been heightened by anger among residents over the stringent medical protocols for dealing with the bodies of victims, which clash with local burial rites. Residents have launched at least three attacks against health centers.",
+          "zh": "居民对处理受害者尸体的严格医疗规定感到愤怒，这加剧了卫生工作者面临的危险，这些规定与当地的埋葬仪式相冲突。居民对医疗中心发动了至少三起袭击。"
+        },
+        {
+          "en": "Tedros said other challenges are also complicating the containment of the outbreak, including the high number of people displaced by armed conflict in the region, and food insecurity.",
+          "zh": "谭德塞表示，其他挑战也使疫情的控制变得更加复杂，包括该地区武装冲突导致大量人员流离失所，以及粮食不安全。"
+        },
+        {
+          "en": "On Wednesday, he had called for a ceasefire in a region where armed groups have staged violent attacks for decades.",
+          "zh": "周三，他呼吁该地区停火，几十年来，该地区的武装团体一直在发动暴力袭击。"
+        },
+        {
+          "en": "\"We cannot build community trust or isolate the sick while bombs are falling,\" Tedros said.",
+          "zh": "谭德塞说：“当炸弹落下时，我们无法建立社区信任或隔离病人。”"
+        },
+        {
+          "en": "Tucked in the northeastern part of Congo close to the Ugandan border, Ituri province has been reeling from attacks by the Allied Democratic Force, a rebel group allied with the Islamic State group, and a coalition of ethnic militias. In early May, the ADF killed at least 40 people and burned several homes in Ituri.",
+          "zh": "伊图里省位于刚果东北部，靠近乌干达边境，一直受到民主联盟军、与伊斯兰国组织结盟的叛乱组织以及少数民族民兵联盟的袭击。 5 月初，民主同盟军在伊图里杀死了至少 40 人，并烧毁了几所房屋。"
+        },
+        {
+          "en": "The illness also has been reported in the Congolese provinces of North Kivu and South Kivu, south of Ituri, where the Rwanda-backed M23 rebel group controls many key cities, including Goma and Bukavu. The rebels have reported two cases.",
+          "zh": "伊图里以南的刚果北基伍省和南基伍省也报告了这种疾病，卢旺达支持的 M23 叛乱组织控制着许多主要城市，包括戈马和布卡武。叛乱分子报告了两起案件。"
+        },
+        {
+          "en": "The region's main airport in Goma, which doubles as a staging ground for humanitarian efforts into the region, has been closed since January 2025, when M23 seized the city.",
+          "zh": "该地区位于戈马的主要机场自 2025 年 1 月“3·23”运动占领该市以来一直关闭，该机场同时也是进入该地区的人道主义工作的中转站。"
+        },
+        {
+          "en": "The conflict has precipitated one of the world's largest humanitarian crises, with at least 7 million people displaced in eastern Congo.",
+          "zh": "这场冲突引发了世界上最大的人道主义危机之一，刚果东部至少有 700 万人流离失所。"
+        },
+        {
+          "en": "The WHO chief said Thursday he discourages countries from imposing travel bans against nationals of countries affected by the outbreak.",
+          "zh": "世界卫生组织总干事周四表示，他不鼓励各国对受疫情影响国家的国民实施旅行禁令。"
+        },
+        {
+          "en": "\"There are ways to manage workers and to manage cases without having a strong, restricted travel ban and we don't encourage that as WHO,\" Tedros said.",
+          "zh": "谭德塞说：“有一些方法可以在没有严格、限制性旅行禁令的情况下管理工人和管理病例，作为世卫组织，我们不鼓励这样做。”"
+        },
+        {
+          "en": "The Trump administration last week announced a temporary ban on the entry of people without U.S. passports, as well as U.S. green-card holders, who have visited Congo, Uganda or South Sudan in the past 21 days. It said Wednesday it plans to send Americans who are exposed to Ebola to a new facility in Kenya instead of flying them to the U.S. Congo's neighbors, Uganda and Rwanda, recently closed their borders.",
+          "zh": "特朗普政府上周宣布临时禁止过去 21 天内访问过刚果、乌干达或南苏丹的无美国护照以及美国绿卡持有者入境。该公司周三表示，计划将接触埃博拉病毒的美国人送往肯尼亚的一个新设施，而不是将他们飞往美国刚果的邻国乌干达和卢旺达，最近关闭了边境。"
+        }
+      ]
+    },
+    {
+      "title": "Kenyan court suspends US Ebola quarantine facility plan",
+      "link": "https://www.aljazeera.com/news/2026/5/29/kenyan-court-suspends-us-ebola-quarantine-facility-plan?traffic_source=rss",
+      "summary": "The plan to send Ebola-exposed US nationals to Kenya, which has no known cases of the virus, has provoked a backlash.",
+      "pubDate": "Fri, 29 May 2026 10:12:26 +0000",
+      "source": "Al Jazeera",
+      "sourceColor": "#f79120",
+      "titleZh": "肯尼亚法院暂停美国埃博拉检疫设施计划",
+      "summaryZh": "将感染埃博拉病毒的美国国民送往肯尼亚的计划引发了强烈反对，肯尼亚目前还没有已知的病毒病例。",
+      "contentParagraphs": [
+        {
+          "en": "A Kenyan court has suspended a plan to establish an Ebola quarantine facility for United States nationals exposed to the virus following a backlash from health workers and rights activists.High Court Judge Patricia Nyaundi on Friday ordered a halt to the agreement on the facility, pending a ruling in a legal challenge brought by activists. The case should be heard next week.Recommended Stories list of 4 itemslist 1 of 4World Cup dark horses: Unheralded Netherlands should not be written offlist 2 of 4NATO states slam Russia after drone crashes in Romanialist 3 of 4South Korea’s SK Hynix enters exclusive $1 trillion clublist 4 of 4Gaza parents brave dental dilemma: Costly treatment or food on the table?end of listThe proposed arrangement emerged amid fears that the disease could spread beyond Central Africa. An outbreak centred on the eastern Democratic Republic of the Congo (DRC) and crossing into Uganda has killed more than 200 people.As countries seek to avert the spread internationally, the US struck a deal to isolate and monitor potentially exposed citizens in Kenya rather than transport them directly home for treatment.The Katiba Institute, a Kenyan rights group, said in a petition challenging the planned facility, which was due to start operating on Friday, that it was being established in secrecy and unilaterally and that it “raises grave constitutional concerns”.The filing warned of “grave and imminent risks” to public health, arguing in court that bringing Ebola-exposed individuals into Kenya, which has no known cases of the virus, could increase the risk of the disease spreading in the country.National biosecurityWhen the legal challenge was issued, it was unclear where the facility was to be located, or whether the Kenyan government had formally approved the plan.Nairobi has publicly acknowledged discussions with Washington over support for Ebola preparedness efforts, but has not directly addressed the reports about a quarantine facility.“The secretive, unilateral establishment of an Ebola quarantine facility raises grave constitutional concerns regarding the rights to life, health, fair administrative action, public participation, and parliamentary oversight,” the Katiba Institute said in a statement.US Secretary of State Marco Rubio said Washington intended to commit $13.5m towards Kenya’s Ebola preparedness efforts, though he did not publicly confirm details of the proposed quarantine arrangement.US officials later said a facility with 50 isolation beds, intended to quarantine US nationals arriving from the DRC, was due to open on Friday.The facility was to be managed by US medical staff at Laikipia Air Base, about 200km (124 miles) from the capital, Nairobi, they added, according to the AFP news agency.The Kenyan doctors’ union on Thursday issued a 48-hour strike alert in preparation should the government proceed with the deal, accusing authorities of putting public health at risk.The union said the US appeared unwilling to allow Ebola-exposed individuals onto its soil and warned Kenya should not become a “dumping ground”.“As the vanguard of Kenya’s healthcare system, we are utterly disgusted by the government’s apparent willingness to trade national biosecurity and the lives of its citizens for foreign aid,” the union’s secretary-general, Davji Atellah, said in a statement.The Law Society of Kenya also warned the country lacked “the high-containment infrastructure required to safely manage such a facility”, potentially exposing the public to serious health risks.‘Catastrophic collision’The dispute comes as health authorities race to contain the outbreak of the Bundibugyo strain of Ebola in northeastern DRC, where overstretched health workers, limited medical supplies, and ongoing conflict and displacement have hampered efforts to stop the virus from spreading.Unlike several other forms of Ebola, the Bundibugyo strain has no approved vaccine or specific treatment.World Health Organization Director-General Tedros Adhanom Ghebreyesus said the outbreak was heavily concentrated in Ituri province in northeastern DRC, which accounts for more than 90 percent of reported cases, with smaller numbers also detected in North Kivu and South Kivu provinces.The region has been at the centre of conflict for decades, as armed groups compete for control of the vast mineral wealth it holds. Huge numbers of displaced people huddled in refugee camps and the breakdown of state services are complicating efforts to quash the outbreak.“Eastern DRC now faces a catastrophic collision of disease and conflict,” Tedros wrote on social media on Wednesday.The Congolese government has confirmed more than 1,000 suspected cases and at least 220 deaths since declaring the outbreak on May 15.WHO believes the true scale of the outbreak is likely much larger, warning the virus had been spreading undetected for weeks before it was identified by authorities.Uganda has also confirmed seven cases and one death linked to the outbreak.President Donald Trump criticised governments during previous outbreaks for shipping infected US nationals home.Earlier this month, a doctor working in DRC and testing positive for Ebola was sent to Germany for medical care, while a missionary was taken to the Czech Republic.Washington’s refusal to repatriate US nationals for treatment but to send them to third countries, where quality of care may be questioned, has also led to criticism from US doctors, with one calling it “a moral abdication of what this country owes its own”, according to The Associated Press news agency.Concern is now rising in Europe. Italian Prime Minister Giorgia Meloni urged European Union leaders on Friday to strengthen border vigilance and coordination to prevent the virus from spreading to the continent.",
+          "zh": "在遭到卫生工作者和维权人士的强烈反对后，肯尼亚一家法院暂停了为接触埃博拉病毒的美国国民建立埃博拉检疫设施的计划。高等法院法官帕特里夏·尼亚温迪 (Patricia Nyaundi) 周五下令停止建立该设施的协议，等待活动人士提出的法律挑战的裁决。此案将于下周审理。 推荐故事清单 4 项清单 4 项世界杯黑马中的 1 项：不应该将默默无闻的荷兰从名单上除名 4 个北约国家中的 2 项在罗马尼亚无人机坠毁后猛烈抨击俄罗斯 4 项中的 3 项韩国 SK 海力士进入独家 1 万亿美元俱乐部名单 4 项中的 4 项加沙家长勇敢的牙科困境：昂贵的治疗或餐桌上的食物？清单末尾提议的安排是在担心疾病可能传播的情况下出现的超越中非。以刚果民主共和国（DRC）东部为中心并进入乌干达的疫情已造成 200 多人死亡。随着各国寻求避免国际传播，美国达成了一项协议，隔离和监测肯尼亚可能受到感染的公民，而不是直接将他们送回国接受治疗。肯尼亚人权组织卡蒂巴研究所在一份请愿书中对计划中的设施提出质疑，该设施定于周五开始运营，该设施是单方面秘密建立的，并且“引起了严重的关注”。该文件警告称，这对公共卫生构成“严重且迫在眉睫的风险”，并在法庭上辩称，将埃博拉暴露者带入肯尼亚（该国尚无已知病毒病例）可能会增加该疾病在该国传播的风险。国家生物安全提出法律质疑时，尚不清楚该设施将设在何处，也不清楚肯尼亚政府是否已正式批准该计划。内罗毕已公开承认与华盛顿就支持埃博拉防备工作进行了讨论，但没有直接解决这一问题卡蒂巴研究所在一份声明中表示，“秘密、单方面建立埃博拉检疫设施引发了对生命权、健康权、公平行政行动、公众参与和议会监督等权利的严重宪法关切。”美国国务卿马可·鲁比奥表示，华盛顿打算为肯尼亚的埃博拉防备工作投入 1350 万美元，但他没有公开证实拟议检疫安排的细节。美国官员后来表示，该设施设有 50 张隔离床位，旨在隔离美国据法新社报道，他们补充说，该设施将由莱基皮亚空军基地的美国医务人员管理，距离首都内罗毕约 200 公里（124 英里）。肯尼亚医生工会周四发布了 48 小时罢工警报，为政府推进该交易做好准备，指责当局将公共健康置于危险之中。工会表示，美国似乎不愿意允许联盟秘书长达夫吉·阿特拉（Davji Atellah）在一份声明中表示，“作为肯尼亚医疗保健系统的先锋，我们对政府明显愿意用国家生物安全和公民生命换取外国援助的行为感到非常反感。”肯尼亚律师协会还警告说，该国缺乏“安全管理此类设施所需的高防护基础设施”，可能使公众面临暴露在危险之中的风险。这场争端发生之际，卫生当局正在竞相遏制刚果民主共和国东北部本迪布焦埃博拉病毒株的爆发，那里的卫生工作者不堪重负，医疗用品有限，以及持续不断的冲突和流离失所，阻碍了阻止病毒传播的努力。与其他几种形式的埃博拉病毒不同，本迪布焦病毒株没有获得批准的疫苗或具体治疗方法。世界卫生组织总干事谭德塞表示，疫情主要集中在刚果民主共和国东北部的伊图里省占报告病例的 90% 以上，北基伍省和南基伍省也发现了少量病例。该地区几十年来一直处于冲突中心，因为武装团体争夺对该地区拥有的巨大矿产财富的控制权。大量流离失所者挤在难民营中，国家服务崩溃，使平息疫情的努力变得更加复杂。谭德塞周三在社交媒体上写道，“刚果民主共和国东部现在面临疾病与冲突的灾难性碰撞。”自5月15日宣布疫情爆发以来，刚果政府已确认了1000多例疑似病例，至少220人死亡。世卫组织认为，疫情的真实规模可能要大得多，并警告病毒在当局确诊之前，该病毒已经在未被发现的情况下传播了数周。乌干达也确认了与疫情有关的七例病例和一例死亡。唐纳德·特朗普总统批评政府在之前的疫情爆发期间将受感染的美国公民运送回家。本月早些时候，一名在刚果民主共和国工作的埃博拉病毒检测呈阳性的医生被送往德国接受治疗，而一名传教士则被送往捷克共和国。华盛顿拒绝遣返美国国民接受治疗，而是将他们送往医疗质量较高的第三国据美联社报道，这可能会受到质疑，也引起了美国医生的批评，其中一位医生称其为“对这个国家应尽的道德放弃”。欧洲的担忧正在加剧。意大利总理乔治亚·梅洛尼周五敦促欧盟领导人加强边境警戒和协调，以防止病毒传播到欧洲大陆。"
+        }
+      ]
     }
   ]
 }
