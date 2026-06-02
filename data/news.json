@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T13:26:57.869Z",
+  "updated": "2026-06-02T11:59:21.992Z",
   "count": 20,
   "categories": {
     "world": {
@@ -21,33 +21,529 @@
   },
   "articles": [
     {
-      "title": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
-      "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
-      "pubDate": "Mon, 01 Jun 2026 13:12:26 GMT",
+      "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
+      "link": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
+      "pubDate": "Tue, 02 Jun 2026 11:40:02 GMT",
       "source": "BBC News",
       "category": "world",
       "sourceColor": "#b80000",
-      "titleZh": "美国称，伊朗瞄准驻科威特美军，袭击了伊朗雷达站",
-      "summaryZh": "伊朗和美国表示，他们在霍尔木兹海峡周围发动了新的袭击，科威特谴责伊朗“一再”发动袭击。",
+      "titleZh": "Instagram AI 聊天机器人被黑客欺骗以访问他人帐户",
+      "summaryZh": "一些报道将这一事件与最近高调的 Instagram 帐户被劫持的案件联系起来。",
       "contentParagraphs": []
     },
     {
-      "title": "Nvidia launches ‘superchip’ putting AI power into laptops and PCs",
-      "link": "https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows",
-      "summary": "Firm says its RTX Spark PC chip for Microsoft Windows will let AI agents replace the mouse and keyboard\n\nBusiness live – latest updates\n\nA new front has opened up in the battle for dominance in AI chips, as Nvidia said its latest development could replace the mouse and keyboard i",
-      "pubDate": "Mon, 01 Jun 2026 11:01:59 GMT",
+      "title": "Google owner Alphabet to sell $80bn in stock to fund AI spending spree",
+      "link": "https://www.theguardian.com/technology/2026/jun/02/google-alphabet-sell-stock-ai-share-sale-berkshire-hathaway",
+      "summary": "One of largest equity fundraisings ever includes $10bn share sale to US investment group Berkshire Hathaway\n\nBusiness live – latest updates\n\nGoogle’s parent company, Alphabet, has said it plans to raise up to $80bn (£59bn) in equity to fund its vast artificial intelligence infras",
+      "pubDate": "Tue, 02 Jun 2026 08:38:22 GMT",
       "source": "Guardian Tech",
       "category": "tech",
       "sourceColor": "#1a73e8",
-      "titleZh": "英伟达推出“超级芯片”，将人工智能能力注入笔记本电脑和个人电脑",
-      "summaryZh": "该公司表示，其适用于 Microsoft Windows 的 RTX Spark PC 芯片将让人工智能代理取代鼠标和键盘\n\n商业直播 – 最新更新\n\nAI芯片主导地位之战开辟了一条新战线，英伟达表示其最新研发成果可能会取代鼠标和键盘",
+      "titleZh": "谷歌母公司Alphabet将出售800亿美元股票以资助人工智能支出热潮",
+      "summaryZh": "有史以来最大的股权融资之一包括向美国投资集团伯克希尔哈撒韦出售 100 亿美元的股票\n\n商业直播 – 最新更新\n\n谷歌母公司 Alphabet 表示，计划筹集高达 800 亿美元（590 亿英镑）的股权，为其庞大的人工智能基础设施提供资金",
       "contentParagraphs": [
         {
-          "en": "A new front has opened up in the battle for dominance in AI chips, as Nvidia said its latest development could replace the mouse and keyboard in how people use computers.The $5tn (£3.7tn) US semiconductor company has launched a “superchip” that puts AI capabilities into laptops and desktop computers, a move that will pit it against Intel, Apple, Qualcomm and AMD.The RTX Spark chip will be launched this year, and will be used by computer makers including Dell, Lenovo, Asus and HP, paired with Microsoft’s Windows software, according to the Nvidia chief executive, Jensen Huang.Speaking at the Computex conference in Taiwan, Huang said the chip would “reinvent the PC” for the AI era, after three years of collaboration between Nvidia and Microsoft.A combination of a microprocessor and a graphics chip, developed with help from Taiwan’s MediaTek, it is designed to run AI agents locally rather than relying on cloud computing.It will allow agents to navigate PCs autonomously, replacing humans’ traditional mouse and keyboard interactions. Because the chip is very powerful, computers will still be thin and light, the company said.Huang said Nvidia was reimagining the PC “for the first time in 40 years”.The company’s foray into the consumer PC industry will open up a new business line, but this will take time, analysts said. Nvidia, which dominates the booming AI semiconductor market, is pushing beyond graphics cards into integrated chips that power the whole computer.Neil Shah, a co-founder of Counterpoint Research, compared the “RTX Spark moment” with the advent of the iPhone, ChatGPT and DeepSeek.“The RTX Spark looks to transform the traditional app-centric PC to a real useful agentic AI personal computer which will eventually be in every home in coming years as private edge AI agents become pivotal,” he said.The new chip and Nvidia’s Vera central processing unit (CPU) demonstrate the company’s growing focus on PC and CPU products. The Vera CPU is designed for AI agents and early adopters, including OpenAI, Anthropic and SpaceX.Susannah Streeter, the chief investment strategist at Wealth Club, said: “Nvidia’s latest push into AI-powered personal computers marks a bold attempt to extend its dominance beyond datacentres and into consumers’ everyday lives. The unveiling of the RTX Spark chip reinforces Jensen Huang’s vision of PCs evolving from simple productivity tools into hyperintelligent digital co-workers.“While strategically significant, investors are likely to view the move as a longer-term growth opportunity rather than an immediate earnings driver. For now, Nvidia’s fortunes still depend overwhelmingly on relentless global demand for AI infrastructure and datacentre computing power.”As chip wars heat up, Intel intends to start shipping an AI chip later this year that uses cheaper memory and cooling technology than its California rivals Nvidia and AMD.Intel announced a new graphics processing unit, Xe3P, codenamed Crescent Island. It is “purpose-built for this upcoming AI generation of agents”, according to Anil Nanduri, the vice-president of AI products at Intel’s Data Center Group.Amid fears that AI will destroy vast numbers of jobs, Huang said it was “complete nonsense” that the technology would reduce demand for software engineers, arguing that it would increase hiring by making workers more productive.“This is the promise of AI,” he said. “The number of engineers, software engineers, is actually increasing. People talk about AI reducing jobs – complete nonsense. It’s causing more software engineers to be hired.”Meanwhile, Rene Haas, the chief executive of Arm, is in line for a pay package that would make him a billionaire if he hits targets to turn the microchip firm into the UK’s first trillion-dollar company.Arm, which is listed in New York but has its global headquarters in Cambridge, has proposed a pay scheme including generous share awards that is worth more than $1bn in total by 2031, if Haas can hit certain “exceptional growth metrics”.",
-          "zh": "争夺人工智能芯片主导地位的斗争已经开辟了一条新战线，英伟达表示，其最新开发成果可能会取代人们使用计算机的方式中的鼠标和键盘。这家价值 5 万亿美元（3.7 万亿英镑）的美国半导体公司推出了一款“超级芯片”，将人工智能功能融入笔记本电脑和台式电脑中，此举将使其与英特尔、苹果、高通和 AMD 展开竞争。RTX Spark 芯片将于今年推出，将由包括戴尔、联想、华硕和惠普在内的计算机制造商使用。据英伟达首席执行官黄仁勋介绍，该芯片与微软的 Windows 软件搭配使用。黄仁勋在台湾的 Computex 大会上发表讲话时表示，经过英伟达和微软三年的合作，该芯片将在人工智能时代“重塑 PC”。该芯片是在台湾联发科技的帮助下开发的微处理器和图形芯片的组合，旨在在本地运行人工智能代理，而不是依赖云计算。它将允许代理自主导航 PC，取代人类传统的鼠标和键盘交互。该公司表示，由于芯片功能非常强大，计算机仍将是轻薄的。黄仁勋表示，英伟达正在“40年来首次”重新构想个人电脑。分析师表示，该公司进军消费个人电脑行业将开辟一条新的业务线，但这需要时间。主导蓬勃发展的 AI 半导体市场的 Nvidia 正在超越显卡，转向为整个计算机提供动力的集成芯片。 Counterpoint Research 联合创始人 Neil Shah 将“RTX Spark 时刻”与 iPhone、ChatGPT 和 DeepSeek 的出现进行了比较。他说：“RTX Spark 旨在将传统的以应用程序为中心的 PC 转变为真正有用的代理 AI 个人计算机，随着私人边缘 AI 代理变得至关重要，这种计算机最终将在未来几年进入每个家庭。” Nvidia 的 Vera 中央处理器 (CPU) 表明该公司对 PC 和 CPU 产品的日益关注。 Vera CPU 是为 AI 代理和早期采用者设计的，包括 OpenAI、Anthropic 和 SpaceX。Wealth Club 首席投资策略师 Susannah Streeter 表示：“Nvidia 最新进军人工智能驱动的个人电脑，标志着其将主导地位扩展到数据中心之外、进入消费者日常生活的大胆尝试。RTX Spark 芯片的推出强化了 Jensen Huang 的愿景，即 PC 从简单的生产力工具发展为超智能数字化工具。” “虽然具有战略意义，但投资者可能会将此举视为长期增长机会，而不是直接的盈利驱动力。目前，英伟达的命运仍然很大程度上取决于全球对人工智能基础设施和数据中心计算能力的持续需求。“随着芯片大战的升温，英特尔打算在今年晚些时候开始发售一款人工智能芯片，该芯片使用比加州竞争对手英伟达和AMD更便宜的内存和冷却技术。英特尔宣布推出一款新的图形处理单元Xe3P，代号为新月岛。人工智能产品副总裁阿尼尔·南杜里(Anil Nanduri)表示，它是“专为即将到来的人工智能一代而设计的”在担心人工智能会摧毁大量就业机会的情况下，黄说，该技术会减少对软件工程师的需求，这是“完全无稽之谈”，他认为，它将通过提高工人的生产力来增加招聘。“这就是人工智能的承诺，”他说，“工程师、软件工程师的数量实际上正在增加。人们谈论人工智能减少工作岗位——完全是胡说八道。与此同时，Arm 首席执行官雷内·哈斯 (Rene Haas) 有望获得一份薪酬方案，如果他实现将这家微芯片公司打造成英国第一家万亿美元公司的目标，他将成为亿万富翁。Arm 在纽约上市，但全球总部位于剑桥，该方案提出了一项薪酬计划，其中包括到 2031 年总价值超过 10 亿美元的慷慨股票奖励，前提是哈斯能够实现一定的“超常增长”指标”。"
+          "en": "Google’s parent company, Alphabet, has said it plans to raise up to $80bn (£59bn) in equity to fund its vast artificial intelligence infrastructure investments, raising further questions over the economics of the AI boom.The move, one of the largest equity fundraisings ever, includes a $10bn share sale to the US investment group Berkshire Hathaway, which was led until last year by the investment guru Warren Buffett.Alphabet, which is behind the Gemini system that has been increasing its share of the AI chatbot market, said it would use the money to expand its “world-class AI compute infrastructure to meet its unprecedented customer demand”.The California-based company said: “AI is driving an expansionary moment for Alphabet. The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply. By scaling its investments, the company seeks to expand its foundational infrastructure to support the significant growth opportunity ahead.”However, such a huge fundraising is also a warning to the markets that for all the many billions of dollars thrown at AI infrastructure, meaningful returns to investors have so far been limited.Jim Reid, a market strategist at Deutsche Bank, said Alphabet was reminding investors of the “unprecedented scale of the AI spending boom”, adding: “Funding of the AI [capital expenditure] boom is becoming an increasingly key topic for markets.”The decision to tap Berkshire Hathaway is eye-catching, too. Under Buffett, known as the Sage of Omaha, Berkshire often stepped in to provide funding for companies that needed cash, such as the famous $5bn investment into Goldman Sachs at the height of the financial crisis. Berkshire has been investing in Alphabet since last summer.In its filing, Alphabet explained that half of the $80bn would be used to “scale AI infrastructure and global compute”, with $40bn set aside to cover “an administrative change to how it meets tax obligations associated with vesting of employee equity awards”.The fundraising includes a $30bn initial raise alongside the $10bn from Berkshire, and a $40bn flexible drip-feed mechanism that can be used gradually over time, not earmarked for AI investment.Matt Britzman, a senior equity analyst at Hargreaves Lansdown, said Alphabet’s fundraising was a “clear sign that the AI arms race is moving into a more capital-hungry phase”.He said: “It’s certainly a huge chunk of money to be raising, but the devil’s in the details on this. The full $80bn is less than 2% of Alphabet’s mammoth $4.6tn market cap … But, however it’s structured, one thing is abundantly clear. Long gone are the days when the tech giants were capital-light free cashflow machines.“Alphabet is certainly spending from a position of strength, not distress. Demand for AI compute is running ahead of supply, Google Cloud growth has accelerated sharply, backlog has surged, and search is proving far more resilient than many feared. That gives the investment case more substance than some AI spending stories, where the path to returns is harder to see.”Alphabet had said previously capital expenditure was expected to reach $180bn to $190bn this year, with another significant step up in 2027.Britzman said Alphabet was at the “front of the race” in AI, “but investors will demand continued proof that this buildout leads to durable revenue growth, not just bigger datacentres”.Alphabet is tapping investors for funding before some of its main AI rivals attempt to join the stock market. Anthropic, which makes the Claude chatbot, popular with software engineers and other business clients, said on Monday it had filed confidentially for an initial public offering on the US stock market.After a meteoric rise this year, Anthropic is now valued at $965bn, after raising $65bn in funding, meaning it has leapfrogged OpenAI to become the world’s most valuable startup.OpenAI and Elon Musk’s SpaceX, which includes the artificial intelligence startup xAI, are also slated to go public this year.",
+          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
         }
       ]
+    },
+    {
+      "title": "Post Office scandal victim dedicates OBE to 'sub-postmasters we have lost'",
+      "link": "https://www.bbc.com/news/videos/cx2186r2vj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 92-year-old said she dedicate the OBE to 'all sub-postmasters we have lost'.",
+      "pubDate": "Tue, 02 Jun 2026 10:17:50 GMT",
+      "source": "BBC Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "邮局丑闻受害者将官佐勋章献给“我们失去的副邮政局长”",
+      "summaryZh": "这位 92 岁的老人说，她将 OBE 勋章献给“我们失去的所有副邮政局长”。",
+      "contentParagraphs": [
+        {
+          "en": "Betty Brown, the oldest surviving victim of the Post Office Horizon IT scandal, will receive an OBE at Windsor Castle today. Brown was one of hundreds of sub-postmasters wrongly accused of stealing, and was forced out of her County Durham branch in 2003 - despite her and her late husband spending more than £50,000 of their savings to make good on losses which didn't exist. The award \"won't be a Betty Brown medal,\" the former sub-postmaster said, but will be for \"all the sub postmasters that we have lost\". The Horizon IT system was responsible for more than 900 sub-postmasters being wrongfully prosecuted because of it providing incorrect information. Thousands were forced to make up for the alleged losses at their branches across the UK. More than a billion pounds has been paid out in compensation to victims of the scandal, according to the government.",
+          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        }
+      ]
+    },
+    {
+      "title": "New research helps explain how human brains are able decode speech so quickly",
+      "link": "https://www.npr.org/2026/06/01/nx-s1-5821259/new-research-helps-explain-how-human-brains-are-able-decode-speech-so-quickly",
+      "summary": "Scientists are learning how the brain extracts discrete words from a continuous stream of sounds.",
+      "pubDate": "Mon, 01 Jun 2026 18:03:04 -0400",
+      "source": "NPR Science",
+      "category": "science",
+      "sourceColor": "#6a1b9a",
+      "titleZh": "新研究有助于解释人类大脑如何如此快速地解码语音",
+      "summaryZh": "科学家们正在研究大脑如何从连续的声音流中提取离散的单词。",
+      "contentParagraphs": [
+        {
+          "en": "Scientists are learning how the brain extracts discrete words from a continuous stream of sounds.",
+          "zh": "科学家们正在学习大脑如何从连续的声音流中提取离散的单词。"
+        },
+        {
+          "en": "JUANA SUMMERS, HOST: When you're listening to a familiar language, you hear individual words, but what if the language is unfamiliar?UNIDENTIFIED PERSON #1: (Speaking Japanese).SUMMERS: Unless you speak Japanese, that probably sounded like an unbroken stream of vowels and consonants. NPR's Jon Hamilton reports on what scientists are learning about how the brain extracts words from speech.JON HAMILTON, BYLINE: Words are easy to recognize when they're written. A visible space shows where one word ends and another begins. Dr. Eddie Chang of the University of California, San Francisco says spoken language doesn't have that luxury.EDDIE CHANG: One of the reasons why a foreign language sounds so fast is that you can't hear the pauses between words.HAMILTON: Because most of the time there aren't any. Each syllable just bumps into the next. Yet Chang says in a familiar language, the brain creates the perception that we are hearing separate words.CHANG: It's a really incredible automatic process that all of us have as human listeners.HAMILTON: To learn more about that process, Chang and a team studied several dozen people about to have surgery for epilepsy. The participants already had electrodes in their brains, so the team was able to monitor neurons that respond to speech sounds. Chang says they found a distinct pattern.CHANG: Your brain is processing this continuous stream of speech, but at every word boundary, the actual neural activity drops. There's a trough in the activity.HAMILTON: As if the brain is putting a space between each word. To test this idea, Chang's team had participants listen to a sound loop.UNIDENTIFIED PERSON #2: Boater, boater, boater, boater, boater (ph)....CHANG: It's one stimulus that's just repeated over and over and over again. But your brain kind of forces you to hear one word or another.UNIDENTIFIED PERSON #2: Turbo, turbo, turbo, turbo, turbo, turbo, turbo, turbo (ph)...HAMILTON: You hear either boater or turbo depending on where your brain is placing the word boundary. And Chang says, in most people, that boundary will shift.CHANG: Listeners typically will hear one word for a couple of seconds, and then their perception will switch to the other word.HAMILTON: At the same exact moment their brain makes a new word boundary. Chang says the brain constantly tries to predict what it will hear next. An English-speaking brain, for example, knows that the sound bo could become boater or boba, but not baseball or Parcheesi. It also knows that the words peanut and butter are likely to lead to jelly. But Chang says prediction relies on a deep understanding of a language.CHANG: We found that this encoding of words actually is a very specific process to one's mother tongue, to one's native language.HAMILTON: Or languages, if you're multilingual. Nima Mesgarani of Columbia University says Chang's research helps explain how human brains are able to decode speech so quickly and accurately.NIMA MESGARANI: They are showing that brain almost creates its own punctuation.HAMILTON: Which helps it quickly assemble speech sounds into words and then sentences. Mesgarani says the latest artificial intelligence systems appear to use a similar strategy. He says, instead of following rules, these machines learn about speech the same way a child does - by listening.MESGARANI: We basically just say, this is the input. This is what the desired output. And you have millions of hours of data, so learn it.HAMILTON: Mesgarani says artificial brains, like their human counterparts, eventually learn to recognize where one word ends and another begins. He says this reflects something scientists are seeing in other areas of artificial intelligence.MESGARANI: If you look at many different sort of AI models, the better they are at what they do, the more they align with the brain.HAMILTON: These AI systems even share a key limitation with human brains - they can only identify word boundaries in a language they know really well. Jon Hamilton, NPR News.",
+          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+          "en": "Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.",
+          "zh": "版权所有© 2026 NPR。保留所有权利。有关更多信息，请访问我们的网站使用条款和权限页面： www.npr.org。"
+        },
+        {
+          "en": "Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.",
+          "zh": "NPR成绩单的准确性和可用性可能有所不同。可以修改成绩单文本以更正错误或将更新与音频匹配。npr.org上的音频可在其原始广播或发布后进行编辑。NPR节目的权威记录是音频记录。"
+        }
+      ]
+    },
+    {
+      "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
+      "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.",
+      "pubDate": "Tue, 02 Jun 2026 11:29:22 GMT",
+      "source": "BBC News",
+      "category": "world",
+      "sourceColor": "#b80000",
+      "titleZh": "俄罗斯空袭造成18人死亡，乌克兰救援人员从废墟中救出遇难者",
+      "summaryZh": "官员称，一名八岁男孩和一名妇女在公寓楼袭击中丧生。",
+      "contentParagraphs": []
+    },
+    {
+      "title": "How 'confused' AI rollout hurts firms and baffles staff",
+      "link": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
+      "pubDate": "Mon, 01 Jun 2026 23:05:11 GMT",
+      "source": "BBC Tech",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "“混乱”的人工智能推出如何伤害公司并让员工感到困惑",
+      "summaryZh": "一些公司向员工施加压力，要求其使用人工智能，但并未认真考虑人工智能的部署。",
+      "contentParagraphs": []
+    },
+    {
+      "title": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
+      "link": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI company behind Claude is set to offer the public the chance to buy and sell shares in the firm later this year.",
+      "pubDate": "Tue, 02 Jun 2026 07:00:21 GMT",
+      "source": "BBC Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "AI巨头Anthropic计划在美国出售股票，估值接近1万亿美元",
+      "summaryZh": "克劳德背后的人工智能公司将于今年晚些时候向公众提供买卖该公司股票的机会。",
+      "contentParagraphs": []
+    },
+    {
+      "title": "The potential consequences of cutting funds for behavioral science",
+      "link": "https://www.npr.org/2026/06/01/nx-s1-5837946/the-potential-consequences-of-cutting-funds-for-behavioral-science",
+      "summary": "The Trump administration continues its assault on science. One little-known area that's been neglected in funding this year is federal research into social, behavioral and economic science.",
+      "pubDate": "Mon, 01 Jun 2026 18:01:04 -0400",
+      "source": "NPR Science",
+      "category": "science",
+      "sourceColor": "#6a1b9a",
+      "titleZh": "削减行为科学资金的潜在后果",
+      "summaryZh": "特朗普政府继续对科学发起攻击。今年在资助方面被忽视的一个鲜为人知的领域是联邦对社会、行为和经济科学的研究。",
+      "contentParagraphs": [
+        {
+          "en": "The Trump administration continues its assault on science. One little-known area that's been neglected in funding this year is federal research into social, behavioral and economic science.",
+          "zh": "The Trump administration continues its assault on science. One little-known area that's been neglected in funding this year is federal research into social, behavioral and economic science."
+        },
+        {
+          "en": "AILSA CHANG, HOST: Science continues to suffer under the Trump administration. NPR's Katia Riddle brings us this story about the potential long-term consequences of cutting a field of research on how humans behave.KATIA RIDDLE, BYLINE: It's called the Directorate for Social, Behavioral and Economic Sciences or SBE. It's a little corner of the National Science Foundation that makes up a tiny fraction of the federal budget, but researchers say it has yielded big returns.LORI PEEK: So I'm going to actually give you an example from earthquake early warning.RIDDLE: Lori Peek studies sociology at the University of Colorado Boulder. She works on disaster mitigation. Her field has benefited from SBE funding. In 2019, she worked on establishing an early warning system for earthquakes in the U.S. The science around predicting the earthquakes, she says, is the easy part. It's getting these predictions to people in a meaningful way that's harder.PEEK: We need people to sign up for the alerts. We need people to receive the alerts. We need the alerts to say the right thing so people know what to do when they receive the alert.RIDDLE: This is what SBE does - behavioral science, predicting how people act and think, what motivates them. The money for this kind of research has not technically been rescinded by the federal government, but according to the science advocacy group Grant Witness, only seven SBE grants have been awarded as of May 28. The federal government typically makes hundreds of such awards per year.JON FREEMAN: There's perhaps a fairly calculated attack.RIDDLE: Jon Freeman is a psychologist at Columbia University. Much of his work has been made possible by SBE research. He says this field has been singled out as a target by the administration.FREEMAN: Because the behavioral and social sciences are seen as leftist institutions.RIDDLE: Last year, Republican Senator Ted Cruz wrote a report that specifically called out many SBE-funded programs as, quote, \"neo-Marxist class warfare propaganda.\" In his 2027 budget, President Trump is also proposing eliminating the directorate and zeroing out funding for this kind of research. Freeman says he's got a guess about why SBE has drawn so much fire.FREEMAN: There may be something deemed as sort of an enemy or something that is DEI.RIDDLE: In response to a request for comment, White House spokesman Kush Desai sent an email statement. It read, quote, \"The Trump administration is committed to cementing America's dominance in cutting-edge technologies of the future, not in ideologically driven social sciences,\" unquote. But advocates for this research argue it has a meaningful reach that extends far beyond ideology. For example, artificial intelligence. Aron Culotta is a computer scientist at Tulane University.ARON CULOTTA: If we think about the failure modes of AI and kind of what can go wrong, they're almost all at that human-AI intersection point.RIDDLE: Culotta says the technology behind systems like ChatGPT comes from computer science, but making those systems safe depends heavily on psychology and social science research.CULOTTA: Things around, like, mental health, the way people are kind of growing attached to these systems. You know, deepfakes and can we trust kind of the output of these systems?RIDDLE: Artificial intelligence is built partly on federally funded behavioral research that took place long before AI was in the zeitgeist. Tom Griffiths studies cognition and artificial intelligence at Princeton and has worked on AI systems.TOM GRIFFITHS: Our job as cognitive scientists, rather than, say, people who are working in a AI company right now, is thinking about what are the technologies that are going to matter, not right now, but maybe a few decades in the future.RIDDLE: In the 1950s, researchers began developing something called artificial neural networks - computer systems loosely inspired by the human brain that now power many AI tools. That's the advantage, he says, of the government investing in science. It doesn't have to pay off for decades.GRIFFITHS: We take our foot off the accelerator now, it might not be something that we notice for a few years, but there's going to be a point in the future where suddenly there's going to be a gap with what's going on in other countries, and we say, what happened?RIDDLE: The answer, he says, may be something we trace back to this moment when the government stopped investing in behavioral science. Katia Riddle, NPR News.(SOUNDBITE OF TIWA SAVAGE SONG, \"LOST TIME\")",
+          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+          "en": "Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.",
+          "zh": "Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information."
+        },
+        {
+          "en": "Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.",
+          "zh": "Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record."
+        }
+      ]
+    },
+    {
+      "title": "Every world leader who has visited China in 2026 in one chart",
+      "link": "https://www.aljazeera.com/news/2026/6/2/every-world-leader-who-has-visited-china-in-2026-in-one-chart?traffic_source=rss",
+      "summary": "China has hosted 26 leaders from 23 countries this year, underscoring its growing diplomatic and economic influence.",
+      "pubDate": "Tue, 02 Jun 2026 11:28:02 +0000",
+      "source": "Al Jazeera",
+      "category": "world",
+      "sourceColor": "#f79120",
+      "titleZh": "2026年访问过中国的每一位世界领导人都在一张图表中",
+      "summaryZh": "今年，中国接待了来自23个国家的26位领导人，凸显了其日益增长的外交和经济影响力。",
+      "contentParagraphs": [
+        {
+          "en": "British Foreign Secretary Yvette Cooper is the latest senior official in a steady stream of world leaders visiting China this year.During her three-day trip this week, Cooper is expected to meet her Chinese counterpart Wang Yi and Vice President Han Zheng in Beijing before travelling to the southern tech hub of Shenzhen for a programme focused on science and technology.According to an Al Jazeera tally, Cooper is the 26th foreign leader or senior official to visit China this year. The list includes presidents, prime ministers, chancellors, crown princes and foreign ministers from 23 countries.(Al Jazeera)In all, leaders from Ireland, South Korea, Canada, Finland, the United Kingdom, Uruguay, Germany, Turkmenistan, Pakistan, Spain, the United Arab Emirates, Russia, Vietnam, Mozambique, Iran, Tajikistan, the United States, Seychelles, Moldova, Singapore, Serbia, Brazil, and Laos have travelled to China this year.Global trade and diplomacyLeaders have come to court China from all the significant regions, including Europe (10), Asia (8), the Middle East (2), Africa (2), North America (2) and Latin America (2).Among the most prominent have been Canadian Prime Minister Mark Carney, British Prime Minister Keir Starmer, German Chancellor Friedrich Merz, Spanish Prime Minister Pedro Sanchez, US President Donald Trump and Russian President Vladimir Putin, in that order of visits.Presidents Trump and Xi on May 14, 2026, in Beijing, China, during a trip focused on trade, regional security and bilateral ties between the world’s two largest economies [Kenny Holston/Pool via Reuters]The stream of visitors is particularly notable because Chinese President Xi Jinping has spent the year hosting foreign dignitaries at home rather than travelling abroad himself.Many leaders have come seeking new investment opportunities, greater access to the Chinese market or cooperation in areas such as manufacturing, technology, energy and infrastructure.Several of the visits have been by leaders and officials from countries that Beijing considers strategically important partners, including Russia and Pakistan, both of which sent multiple senior officials this year.President Xi and Pakistani PM Shehbaz Sharif at the Great Hall of the People in Beijing, May 25, 2026 [Reuters]For many countries, China is simultaneously an important export market, a source of investment, a diplomatic partner and an increasingly influential geopolitical power.Visits dominated by European leadersEurope has been especially well-represented, accounting for roughly one-third of the countries on the list.Visits by leaders from the UK, Germany, Spain, Ireland and Finland suggest that European governments are eager to engage closely with Beijing despite disagreements over trade, security and China’s relationship with Russia.Presidents Putin and Xi at the Great Hall of the People in Beijing, May 20, 2026 [Alexander Kazakov/Sputnik/Pool via Reuters]Who are China’s biggest trading partners?China’s total foreign trade in goods hit a record high of 45-trillion-yuan ($6.5 trillion) in 2025, according to data released by China’s General Administration of Customs, maintaining its position as the world’s largest trading nation in goods for the ninth consecutive year.Late last year, China’s trade surplus – the difference between the value of goods it imports and exports – was reported to have hit $1 trillion for the first time, a significant yardstick in the country’s role as “factory of the world”, making everything from socks and curtains to electric cars.China has a diverse range of trading partners. Its largest is the US. In 2025, despite aggressive tit-for-tat tariffs levied by each side for much of the year, total goods trade between the two countries was worth $414.7bn, according to the US Trade Representative.Vietnam ranks second, reflecting the rapid development of Southeast Asian supply chains, followed by Japan, South Korea and India.The table below shows China’s imports, exports and trade balance based on 2024 data, the latest year for which global figures are available.What does China sell to the world?Over the past few decades, China has shifted from producing low-cost manufactured goods like T-shirts and shoes to higher-value products such as electric vehicles and solar panels.Today, its largest sector is electronics, with more than $1 trillion worth of electronic goods exported worldwide in 2024.Its top exports also include machinery, textiles, metals and cars. The graphic below shows the country’s top exports by product in 2024.",
+          "zh": "英国外交大臣伊薇特·库珀是今年源源不断访华的世界领导人中最新一位高级官员。在本周为期三天的访问中，库珀预计将在北京会见中国外长王毅和国家副主席韩正，然后前往南方科技中心深圳参加一个以科技为主题的项目。根据半岛电视台统计，库珀是今年第 26 位访问中国的外国领导人或高级官员。该名单包括来自23个国家的总统、总理、总理、王储和外交部长。（半岛电视台）今年以来，爱尔兰、韩国、加拿大、芬兰、英国、乌拉圭、德国、土库曼斯坦、巴基斯坦、西班牙、阿联酋、俄罗斯、越南、莫桑比克、伊朗、塔吉克斯坦、美国、塞舌尔、摩尔多瓦、新加坡、塞尔维亚、巴西和老挝的领导人均曾访华。全球贸易和外交 来自所有重要地区的领导人纷纷向中国示好，包括欧洲（10位）、亚洲（8位）、中东（2位）、非洲（2位）、北美（2位）和拉丁美洲（2位）。其中最突出的包括加拿大总理马克·卡尼、英国首相基尔·斯塔默、德国总理弗里德里希·梅尔茨、西班牙首相佩德罗·桑切斯、美国总统唐纳德·特朗普和俄罗斯总统弗拉基米尔·普京（按顺序排列）访问。特朗普总统和习近平主席于 2026 年 5 月 14 日在中国北京进行了一次重点关注世界两个最大经济体之间的贸易、地区安全和双边关系的访问 [Kenny Holston/Pool，来自路透社]由于中国国家主席习近平这一年一直在国内接待外国政要，而不是亲自出国访问，因此来访者的人数尤其引人注目。许多领导人前来寻求新的投资机会、更多地进入中国市场或在制造、技术、能源和等领域寻求合作。其中几次访问是由北京视为具有重要战略合作伙伴的国家的领导人和官员进行的，其中包括俄罗斯和巴基斯坦，两国今年都派出了多名高级官员。习近平主席和巴基斯坦总理谢赫巴兹·谢里夫于2026年5月25日在北京人民大会堂举行的会议 [路透社]对于许多国家来说，中国同时是重要的出口市场、投资来源国、外交伙伴和影响力日益增强的地缘政治大国。以欧洲领导人为主的访问尤其是欧洲代表性良好，约占名单上国家的三分之一。英国、德国、西班牙、爱尔兰和芬兰领导人的访问表明，尽管在贸易、安全以及中国与俄罗斯的关系方面存在分歧，欧洲各国政府仍渴望与北京密切接触。普京总统和习近平主席于北京人民大会堂，2026年5月20日 [亚历山大·卡扎科夫/人造卫星/路透社]谁是中国最大的贸易伙伴？中国的贸易总额中国海关总署公布的数据显示，2025年，货物贸易额创下历史新高，达到45万亿元人民币（6.5万亿美元），连续第九年保持全球最大货物贸易国的地位。去年年底，据报道，中国的贸易顺差——进出口货物价值之间的差额——首次突破1万亿美元，这是衡量中国“制造工厂”角色的一个重要标准。中国拥有多元化的贸易伙伴。其最大的国家是美国。根据美国贸易代表的数据，2025年，尽管双方在一年中的大部分时间都征收了激进的针锋相对的关税，但两国之间的货物贸易总额达到了4147亿美元。越南排名第二，反映出东南亚供应链的快速发展，其次是日本、韩国和印度。下表显示了基于2024年数据的中国进出口和贸易平衡，这是可获得全球数据的最新一年。在过去的几十年里，中国已经从生产T恤和鞋子等低成本制成品转向生产电动汽车和太阳能电池板等高价值产品。如今，其最大的行业是电子产品，到2024年，全球电子产品出口额将超过1万亿美元。其主要出口产品还包括机械、纺织品、金属和汽车。下图显示了该国 2024 年按产品划分的最大出口额。"
+        }
+      ]
+    },
+    {
+      "title": "Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account",
+      "link": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
+      "summary": "Breach of high-profile accounts raises concerns about reliance on AI for security measures such as passwords\nHackers used Meta’s AI-powered support chatbot to infiltrate high-profile Instagram accounts, the company has confirmed, saying it resolved the problem after researchers e",
+      "pubDate": "Mon, 01 Jun 2026 22:32:26 GMT",
+      "source": "Guardian Tech",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "黑客欺骗 Meta AI 支持机器人渗透奥巴马白宫 Instagram 账户",
+      "summaryZh": "知名账户的泄露引发了人们对密码等安全措施依赖人工智能的担忧\n该公司证实，黑客利用 Meta 的人工智能支持聊天机器人渗透了知名 Instagram 账户，并表示在研究人员解决问题后，该问题得到了解决。",
+      "contentParagraphs": [
+        {
+          "en": "Hackers used Meta’s AI-powered support chatbot to infiltrate high-profile Instagram accounts, the company has confirmed, saying it resolved the problem after researchers exposed it.The targets ranged from Barack Obama’s White House account to the beauty retailer Sephora and the US Space Force chief master sergeant, John Bentivegna, according to reporting from 404 Media. Everyday users complained of similar hijackings on Reddit and X over the weekend.Security researchers and hacking groups posted videos and screenshots of how to steal an account on Telegram, and a video shared on X appears to show a hacker telling Meta’s AI assistant to link the account to a new email address. The bot assures the hacker a verification code has been sent to that new email and asks the hacker to input the numbers in the chat interface. Once the hacker pastes the correct number, they are shown a button to reset the targeted account’s password.In at least one video, the hacker used a virtual private network to spoof the account holder’s location and avoid Meta’s safeguards.Meta said in a statement on Monday: “This issue has been resolved, and we are securing impacted accounts.” It is unclear how many accounts were affected.The breach raises concerns about just how safe it is to rely on AI for essential security measures such as passwords. Stolen account handles were listed for sale on the Telegram messaging platform, according to reports.Meta, which is rapidly reorganising its workers’ jobs around AI and increasing the use of AI features in its platforms, rolled out the AI support assistant globally on Facebook and Instagram earlier this year. The press release for the new feature said it could “take action for you on a growing set of requests directly within Facebook and in the future, on Instagram”.The list of actions included reporting scams, impersonation accounts or problematic content, as well as resetting passwords. “The Meta AI support assistant is a major step in our work to deliver stronger support on our apps,” the March press release said.Meta has become a major investor in AI under the leadership of its founder, Mark Zuckerberg, who has ordered a $145bn (£108bn) spend on AI infrastructure, including datacentres, this year.The company has been developing a series of large language models – the technology that underpins tools such as chatbots – to power its products. Zuckerberg is also pursuing a goal of AI “super-intelligence”, the term for models that are superior to humans at every cognitive task.Meta’s vision for tasks that can be carried out by its chatbots extends into mental health care. Last year, Zuckerberg said AI assistants could be used as a replacement for human therapists, adding that: “For people who don’t have a person who’s a therapist, I think everyone will have an AI”.His remarks drew concern from mental health clinicians who said chatbots might recommend courses of action that were inappropriate.",
+          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        }
+      ]
+    },
+    {
+      "title": "Steph Curry signs with Chinese brand after Under Armour split",
+      "link": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chinese firms have been vying to secure deals with big stars as they push to become global brands.",
+      "pubDate": "Tue, 02 Jun 2026 06:29:35 GMT",
+      "source": "BBC Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "安德玛 (Under Armour) 分手后，斯蒂芬·库里 (Steph Curry) 与中国品牌签约",
+      "summaryZh": "中国企业在努力成为全球品牌的同时，一直在争夺与大明星的交易。",
+      "contentParagraphs": [
+        {
+          "en": "Steph Curry signs with Chinese brand after Under Armour split5 hours agoOsmond ChiaBusiness reporterGetty ImagesStephen Curry ended a 12-year partnership with Under Armour in 2025Golden State Warriors superstar Stephen Curry says he has signed an endorsement deal with Chinese sportswear giant Li-Ning.The 38-year-old has been free to sign with a retail partner for his line of shoes and sports wear since ending a 12-year deal with US activewear firm Under Armour last year.Curry and Li-Ning will collaborate on new products and on plans to launch his signature chain of shops in the US and China. The value of the deal was not immediately disclosed.Signing Curry marks a major step in Li-Ning's push to become an international brand, alongside other Chinese sportswear labels like Anta.The partnership is a \"landmark victory\" for Li-Ning, showing that Chinese sportswear brands can compete with global giants like Nike and Adidas to sign top players, said Linda Yu from marketing agency Red Ant Asia.Endorsement deals are the \"lifeline of sportswear brands\" and a name like Steph Curry can help Li-Ning to establish itself in markets like the US, Yu said.In a video posted on his business website Thirty Ink, Curry said the partnership will help Li-Ning expand in the US. It has more than 7,000 shops across Asia.Li-Ning told the BBC it will work with Curry to promote sports culture as well as develop products across a range of categories, starting with golf and basketball.Getty ImagesLi-Ning has more than 7,000 stores across Asia.The deal is Curry's first collaboration with a Chinese brand. He partnered with Nike at the start of his career before moving to Under Armour.He joins a growing list of NBA stars that have signed with Chinese brands, including Dwayne Wade and Jimmy Butler with Li-Ning and Klay Thompson and Kyrie Irving, who are partnered with Anta.Anta, which used to make shoes for international brands, has led a global push by buying the rights to Western firms like Fila. This year, it also bought a key stake in Puma, pledging to help the firm grow in China.Many Western brands have been keen to gain a foothold in China, but face intense competition from local manufacturers offering cheaper goods. Demand in China has also slowed due to low domestic spending.Curry said the deal will give his brand an \"expanded runway of resources\" to grow its basketball, golf and other portfolios globally.\"We have plans to launch Curry Brand stores together in China and the US, as we look to build on the success that Li-Ning has already established, with even more growth,\" he said.Curry, a point guard for the Golden State Warriors, is one of the most well-known names in the sport today. He is a four-time NBA champion and widely regarded as one of the best shooters in its history.His tie-up with Li-Ning is a \"step beyond\" typical endorsement deals that put a famous face on a company's products, said sportswear marketing consultant Wei Kan.Chinese firms have signed endorsement deals with celebrities. Appliances maker Dreame has enlisted football star Cristiano Ronaldo while BYD's premium electric car brand Denza has tapped actor Daniel Craig.Curry's partnership goes further as it entrusts his line of branded products to Li-Ning, setting \"a real marker for the industry,\" Kan said.",
+          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        }
+      ]
+    },
+    {
+      "title": "Israel kills five in attacks on Lebanon after Trump announces de-escalation",
+      "link": "https://www.aljazeera.com/news/2026/6/2/israel-kills-five-in-attacks-on-lebanon-after-trump-announces-de-escalation?traffic_source=rss",
+      "summary": "The deadly attacks raise concerns about the reported agreement on the cessation of hostilities.",
+      "pubDate": "Tue, 02 Jun 2026 11:25:22 +0000",
+      "source": "Al Jazeera",
+      "category": "world",
+      "sourceColor": "#f79120",
+      "titleZh": "特朗普宣布缓和局势后，以色列在黎巴嫩袭击中造成五人死亡",
+      "summaryZh": "这些致命袭击引发了人们对据报道的停止敌对行动协议的担忧。",
+      "contentParagraphs": [
+        {
+          "en": "At least five people have been killed in Israeli attacks in southern Lebanon, Lebanese state media report, hours after United States President Donald Trump announced an agreement to de-escalate fighting that neither Israel nor the Lebanese group Hezbollah has publicly accepted.The official National News Agency (NNA) said on Tuesday that two Syrians were killed in an Israeli attack on a plant nursery where they were working in the town of Jebchit in Nabatieh governorate.Recommended Stories list of 4 itemslist 1 of 4Lebanon’s social grocery store fighting rising costs and displacementlist 2 of 4Israeli strike damages hospital in southern Lebanonlist 3 of 4President Trump attempts to end hostilities in Lebanonlist 4 of 4Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talksend of listIsraeli drone strikes hit a motorcycle on Martyr Sabra Street in Toul and a car in the Dhi’at al-Arab neighbourhood of Ansar, killing two people, NNA said.Separately, a drone attack killed the driver of a car in Nabatieh, NNA said.The attacks came hours after Trump said he had held separate phone calls with Israeli Prime Minister Benjamin Netanyahu and Hezbollah leaders and announced that Israel and the Iran-aligned armed group had agreed to de-escalate attacks.The office of Lebanese President Joseph Aoun said under the agreement, Hezbollah would no longer fire into Israel while the Israeli military would cease striking the southern suburbs of Beirut.The developments followed a dramatic escalation in violence that saw Israeli troops stage their deepest incursion into Lebanon in more than two decades, conducting waves of heavy bombardments and threatening to attack the Beirut suburbs as the situation threatened to scupper a ceasefire in the wider US-Israel war on Iran.The Israeli military said air defences intercepted two projectiles that crossed from Lebanon into northern Israel in the morning, hours after Trump’s announcement.Al Jazeera’s Zeina Khodr, reporting from Beirut, said the reported attack on Israel has raised concerns about the situation.“Hezbollah has not claimed responsibility for any cross-border attacks since Trump’s announcement,” she said.“However, it has claimed attacks against Israeli troops occupying southern Lebanon,” our correspondent said, adding that the developments show “just how fragile this deal is”.“Even though the military has taken more control and pushed deeper into Lebanon, the Israeli army has suffered casualties with at least two soldiers killed in the last 24 hours in the area of Beaufort Castle, a strategic hilltop position,” she said.Khodr added: “Clearly, Hezbollah is still able to attack them.”Israeli troops on Saturday seized the 900-year-old Beaufort Castle and the strategic ridge it sits on in southern Lebanon.That occurred a day after the Israeli army reported one of the ⁠⁠heaviest days of fire towards northern Israel from Lebanon since the April ceasefire.Trump’s messageNetanyahu said he told Trump during their call “that if Hezbollah does not cease attacking our towns and our citizens, Israel will strike terrorist targets in Beirut”.But Trump doubled down on his ceasefire push, posting on his Truth Social platform that “hopefully” Israel and Hezbollah would stop fighting “for ETERNITY!”“There will be no troops going to Beirut, and any troops that are on their way have already been turned back,” Trump said after what he described as a “very productive” call with Netanyahu.“Likewise, through highly placed representatives, I had a very good call with Hezbollah, and they agreed that all shooting will stop – that Israel will not attack them, and they will not attack Israel,” Trump added.Hezbollah drew Lebanon into the war on Iran on March 2 by firing rockets at Israel in retaliation for the killing of Iran’s supreme leader, and Tehran has insisted that Lebanon be included in any peace deal with Washington.According to Iran’s Tasnim News Agency, Tehran was no longer engaging in talks with Washington due to Israel’s offensive.The announcements came on the eve of a fourth round of US-hosted direct negotiations between Israel and Lebanon on Tuesday and Wednesday. Military delegations held security talks last week.Israel and Lebanon agreed a ceasefire and it began on April 17, but Israel and Hezbollah have not observed it.They both accuse each other daily of violating the ceasefire and justify their attacks by blaming the other for breaches.According to Lebanon’s Ministry of Public Health, Israeli attacks since March 2 have killed at least 3,433 people in Lebanon.Israel’s military said two of its soldiers were killed at the weekend in southern Lebanon, bringing to 27 the number of Israeli military deaths since early March.",
+          "zh": "黎巴嫩官方媒体报道称，以色列在黎巴嫩南部的袭击已造成至少 5 人死亡，就在美国总统唐纳德·特朗普宣布一项缓和战事协议数小时后，以色列和黎巴嫩组织真主党都没有公开接受该协议。官方国家通讯社 (NNA) 周二表示，两名叙利亚人在以色列对纳巴提耶省杰布奇特镇工作苗圃的袭击中丧生。 推荐故事列表 4 项列表 1 4黎巴嫩社会杂货店应对成本上涨和流离失所问题list 2 of 4以色列罢工损坏了黎巴嫩南部的医院list 3 of 4特朗普总统试图结束黎巴嫩的敌对行动list 4 of 4伊朗战争日95：德黑兰发誓结束会谈后特朗普推动黎巴嫩休战listend of list以色列无人机袭击击中了图勒烈士萨布拉街的一辆摩托车和迪阿特的一辆汽车NNA 称，Ansar 的 al-Arab 社区造成两人死亡。NNA 称，另外，纳巴蒂耶的一辆汽车司机被无人机袭击身亡。几小时前，特朗普表示，他已分别与以色列总理本杰明·内塔尼亚胡和真主党领导人通了电话，并宣布以色列和与伊朗结盟的武装组织已同意降低袭击升级。黎巴嫩总统约瑟夫·奥恩办公室表示，根据协议，真主党将不再向以色列开火。以色列军队将停止袭击贝鲁特南郊。事态发展是在暴力事件急剧升级之后发生的，以色列军队对黎巴嫩进行了二十多年来最深入的入侵，进行了一波又一波的猛烈轰炸，并威胁要袭击贝鲁特郊区，因为局势有可能破坏更广泛的美以对伊朗战争的停火。以色列军方表示，防空系统拦截了两枚从黎巴嫩越境进入以色列北部的射弹。上午，也就是特朗普宣布这一消息几小时后。半岛电视台记者泽娜·科德尔在贝鲁特报道称，报道中对以色列的袭击引发了人们对局势的担忧。“自特朗普宣布这一消息以来，真主党尚未声称对任何跨境袭击负责，”她说。“然而，它声称对占领黎巴嫩南部的以色列军队发动了袭击，”我们的记者说，并补充说，事态发展表明“这项协议是多么脆弱”。“尽管军方已经采取了更多控制措施并深入推进黎巴嫩，过去 24 小时内，以色列军队在具有战略意义的山顶据点博福特城堡地区遭受了伤亡，至少有两名士兵被杀。”她说。自四月份停火以来，黎巴嫩向以色列北部发起最猛烈的火力袭击。特朗普的信息内塔尼亚胡说，他在通话中告诉特朗普“如果真主党不停止攻击我们的城镇和公民，以色列将袭击贝鲁特的恐怖分子目标”。但特朗普加倍努力推动停火，在他的真相社交平台上发帖称，“希望”以色列和真主党“永远”停止战斗！特朗普在与内塔尼亚胡进行了一次“非常富有成效”的通话后说道。“同样，通过高级代表，我与真主党进行了非常好的通话，他们同意所有射击都将停止——以色列不会攻击他们，他们也不会攻击以色列。”特朗普补充道。3月2日，真主党向以色列发射火箭以报复以色列的杀戮，将黎巴嫩卷入伊朗战争。伊朗最高领导人表示，德黑兰坚持将黎巴嫩纳入与华盛顿的任何和平协议中。据伊朗塔斯尼姆通讯社报道，由于以色列的进攻，德黑兰不再与华盛顿进行谈判。这一消息是在美国于周二和周三主持的第四轮以色列和黎巴嫩直接谈判前夕发布的。军事代表团上周举行安全会谈。以色列和黎巴嫩同意停火，并于4月17日开始，但以色列和真主党没有遵守。他们每天都指责对方违反停火协议，并通过指责对方违反停火协议来为自己的袭击辩护。据黎巴嫩公共卫生部称，自3月2日以来，以色列的袭击已造成黎巴嫩至少3,433人死亡。以色列军方称，其两名士兵周末在黎巴嫩南部被杀，使 3 月初以来以色列军人死亡人数达到 27 人。"
+        }
+      ]
+    },
+    {
+      "title": "Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk",
+      "link": "https://www.theguardian.com/technology/2026/jun/01/florida-lawsuit-openai-sam-altman",
+      "summary": "State sues maker of ChatGPT and CEO Sam Altman, alleging company ‘allowed a dangerous product to reach millions’\nFlorida filed a lawsuit against OpenAI, the maker of ChatGPT, and its CEO, Sam Altman, on Monday alleging that the company concealed serious safety risks with its chat",
+      "pubDate": "Mon, 01 Jun 2026 21:51:03 GMT",
+      "source": "Guardian Tech",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "佛罗里达州诉讼指控 OpenAI 无视安全警告并将儿童置于危险之中",
+      "summaryZh": "州政府起诉 ChatGPT 制造商及其首席执行官 Sam Altman，指控该公司“允许危险产品传播到数百万人”\n佛罗里达州周一对 ChatGPT 的制造商 OpenAI 及其首席执行官 Sam Altman 提起诉讼，指控该公司在聊天中隐瞒了严重的安全风险",
+      "contentParagraphs": [
+        {
+          "en": "Florida filed a lawsuit against OpenAI, the maker of ChatGPT, and its CEO, Sam Altman, on Monday alleging that the company concealed serious safety risks with its chatbot. Florida is the first state in the US to sue the artificial intelligence company.The 83-page suit was brought by Florida’s attorney general, James Uthmeier, and alleges that OpenAI “aggressively marketed” ChatGPT to the public while ignoring safety warnings and possible dangers of the product.“OpenAI and Altman ignored internal and external safety warnings, put children at great risk, and allowed a dangerous product to reach millions of Floridians,” Uthmeier said in a statement.A spokesperson for OpenAI pointed to the company’s work around strengthening the safety of its products and said, “losing a child is the most devastating tragedy that can happen to a family, and we know that no words can come close to addressing the pain of such a loss”.The civil lawsuit comes after the state launched a criminal investigation into OpenAI in April over the role of ChatGPT in a mass shooting at Florida State University, where two people were killed and six injured. The shooter had lengthy conversations with the chatbot, asking it things like how many people he should kill to gain national attention, according to a report by the Wall Street Journal. ChatGPT responded that three or more people is the “unofficial bar” for widespread media attention, the Journal reported.Uthmeier said he initiated his criminal inquiry into OpenAI after reviewing the conversations the accused shooter had with ChatGPT. In his civil suit filed Monday, the attorney general said he’s seeking damages on behalf of the state’s residents and calling for an order to force OpenAI to end the practices outlined in the suit.Florida’s legal action is part of a groundswell of cases against OpenAI over allegations that its chatbot is exacerbating a mental health crisis and provoking violent acts and suicide. In November, seven complaints were filed against the company blaming ChatGPT for acting as a “suicide coach”. In April, seven more suits were filed against OpenAI by victims’ families over a school shooting in Canada where five people were killed and 27 were injured.Google has also been sued over its Gemini chatbot, which allegedly encouraged a 36-year-old man to stage a “catastrophic accident” and then kill himself.Florida’s complaint against OpenAI begins with a screenshot taken from the company’s website where it says ChatGPT is “built with safety in mind”. It’s followed by the two-word sentence from Florida’s attorneys saying: “Not so.”The lawsuit details OpenAI’s rapid success since the release of ChatGPT in 2022, catapulting it to an estimated valuation of nearly $1tn. “This success has not been earned,” the complaint reads. “The rise of OpenAI is attributable to a web of deceit and the exploitation of users.”The complaint alleges that ChatGPT “aided and abetted” mass shooters in deadly rampages, along with encouraging vulnerable people to hurt themselves and others. “This litany of harms is driven by defendants’ insatiable quest to win the AI arms race and amass large fortunes, despite knowing the danger of ChatGPT,” the complaint reads.The lawsuit additionally alleges that young people are susceptible to the chatbot, becoming easily hooked to a product that mimics human compassion. Florida accuses the company of not integrating sufficient safeguards for minors, such as allowing parents to link to their children’s accounts. The suit also alleges that OpenAI is collecting data on children without adequate oversight.OpenAI’s spokesperson said the company has put in place “leading protections and policies” for minors, including age prediction technology and providing parents with tools to monitor their teens’ use of AI. These tools only work if a child accepts their parent’s request to connect accounts, and minors can unlink accounts anytime.Uthmeier’s legal battle against OpenAI is a split from many of his Republican colleagues and Donald Trump. The president has befriended Altman and other AI leaders and has issued several executive orders to loosen the regulatory reins on the industry. Last month, Trump backed out of signing a new executive order that would’ve mandated a government safety review of upcoming AI models before release.",
+          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        }
+      ]
+    },
+    {
+      "title": "Third of people say uni degree not worth it, as student loan inquiry begins",
+      "link": "https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss",
+      "summary": "MPs will hear the concerns of graduates about the size of their student debts, and the interest rates.",
+      "pubDate": "Mon, 01 Jun 2026 23:09:45 GMT",
+      "source": "BBC Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "随着学生贷款调查的开始，三分之一的人表示大学学位不值得",
+      "summaryZh": "国会议员将听取毕业生对其学生债务规模和利率的担忧。",
+      "contentParagraphs": []
+    },
+    {
+      "title": "Trump says Israel, Hezbollah to stop fighting: What we know",
+      "link": "https://www.aljazeera.com/news/2026/6/2/trump-says-israel-hezbollah-to-stop-fighting-what-we-know?traffic_source=rss",
+      "summary": "Netanyahu agrees to halt operations near Beirut; Hezbollah to stop attacks on Israel under new truce arrangement.",
+      "pubDate": "Tue, 02 Jun 2026 11:21:29 +0000",
+      "source": "Al Jazeera",
+      "category": "world",
+      "sourceColor": "#f79120",
+      "titleZh": "特朗普称以色列和真主党停止战斗：我们所知道的",
+      "summaryZh": "内塔尼亚胡同意停止贝鲁特附近的行动；真主党根据新的停战安排停止对以色列的袭击。",
+      "contentParagraphs": [
+        {
+          "en": "United States President Donald Trump says Israel and Hezbollah have agreed to halt attacks following indirect talks through intermediaries.Posting on Truth Social on Monday, Trump said he had spoken with both Israeli Prime Minister Benjamin Netanyahu and, through “highly placed representatives”, Hezbollah.Recommended Stories list of 3 itemslist 1 of 3Lebanon latest: Israel captures more land in the southlist 2 of 3As Israel pushes past the Litani, Lebanese question the purpose of UNIFILlist 3 of 3Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talksend of list“I had a very good call with Hezbollah, and they agreed that all shooting will stop – that Israel will not attack them, and they will not attack Israel,” he wrote.No US president has ever spoken with Hezbollah, either directly or via intermediaries. At present, Washington has designated the group as a “terrorist” organisation.According to statements from Lebanon’s embassy in Washington, the proposal would see Hezbollah stop attacks on Israel in exchange for Israel halting strikes on Beirut and its southern suburbs.Trump also said Netanyahu had agreed to pull back any Israeli troops preparing ‌‌to attack the Lebanese capital, Beirut. Separately, Netanyahu said he had discussed this with Trump but that Israel would push ahead with plans to strike Beirut if Hezbollah makes any further attacks on Israel.Here is what we know so far.Why does this announcement matter for the war on Iran?Iran has stated that one of its conditions for any agreement on ending the war with the US is that Israel withdraw from Lebanon.The Iran-backed armed group, Hezbollah, which is based in Lebanon, began firing on northern Israel after the first US-Israeli strikes on Tehran at the end of February.Until then, the Iran-backed group had not attacked Israel since a November 2024 ceasefire was announced, despite near-daily breaches of the agreement by Israel.Since early March, Israel has continued to launch near-daily attacks on Lebanon and currently occupies about one-fifth of the country.According to the Lebanese Ministry of Public Health, more than 3,412 people have been killed and 10,269 wounded in Israeli attacks on the country since March 2.The escalation has displaced more than one million people in Lebanon and raised fears that Israel could launch deeper operations towards Beirut.On Sunday, Iranian state media reported that Tehran was suspending message exchanges with Washington in protest.Following Trump’s announcement on Monday, Lebanon’s UN Ambassador Ahmad Arafa commended the Trump administration for “constructive efforts aimed at giving diplomacy a chance”.The announcement is also significant because previous ceasefire attempts between Israel and Lebanon have repeatedly collapsed. A 10-day truce announced on April 22, and later extended by three weeks, failed to produce a halt in fighting.A boy looks through a damaged room of the Jabal Amel Hospital into a destroyed building that was hit in an Israeli air strike in the southern port city of Tyre, Lebanon [AP Photo]How have Hezbollah, Israel responded to Trump’s announcement?On Monday, Netanyahu’s office said Israel would reserve the right to strike Beirut if Hezbollah attacks continue.“If Hezbollah does not cease attacking our cities and citizens … Israel will attack terror targets in Beirut,” he said.On Monday, Israel’s military issued new forced displacement orders, warning residents of the southern suburbs to flee to “preserve their safety”, reiterating that if Hezbollah continues to target Israel with rockets, Israeli forces would attack Beirut’s Dahiyeh area.On Tuesday morning, there had been no reports of Israeli attacks on the Lebanese capital. However, Israel has continued attacks on southern Lebanon, firing artillery near Nabatieh and hitting the villages of Choukine and Kfar Tibnit, Al Jazeera reported.Meanwhile, Lebanon’s embassy in Washington released a detailed statement saying Hezbollah had accepted a US proposal for a “mutual cessation of attacks”.“Under the proposed arrangement, Israeli strikes on Beirut’s southern suburbs would cease in exchange for Hezbollah refraining from carrying out attacks against Israel, with the ceasefire framework to be expanded to encompass all Lebanese territories,” the statement said.Prominent Hezbollah MP Hassan Fadlallah says the group supports a “full ceasefire on all Lebanese territory”.The ceasefire would be a precursor to the withdrawal of Israeli troops from Lebanon, Fadlallah told the al-Manar broadcaster.Lebanese parliamentary speaker Nabih Berri, a prominent ally of Hezbollah, said in a statement that he could vouch for the armed movement’s “full, comprehensive and immediate” adherence to a ceasefire. “The real issue is who will force Israel to halt its aggression?” he added.According to Sami Nader, an analyst and director of the Levant Institute for Strategic Affairs, Israel’s attacks on Lebanon are a “very dangerous escalation” of the current conflict.“What we are seeing is a systemic demolition of infrastructure. It’s going beyond this ‘Yellow Line’,” Nader told Al Jazeera. “The only solution to this is to decouple the Lebanon ceasefire from the Iranian one.“Practically, everyone except Hezbollah wants the decoupling of the Lebanon ceasefire from the Iranian one,” he added, but warned that the Lebanese government needs international involvement to achieve a ceasefire.Israel’s “Yellow Line” is a military zone stretching roughly 10km (six miles) north of the border inside southern Lebanon.(Al Jazeera)What is the significance of Trump’s communications with Hezbollah?“This is unprecedented, if he really spoke to Hezbollah and not one of its allies,” said Al Jazeera’s Ali Hashem, reporting from Beirut, Lebanon.“This could be a breakthrough in Hezbollah-US relations since the 1980s,” he added.Hezbollah (which means “Party of God” in Arabic) was formed in 1982 to fight Israel’s occupation of southern Lebanon that year.Since the fi",
+          "zh": "美国总统唐纳德·特朗普表示，以色列和真主党已同意在通过中间人进行间接会谈后停止袭击。特朗普周一在《真相社会》上发帖称，他已通过“高级代表”与真主党和以色列总理本杰明·内塔尼亚胡进行了交谈。推荐故事清单 3 项列表 1 of 3 黎巴嫩最新消息：以色列在南部地区夺取更多土地 2 of 3 随着以色列越过利塔尼河，黎巴嫩人质疑袭击的目的UNIFILlist 3 of 3伊朗警告以色列对黎巴嫩和加沙的袭击威胁美国停火谈判清单结束“我与真主党进行了一次很好的通话，他们同意所有射击都将停止——以色列不会攻击他们，他们也不会攻击以色列，”他写道。没有一位美国总统直接或通过中间人与真主党交谈过。目前，华盛顿已将该组织列为“恐怖”组织。根据黎巴嫩驻华盛顿大使馆的声明，该提议将使真主党停止对以色列的袭击，以换取以色列停止对贝鲁特及其南部郊区的袭击。特朗普还表示，内塔尼亚胡已同意撤回任何准备袭击黎巴嫩首都贝鲁特的以色列军队。另外，内塔尼亚胡表示，他已与特朗普讨论过此事，但如果真主党对以色列进行进一步袭击，以色列将推进打击贝鲁特的计划。这是我们目前所知道的情况。为什么这一声明对伊朗战争很重要？伊朗表示，与美国结束战争的任何协议的条件之一就是以色列从黎巴嫩撤军。总部位于黎巴嫩的伊朗支持的武装组织真主党在第一次袭击后开始向以色列北部开火。美国和以色列于2月底对德黑兰发动袭击。在此之前，尽管以色列几乎每天都违反协议，但自2024年11月宣布停火以来，伊朗支持的组织尚未袭击以色列。自3月初以来，以色列几乎每天都对黎巴嫩发动袭击，目前占领了该国约五分之一的领土。据黎巴嫩公共卫生部称，已有超过3,412人死亡，自3月2日以来，以色列对黎巴嫩的袭击已造成10,269人受伤。事态升级已导致黎巴嫩超过一百万人流离失所，并引发了人们对以色列可能对贝鲁特发动更深入行动的担忧。周日，伊朗官方媒体报道称，德黑兰暂停与华盛顿的信息交流以示抗议。周一特朗普宣布这一消息后，黎巴嫩驻联合国大使艾哈迈德·阿拉法赞扬特朗普政府“为外交提供机会而做出的建设性努力”。同样重要的是，以色列和黎巴嫩之间此前的停火尝试屡屡失败。 4月22日宣布的为期10天的休战，后来又延长了三周，但未能停止战斗。一名男孩透过贾巴尔阿梅尔医院受损的房间，查看以色列在黎巴嫩南部港口城市提尔的空袭中被摧毁的建筑[美联社照片]以色列真主党对特朗普的声明有何反应？周一，内塔尼亚胡办公室表示，如果真主党发动袭击，以色列将保留袭击贝鲁特的权利继续。“如果真主党不停止攻击我们的城市和公民……以色列将袭击贝鲁特的恐怖目标。”他说。周一，以色列军方发布了新的强迫流离失所令，警告南部郊区的居民逃离以“保护自己的安全”，并重申，如果真主党继续用火箭瞄准以色列，以色列军队将袭击贝鲁特的达希耶地区。周二上午，没有关于以色列袭击黎巴嫩首都的报道。然而，据半岛电视台报道，以色列继续袭击黎巴嫩南部，在纳巴蒂耶附近发射炮弹，袭击了乔金和卡法提布尼特村庄。与此同时，黎巴嫩驻华盛顿大使馆发表了一份详细声明，称真主党已接受美国“相互停止袭击”的提议。“根据提议的安排，以色列将停止对贝鲁特南部郊区的袭击，以换取真主党克制。”声明称，“禁止对以色列发动袭击，停火框架将扩大到涵盖黎巴嫩所有领土”。著名真主党议员哈桑·法德拉拉表示，该组织支持“在黎巴嫩所有领土上全面停火”。法德拉拉对马纳尔广播公司表示，停火将是以色列军队从黎巴嫩撤军的先兆。真主党的重要盟友、黎巴嫩议会议长纳比赫·贝里在一份声明中表示声明称，他可以保证武装运动“全面、全面和立即”遵守停火。 “真正的问题是谁将迫使以色列停止侵略？”他补充道。黎凡特战略事务研究所分析师兼所长萨米·纳德表示，以色列对黎巴嫩的袭击是当前冲突的“非常危险的升级”。“我们看到的是对基础设施的系统性破坏。它超出了‘黄线’，”纳德告诉半岛电视台。 “解决这个问题的唯一办法是将黎巴嫩停火与伊朗停火脱钩。实际上，除了真主党之外，所有人都希望黎巴嫩停火与伊朗停火脱钩，”他补充道，但警告说，黎巴嫩政府需要国际社会的参与才能实现停火。以色列的“黄线”是一个军事区，延伸至黎巴嫩南部边境以北约 10 公里（6 英里）。（半岛电视台）什么是半岛电视台的阿里·哈希姆在黎巴嫩贝鲁特报道说：“如果他真的与真主党而不是其盟友交谈，这将是前所未有的。这可能是 20 世纪 80 年代以来真主党与美国关系的突破。”他补充说。真主党（阿拉伯语的意思是“上帝的党”）于 1982 年成立，旨在对抗以色列对黎巴嫩南部的占领那一年。自从fi"
+        }
+      ]
+    },
+    {
+      "title": "Florida sues OpenAI and Sam Altman over alleged safety lapses",
+      "link": "https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt",
+      "summary": "The lawsuit accuses the company of failing to warn users that ChatGPT could be dangerous and instead marketing it as safe and reliable.",
+      "pubDate": "Mon, 01 Jun 2026 15:52:02 -0400",
+      "source": "NPR Technology",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "佛罗里达州起诉 OpenAI 和 Sam Altman 涉嫌安全漏洞",
+      "summaryZh": "该诉讼指控该公司未能警告用户 ChatGPT 可能存在危险，而是将其宣传为安全可靠。",
+      "contentParagraphs": [
+        {
+          "en": "The lawsuit, filed in Florida state court on Monday, accuses OpenAI and its CEO, Sam Altman, of failing to warn users that ChatGPT could be dangerous and instead marketing it as safe and reliable, including for children.",
+          "zh": "该诉讼于周一向佛罗里达州法院提起，指控 OpenAI 及其首席执行官 Sam Altman 未能警告用户 ChatGPT 可能存在危险，而是将其宣传为安全可靠，包括对儿童而言。"
+        },
+        {
+          "en": "Florida is accusing OpenAI and its CEO Sam Altman of putting profit over safety, in the first lawsuit brought by a state against the ChatGPT maker over the alleged shortcomings of the chatbot.",
+          "zh": "佛罗里达州指责 OpenAI 及其首席执行官 Sam Altman 将利润置于安全之上，这是该州针对 ChatGPT 制造商涉嫌聊天机器人缺陷提起的第一起诉讼。"
+        },
+        {
+          "en": "The lawsuit, filed in Florida state court on Monday, claims the company and Altman failed to warn users that ChatGPT could be dangerous and instead marketed it as safe and reliable, including for children. It's the latest salvo in a growing effort across the country to hold artificial intelligence companies accountable when harms follow users' interactions with chatbots.",
+          "zh": "周一向佛罗里达州法院提起的诉讼称，该公司和 Altman 未能警告用户 ChatGPT 可能存在危险，而是将其宣传为安全可靠，包括针对儿童。这是全国范围内不断加大力度追究人工智能公司在用户与聊天机器人互动造成的损害时承担责任的最新举措。"
+        },
+        {
+          "en": "The lawsuit accuses OpenAI of aiding and abetting mass shooters, including a shooter at Florida State University who allegedly used ChatGPT to plan his attack, encouraging vulnerable people to commit suicide, and addicting children \"to a tool that feigns human compassion to collect their data with no parental oversight.\"",
+          "zh": "该诉讼指控 OpenAI 协助和教唆大规模枪击案，其中包括佛罗里达州立大学的一名枪击案凶手，据称他使用 ChatGPT 来策划袭击，鼓励弱势群体自杀，并让儿童沉迷于“一种假装人类同情心的工具，在没有父母监督的情况下收集他们的数据”。"
+        },
+        {
+          "en": "\"This litany of harms is driven by Defendants' insatiable quest to win the AI arms race and amass large fortunes, despite knowing the danger of ChatGPT,\" the complaint said. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs.\"",
+          "zh": "诉状称：“尽管被告知道 ChatGPT 的危险，但他们对赢得人工智能军备竞赛并积累巨额财富的不懈追求导致了这一系列的危害。” “OpenAI 的崛起归因于欺骗网络和对用户（包括佛罗里达人）的剥削，利用他们的数据和安全性以不可接受的成本提高 OpenAI 的市场价值。”"
+        },
+        {
+          "en": "Florida is also seeking to hold Altman personally liable.",
+          "zh": "佛罗里达州还寻求追究奥特曼的个人责任。"
+        },
+        {
+          "en": "\"Sam Altman and ChatGPT have chosen the AI race over the safety and security of our kids,\" Florida Attorney General James Uthmeier said at a press conference on Monday. He added he believes that Altman and the company could be liable \"for potentially up to billions of dollars\" in penalties.",
+          "zh": "佛罗里达州总检察长 James Uthmeier 在周一的新闻发布会上表示：“Sam Altman 和 ChatGPT 选择了人工智能竞赛，而不是我们孩子的安全。”他补充说，他认为奥特曼和该公司可能要承担“可能高达数十亿美元”的罚款。"
+        },
+        {
+          "en": "\"Losing a child is the most devastating tragedy that can happen to a family and we know that no words can come close to addressing the pain of such a loss,\" OpenAI spokesperson Kayla Wood said in an emailed statement to NPR.",
+          "zh": "OpenAI 发言人凯拉·伍德 (Kayla Wood) 在发给 NPR 的电子邮件声明中表示：“失去孩子是一个家庭可能发生的最具毁灭性的悲剧，我们知道任何言语都无法弥补这种失去的痛苦。”"
+        },
+        {
+          "en": "\"AI is a new and powerful technology, and we believe minors need significant protection, which is why we have put in place industry leading protections and policies,\" the statement continued. \"In particular we built safety for minors directly into our products, including a more protective experience specifically for minors, an age prediction tool, defaulting users whose age we are not confident into our more protective experience, and giving parents tools to monitor their kids' use of AI.\"",
+          "zh": "声明继续说道：“人工智能是一项强大的新技术，我们相信未成年人需要大力保护，这就是为什么我们制定了行业领先的保护和政策。” “特别是，我们将针对未成年人的安全直接融入到我们的产品中，包括专门针对未成年人的更具保护性的体验、年龄预测工具、默认对我们的年龄没有信心的用户提供更多的保护性体验，以及为家长提供监控孩子使用人工智能的工具。”"
+        },
+        {
+          "en": "The lawsuit alleges OpenAI's safeguards, including its parental controls, are inadequate and that the company has created \"a dangerous public nuisance.\"",
+          "zh": "该诉讼称 OpenAI 的保护措施（包括家长控制）不足，并且该公司造成了“危险的公共滋扰”。"
+        },
+        {
+          "en": "The first page of the lawsuit begins with a screenshot from OpenAI's website saying ChatGPT was \"built with safety in mind.\" The image is followed by a footnote reading: \"Not so.\"",
+          "zh": "诉讼的第一页以 OpenAI 网站的屏幕截图开始，称 ChatGPT 是“以安全为中心而构建的”。图片后面有一个脚注：“不是这样。”"
+        },
+        {
+          "en": "Uthmeier's office is separately conducting a criminal investigation into OpenAI over the FSU shooter's alleged consultation of ChatGPT ahead of the April 2025 attack.",
+          "zh": "Uthmeier 办公室正在单独对 OpenAI 进行刑事调查，原因是 FSU 枪手涉嫌在 2025 年 4 月的攻击之前咨询 ChatGPT。"
+        },
+        {
+          "en": "More than 20 lawsuits have been filed against OpenAI over harms allegedly stemming from ChatGPT use, including by families of victims killed and injured in a mass shooting at a school in Tumbler Ridge, Canada, in February, the family of a victim killed in the FSU shooting, and the families of seven people, including one teenager, who died by suicide or suffered delusions after using the chatbot.",
+          "zh": "目前已有 20 多起针对 OpenAI 的诉讼，指控其因使用 ChatGPT 造成伤害，其中包括 2 月份加拿大 Tumbler Ridge 学校大规模枪击事件中遇难者和受伤者的家属、FSU 枪击事件中遇难者的家属，以及在使用聊天机器人后自杀身亡或产生妄想症的 7 人的家属，其中包括一名青少年。"
+        },
+        {
+          "en": "Altman apologized to the Tumbler Ridge community in April, and OpenAI said in response to those lawsuits that it has a \"zero tolerance\" policy for using its tools to assist in committing violence.",
+          "zh": "Altman 在 4 月份向 Tumbler Ridge 社区道歉，OpenAI 在回应这些诉讼时表示，它对使用其工具协助实施暴力采取“零容忍”政策。"
+        },
+        {
+          "en": "After Uthmeier announced his investigation into the FSU shooting, an OpenAI spokesperson said that the chatbot \"provided factual responses to questions with information that could be found broadly across public sources on the internet, and it did not encourage or promote illegal or harmful activity.\" The statement continued: \"We work continuously to strengthen our safeguards to detect harmful intent, limit misuse, and respond appropriately when safety risks arise.\"",
+          "zh": "在 Uthmeier 宣布对 FSU 枪击事件进行调查后，OpenAI 发言人表示，该聊天机器人“对问题提供了事实性的答复，其信息可以在互联网上的公共资源中广泛找到，并且不会鼓励或促进非法或有害活动。”声明继续说道：“我们不断努力加强我们的保障措施，以发现有害意图，限制滥用，并在出现安全风险时做出适当反应。”"
+        },
+        {
+          "en": "OpenAI has called the lawsuits over suicides and delusions \"an incredibly heartbreaking situation\" and said that it's working with mental health experts to improve how ChatGPT responds to signs of mental or emotional distress.",
+          "zh": "OpenAI 称有关自杀和妄想的诉讼是“令人难以置信的令人心碎的情况”，并表示正在与心理健康专家合作，以改善 ChatGPT 对精神或情绪困扰迹象的反应。"
+        },
+        {
+          "en": "Other AI companies are also under legal scrutiny over how their chatbots have allegedly caused harm.",
+          "zh": "其他人工智能公司也因其聊天机器人涉嫌造成伤害而受到法律审查。"
+        },
+        {
+          "en": "In response to a wrongful death lawsuit over the suicide of a Florida man who became attached to Google's Gemini chatbot, the company said: \"Gemini is designed to not encourage real-world violence or suggest self-harm. Our models generally perform well in these types of challenging conversations and we devote significant resources to this, but unfortunately they're not perfect.\" It added that Gemini had \"referred the individual to a crisis hotline many times.\"",
+          "zh": "针对一名与谷歌 Gemini 聊天机器人有关联的佛罗里达州男子自杀的非正常死亡诉讼，该公司表示：“Gemini 的设计目的是不鼓励现实世界的暴力或暗示自残。我们的模型在这些类型的挑战性对话中通常表现良好，我们为此投入了大量资源，但不幸的是它们并不完美。”它补充说，双子座“多次将该人转至危机热线”。"
+        },
+        {
+          "en": "In January, Character.AI settled multiple lawsuits brought by families who claimed its companion chatbots contributed to suicides and mental health crises among children and teenagers. The company said it \"has taken innovative and decisive steps with regard to AI safety and teens, and will continue to champion these efforts and push others across the industry to adopt similar safety standards.\" That includes barring users under 18 from interacting with or creating chatbots.",
+          "zh": "一月份，Character.AI 解决了多起家庭提起的诉讼，这些家庭声称其同伴聊天机器人导致了儿童和青少年的自杀和心理健康危机。该公司表示，它“在人工智能安全和青少年方面采取了创新和果断的步骤，并将继续支持这些努力，并推动整个行业的其他公司采用类似的安全标准。”这包括禁止 18 岁以下的用户与聊天机器人交互或创建聊天机器人。"
+        },
+        {
+          "en": "Last month, the state of Pennsylvania sued Character.AI, alleging its chatbots posed as doctors and offered medical advice, in violation of state medical licensing rules. A Character.AI spokesperson told NPR at the time the company doesn't comment on pending litigation, but that its \"highest priority is the safety and well-being of our users.\"",
+          "zh": "上个月，宾夕法尼亚州起诉了 Character.AI，指控其聊天机器人冒充医生并提供医疗建议，违反了州医疗许可规定。 Character.AI 的一位发言人当时告诉 NPR，该公司不会对未决诉讼发表评论，但表示“最优先考虑的是我们用户的安全和福祉”。"
+        }
+      ]
+    },
+    {
+      "title": "Remote work -- not AI -- has sidelined recent college graduates, research finds",
+      "link": "https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai",
+      "summary": "Research from the New York Fed finds that younger college graduates have been sidelined by remote work in recent years, as companies may be reluctant to hire those needing more training and mentoring.",
+      "pubDate": "Mon, 01 Jun 2026 13:59:52 -0400",
+      "source": "NPR Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "研究发现，远程工作（而不是人工智能）使应届大学毕业生退居二线",
+      "summaryZh": "纽约联储的研究发现，近年来，年轻的大学毕业生因远程工作而被边缘化，因为公司可能不愿意雇用那些需要更多培训和指导的人。",
+      "contentParagraphs": [
+        {
+          "en": "New research finds remote work has sidelined younger college graduates since the pandemic.",
+          "zh": "新的研究发现，自疫情以来，远程工作使年轻的大学毕业生处于边缘地位。"
+        },
+        {
+          "en": "Maksym Belchenko/iStock / Getty Images Plus",
+          "zh": "Maksym Belchenko/iStock/Getty Images Plus"
+        },
+        {
+          "en": "Maksym Belchenko/iStock / Getty Images Plus",
+          "zh": "Maksym Belchenko/iStock/Getty Images Plus"
+        },
+        {
+          "en": "Stay up to date with our Up First newsletter sent every weekday morning.",
+          "zh": "通过我们每个工作日早上发送的Up First时事通讯了解最新信息。"
+        },
+        {
+          "en": "The buzz on college campuses is that AI is disrupting the job market for young college graduates.",
+          "zh": "大学校园的嗡嗡声是，人工智能正在扰乱年轻大学毕业生的就业市场。"
+        },
+        {
+          "en": "But new research from the Federal Reserve Bank of New York finds that the culprit may be something else: remote work.",
+          "zh": "但纽约联邦储备银行的新研究发现，罪魁祸首可能是其他原因：远程工作。"
+        },
+        {
+          "en": "An analysis of federal employment data, paired with a deep dive into the flexible work arrangements at one unnamed Fortune 500 tech company, reveals that companies are less likely to hire recent college grads into occupations that can be done remotely.",
+          "zh": "对联邦就业数据的分析，以及对一家未命名的财富500强科技公司灵活工作安排的深入研究，显示公司不太可能雇用最近的大学毕业生从事可以远程完成的职业。"
+        },
+        {
+          "en": "Researchers speculate that employers are reluctant to put such workers in a setting where it's harder to absorb lessons from coworkers.",
+          "zh": "研究人员推测，雇主不愿意将这些工人置于更难从同事那里吸取教训的环境中。"
+        },
+        {
+          "en": "The researchers found the unemployment rate among younger college grads — those under the age of 29 — rose 20% after the pandemic, while unemployment among older college grads fell slightly.",
+          "zh": "研究人员发现，疫情后，年龄较小的大学毕业生（ 29岁以下）的失业率上升了20% ，而年龄较大的大学毕业生的失业率略有下降。"
+        },
+        {
+          "en": "The study compares unemployment rates pre-pandemic, from 2017 to 2019, with unemployment rates after the pandemic, from 2022 to 2024.",
+          "zh": "该研究比较了2017年至2019年疫情前的失业率与2022年至2024年疫情后的失业率。"
+        },
+        {
+          "en": "Unemployment rose as remote work grew fourfold, the researchers write. \"Our analysis suggests that these trends are related, with remote work making it more difficult for managers to train and mentor new employees.\"",
+          "zh": "研究人员写道，随着远程工作的增长，失业率上升了四倍。“我们的分析表明，这些趋势是相关的，远程工作使管理人员更难以培训和指导新员工。”"
+        },
+        {
+          "en": "Remote work leads to less feedback on the job",
+          "zh": "远程工作导致工作反馈减少"
+        },
+        {
+          "en": "The research began with a look at how much feedback software engineers at a Fortune 500 tech company were getting, says Emma Harrington, an assistant professor of economics at the University of Virginia and one of the authors of the report.",
+          "zh": "该报告的作者之一、弗吉尼亚大学经济学助理教授艾玛·哈灵顿（ Emma Harrington ）说，这项研究开始于观察一家财富500强科技公司的软件工程师获得了多少反馈。"
+        },
+        {
+          "en": "\"What we saw was this pretty striking pattern that software engineers got about 20% more feedback if they were sitting near their colleagues than if they were distant from them,\" she says, adding that that was true even before the pandemic.",
+          "zh": "她说： “我们看到的这种非常惊人的模式是，如果软件工程师坐在同事身边，他们得到的反馈比远离同事的反馈多出约20 ％。”她补充说，即使在疫情爆发之前也是如此。"
+        },
+        {
+          "en": "But after the pandemic, feedback plummeted.",
+          "zh": "但疫情后，反馈直线下降。"
+        },
+        {
+          "en": "\"And that really hit young workers much harder,\" says Harrington. \"It was these people who had the most to learn that really saw this deficit in feedback.\"",
+          "zh": "“这对年轻工人的打击更大，” Harrington说。“正是这些人学得最多，才真正看到了这种反馈的缺陷。”"
+        },
+        {
+          "en": "The researchers then looked deeper into who was getting hired at the tech firm. Turns out, as the company embraced remote work, they switched away from hiring younger people.",
+          "zh": "然后，研究人员更深入地研究了谁将被这家科技公司聘用。事实证明，随着公司接受远程工作，他们不再雇用年轻人。"
+        },
+        {
+          "en": "\"So they used to hire a bunch of new grads for their software engineering jobs,\" Harrington says. \"Then they shifted really towards hiring much older people, like a decade older on average.\"",
+          "zh": "Harrington说： “所以他们过去常常雇佣一群新毕业生来从事软件工程工作。” “然后他们真的转向雇用老年人，平均比他们大十岁。”"
+        },
+        {
+          "en": "Later, the company pivoted again, implementing what Harrington calls a \"pretty aggressive\" return-to-office policy. At that point, the company resumed hiring new graduates.",
+          "zh": "后来，该公司再次转向，实施了Harrington所说的“相当积极”的返岗政策。此时，公司恢复招聘新毕业生。"
+        },
+        {
+          "en": "\"So [there was] some sense that these problems with mentorship were translating into whom this firm was deciding to hire,\" she says.",
+          "zh": "她说： “因此，在某种程度上，导师制度的这些问题正在转化为这家公司决定雇用的人。”"
+        },
+        {
+          "en": "A look at the broader economy",
+          "zh": "更广泛地看待经济"
+        },
+        {
+          "en": "The researchers then wanted to see if what was happening at that single tech company was playing out in the broader economy.",
+          "zh": "然后，研究人员想看看在那家科技公司发生的事情是否在更广泛的经济中发挥作用。"
+        },
+        {
+          "en": "Using a widely-used index that measures how feasible it is to do a job from home, the team divided all occupations into two categories: \"remotable,\" which included software engineering, and \"non-remotable,\" which included mechanical engineering.",
+          "zh": "该团队使用广泛使用的指数来衡量在家工作的可行性，将所有职业分为两类： “远程” （包括软件工程）和“非远程” （包括机械工程）。"
+        },
+        {
+          "en": "They found the gap in unemployment between recent graduates and older workers was significantly higher in \"remotable\" jobs than in jobs that have to be done in person.",
+          "zh": "他们发现，近期毕业生和老年工人之间的失业差距在“远程”工作中明显高于必须亲自完成的工作。"
+        },
+        {
+          "en": "The unemployment rate for younger grads in \"remotable\" jobs jumped by almost a full percentage point after the pandemic, while the unemployment rate among older grads fell marginally.",
+          "zh": "疫情后， “可远程”工作的年轻毕业生的失业率上升了近一个百分点，而年长毕业生的失业率略有下降。"
+        },
+        {
+          "en": "They concluded that remote work explained nearly two-thirds of the rise in unemployment among young graduates during this period.",
+          "zh": "他们得出结论，远程工作是这一时期年轻毕业生失业率上升的近三分之二的原因。"
+        },
+        {
+          "en": "\"This relative increase in young people's unemployment coincided with the pandemic and has remained elevated since then, as have rates of remote work,\" the researchers write.",
+          "zh": "研究人员写道： “年轻人失业率的相对增加恰逢疫情爆发，此后一直处于高位，远程工作的比率也是如此。”"
+        },
+        {
+          "en": "AI isn't disrupting so many jobs for recent college grads — yet",
+          "zh": "人工智能并没有为应届大学毕业生颠覆那么多工作岗位--但"
+        },
+        {
+          "en": "To see how the rise of AI chatbots may have contributed to rising unemployment among the younger set, the researchers used another index that divides occupations into those more exposed to AI, such as engineering and accounting, and those less exposed, such as teaching and nursing.",
+          "zh": "为了了解人工智能聊天机器人的崛起如何导致年轻人失业率上升，研究人员使用了另一个指数，该指数将职业分为更易接触人工智能的职业（如工程和会计）以及较少接触的职业（如教学和护理）。"
+        },
+        {
+          "en": "They found exposure to AI didn't explain the divergence in unemployment rates in the 2022-24 time period. Remote workflows were much more of a driving force, Harrington says, while emphasizing that this could change.",
+          "zh": "他们发现，接触人工智能并不能解释2022-24年期间失业率的差异。Harrington说，远程工作流程更像是一种驱动力，同时强调这可能会改变。"
+        },
+        {
+          "en": "\"It's always hard to make guesses about what's going to happen with generative AI,\" she says. \"It's certainly possible that this story could really change over the next few years.\"",
+          "zh": "“总是很难猜测生成式人工智能会发生什么，”她说。“在接下来的几年里，这个故事确实有可能发生变化。”"
+        },
+        {
+          "en": "Researchers at the London School of Economics have reached a similar conclusion — that remote work is having a clearer impact on early-career hiring than AI — in a working paper examining new hires in the U.S., the U.K., Canada and Australia.",
+          "zh": "伦敦经济学院的研究人员在一篇研究美国、英国、加拿大和澳大利亚新员工的工作论文中得出了类似的结论--远程工作对早期职业招聘的影响比人工智能更明显。"
+        },
+        {
+          "en": "Regardless of the cause, the New York Fed report warns that a high unemployment rate among young college grads is concerning.",
+          "zh": "无论是什么原因，纽约联邦储备银行的报告都警告说，年轻大学毕业生的高失业率令人担忧。"
+        },
+        {
+          "en": "\"Early-career experiences can have lasting consequences,\" the researchers write. \"Research finds that individuals who began looking for jobs in slacker labor markets tend to have lower earnings and slower career progression relative to comparable peers who began their job search in better market conditions.\"",
+          "zh": "研究人员写道： “早期职业经历可能会产生持久的后果。” “研究发现，与在更好的市场条件下开始求职的同行相比，开始在懒散的劳动力市场寻找工作的个人往往收入较低，职业发展较慢。”"
+        }
+      ]
+    },
+    {
+      "title": "How social media is turning African life into content at a cost",
+      "link": "https://www.aljazeera.com/features/2026/6/2/how-social-media-is-turning-african-life-into-content-at-a-cost?traffic_source=rss",
+      "summary": "Across Africa, social media redefines politics, culture, identity, and connection, blurring community and performance.",
+      "pubDate": "Tue, 02 Jun 2026 11:19:10 +0000",
+      "source": "Al Jazeera",
+      "category": "world",
+      "sourceColor": "#f79120",
+      "titleZh": "社交媒体如何以代价将非洲人的生活变成内容",
+      "summaryZh": "在整个非洲，社交媒体重新定义了政治、文化、身份和联系，模糊了社区和绩效。",
+      "contentParagraphs": [
+        {
+          "en": "Nairobi, Kenya – When I walked away from a career in law and moved into what is now called content creation, the intention was simple: To share my art.At the time, photographers in Nairobi were known for their work, their shooting style, subject matter and sometimes even the cameras they used.When I joined the industry, it was clear that Instagram, Twitter (as it was then known) and Facebook would be platforms to share work, not oneself.But there are few things more fluid than the internet. A decade later, many of us have become something entirely different. We are now content creators and influencers.The model has shifted from being known for what you do to being known for who you are, how you dress, how you speak and even what you have for breakfast, whether tea, coffee or whatever OMAD (One Meal A Day) practitioners consume in the morning.As it turns out, the way I live matters to other people. It influences how they live their lives. Brands have taken notice, to the extent of offering contracts to integrate their products into my life in ways that resonate with my audience. For years now, since 2018, that has been how I earn a living.The phone as daily newsroomAcross the world, social media has become a defining force in how people live their lives, particularly among younger generations, millennials and below. Africa is no exception. In urban centres, where mobile phone and internet penetration are high, the first thing many people reach for in the morning is a smartphone to check their social media feeds.Instagram, X, TikTok and Facebook.A Kenyan wakes up and checks WhatsApp. Before breakfast is over, they have already consumed information from across the world: A missing-person notice, a religious verse, a meme, a job link, a protest poster, a fake quote from someone who never said it, a dance challenge, a death announcement, a political insult, a YouTube tutorial, a screenshot from Parliament, a voice note from an aunt, someone’s holiday in Diani.All of it is delivered through the same device.False information once required institutional backing to spread widely. Now it only requires a caption and a viral moment [Placide Tossou Charles/Reuters]Speaking to Grace Ndiege, a digital marketing specialist at Digitribe, it becomes clear that in 2026, we are not only living in reality, but increasingly inside our phones.“We spend a lot of time capturing moments as opposed to living in them.” For someone working on the business side of social media, she says a large share of marketing budgets has moved online because that is where audiences now are.So when a beverage company, for example, wants to introduce a new product, shift consumer behaviour or build emotional attachment to its brand, social media becomes the primary channel. It is also where people like me come in, integrating those products into our everyday lives for our audiences.“Attention is currency,” Ndiege told Al Jazeera. “That is why the algorithm keeps changing to grab every piece of it.”When the internet became a civic spaceDavid Mbotela, who previously used social media actively but later stepped back from it, describes the transformation of the internet in broader terms.“The internet began as a miracle of connection; machines speaking to machines. Then people speaking to people. Then ordinary people speaking to the world. What started as a network became a road. Once that road reached us, life began to move differently,” he told Al Jazeera.We saw this in Kenyans for Kenya in 2011, when the country responded to famine in the north not only with sympathy but with coordinated action. M-Pesa, a mobile money transfer and payment service, became a lifeline, and mobile phones became collection tools.Later, in October 2015, students in South Africa launched the #FeesMustFall movement, a student-led protest campaign against rising university fees, challenging the status quo and mobilising around free higher education.A crisis that might once have remained local became continental, visible and shareable.It happened again during the Finance Bill protests in Kenya, a youth-led movement against proposed tax increases, when young people turned the internet into a civic classroom.Legal language was translated into TikTok explainers. People who had never read a bill before began discussing clauses, taxation, representation, police powers and public debt. The internet helped make political power and public policy easier to understand.There is also the everyday transformation of social media. YouTube University. A boy in Kampala learns filmmaking from a creator in Canada. A Nigerian chef builds a global audience and breaks a Guinness World Record. A dancer turns 10 seconds on TikTok into a career, an arc that mirrors my own experience.Social media has sped up cultural exchange and changed everyday language. Words and expressions now travel quickly and take on new meanings. In online culture, approval is “clocked”, excellence is seen as “cooking”, and strong statements are often marked with a full stop. The way people communicate has become faster, sharper and more informal.The cost of constant connectionBut social media also comes with consequences.A family psychotherapist based in Nairobi, Maggie Gitu, told Al Jazeera that “social media flattens things in the way that it does not contextualise connections. Are we friends because we have access to each other?”The answer is not straightforward. As a content creator, I build communities and relationships with audiences, and there is, at times, a sense of kinship. But these audiences know only what is shared with them. What is shared is carefully curated.The same platforms that connect people also invite comparison. Instagram becomes a source of inspiration and, at the same time, a measure of inadequacy. An age-mate has bought land or is vacationing in Zanzibar. Someone else is engaged. Another has abs. A favourite podcaster has a new car, a child, a larger kitchen and a better sunset.Soci",
+          "zh": "肯尼亚内罗毕——当我放弃法律职业，转向现在所谓的内容创作时，意图很简单：分享我的艺术。当时，内罗毕的摄影师以其作品、拍摄风格、主题，有时甚至他们使用的相机而闻名。当我加入这个行业时，很明显 Instagram、Twitter（当时称为）和 Facebook 将成为分享作品的平台，而不是分享自己的平台。但没有什么比互联网更流动的了。十年后，我们中的许多人已经变得完全不同。我们现在是内容创造者和影响者。这种模式已经从以你所做的事情而闻名，转变为以你是谁、你的着装、你如何说话，甚至你早餐吃什么，无论是茶、咖啡还是OMAD（一日一餐）实践者早上吃的任何东西而闻名。事实证明，我的生活方式对其他人很重要。它影响他们的生活方式。品牌已经注意到了这一点，他们提供了合同，以与我的受众产生共鸣的方式将他们的产品融入我的生活。自 2018 年以来，多年来，这一直是我谋生的方式。手机作为每日新闻编辑室在世界各地，社交媒体已成为人们生活方式的决定性力量，尤其是在年轻一代、千禧一代及以下一代中。非洲也不例外。在手机和互联网普及率很高的城市中心，许多人早上做的第一件事就是用智能手机查看社交媒体动态。Instagram、X、TikTok 和 Facebook。一名肯尼亚人起床后查看 WhatsApp。早餐还没吃完，他们就已经消费了来自世界各地的信息：一份失踪人员通知、一首宗教诗句、一条模因、一个工作链接、一张抗议海报、一句从未说过这句话的人的虚假引言、一次舞蹈挑战、一条死亡公告、一次政治侮辱、一篇 YouTube 教程、一张议会截图、一位阿姨的语音留言、某人在迪亚尼的假期。所有这些都是通过同一个设备传递的。虚假信息曾经需要机构的支持才能广泛传播。现在它只需要一个标题和一个病毒式的瞬间 [Placide Tossou Charles/路透社]在与 Digitribe 的数字营销专家 Grace Ndiege 交谈时，很明显，到 2026 年，我们不仅生活在现实中，而且越来越多地生活在手机中。“我们花了很多时间捕捉瞬间，而不是生活在其中。”对于从事社交媒体业务方面工作的人来说，她表示很大一部分营销预算已转移到网上，因为受众现在就在网上。因此，例如，当一家饮料公司想要推出新产品、改变消费者行为或建立对其品牌的情感依恋时，社交媒体就成为主要渠道。这也是像我这样的人发挥作用的地方，将这些产品融入我们观众的日常生活中。“注意力就是货币，”恩迪格告诉半岛电视台。 “这就是为什么算法不断变化以抓住它的每一部分。”当互联网成为一个公民空间时，大卫·姆博特拉（David Mbotela）以前积极使用社交媒体，但后来退出社交媒体，他用更广泛的术语描述了互联网的转变。“互联网开始是一个连接的奇迹；机器与机器对话。然后人们与人对话。然后普通人与世界对话。最初的网络变成了一条路。一旦这条路到达我们身边，生活就开始以不同的方式发展，”他告诉半岛电视台。我们在肯尼亚人身上看到了这一点。 2011 年肯尼亚面临的饥荒不仅表现出同情，而且采取了协调一致的行动。移动汇款和支付服务 M-Pesa 成为了生命线，手机成为了收款工具。后来，2015 年 10 月，南非的学生发起了 #FeesMustFall 运动，这是一场由学生领导的反对大学学费上涨的抗议运动，挑战现状并围绕免费高等教育进行动员。一场可能一度只存在于当地的危机变成了大陆性的、可见的和可共享的。在肯尼亚的《财政法案》抗议期间，这种情况再次发生，这是一场由青年领导的反对拟议增税的运动，当时年轻人人们把互联网变成了公民课堂。法律语言被翻译成 TikTok 解释器。以前从未阅读过法案的人们开始讨论条款、税收、代表权、警察权力和公共债务。互联网使政治权力和公共政策变得更容易理解。社交媒体也每天都在发生变化。 YouTube 大学。坎帕拉的一名男孩向加拿大的一位创作者学习电影制作。一位尼日利亚厨师赢得了全球观众并打破了吉尼斯世界纪录。一名舞者将 TikTok 上的 10 秒变成了一份职业，这一弧线反映了我自己的经历。社交媒体加速了文化交流并改变了日常语言。现在，词语和表达方式传播得很快，并具有新的含义。在网络文化中，认可是“计时的”，卓越被视为“烹饪”，强有力的声明往往带有句号。人们的沟通方式变得更快、更敏锐、更非正式。持续联系的成本但社交媒体也带来了后果。内罗毕的家庭心理治疗师玛吉·吉图告诉半岛电视台，“社交媒体使事情变得扁平化，无法将联系情境化。我们是朋友，因为我们可以互相接触吗？”答案并不简单。作为内容创作者，我与观众建立社区和关系，有时会有一种亲切感。但这些观众只知道与他们分享的内容。分享的内容是经过精心策划的。连接人们的相同平台也可以进行比较。 Instagram 成为灵感的源泉，同时也成为衡量不足的标准。一位同龄人已经购买了土地或正在桑给巴尔度假。还有人订婚了。另一个有腹肌。一位最喜欢的播客拥有一辆新车、一个孩子、一个更大的厨房和更好的日落。Soci"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
+      "pubDate": "Mon, 01 Jun 2026 18:58:26 GMT",
+      "source": "BBC Tech",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "佛罗里达州诉讼称 OpenAI 让 ChatGPT 帮助和教唆大规模枪击事件",
+      "summaryZh": "佛罗里达州总检察长 James Uthmeier 指控 OpenAI 和老板 Sam Altman 构建了一个“欺骗网”",
+      "contentParagraphs": []
     },
     {
       "title": "Wise under investigation over money laundering control concerns",
@@ -60,763 +556,6 @@
       "titleZh": "怀斯因洗钱控制问题接受调查",
       "summaryZh": "怀斯表示，它正在与布鲁塞尔检察官办公室合作，但“迄今为止尚未与我们分享具体调查结果”。",
       "contentParagraphs": []
-    },
-    {
-      "title": "An entomologist ordered a mezcal, and then got curious",
-      "link": "https://www.npr.org/2026/05/31/nx-s1-5815287/an-entomologist-ordered-a-mezcal-and-then-got-curious",
-      "summary": "An entomologist researched the worms used in mescal to better understand the relationship between the creatures and specific agave plants - and the danger if harvesting increases.",
-      "pubDate": "Sun, 31 May 2026 17:11:12 -0400",
-      "source": "NPR Science",
-      "category": "science",
-      "sourceColor": "#6a1b9a",
-      "titleZh": "一位昆虫学家点了一杯梅斯卡尔酒，然后感到好奇",
-      "summaryZh": "一位昆虫学家研究了龙舌兰酒中使用的蠕虫，以更好地了解这些生物与特定龙舌兰植物之间的关系，以及收获增加的危险。",
-      "contentParagraphs": [
-        {
-          "en": "An entomologist ordered a mezcal, and then got curious",
-          "zh": "一位昆虫学家点了一杯梅斯卡尔酒，然后感到好奇"
-        },
-        {
-          "en": "An entomologist researched the worms used in mescal to better understand the relationship between the creatures and specific agave plants - and the danger if harvesting increases.",
-          "zh": "一位昆虫学家研究了龙舌兰酒中使用的蠕虫，以更好地了解这些生物与特定龙舌兰植物之间的关系，以及收获增加的危险。"
-        },
-        {
-          "en": "May 31, 20265:11 PM ET",
-          "zh": "美国东部时间 20265 年 5 月 31 日：晚上 11 点"
-        },
-        {
-          "en": "An entomologist ordered a mescal, and then got curious",
-          "zh": "一位昆虫学家点了一杯龙舌兰酒，然后感到好奇"
-        },
-        {
-          "en": "<iframe src=\"https://www.npr.org/player/embed/nx-s1-5815287/nx-s1-9791904\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\">",
-          "zh": "<iframe src =“https://www.npr.org/player/embed/nx-s1-5815287/nx-s1-9791904”width =“100％”height =“290”frameborder =“0”scrolling =“no”title =“NPR嵌入式音频播放器”>"
-        },
-        {
-          "en": "An entomologist researched the worms used in mescal to better understand the relationship between the creatures and specific agave plants - and the danger if harvesting increases.",
-          "zh": "一位昆虫学家研究了龙舌兰酒中使用的蠕虫，以更好地了解这些生物与特定龙舌兰植物之间的关系，以及收获增加的危险。"
-        },
-        {
-          "en": "ADRIAN FLORIDO, HOST: Entomologist Akito Kawahara was on vacation in Mexico when he felt a sudden thirst for more knowledge.AKITO KAWAHARA: We just ordered some local mezcals and tequila. And we realized when we started to drink the drinks that, you know, there's this little worm in the bottom of the glass. And we said, oh, I wonder what this is.FLORIDO: Entomologists study insects and their relationship to the environment and people, mostly chasing down the creepy crawlies in their habitats, not a cantina. But science happens where science happens.KAWAHARA: We've never had a project like this in which we had the worms preserved, like, in a bottle already.FLORIDO: Kawahara is a researcher at the Florida Museum of Natural History, part of the University of Florida in Gainesville. He wanted to know what kind of worm was in his drink - not easy on first glance because of how the alcohol alters their appearance. So of course, he had to bring a bunch of bottles home.KAWAHARA: We got all these bottles. We lined them up. We took pictures of all the bottles. We took the specimen out of each bottle and then took a photo. So we had a digital image of each specimen. We had to take a little piece of the tissue out, and then we spin it down. We crush it. We isolate the DNA from the tissue itself.FLORIDO: Kawahara and his team used DNA sequencing to identify the worms, which are actually moth larvae.KAWAHARA: And that species was Comadia redtenbacheri, and that is the agave redworm moth.FLORIDO: The agave redworm moth lives on one specific type of agave plant in Oaxaca. On a return trip there, Kawahara tracked down the agave fields where these specific worms come from. It turns out that to collect these worms and plop them into a bottle of mezcal, producers don't just pluck them off the surface of the plant. They have to burrow them out, often killing the agave plant itself. There are concerns that as demand for mezcal and mezcal worms grows, the worm and the already endangered agave plant it lives on could be at further risk.KAWAHARA: So these are the kinds of research questions that we need to be asking, especially in a time when a lot of the agave plants are disappearing, and potentially, the insects that are associated with them are also disappearing.FLORIDO: Identifying these worms - a first step in trying to figure out a more sustainable way to harvest them - a little discovery with possibly big implications worthy of a toast.KAWAHARA: (Laughter) Yeah. We've had a lot of parties after that, but yeah, it was all for science.FLORIDO: Sure. All for science.",
-          "zh": "主持人 ADRIAN FLORIDO：昆虫学家 Akito Kawahara 正在墨西哥度假，突然他对更多知识产生了渴望。AKITO KAWAHARA：我们刚刚点了一些当地的梅斯卡尔酒和龙舌兰酒。当我们开始喝饮料时，我们意识到，你知道，玻璃杯底部有一条小虫子。我们说，哦，我想知道这是什么。 佛罗里达：昆虫学家研究昆虫及其与环境和人类的关系，主要是在它们的栖息地而不是小酒馆里追捕令人毛骨悚然的爬虫。但科学发生在科学发生的地方。 川原：我们从来没有进行过这样的项目，其中我们已经将蠕虫保存在瓶子里。 弗洛里多：川原是佛罗里达自然历史博物馆的研究员，该博物馆隶属于盖恩斯维尔的佛罗里达大学。他想知道他的饮料里有哪种蠕虫——乍一看并不容易，因为酒精会改变它们的外观。所以当然，他必须带一堆瓶子回家。 KAWAHARA：我们得到了所有这些瓶子。我们把他们排成一排。我们给所有瓶子拍了照片。我们从每个瓶子里取出标本，然后拍了照片。所以我们有每个标本的数字图像。我们必须取出一小块组织，然后将其旋转下来。我们粉碎它。我们从组织本身中分离出 DNA。 弗洛里多： 川原和他的团队使用 DNA 测序来识别这些蠕虫，它们实际上是蛾幼虫。 川原： 这个物种是 Comadia redtenbacheri，即龙舌兰红虫蛾。 弗洛里多： 龙舌兰红虫蛾生活在瓦哈卡州的一种特定类型的龙舌兰植物上。在回程时，川原追踪到了这些特定蠕虫的来源地龙舌兰田。事实证明，为了收集这些蠕虫并将它们放入一瓶梅斯卡尔酒中，生产者不仅仅是将它们从植物表面拔下来。他们必须把它们挖出来，经常杀死龙舌兰植物本身。人们担心，随着对梅斯卡尔和梅斯卡尔蠕虫的需求增长，这种蠕虫及其赖以生存的已经濒临灭绝的龙舌兰植物可能会面临进一步的风险。 河原：所以这些是我们需要提出的研究问题，特别是在许多龙舌兰植物正在消失，并且可能与它们相关的昆虫也正在消失的时候。 弗洛里多：识别这些蠕虫 - 试图找出更可持续的方法的第一步收获它们的方法——一个可能具有重大意义的小发现，值得干杯。 河原：（笑声）是的。之后我们举办了很多聚会，但是，是的，这都是为了科学。 弗洛里多：当然。一切为了科学。"
-        },
-        {
-          "en": "Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.",
-          "zh": "版权所有 © 2026 NPR。版权所有。请访问我们的网站使用条款和权限页面 www.npr.org 了解更多信息。"
-        },
-        {
-          "en": "Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.",
-          "zh": "NPR 文字记录的准确性和可用性可能有所不同。转录文本可能会被修改以纠正错误或匹配音频更新。 npr.org 上的音频可能会在其原始广播或发布后进行编辑。 NPR 节目的权威记录是音频记录。"
-        }
-      ]
-    },
-    {
-      "title": "How the world failed Ryan and Yaman",
-      "link": "https://www.aljazeera.com/features/2026/6/1/how-the-world-failed-ryan-and-yaman?traffic_source=rss",
-      "summary": "An Israeli strike killed my children. What pains me is not just their loss but also the normalisation of their murder.",
-      "pubDate": "Mon, 01 Jun 2026 12:58:03 +0000",
-      "source": "Al Jazeera",
-      "category": "world",
-      "sourceColor": "#f79120",
-      "titleZh": "世界如何辜负了瑞安和亚曼",
-      "summaryZh": "以色列的一次袭击杀死了我的孩子们。让我痛苦的不仅仅是他们的离去，还有他们被谋杀的常态化。",
-      "contentParagraphs": [
-        {
-          "en": "I woke up beneath the rubble, surrounded by darkness, dust, collapsed concrete and the screams of my six-year-old son Nasser crying hysterically above the ruins, trying to reach my buried fingers.In those moments, I believed I was dying.What I did not yet know was that a part of me had already died.When I emerged, I discovered that my 51-day-old baby Ryan had been recovered lifeless after spending more than an hour trapped under the debris. He was a child born during a temporary “ceasefire” in the war. Life had briefly granted him permission to see the world before taking him away almost immediately.His body was so small that I wrapped him in part of my own clothing, afraid he would feel cold.I was told Yaman, my seven-year-old, had suffered only minor injuries and had been taken to the hospital. The truth, however, was that my little boy had died before reaching it. They brought him back to me lifeless, only moments after I had bid farewell to Ryan.On that winter day in January 2024 on the outskirts of Gaza City, my whole world was shattered.Like countless mothers in Gaza, I had feared hunger for my children. I had feared displacement, terror and interrupted education. But despite everything, I never dared to think of death.Ryan never had the chance to grow up and enjoy his childhood. He was denied the chance to run, play and laugh with his brothers.Yaman, on the other hand, had shown us his amazing potential.We called him “the little philosopher” because of the way he spoke formal Arabic with astonishing fluency and spent hours watching documentaries about space, wildlife, oceans and plants. He loved books deeply, memorised stories of the prophets and joined a Quran memorisation centre shortly before the war. Even during bombardment and displacement, we continued reciting verses together.The author’s son Yaman in his school graduation gown. [Courtesy of Aya Shamaa]He was a very sensitive child. He refused to eat meat because he loved animals so much and could not understand why they were harmed and killed.After our home was partially destroyed early in the war, I remember feeling devastated. Yaman came to comfort me with the confidence only children possess and said, “Mama, don’t be sad. After the war, I’ll build you a bigger and more beautiful house.”In Gaza, the genocide is not just the mass killing of children. It is erasing human potential, destroying bright futures. It is taking away the scientist who could have discovered a cure for a deadly disease, the writer who could have written an award-winning book, the engineer who could have devised a new invention to help humanity, the son who could have built his mother a big, beautiful house.And perhaps what is even crueller than death itself is how ordinary loss has become in Gaza. For the rest of the world, Ryan and Yaman were just two entries added to the statistic of 21,000 Palestinian children massacred. Nameless and faceless for the world, they were everything for us.My surviving son, Nasser, became an only child after losing both his brothers. I still remember him pulling at Yaman’s white burial shroud, crying and refusing to let them take his brother away. Since that day, he has never been the same. He spends long hours staring silently at photographs of Yaman on a mobile phone as though he is trying to understand how a child can disappear so suddenly.This war does not leave only corpses beneath the rubble. It leaves survivors buried beneath psychological ruins that crush their souls day by day.Today is International Children’s Day, a day dedicated to children’s rights and wellbeing. For me, it is a day to reflect on how the world failed to protect my children.This is a world that has three other “children’s days”: World Children’s Day, the International Day of the Boy Child and the International Day of the Girl Child. It has a Convention on the Rights of the Child. It has national and international laws protecting children. It has a special United Nations agency dedicated to children, UNICEF. It has countless organisations dedicated to protecting children, feeding them, educating them, providing healthcare for them, etc.Why have all of these special days, organisations and laws when they do nothing to stop the massacres of children?Ryan and Yaman were taken away from me in January 2024. Thousands of other Palestinian mothers have had to bury their children since then. There is a “ceasefire” now, and children are still being killed on an almost daily basis in Gaza.Why have images of children wrapped in white shrouds become so easily normalised? Why has the world witnessed this scale of slaughter and not collapsed morally under its weight?Perhaps because the world has grown accustomed to seeing Palestinian children as numbers, not as human beings. Perhaps because decades of dehumanisation have finally borne fruit.But behind every number, there is a mother’s eternal love.Behind every number, there is a mother who still remembers the sound of her child’s voice, the foods he refused to eat, the dreams he spoke about and the tiny details life never allowed him enough time to enjoy.There is me: the mother who still remembers the soft cry of her baby boy Ryan and the soft-spoken voice of seven-year-old Yaman.Ryan and Yaman are not numbers. They are my children whom the world failed to protect.",
-          "zh": "我在废墟下醒来，周围是黑暗、灰尘、倒塌的混凝土，还有我六岁的儿子纳赛尔在废墟上歇斯底里地哭泣，试图够到我埋在地下的手指的尖叫声。在那一刻，我相信我快死了。我还不知道的是，我的一部分已经死了。当我出来时，我发现我 51 天大的婴儿瑞恩在被困在废墟下一个多小时后已经毫无生气。他是在战争暂时“停火”期间出生的孩子。生活短暂地允许他见识这个世界，然后几乎立即把他带走了。他的身体太小了，我用自己的衣服把他包裹起来，担心他会感到冷。有人告诉我，我七岁的孩子雅曼只受了轻伤，已被送往医院。然而事实是，我的小男孩在到达目的地之前就已经死了。就在我告别瑞安之后不久，他们把他带回了我身边，已经毫无生气。2024 年 1 月的那个冬日，在加沙城郊区，我的整个世界都破碎了。像加沙无数的母亲一样，我担心我的孩子会挨饿。我担心流离失所、恐怖和教育中断。但尽管如此，我从来不敢想到死亡。瑞恩从来没有机会长大并享受他的童年。他被剥夺了与兄弟们一起奔跑、玩耍和欢笑的机会。另一方面，亚曼向我们展示了他惊人的潜力。我们称他为“小哲学家”，因为他流利地说着正式的阿拉伯语，并花几个小时观看有关太空、野生动物、海洋和植物的纪录片。他热爱书籍，熟记先知的故事，并在战前不久加入了古兰经背诵中心。即使在轰炸和流离失所期间，我们仍继续一起背诵经文。作者的儿子亚曼穿着学校的毕业礼服。 [Aya Shamaa 提供]他是一个非常敏感的孩子。他拒绝吃肉，因为他非常喜欢动物，不明白为什么它们会受到伤害和杀害。我们的家在战争初期被部分摧毁后，我记得感到非常沮丧。亚曼用只有孩子才有的自信来安慰我，他说：“妈妈，别伤心。战争结束后，我会给你建造一座更大、更漂亮的房子。” 在加沙，种族灭绝不仅仅是对儿童的大规模屠杀。它正在抹杀人类的潜力，摧毁光明的未来。它夺走了一个本可以找到治疗致命疾病的方法的科学家，一个本可以写出一本获奖书籍的作家，一个本可以设计出一项新发明来帮助人类的工程师，一个本可以为母亲建造一座又大又漂亮的房子的儿子。也许比死亡本身更残酷的是加沙的普通损失。对于世界其他地方来说，瑞安和亚曼只是被屠杀的 21,000 名巴勒斯坦儿童统计数据中的两个条目。对于这个世界来说，他们无名无名，但他们却是我们的一切。我幸存的儿子纳赛尔在失去了两个兄弟后成为独生子。我仍然记得他拉着亚曼的白色裹尸布，哭泣着，拒绝让他们带走他的兄弟。从那天起，他就不再一样了。他花了很长时间默默地盯着手机上亚曼的照片，仿佛在试图理解一个孩子怎么会突然消失。这场战争在瓦砾下留下的不仅仅是尸体。它让幸存者被埋在心理废墟之下，日复一日地摧残着他们的灵魂。今天是国际儿童节，这一天致力于儿童权利和福祉。对我来说，这一天是反思世界如何未能保护我的孩子的一天。这个世界还有另外三个“儿童节”：世界儿童日、国际男孩日和国际女童日。它有一项《儿童权利公约》。它有保护儿童的国家和国际法律。它有一个专门致力于儿童事务的联合国机构：联合国儿童基金会。它有无数的组织致力于保护儿童、喂养儿童、教育儿童、为他们提供医疗保健等。为什么有这些特殊的日子、组织和法律却没有采取任何措施来制止对儿童的屠杀？瑞安和亚曼于 2024 年 1 月从我身边被带走。从那时起，成千上万的其他巴勒斯坦母亲不得不埋葬她们的孩子。现在已经“停火”了，加沙几乎每天都有儿童被杀害。为什么裹着白色裹尸布的儿童形象如此容易被常态化呢？为什么世界目睹了如此大规模的屠杀，却没有在其重压下道德崩溃？也许是因为世界已经习惯于将巴勒斯坦儿童视为数字，而不是人类。或许是因为数十年的非人化终于结出了硕果。但每一个数字的背后，都有一位母亲永恒的爱。每一个数字的背后，都有一位母亲还记得孩子的声音、他拒绝吃的食物、他所说的梦想以及生活不允许他有足够时间享受的细节。还有我：母亲还记得她的男婴瑞安轻柔的哭声和七岁孩子亚曼轻声细语的声音。瑞安和亚曼不是数字。他们是我的孩子，世界未能保护他们。"
-        }
-      ]
-    },
-    {
-      "title": "Charities decry UK plan to use AI to assess age of young asylum seekers",
-      "link": "https://www.theguardian.com/uk-news/2026/jun/01/charities-decry-uk-plan-to-use-ai-to-assess-age-of-young-asylum-seekers",
-      "summary": "Coalition of more than 100 organisations says move could lead to more children ending up in adult detention facilities\nA coalition of more than a hundred refugee children’s organisations has said controversial plans to use AI to assess the age of young asylum seekers could lead t",
-      "pubDate": "Mon, 01 Jun 2026 05:00:08 GMT",
-      "source": "Guardian Tech",
-      "category": "tech",
-      "sourceColor": "#1a73e8",
-      "titleZh": "慈善机构谴责英国计划使用人工智能来评估年轻寻求庇护者的年龄",
-      "summaryZh": "100多个组织组成的联盟表示此举可能导致更多儿童最终被关进成人拘留设施\n由一百多个难民儿童组织组成的联盟表示，利用人工智能评估年轻寻求庇护者年龄的有争议的计划可能会导致",
-      "contentParagraphs": [
-        {
-          "en": "A coalition of more than a hundred refugee children’s organisations has said controversial plans to use AI to assess the age of young asylum seekers could lead to more children wrongly ending up in adult prisons or detention centres.The warning follows a Home Office announcement on Friday of a contract to roll out AI facial age estimation technology on young asylum seekers whose age is disputed.A report from the Refugee and Migrant Children’s Consortium seen by the Guardian before its release in June raises the alarm about the risks of using such technology on young people who do not fit the norms of others in their age group.The consortium, whose member organisations work to promote and protect the rights of refugee and migrant children, say that as a result of trauma, under-nutrition and the harrowing journeys the young people have undertaken to reach safety means AI assessment is complex.The report – Benchmarks and Borders: the use of facial age estimation to assess the age of unaccompanied young people seeking asylum – does not rule out the use of AI altogether, but cautions against relying on it and says it should not be a substitute for comprehensive age assessments carried out by social workers.It urges the Home Office to use AI in an advisory rather than determinative capacity, with a range of safeguards built in including access to an appropriate adult, legal advice and a right to challenge decisions.It urges government not to replace the human errors made in some age–assessment cases with machine error.Age assessments of this group of young people is complex, especially as the majority of lone child asylum seekers coming to the UK are aged 16 or 17. According to Home Office data, young asylum seekers are more than twice as likely to be recorded as children in assessments by social workers than those carried out by immigration officers at the border, with more than two-thirds assessed to be minors.The Home Office’s announcement places significant emphasis on adults making “fake claims”, pretending to be children and attempting to “game the system”, but it does also acknowledge the need to safeguard minors.Two children are accompanied up a beach in Gravelines, France, after failing to board a dinghy attempting to cross the Channel in April. Photograph: Tom Nicholson/Getty ImagesThe minister for border security and asylum, Alex Norris, said: “For too long, adult migrants making false age claims have exploited the system and diverted vital support away from children at risk.“That is why we are rolling out AI technology to put a stop to this, ensuring those who game the system are identified, detained and removed without delay, and those who deserve support and protection are given it.”Final decisions will continue to be made by immigration officers, and the Home Office said the technology would undergo rigorous testing, evaluation and assurance before national rollout.The co-chair of the Refugee and Migrant Children’s Consortium, Kamena Dorling, said: “The government’s proposals are deeply concerning. AI cannot account for the factors that can significantly affect a young person’s appearance after fleeing conflict and persecution and undertaking dangerous journeys, including trauma, malnutrition, and exhaustion.“Existing evidence also shows that AI faces the same problems with bias and inaccuracy as human decision-making, with similar patterns of errors.”Kama Petruczenko, a senior policy analyst at the Refugee Council and member of the consortium, said: “The government’s own figures already show that hundreds of children are being wrongly treated as adults following flawed visual assessments at the border, with devastating consequences for their safety and wellbeing.“AI and facial age estimation technology are not a simple or risk-free answer to these longstanding problems. Poor image quality and bias in datasets can also affect accuracy.“There is a real danger that this technology creates a false sense of certainty in decisions that are already extremely difficult to get right. If flawed assessments are simply automated, more children could end up wrongly placed in adult accommodation, detention centres or even prisons.”The Home Office says AI will estimate an individual’s age in seconds by analysing facial photographs already taken of small-boat arrivals at Dover. A contract for the work worth £322,000 over three years has been awarded to Akhter Computers Ltd, under which the technology will be further tested and developed before being rolled out in 2027.",
-          "zh": "由一百多个难民儿童组织组成的联盟表示，利用人工智能评估年轻寻求庇护者年龄的计划颇具争议，可能会导致更多儿童被错误地关进成人监狱或拘留中心。在此警告之前，内政部周五宣布签订一份合同，为年龄有争议的年轻寻求庇护者推出人工智能面部年龄估计技术。英国《卫报》在 6 月份发布前看到的难民和移民儿童联盟的一份报告，对这一风险敲响了警钟。该联盟的成员组织致力于促进和保护难民和移民儿童的权利，该联盟表示，由于创伤、营养不良以及年轻人为达到安全而经历的痛苦旅程，人工智能评估变得复杂。该报告《基准与边界：使用面部年龄估计来评估寻求庇护的无人陪伴年轻人的年龄》并不排除使用人工智能总体而言，但警告不要依赖它，并表示它不应该取代社会工作者进行的全面年龄评估。它敦促内政部以咨询而非决定性的能力使用人工智能，并内置一系列保障措施，包括接触适当的成年人、法律建议和质疑决定的权利。它敦促政府不要用机器错误取代某些年龄评估案件中的人为错误。对这群年轻人的年龄评估很复杂，特别是因为大多数是独生子女来到英国的寻求庇护者年龄为 16 岁或 17 岁。根据内政部的数据，年轻的寻求庇护者在社会工作者的评估中被记录为儿童的可能性是边境移民官员进行的评估的两倍多，其中三分之二以上被评估为未成年人。内政部的声明非常强调成年人提出“虚假索赔”、假装儿童和试图“玩弄系统”，但它也承认有必要保护未成年人。四月份，孩子们在未能登上试图穿越英吉利海峡的小艇后，在法国格拉沃利讷的一个海滩上受到陪伴。边境安全和庇护部长亚历克斯·诺里斯 (Alex Norris) 表示：“长期以来，虚假年龄申报的成年移民利用该系统，转移了对处于危险中的儿童的重要支持。这就是为什么我们正在推出人工智能技术来制止这种情况，确保毫不拖延地识别、拘留和驱逐那些玩弄系统的人，并为那些应该得到支持和保护的人提供支持和保护。”最终决定将继续由移民官员做出，内政部表示该技术在全国推广之前将经过严格的测试、评估和保证。难民和移民儿童联合会联合主席卡梅纳·多林表示：“政府的提议令人深感担忧。人工智能无法解释那些在逃离冲突和迫害并经历危险旅程后会严重影响年轻人外貌的因素，包括创伤、营养不良和疲惫。“现有证据还表明，人工智能面临着与人类决策相同的偏见和不准确问题，以及类似的错误模式。”难民委员会高级政策分析师、该联盟成员卡马·彼得鲁岑科(Kama Petruczenko)表示：“政府自己的数据已经显示，数百名儿童在边境进行有缺陷的视觉评估后，他们被错误地视为成年人，这对他们的安全和福祉造成了毁灭性的后果。“人工智能和面部年龄估计技术并不是解决这些长期存在的问题的简单或无风险的答案。图像质量差和数据集中的偏差也会影响准确性。“这项技术存在一个真正的危险，那就是在决策中产生一种错误的确定感，而这些决策本来就很难做出正确的决定。如果有缺陷的评估只是自动化，更多的儿童可能最终被错误地安置在成人宿舍、拘留中心甚至监狱中。”内政部表示，人工智能将通过分析抵达多佛的小船拍摄的面部照片，在几秒钟内估算出一个人的年龄。 Akhter Computers Ltd 已获得一份为期三年、价值 322,000 英镑的合同，根据该合同，该技术将得到进一步测试和开发，然后于 2027 年推出。"
-        }
-      ]
-    },
-    {
-      "title": "Abusive passengers could be blacklisted from all airlines under new proposal",
-      "link": "https://www.bbc.com/news/articles/c707pknywjno?at_medium=RSS&at_campaign=rss",
-      "summary": "The scheme would allow airlines to share information on disruptive passengers and potentially restrict their access to flights.",
-      "pubDate": "Mon, 01 Jun 2026 12:02:10 GMT",
-      "source": "BBC Business",
-      "category": "business",
-      "sourceColor": "#0d7a3e",
-      "titleZh": "根据新提案，所有航空公司都可能将虐待乘客列入黑名单",
-      "summaryZh": "该计划将允许航空公司分享有关扰乱乘客的信息，并可能限制他们乘坐航班。",
-      "contentParagraphs": []
-    },
-    {
-      "title": "Experimental pill promises new hope for deadly pancreatic cancer",
-      "link": "https://www.npr.org/2026/05/31/nx-s1-5841859/experimental-pill-new-hope-pancreatic-cancer",
-      "summary": "A novel pill helped people with advanced pancreatic cancer live longer, researchers reported Sunday, raising hopes of long-needed better treatments for one of the deadliest types of cancer.",
-      "pubDate": "Sun, 31 May 2026 09:00:47 -0400",
-      "source": "NPR Science",
-      "category": "science",
-      "sourceColor": "#6a1b9a",
-      "titleZh": "实验性药物为致命胰腺癌带来新希望",
-      "summaryZh": "研究人员周日报道称，一种新型药物可以帮助晚期胰腺癌患者延长寿命，这为这种最致命的癌症之一带来了长期需要的更好治疗方法的希望。",
-      "contentParagraphs": [
-        {
-          "en": "This undated microscope image from USC via the NIH shows pancreatic cancer cells, nuclei in blue, growing as a sphere encased in membranes, red.",
-          "zh": "这张未注明日期的显微镜图像显示，胰腺癌细胞（蓝色的细胞核）生长为包裹在红色膜中的球体。"
-        },
-        {
-          "en": "WASHINGTON — A novel pill helped people with advanced pancreatic cancer live longer, researchers reported Sunday, raising hopes of long-needed better treatments for one of the deadliest types of cancer.",
-          "zh": "华盛顿——研究人员周日报道称，一种新型药物可以帮助晚期胰腺癌患者延长寿命，这为人们对这种最致命的癌症之一提供长期需要的更好治疗方法带来了希望。"
-        },
-        {
-          "en": "\"While not curing the cancer, it is a very large step forward,\" said Dr. Zev Wainberg, of the University of California, Los Angeles, who helped lead the study.",
-          "zh": "“虽然不能治愈癌症，但这是向前迈出的一大步，”帮助领导这项研究的加州大学洛杉矶分校的 Zev Wainberg 博士说。"
-        },
-        {
-          "en": "The drug is called daraxonrasib and it blocks a mutated protein that fuels tumor growth in more than 90% of pancreatic cancer cases — a target that had eluded treatment for decades.",
-          "zh": "这种药物名为 daraxonrasib，它能阻断一种突变蛋白，这种蛋白在 90% 以上的胰腺癌病例中会促进肿瘤生长，而这一靶点几十年来一直无法得到治疗。"
-        },
-        {
-          "en": "The daily pills nearly doubled survival time, with fewer severe side effects, in a study that randomly assigned the experimental drug or more chemotherapy to 500 patients whose metastatic, or spreading, cancer had quit responding to prior treatment. The findings were published in the New England Journal of Medicine and presented Sunday at the American Society for Clinical Oncology meeting in Chicago.",
-          "zh": "一项研究将实验药物或更多的化疗随机分配给 500 名转移性或扩散性癌症对先前治疗已不再有反应的患者，每日服用的药物几乎使生存时间延长了一倍，而且严重副作用也更少。研究结果发表在《新英格兰医学杂志》上，并于周日在芝加哥举行的美国临床肿瘤学会会议上公布。"
-        },
-        {
-          "en": "Those taking daraxonrasib lived for a median of 13.2 months compared with 6.7 months for chemotherapy recipients. While that may seem like a small improvement, Wainberg said it marked the first drug to show a substantial advantage over chemotherapy.",
-          "zh": "服用 daraxonrasib 的患者的中位生存期为 13.2 个月，而化疗接受者的中位生存期为 6.7 个月。虽然这看起来似乎是一个小小的进步，但温伯格表示，这标志着第一种比化疗显示出显着优势的药物。"
-        },
-        {
-          "en": "\"Having treated pancreatic cancer for 16 years, I actually started crying\" when first seeing the study results, Dr. Rachna Shroff of the University of Arizona Cancer Center, who wasn't involved with the research, said from the ASCO meeting. She was struck by how \"patients stayed on this treatment because it was providing durable and meaningful benefit to them.\"",
-          "zh": "亚利桑那大学癌症中心的 Rachna Shroff 博士（未参与这项研究）在 ASCO 会议上表示，“我已经治疗胰腺癌 16 年了，当我第一次看到研究结果时，我实际上开始哭泣”。他没有参与这项研究。她对“患者坚持接受这种治疗，因为它为他们提供持久且有意义的益处”感到震惊。"
-        },
-        {
-          "en": "The pills' effects eventually wane but recipients used them for significantly longer than the comparison group stayed on chemotherapy, reporting less pain and a better quality of life as their tumors shrank. Many still were using the drug after the data was analyzed, which Wainberg said means the survival gap may widen as researchers continue tracking them.",
-          "zh": "这些药丸的效果最终会减弱，但接受者使用它们的时间明显长于对照组接受化疗的时间，随着肿瘤缩小，他们的疼痛减轻了，生活质量也提高了。数据分析后，许多人仍在使用这种药物，温伯格说，这意味着随着研究人员继续追踪他们，生存差距可能会扩大。"
-        },
-        {
-          "en": "Dr. Brian Wolpin, of the Dana-Farber Cancer Institute, presented the findings Sunday. He said the drug should become \"a new standard of care\" for previously treated metastatic pancreatic cancer, adding that researchers also will explore its use earlier in the disease, including to see if tumor shrinkage might let more patients qualify for surgery.",
-          "zh": "丹纳法伯癌症研究所的 Brian Wolpin 博士周日公布了研究结果。他说，该药物应该成为先前治疗过的转移性胰腺癌的“新护理标准”，并补充说，研究人员还将探索其在疾病早期的使用，包括看看肿瘤缩小是否可以让更多患者有资格接受手术。"
-        },
-        {
-          "en": "Side effects most likely to affect pill usage were a rash that can be severe and mouth sores, he said.",
-          "zh": "他说，最有可能影响药物使用的副作用是严重的皮疹和口腔溃疡。"
-        },
-        {
-          "en": "Maker Revolution Medicines funded the study and the Food and Drug Administration plans to expedite review of the drug. Meanwhile, the agency is allowing what's called \"expanded access\" to the experimental drug for patients who meet certain criteria. The drug garnered public attention when former U.S. Sen. Ben Sasse described on \"60 Minutes\" how he's had less pain while taking it. Oncologists are being flooded with requests as the special access program gets started.",
-          "zh": "Maker Revolution Medicines 资助了这项研究，美国食品和药物管理局计划加快对该药物的审查。与此同时，该机构允许符合某些标准的患者“扩大使用”实验药物。当前美国参议员本·萨斯 (Ben Sasse) 在“60 分钟”节目中描述他在服用该药物时如何减轻疼痛时，该药物引起了公众的关注。随着特殊准入计划的启动，肿瘤科医生收到了大量的请求。"
-        },
-        {
-          "en": "Pancreatic cancer is among the most deadly forms in large part because it's hard to detect before it starts spreading to other organs. The American Cancer Society estimates about 67,000 new cases will be diagnosed in the U.S. this year and more than 52,000 people will die from the disease. The five-year overall survival rate is 13%.",
-          "zh": "胰腺癌是最致命的癌症之一，很大程度上是因为在它开始扩散到其他器官之前很难被发现。美国癌症协会估计，今年美国将诊断出约 67,000 例新病例，超过 52,000 人将死于这种疾病。五年总生存率为13%。"
-        },
-        {
-          "en": "Unlike with other cancers that have benefitted from a variety of chemotherapy alternatives, pancreatic cancer has been harder to tackle.",
-          "zh": "与受益于多种化疗方案的其他癌症不同，胰腺癌更难治疗。"
-        },
-        {
-          "en": "Cancer specialists not involved in the new research expressed optimism that this may be a turning point in the quest for new options, with dozens of experimental drugs in development.",
-          "zh": "未参与这项新研究的癌症专家乐观地认为，这可能是寻求新选择的一个转折点，目前有数十种实验药物正在开发中。"
-        },
-        {
-          "en": "The new drug targets mutations in the RAS gene family that normally regulates cell growth. So-called KRAS mutations are especially critical in fueling pancreatic cancer. But a structure that made it hard for drugs to stick to the mutated proteins meant this cancer driver was long considered \"undruggable.\"",
-          "zh": "这种新药针对的是通常调节细胞生长的 RAS 基因家族的突变。所谓的 KRAS 突变对于引发胰腺癌尤其重要。但这种结构使得药物很难粘附在突变的蛋白质上，这意味着这种癌症驱动因素长期以来被认为是“不可成药的”。"
-        },
-        {
-          "en": "Revolution Medicines' drug uses what's essentially a molecular glue to bind with multiple KRAS subtypes. Wainberg said researchers next will probe whether the drug worked better in certain of those subtypes.",
-          "zh": "Revolution Medicines 的药物本质上使用分子胶来与多种 KRAS 亚型结合。温伯格表示，研究人员接下来将探讨该药物是否对某些亚型更有效。"
-        },
-        {
-          "en": "The drug will change pancreatic cancer treatment, said Dr. Andrew Coveler of the Fred Hutchinson Cancer Center, who wasn't involved in the research.",
-          "zh": "弗雷德·哈钦森癌症中心的安德鲁·科维勒博士（未参与这项研究）表示，这种药物将改变胰腺癌的治疗。"
-        },
-        {
-          "en": "\"This thing works drastically differently,\" he said.",
-          "zh": "“这件事的运作方式截然不同，”他说。"
-        },
-        {
-          "en": "Wainberg said other drugs in development target specific KRAS subtypes. Other approaches in earlier stages of testing include vaccines designed to prevent recurrence after pancreatic cancer surgery by teaching the immune system to recognize the mutated protein.",
-          "zh": "Wainberg 说，正在开发的其他药物针对特定的 KRAS 亚型。早期测试阶段的其他方法包括通过教导免疫系统识别突变蛋白来预防胰腺癌手术后复发的疫苗。"
-        }
-      ]
-    },
-    {
-      "title": "Ukraine’s forcibly transferred children must not be a bargaining chip",
-      "link": "https://www.aljazeera.com/opinions/2026/6/1/ukraines-forcibly-transferred-children-must-not-be-a-bargaining-chip?traffic_source=rss",
-      "summary": "Russia must face more pressure to fulfil its legal obligations to return the Ukrainian children.",
-      "pubDate": "Mon, 01 Jun 2026 12:39:41 +0000",
-      "source": "Al Jazeera",
-      "category": "world",
-      "sourceColor": "#f79120",
-      "titleZh": "乌克兰强行转移儿童绝不能成为讨价还价的筹码",
-      "summaryZh": "俄罗斯必须面临更大压力，以履行遣返乌克兰儿童的法律义务。",
-      "contentParagraphs": [
-        {
-          "en": "It has been more than four years since Russia launched a full-scale invasion of Ukraine, expanding its occupation of Ukrainian lands, which started in 2014. In the chaos and violence of the first months of the invasion, families were separated, and childcare institutions were cut off from the control of the central authorities in Kyiv. As a result, the occupation forces forcibly transferred more than 20,000 Ukrainian children to Russia.Russian officials claimed that they did not abduct Ukrainian children, but “saved” them through humanitarian evacuations. However, international investigations have since found that many such transfers were unlawful under international humanitarian law. In many documented cases, transfers were carried out without the consent of the living parent or legal guardians of the child.International humanitarian law prohibits all forcible transfers and deportations of protected people from occupied territory, except for evacuations strictly required to ensure the population’s safety. Even then, evacuation must happen within occupied territory, be temporary, preserve family unity and return evacuees home as soon as hostilities cease.Today, the lives of thousands of Ukrainian children are devastated by this forcible transfer. Instead of abiding by international legal obligations and returning them to their homeland, Russia has transformed the issue into yet another bargaining chip against the Ukrainian people.But Ukraine refuses to abandon its children. For the past four years, there have been intense efforts from families, NGOs and the Ukrainian government to bring them back.Take the case of Lesya (the name has been changed to protect her identity), whose testimony was recorded by The Reckoning Project— a global team of journalists and lawyers documenting and publicising atrocities committed in the war. Lesya was 15 years old when Russian forces occupied her village in the Kherson region in 2022. When the occupation authorities imposed a mandatory evacuation, she was put on a truck with more than 30 other children and was sent to a rehabilitation centre in Feodosia, Crimea. A woman accompanying the children told her that her mother would join her shortly.At the facility, Lesya and other Ukrainian children were subjected to a strict routine, forced to do chores and study in Russian, using Russian textbooks. They were kept under surveillance indoors most of the time in a building with windows that could not be opened. Two days a week, the children underwent military training.Eventually, a relative located her, and with the help of Save Ukraine, a Ukrainian NGO facilitating children’s return, her mother managed to bring her back.But Lesya’s case is the exception rather than the rule. More than 2,000 Ukrainian children have been brought back thanks to efforts by NGOs, the government and foreign mediators.Pressure through international institutions has also been pursued, but that has not accelerated the process of return.In March 2023, the International Criminal Court issued warrants of arrest for Russian President Vladimir Putin and Commissioner for Children’s Rights Maria Lvova-Belova for the unlawful deportation and transfer of Ukrainian children.In July 2025, the European Court of Human Rights, in Ukraine and the Netherlands v Russia, found Russia responsible for a number of human rights violations, including the organised removal of children. The court also required Russia to cooperate in establishing a mechanism to find and safely return children.In March this year, the United Nations Independent International Commission of Inquiry on Ukraine concluded that Russia’s deportation and forcible transfer of Ukrainian children amount to crimes against humanity. The report identifies the removal of Ukrainian children as a part of a well-planned and systematically executed policy, conceived at the highest level.On May 11, the European Union sanctioned 16 individuals and seven entities, while the United Kingdom sanctioned 29 individuals and entities responsible for the deportation, forced transfer, forced assimilation, indoctrination, militarisation and unlawful adoption of Ukrainian children. Overall, the EU has sanctioned more than 130 people and organisations for these actions. The United States, Canada, Australia, Japan, Switzerland and several other countries have introduced similar measures.The lack of progress on this issue has driven families to desperation. Some have tried to bring their children back on their own or through often-daring missions by Save Ukraine and five other Ukrainian NGOs.There should be no need for these risky missions. Under international humanitarian law, Russia is obligated to identify and register Ukrainian children in their care, facilitate family reunification, and permit access to neutral actors assisting Ukrainian children.As negotiations for the end of the war have stalled and other global events have displaced Ukraine from global headlines, we urgently need to put the issue of the abducted Ukrainian children back in the spotlight.There are several areas in which existing efforts can expand.First, a comprehensive tracing mechanism needs to be established and financed to track abducted Ukrainian children and prevent their disappearance into dispersed care and adoption systems.Second, ongoing legal efforts to hold to account Russian officials involved in the abduction should be intensified. This means coordinated prosecutions in states where the universal jurisdiction principle can be applied, as well as joint investigation strategies supported by Eurojust, the EU’s judicial hub. Ukraine’s partners should support its judicial processes launched against Russian officials and cooperate where needed, including through extraditions where legally applicable and other lawful transfer mechanisms. While justice may be slow, the prospect of accountability can have a deterrent effect.Third, states can and should fully implement sanctions, trade re",
-          "zh": "俄罗斯自2014年开始全面入侵乌克兰，扩大对乌克兰领土的占领，至今已有四年多了。在入侵头几个月的混乱和暴力中，许多家庭被离散，儿童保育机构也脱离了基辅中央当局的控制。结果，占领军强行将2万多名乌克兰儿童转移到俄罗斯。俄罗斯官员声称，他们没有绑架乌克兰儿童，而是通过人道主义疏散“拯救”了他们。然而，国际调查发现，根据国际人道法，许多此类转移都是非法的。在许多记录在案的案例中，转移是在没有得到儿童在世父母或法定监护人同意的情况下进行的。国际人道法禁止对受保护人员从被占领土进行任何强行转移和驱逐，但为确保民众安全而严格要求的撤离除外。即便如此，撤离也必须在被占领土内进行，而且是暂时的，以维护家庭团聚，并在敌对行动停止后立即将撤离者送回家。如今，数千名乌克兰儿童的生活因这种强行转移而遭到破坏。俄罗斯非但没有遵守国际法律义务，将他们送回祖国，反而把这个问题变成了针对乌克兰人民的又一个筹码。但乌克兰拒绝抛弃自己的孩子。在过去的四年里，家人、非政府组织和乌克兰政府为将他们带回来做出了巨大的努力。以 Lesya 为例（为了保护她的身份，化名），她的证词由清算项目记录，该项目是一个由记者和律师组成的全球团队，记录和宣传战争中犯下的暴行。 2022 年，俄罗斯军队占领赫尔松地区的 Lesya 村庄时，她只有 15 岁。占领当局强制疏散时，她与其他 30 多名儿童一起被抬上一辆卡车，送往克里米亚费奥多西亚的康复中心。一名陪伴孩子们的妇女告诉她，她的母亲很快就会来接她。 在该设施中，莱西娅和其他乌克兰儿童受到严格的训练，被迫做家务并使用俄语教科书用俄语学习。他们大部分时间都在室内受到监视，所在的建筑物窗户无法打开。孩子们每周有两天接受军事训练。最终，一位亲戚找到了她，在乌克兰非政府组织“拯救乌克兰”的帮助下，她的母亲设法将她带了回来。但莱西亚的情况是例外，而不是常规。在非政府组织、政府和外国调解人的努力下，2000多名乌克兰儿童已被带回国。国际机构也不断施压，但这并没有加速返回进程。2023年3月，国际刑事法院因非法驱逐和转移乌克兰儿童而对俄罗斯总统弗拉基米尔·普京和儿童权利专员玛丽亚·利沃娃-贝洛娃发出逮捕令。 2025年，欧洲人权法院在乌克兰和荷兰诉俄罗斯一案中认定俄罗斯应对一系列侵犯人权行为负责，包括有组织地驱逐儿童。法院还要求俄罗斯合作建立寻找并安全遣返儿童的机制。 今年3月，联合国乌克兰问题独立国际调查委员会得出结论，俄罗斯驱逐和强行转移乌克兰儿童的行为构成反人类罪。报告指出，驱逐乌克兰儿童是最高层精心策划和系统执行政策的一部分。5月11日，欧盟制裁了16名个人和7个实体，英国则制裁了29名对乌克兰儿童进行驱逐、强制转移、强制同化、洗脑、军事化和非法收养负有责任的个人和实体。总体而言，欧盟已因这些行为制裁了 130 多个个人和组织。美国、加拿大、澳大利亚、日本、瑞士等几个国家也出台了类似措施。这一问题缺乏进展，让家庭陷入绝望。有些人试图靠自己或通过“拯救乌克兰”和其他五个乌克兰非政府组织经常进行的大胆任务来带回自己的孩子。应该没有必要进行这些冒险的任务。根据国际人道法，俄罗斯有义务对受其照顾的乌克兰儿童进行身份识别和登记，促进家庭团聚，并允许援助乌克兰儿童的中立行为体进入。由于结束战争的谈判陷入僵局，而其他全球事件使乌克兰不再成为全球头条新闻，我们迫切需要将被绑架的乌克兰儿童问题重新置于聚光灯下。现有的努力可以在几个领域进行扩展。首先，需要建立一个全面的寻人机制并为其提供资金以进行追踪绑架乌克兰儿童并防止他们在分散的看护和收养系统中失踪。其次，应加强正在进行的法律努力，追究参与绑架的俄罗斯官员的责任。这意味着在可以适用普遍管辖权原则的国家进行协调起诉，以及欧盟司法中心欧洲司法组织支持的联合调查策略。乌克兰的合作伙伴应支持针对俄罗斯官员启动的司法程序，并在必要时进行合作，包括通过合法适用的引渡和其他合法的移交机制。虽然正义可能会缓慢，但问责的前景可能会产生威慑作用。第三，各国可以而且应该全面实施制裁、贸易制裁"
-        }
-      ]
-    },
-    {
-      "title": "Meta legal action forces Facebook whistleblower to sit in silence at Hay festival",
-      "link": "https://www.theguardian.com/technology/2026/may/31/meta-legal-action-forces-facebook-whistleblower-to-stay-silent-at-hay-festival",
-      "summary": "Sarah Wynn-Williams did not speak during event after lawyers warned of possible sanctions from tech firm\nFacebook whistleblower Sarah Wynn-Williams was forced to sit in silence on stage at an event at Hay festival, after lawyers advised her not to speak because of ongoing legal a",
-      "pubDate": "Sun, 31 May 2026 17:18:27 GMT",
-      "source": "Guardian Tech",
-      "category": "tech",
-      "sourceColor": "#1a73e8",
-      "titleZh": "元法律行动迫使 Facebook 举报人在 Hay 节上保持沉默",
-      "summaryZh": "在律师警告科技公司可能实施制裁后，莎拉·韦恩·威廉姆斯在活动中没有发言\nFacebook 举报人莎拉·韦恩·威廉姆斯 (Sarah Wynn-Williams) 被迫在海伊音乐节 (Hay Festival) 的一次活动中保持沉默，因为律师建议她不要发言，因为法律仍在继续。",
-      "contentParagraphs": [
-        {
-          "en": "Facebook whistleblower Sarah Wynn-Williams was forced to sit in silence on stage at an event at Hay festival, after lawyers advised her not to speak because of ongoing legal action brought by Meta.Wynn-Williams, whose bestselling memoir, Careless People, details her years working at Facebook, was due to appear in conversation with the investigative journalist Carole Cadwalladr and academic Tim Wu.Instead, Wynn-Williams sat on stage for the duration of the hour-long discussion between Cadwalladr and Wu, without speaking or responding. She was unable even to nod or shake her head.Introducing the panel, Cadwalladr said: “I think this might be a Hay first, in which we have an author in a hostage situation. Blink once if you can hear us, Sarah, twice if [Mark] Zuckerberg is an asshole.”At the end of the event, Wynn-Williams received a standing ovation from the audience, during which she was moved to tears.Describing the situation, Cadwalladr said: “I think we can say that Facebook is triggered.”Wynn-Williams, a former Facebook executive, has faced mounting legal restrictions since the publication last year of Careless People, which contains allegations about Meta’s internal culture and decision-making, including claims relating to political influence, the company’s approach to China and concerns about the wellbeing of its child users. Meta has disputed the book’s claims.Hay’s programme director Helen Bagnall told the audience that the moment was “an important act of solidarity for the silenced”.Meta, which owns Facebook and Instagram, secured an emergency legal order on the eve of publication preventing her from publicly discussing aspects of the book, and she faces fines of $50,000 (£37,000) each time she breaches the order. The financial and legal pressure has reportedly threatened her with bankruptcy.Cadwalladr described the spectacle as “trolling-like behaviour” by Meta. “This is not how you conduct crisis comms. Crisis comms would just be simply to ignore this and deprive it of oxygen. This is a kind of trolling-like behaviour against their enemies.”Speaking on stage, Wu condemned the restrictions on Wynn-Williams’ participation.Tim Wu, Sarah Wynn-Williams and Carole Cadwalladr. Wynn-Williams received a standing ovation at the end of the event. Photograph: Sam Hardwick“This is censorship,” he told the audience. “This is a demonstration that some of the worst abuses in our time are not confined to kings, emperors, governments … but to a class of companies that have assumed the sovereign affect, and seek to assert their power the same way that some of those despotic nation states do.”During the event, Cadwalladr read a letter from Wynn-Williams’ lawyers outlining the company’s latest legal claims. The letter stated that, in March 2026, Meta filed a sanctions motion alleging that Wynn-Williams violates the emergency arbitration order “any time she appears in public in a place where she should know that her book is available for sale and her presence might draw attention to it”.According to the letter, Meta’s motion specifically cited her appearance at the Hay festival as “an example of conduct that should be formally sanctioned”.It also referred to the identities of her fellow panellists. Meta argued that Cadwalladr was a journalist “primarily known for her negative coverage of Meta”, while Wu was described as “another known critic”.Following the letter, Hay festival withdrew Careless People from sale while she was speaking at the festival, so as not to breach Meta’s legal order.",
-          "zh": "Facebook 举报人莎拉·韦恩·威廉姆斯 (Sarah Wynn-Williams) 被迫在 Hay 音乐节的一次活动中保持沉默，因为律师建议她不要发言，因为 Meta 正在提起法律诉讼。韦恩·威廉姆斯 (Wynn-Williams) 的畅销回忆录《粗心的人》(Careless People) 详细介绍了她在 Facebook 工作的岁月。 韦恩·威廉姆斯 (Sarah Wynn-Williams) 原本打算与调查记者卡罗尔·卡德瓦拉德尔 (Carole Cadwalladr) 和学者蒂姆·吴 (Tim Wu) 进行对话。卡德瓦拉德尔和吴没有说话，也没有回应。她甚至无法点头或摇头。在介绍小组时，卡德瓦拉德尔说：“我认为这可能是海伊第一，其中有一位作家被劫持为人质。如果你能听到我们的声音，莎拉，请眨眼一次，如果[马克]扎克伯格是个混蛋，请眨眼两次。”活动结束时，韦恩-威廉姆斯赢得了观众的起立鼓掌，期间她感动得流下了眼泪。在描述当时的情况时，卡德瓦拉德尔说： “我认为我们可以说Facebook被触发了。”自去年《Careless People》出版以来，Facebook前高管韦恩-威廉姆斯面临着越来越多的法律限制，其中包含对Meta内部文化和决策的指控，包括与政治影响力、该公司对华政策以及对其儿童用户福祉的担忧有关的指控。 Meta 对这本书的说法提出了质疑。Hay 的节目总监海伦·巴格纳尔 (Helen Bagnall) 告诉观众，这一时刻是“对沉默者的团结的重要举动”。拥有 Facebook 和 Instagram 的 Meta 在出版前夕获得了一项紧急法律命令，禁止她公开讨论这本书的某些方面，每次违反该命令，她都将面临 50,000 美元（37,000 英镑）的罚款。据报道，财务和法律压力使她面临破产的威胁。Cadwalladr 将这一奇观描述为 Meta 的“类似恶搞的行为”。 “这不是进行危机传播的方式。危机传播只是简单地忽视这一点并剥夺其氧气。这是一种针对敌人的恶搞行为。”吴在台上发言时谴责了对永利威廉姆斯参与的限制。蒂姆·吴、莎拉·永利威廉姆斯和卡罗尔·卡德瓦拉德尔。活动结束时，永利威廉姆斯获得了全场起立鼓掌。摄影：萨姆·哈德威克“这就是审查制度，”他告诉观众。 “这表明，我们这个时代一些最严重的侵权行为并不局限于国王、皇帝、政府......而是一类公司，这些公司承担了主权影响，并像一些专制民族国家一样寻求维护自己的权力。”在活动期间，卡德瓦拉德尔宣读了永利威廉姆斯律师的一封信，概述了该公司最新的法律主张。信中称，2026年3月，Meta提出制裁动议，指控永利·威廉姆斯“任何时候在她应该知道她的书可供出售的地方公开露面，并且她的出现可能会引起人们的注意”，都违反了紧急仲裁令。根据信中，Meta的动议特别引用了她出现在海伊音乐节上的行为，称其为“应该受到正式制裁的行为例子”。它还提到了她的其他小组成员的身份。 Meta 辩称，Cadwalladr 是一名记者，“主要因其对 Meta 的负面报道而闻名”，而吴则被描述为“另一位知名批评家”。在这封信之后，Hay 音乐节在她在音乐节上发表讲话时，下架了《Careless People》的销售，以免违反 Meta 的法律秩序。"
-        }
-      ]
-    },
-    {
-      "title": "EasyJet says possible takeover bid 'opportunistic'",
-      "link": "https://www.bbc.com/news/articles/c042071p96po?at_medium=RSS&at_campaign=rss",
-      "summary": "US investment firm Castlelake is considering making an offer for the budget airline.",
-      "pubDate": "Mon, 01 Jun 2026 09:47:11 GMT",
-      "source": "BBC Business",
-      "category": "business",
-      "sourceColor": "#0d7a3e",
-      "titleZh": "易捷航空称可能的收购出价是“机会主义的”",
-      "summaryZh": "美国投资公司 Castlelake 正在考虑向这家廉价航空公司提出收购要约。",
-      "contentParagraphs": []
-    },
-    {
-      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
-      "link": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.",
-      "pubDate": "Mon, 01 Jun 2026 12:32:07 GMT",
-      "source": "BBC News",
-      "category": "world",
-      "sourceColor": "#b80000",
-      "titleZh": "随着真主党冲突升级，以色列总理下令对贝鲁特郊区发动袭击",
-      "summaryZh": "本杰明·内塔尼亚胡表示，针对以色列平民的袭击，真主党在达希赫的据点将成为攻击目标。",
-      "contentParagraphs": []
-    },
-    {
-      "title": "These AI models are free, private, and will never say 'no'",
-      "link": "https://www.npr.org/2026/05/31/nx-s1-5816391/ai-safety-concerns-danger-open-weight-models-risks",
-      "summary": "Open-weight AI models with advanced capabilities and no safeguards are becoming much more accessible. While they can be useful, AI safety experts have concerns.",
-      "pubDate": "Sun, 31 May 2026 05:00:00 -0400",
-      "source": "NPR Technology",
-      "category": "tech",
-      "sourceColor": "#1a73e8",
-      "titleZh": "这些人工智能模型是免费的、私密的，并且永远不会说“不”",
-      "summaryZh": "具有先进功能且无保障措施的开放式人工智能模型变得更加容易使用。虽然它们很有用，但人工智能安全专家对此表示担忧。",
-      "contentParagraphs": [
-        {
-          "en": "Participants hold their laptops in front of an illuminated wall at the annual Chaos Computer Club (CCC) computer hackers' congress, called 29C3, on December 28, 2012 in Hamburg, Germany. In 2026, open-weight AI models possess advanced capabilities not far behind their proprietary counterparts. Getting rid of open-weight models' guardrails used to take time and deep expertise. But in recent months, that process has become dramatically more accessible and popular.",
-          "zh": "2012 年 12 月 28 日在德国汉堡举行的一年一度的混沌计算机俱乐部 (CCC) 计算机黑客大会（名为 29C3）上，与会者将笔记本电脑放在发光墙前。到 2026 年，开放权重 AI 模型拥有的先进功能与专有模型相差不远。过去，摆脱开放重量模型的护栏需要时间和深厚的专业知识。但近几个月来，这一过程变得更加容易获得和流行。"
-        },
-        {
-          "en": "How do you make explosives using household items? How do you make meth? How do you plan a school shooting? If you ask the popular AI chatbots most people are familiar with, chances are they will say that it's illegal, harmful or that answering would be a policy violation.",
-          "zh": "如何使用家居用品制作炸药？你如何制作冰毒？你如何计划一次校园枪击事件？如果你问大多数人都熟悉的流行人工智能聊天机器人，他们很可能会说这是非法的、有害的，或者回答会违反政策。"
-        },
-        {
-          "en": "But another type of AI model will never refuse to provide what the user asks for. In recent months, these models have become more accessible and popular.",
-          "zh": "但另一种人工智能模型永远不会拒绝提供用户所要求的东西。近几个月来，这些模型变得更加容易获得和流行。"
-        },
-        {
-          "en": "\"Everybody can download and operate their own state-of-the-art model and use it for great things and terrible things,\" said Noam Schwartz, CEO of Alice, an AI security company that has conducted red-teaming and safety evaluation for AI model developers.",
-          "zh": "“每个人都可以下载并操作自己最先进的模型，并将其用于伟大的事情和可怕的事情，”AI 安全公司 Alice 的首席执行官诺姆·施瓦茨 (Noam Schwartz) 表示，该公司为 AI 模型开发人员进行了红队和安全评估。"
-        },
-        {
-          "en": "Teaching models when to say \"no\"",
-          "zh": "教导何时说“不”"
-        },
-        {
-          "en": "Big AI companies such as OpenAI, Google, Anthropic and xAI train their proprietary models to refuse requests deemed as harmful or inappropriate. Legions of workers instruct models when and how to refuse certain prompts.",
-          "zh": "OpenAI、Google、Anthropic 和 xAI 等大型人工智能公司训练其专有模型来拒绝被视为有害或不适当的请求。大批工作人员指导模特何时以及如何拒绝某些提示。"
-        },
-        {
-          "en": "These methods don't always work and carry pitfalls: some harmful requests go through, while other users complain about innocuous requests being refused. Chatbots that initially say \"no\" can be manipulated into saying \"yes\" using cleverly phrased prompts, such as posing them as poems. Even with guardrails, popular chatbots have been used to plan mass violence and generate deepfake child sexual abuse material. In some instances, parents have accused AI chatbots of encouraging their children to harm themselves.",
-          "zh": "这些方法并不总是有效，并且存在陷阱：一些有害的请求会被通过，而其他用户则抱怨无害的请求被拒绝。最初说“不”的聊天机器人可以通过巧妙的措辞提示（例如将它们摆成诗歌）来操纵说“是”。即使有护栏，流行的聊天机器人也被用来策划大规模暴力并生成深度伪造的儿童性虐待材料。在某些情况下，家长指责人工智能聊天机器人鼓励孩子伤害自己。"
-        },
-        {
-          "en": "But there's a whole other class of AI models whose guardrails are much easier to strip away. They're known as open-weight models. Some are made by tech giants, such as OpenAI and Alibaba, while others are put out by smaller outfits like China's DeepSeek. Like their better-known proprietary counterparts, many possess advanced capabilities such as writing functional code or generating life-like images. Unlike with ChatGPT, Claude or Gemini, it's easier to permanently remove their built-in safety guardrails – and the companies behind them have no idea how they're being used.",
-          "zh": "但还有一类人工智能模型，其护栏更容易被拆除。它们被称为开放重量模型。其中一些是由 OpenAI 和阿里巴巴等科技巨头开发的，而另一些则是由中国 DeepSeek 等规模较小的公司推出的。与更知名的专有同行一样，许多拥有高级功能，例如编写功能代码或生成栩栩如生的图像。与 ChatGPT、Claude 或 Gemini 不同，永久移除它们内置的安全护栏更容易——而且它们背后的公司不知道它们是如何使用的。"
-        },
-        {
-          "en": "Getting rid of open-weight models' guardrails used to take time and deep expertise. But in recent months, that process has become dramatically more accessible and popular.",
-          "zh": "过去，摆脱开放重量模型的护栏需要时间和深厚的专业知识。但近几个月来，这一过程变得更加容易获得和流行。"
-        },
-        {
-          "en": "Recent method makes removing model guardrails easier than ever",
-          "zh": "最近的方法使拆除模型护栏比以往更容易"
-        },
-        {
-          "en": "Safety guardrails of open-weight models can be weakened or removed in many ways. This is largely because the model developers have made what's known as the model weights available to the public. Model weights are sets of parameters, like knobs and dials in a machine, telling the models how to process information.",
-          "zh": "开放式重量模型的安全护栏可以通过多种方式削弱或移除。这主要是因为模型开发人员向公众公开了所谓的模型权重。模型权重是一组参数，例如机器中的旋钮和转盘，告诉模型如何处理信息。"
-        },
-        {
-          "en": "One recently developed method called \"abliteration\" has caught the attention of AI and national security researchers. By tweaking model weights, people can take away the model's ability to say \"no.\"",
-          "zh": "最近开发的一种名为“消除”的方法引起了人工智能和国家安全研究人员的注意。通过调整模型权重，人们可以消除模型说“不”的能力。"
-        },
-        {
-          "en": "Hugging Face, which hosts open-source AI models, currently lists over 6,000 abliterated models, compared to about 600 in 2024. On Hugging Face, abliterated models currently outnumber models that have their guardrails removed using other methods, according to research by the National Counterterrorism Innovation, Technology, and Education Center (NCITE), a Department of Homeland Security-supported research consortium based at University of Nebraska at Omaha.",
-          "zh": "托管开源人工智能模型的 Hugging Face 目前列出了 6,000 多个被删减的模型，而 2024 年大约有 600 个。根据国家反恐创新、技术和教育中心 (NCITE) 的研究，在 Hugging Face 上，被删减的模型目前超过了使用其他方法移除护栏的模型。NCITE 是一个由国土安全部支持的研究联盟，总部设在奥马哈内布拉斯加大学。"
-        },
-        {
-          "en": "What's more, new tools are making it much easier to create abliterated models. \"That was [the job of] the data scientist, you know, a senior employee\" at a leading AI lab, said Schwartz. \"Now, everybody with access to the internet and a laptop for like 400 bucks can actually run this thing on their own machine.\"",
-          "zh": "更重要的是，新工具使创建删减模型变得更加容易。施瓦茨说，“这是数据科学家的工作，你知道，他是一家领先人工智能实验室的高级员工”。 “现在，每个能够访问互联网并拥有 400 美元笔记本电脑的人实际上都可以在自己的机器上运行这个东西。”"
-        },
-        {
-          "en": "One such tool is Heretic, which automates the abliteration process. All a user has to do to remove a model's guardrails is to give Heretic two lines of instructions, and the process can take as little as a few minutes. The application has gotten more popular on the code repository GitHub since February, according to Alice's research.",
-          "zh": "Heretic 就是这样的工具之一，它可以自动执行消除过程。用户只需向 Heretic 发出两行指令即可移除模型的护栏，整个过程只需几分钟。根据 Alice 的研究，自 2 月份以来，该应用程序在代码存储库 GitHub 上变得越来越受欢迎。"
-        },
-        {
-          "en": "Some lawmakers are taking notice. In late April, House lawmakers attended a demonstration of abliterated models hosted by NCITE, Politico reported.",
-          "zh": "一些立法者正在注意到这一点。据 Politico 报道，4 月下旬，众议院议员参加了 NCITE 主办的废除模型示威活动。"
-        },
-        {
-          "en": "\"[What] was frightening about this demonstration was how readily available some of this content or software is on kind of the black market right now, and how it can be weaponized and used to manipulate people, destroy lives and build weapons of mass destruction,\" said Rep. Andy Ogles (R-TN) in a video put out by Republicans on the House Homeland Security Committee. Hugging Face and GitHub, where abliterated models and the tools to make them can be downloaded, are not black markets.",
-          "zh": "众议员安迪·奥格尔斯 (Andy Ogles) 在众议院国土安全委员会共和党人发布的视频中表示，“这次示威活动的可怕之处在于，这些内容或软件现在在黑市上很容易获得，以及它们如何被武器化并用于操纵人民、摧毁生命和制造大规模杀伤性武器。” Hugging Face 和 GitHub 并不是黑市，可以下载被删除的模型及其制作工具。"
-        },
-        {
-          "en": "Models without guardrails can be both useful and dangerous",
-          "zh": "没有护栏的模型既有用又危险"
-        },
-        {
-          "en": "It is difficult to get a comprehensive picture of how people are using open-weight models, because these models are run locally on users' computers, and don't need the internet to function. Unlike with proprietary models, the model developers cannot monitor what users are asking the models.",
-          "zh": "很难全面了解人们如何使用开放权重模型，因为这些模型在用户计算机上本地运行，不需要互联网即可运行。与专有模型不同，模型开发人员无法监控用户对模型的询问。"
-        },
-        {
-          "en": "But there's growing anecdotal evidence for how people are experimenting with altered models.",
-          "zh": "但越来越多的轶事证据表明人们正在尝试改变模型。"
-        },
-        {
-          "en": "Several accounts on X said they have used abliterated models to generate pornography.",
-          "zh": "X 上的几个帐户表示，他们使用删减模型来生成色情内容。"
-        },
-        {
-          "en": "An individual in a pro-ISIS chat room claimed they used an \"uncensored\" AI to research the amount and type of explosives needed to destroy \"Trump Tower in the U.S.,\" according to the Counter Extremism Project, a nonprofit that focuses on counterterrorism.",
-          "zh": "据专注于反恐的非营利组织反极端主义项目称，支持伊斯兰国的聊天室中的一个人声称他们使用“未经审查的”人工智能来研究摧毁“美国特朗普大厦”所需的爆炸物的数量和类型。"
-        },
-        {
-          "en": "On one cybercrime forum, a user asked for ideas to get around an AI model's guardrails so they could use AI",
-          "zh": "在一个网络犯罪论坛上，一位用户询问如何绕过人工智能模型的护栏，以便他们可以使用人工智能"
-        }
-      ]
-    },
-    {
-      "title": "One by one, U.S. civil rights agency dismantles tools to fight discrimination",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5827069/trump-eeoc-discrimination-dei-data",
-      "summary": "The EEOC is seeking to overturn rules created decades ago to tackle discrimination in employment. The Trump administration says those rules have led to more discrimination —against white people.",
-      "pubDate": "Mon, 01 Jun 2026 05:00:00 -0400",
-      "source": "NPR Business",
-      "category": "business",
-      "sourceColor": "#0d7a3e",
-      "titleZh": "美国民权机构一一拆除打击歧视的工具",
-      "summaryZh": "平等就业机会委员会正在寻求推翻几十年前为解决就业歧视问题制定的规则。特朗普政府表示，这些规则导致了更多针对白人的歧视。",
-      "contentParagraphs": [
-        {
-          "en": "The EEOC was established by Title VII of the Civil Rights Act of 1964 to address entrenched discrimination in employment.",
-          "zh": "平等就业机会委员会是根据 1964 年《民权法案》第七章设立的，旨在解决就业中根深蒂固的歧视问题。"
-        },
-        {
-          "en": "Afro American Newspapers/Gado/Getty Images",
-          "zh": "美国黑人报纸/Gado/Getty Images"
-        },
-        {
-          "en": "Afro American Newspapers/Gado/Getty Images",
-          "zh": "美国黑人报纸/Gado/Getty Images"
-        },
-        {
-          "en": "Stay up to date with our Politics newsletter, sent weekly.",
-          "zh": "随时了解我们每周发送的政治时事通讯。"
-        },
-        {
-          "en": "In 1966, the newly-established Equal Employment Opportunity Commission issued a rule to tackle entrenched discrimination on the job.",
-          "zh": "1966年，新成立的平等就业机会委员会颁布了一项规则，以解决工作中根深蒂固的歧视问题。"
-        },
-        {
-          "en": "Every year, companies with a hundred or more workers would turn over to the government information about the race, ethnicity, sex and job categories of their employees.",
-          "zh": "每年，拥有一百名或以上员工的公司都会向政府提交有关员工种族、民族、性别和工作类别的信息。"
-        },
-        {
-          "en": "This EEO-1 data, as it's known, has helped the federal agency figure out where people of color and women are not getting hired or promoted. Over decades, the EEOC's work has led to settlements worth billions.",
-          "zh": "众所周知，EEO-1 数据帮助联邦机构找出有色人种和女性在哪些方面没有被雇用或晋升。几十年来，平等就业机会委员会的工作已促成价值数十亿美元的和解。"
-        },
-        {
-          "en": "Now, as part of a realignment of civil rights enforcement under President Trump, the EEOC is seeking to end its annual data collection while also getting rid of a 1979 regulation that allowed employers to take certain steps to address race and gender imbalances revealed by the data.",
-          "zh": "现在，作为特朗普总统领导下的民权执法重组的一部分，平等就业机会委员会正在寻求结束其年度数据收集，同时废除 1979 年的一项规定，该规定允许雇主采取某些措施来解决数据所揭示的种族和性别失衡问题。"
-        },
-        {
-          "en": "Together, the moves would mark an about-face in the civil rights agency's efforts to fulfill its mission.",
-          "zh": "总之，这些举措将标志着民权机构履行其使命的努力发生转变。"
-        },
-        {
-          "en": "Andrea Lucas, the Trump-appointed chair of the EEOC, did not respond to NPR's questions about the two proposals, which have been submitted to the White House for review.",
-          "zh": "特朗普任命的平等就业机会委员会主席安德里亚·卢卡斯没有回应 NPR 关于这两项提案的问题，这两项提案已提交白宫审查。"
-        },
-        {
-          "en": "But in interviews and public remarks, Lucas has repeatedly warned that programs or policies aimed at helping specific groups, such as Black people or women, are unlawful under Title VII of the Civil Rights Act of 1964 if they exclude others.",
-          "zh": "但在采访和公开讲话中，卢卡斯一再警告说，根据 1964 年《民权法案》第七章，旨在帮助黑人或妇女等特定群体的计划或政策如果排除其他群体，则属于非法行为。"
-        },
-        {
-          "en": "\"Regardless of what has happened before, the way to stop discriminating based on race is to stop discriminating based on race. The end. Full stop,\" Lucas said at the Fortune Workplace Innovation Summit earlier this month. \"I think that that's a more beautiful vision of our country, and I think it's consistent with the text of the statute.\"",
-          "zh": "“无论以前发生过什么，停止基于种族的歧视的方法就是停止基于种族的歧视。结束。完全停止，”卢卡斯本月早些时候在《财富》工作场所创新峰会上表示。 “我认为这是我们国家更美好的愿景，我认为这与法规的文本是一致的。”"
-        },
-        {
-          "en": "A roadmap for addressing discrimination",
-          "zh": "解决歧视问题的路线图"
-        },
-        {
-          "en": "The 1979 regulation the EEOC seeks to rescind was issued with this very dilemma in mind: Can a company remedy discrimination by giving special consideration to those who were deprived of opportunities in the past?",
-          "zh": "平等就业机会委员会寻求废除的 1979 年法规就是在考虑到这一困境的情况下发布的：公司能否通过特别考虑那些过去被剥夺机会的人来纠正歧视？"
-        },
-        {
-          "en": "The answer back then was yes. The agency gave the go-ahead for mentoring programs and even hiring targets.",
-          "zh": "当时的答案是肯定的。该机构批准了指导计划甚至招聘目标。"
-        },
-        {
-          "en": "\"The EEOC says you can take some of these voluntary efforts, even though they will be race- or gender-conscious,\" says Chai Feldblum, who served on the commission during the Obama and first Trump administrations. \"This is the EEOC giving employers the roadmap of how they can take race and gender into account in a positive way and not violate the law.\"",
-          "zh": "“平等就业机会委员会表示，你可以采取一些自愿的努力，即使它们会考虑到种族或性别，”在奥巴马和特朗普第一届政府期间曾在该委员会任职的柴·费尔德布鲁姆 (Chai Feldblum) 说。 “平等就业机会委员会为雇主提供了如何以积极的方式考虑种族和性别而不违反法律的路线图。”"
-        },
-        {
-          "en": "The guidelines, issued in January 1979, made clear that companies first had to document a problem, and then come up with a reasonable and time-limited plan for how to increase the number of minorities or women in their ranks.",
-          "zh": "1979 年 1 月发布的指导方针明确规定，公司首先必须记录问题，然后就如何增加少数族裔或女性员工的数量提出合理且有时限的计划。"
-        },
-        {
-          "en": "Five months later, the Supreme Court embraced that roadmap. In a 5-2 decision known as Weber, the court found that an affirmative action plan to remedy past discrimination was lawful provided it did not \"unnecessarily trammel the interests of white employees\" and that it was temporary.",
-          "zh": "五个月后，最高法院接受了该路线图。在一项被称为“韦伯”的判决中，法院认为纠正过去歧视的平权行动计划是合法的，只要它不会“不必要地束缚白人雇员的利益”，而且它是暂时的。"
-        },
-        {
-          "en": "In 1987, the court issued another decision, known as Johnson, extending protection to efforts aimed at helping women.",
-          "zh": "1987 年，法院发布了另一项名为“约翰逊”的判决，将保护范围扩大到旨在帮助妇女的努力。"
-        },
-        {
-          "en": "Now known as the Weber-Johnson standard, it's still the law regardless of what happens with the EEOC's 1979 regulation, says Feldblum. But for how long, she's not sure.",
-          "zh": "Feldblum 表示，现在被称为韦伯-约翰逊标准，无论 EEOC 1979 年法规发生什么变化，它仍然是法律。但要持续多久，她并不确定。"
-        },
-        {
-          "en": "\"I think the Supreme Court is just waiting for a case that might allow them to overturn those two important cases,\" she says.",
-          "zh": "“我认为最高法院只是在等待一个可能让他们推翻这两起重要案件的案件，”她说。"
-        },
-        {
-          "en": "How data has helped root out discrimination",
-          "zh": "数据如何帮助根除歧视"
-        },
-        {
-          "en": "The more imminent change, assuming the EEOC's proposals go forward, is the demise of the agency's annual collection of employee demographics. Usually, the data collection begins in late spring. So far this year, there's been no word of it.",
-          "zh": "假设平等就业机会委员会的提案得以推进，更迫在眉睫的变化是该机构不再收集员工人口统计数据。通常，数据收集在春末开始。今年到目前为止，还没有任何消息。"
-        },
-        {
-          "en": "Since the 1960s, the EEOC has recovered billions of dollars for workers who have suffered discrimination on the job, and in many cases, EEO-1 data played a key role.",
-          "zh": "自 20 世纪 60 年代以来，平等就业机会委员会已为在工作中遭受歧视的工人追回了数十亿美元，在许多情况下，EEO-1 数据发挥了关键作用。"
-        },
-        {
-          "en": "\"It's one of the first things that you can look at as you're trying to learn more,\" says Karla Gilbride, who served as the EEOC's general counsel during the Biden administration.",
-          "zh": "“当你试图了解更多信息时，这是你首先要考虑的事情之一，”在拜登政府期间担任平等就业机会委员会总法律顾问的卡拉吉尔布赖德说。"
-        },
-        {
-          "en": "Protecting U.S. workers from unlawful discrimination — already a hard task — could become significantly harder if the government no longer has that data within arm's reach, Gilbride says. Having to subpoena data would make enforcement far more laborious and less efficient.",
-          "zh": "吉尔布赖德说，如果政府不再掌握这些数据，保护美国工人免受非法歧视本来就很艰巨的任务可能会变得更加困难。必须传唤数据将使执法更加费力且效率更低。"
-        },
-        {
-          "en": "A lawsuit against Bass Pro Shops",
-          "zh": "针对 Bass Pro Shops 的诉讼"
-        },
-        {
-          "en": "Consider the lawsuit against Bass Pro Shops, first filed in 2011.",
-          "zh": "以 2011 年首次提起的针对 Bass Pro Shops 的诉讼为例。"
-        },
-        {
-          "en": "The EEOC alleged the company, formally known as Bass Pro Outdoor World, discriminated against Black and Hispanic job applicants by not hiring them — not just at one store, but across the country, even in places with sizable Black and Hispanic populations.",
-          "zh": "平等就业机会委员会指控，该公司（正式名称为 Bass Pro Outdoor World）歧视黑人和西班牙裔求职者，不雇用他们——不仅是在一家商店，而是在全国各地，甚至在黑人和西班牙裔人口众多的地方。"
-        },
-        {
-          "en": "\"Store by store by store, sort of the same idea, where you had areas that had a significant number of Blacks and Latinos, and either zero or very few at the stores,\" says David Lopez, who was the EEOC's general counsel at the time and now leads the Civil Rights, Migration and Workplace Law Initiative at Arizona State University.",
-          "zh": "时任平等就业机会委员会总法律顾问、现任亚利桑那州立大学民权、移民和工作场所法律倡议负责人的大卫·洛佩兹 (David Lopez) 表示：“每家商店的想法都差不多，那里有大量黑人和拉丁裔，但商店里的黑人和拉丁裔人数要么为零，要么很少。”"
-        },
-        {
-          "en": "A Bass Pro Shops Outdoor World retail store in Irvine, Calif.",
-          "zh": "加利福尼亚州欧文市的一家 Bass Pro Shops Outdoor World 零售店。"
-        },
-        {
-          "en": "Jeff Gritchen/MediaNews Group/Orange County Register via Getty Images",
-          "zh": "杰夫·格里琴/媒体新闻组/奥兰治县注册通过盖蒂图片社"
-        },
-        {
-          "en": "Jeff Gritchen/MediaNews Group/Orange County Register via Getty Images",
-          "zh": "杰夫·格里琴/媒体新闻组/奥兰治县注册通过盖蒂图片社"
-        },
-        {
-          "en": "The EEOC saw that pattern because it had Bass Pro's demographic data on file. Government investigators could easily compare the outdoor gear shop to other retailers in the same counties. They could also compare Bass Pro's workforce to the available pool of workers in the surrounding areas.",
-          "zh": "平等就业机会委员会看到了这种模式，因为它有 Bass Pro 的人口统计数据存档。政府调查人员可以轻松地将户外装备店与同一县的其他零售商进行比较。他们还可以将 Bass Pro 的劳动力与周边地区的可用工人池进行比较。"
-        },
-        {
-          "en": "While the data by itself could not prove discrimination, Lopez says it was a green light to agency investigators to dig further.",
-          "zh": "虽然数据本身并不能证明存在歧视，但洛佩兹表示，这为机构调查人员进一步挖掘开了绿灯。"
-        },
-        {
-          "en": "\"Because they had a reason to investigate, they were able to discover that there were managerial comments that were reflective of d",
-          "zh": "“因为他们有理由进行调查，所以他们能够发现管理层的评论反映了"
-        }
-      ]
-    },
-    {
-      "title": "Residents flee Beirut’s southern suburbs as Israel orders strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/residents-flee-beiruts-southern-suburbs-as-israel-orders-strikes?traffic_source=rss",
-      "summary": "Videos show gridlocked traffic in the southern suburbs of Beirut as residents rushed to evacuate the Dahiyeh area.",
-      "pubDate": "Mon, 01 Jun 2026 12:22:53 +0000",
-      "source": "Al Jazeera",
-      "category": "world",
-      "sourceColor": "#f79120",
-      "titleZh": "以色列下令罢工，居民逃离贝鲁特南郊",
-      "summaryZh": "视频显示，贝鲁特南郊交通拥堵，居民纷纷撤离达希耶地区。",
-      "contentParagraphs": [
-        {
-          "en": "Residents flee Beirut’s southern suburbs as Israel orders strikesNewsFeedVideos show gridlocked traffic in the southern suburbs of Beirut as residents rushed to evacuate the Dahiyeh area following Israeli Prime Minister Benjamin Netanyahu’s order that the military strike neighbourhoods associated with Hezbollah.Published On 1 Jun 2026",
-          "zh": "以色列下令罢工，居民逃离贝鲁特南郊新闻动态视频显示，以色列总理本杰明·内塔尼亚胡下令军事打击与真主党有关的社区后，居民纷纷撤离达希耶地区，贝鲁特南郊交通陷入拥堵。 发布于 2026 年 6 月 1 日"
-        }
-      ]
-    },
-    {
-      "title": "Put a £5 deposit on vapes to stop fires, say waste companies",
-      "link": "https://www.bbc.com/news/articles/c4g4vqex028o?at_medium=RSS&at_campaign=rss",
-      "summary": "The industry body for waste companies says a refundable deposit would help boost vape recycling, but others disagree.",
-      "pubDate": "Mon, 01 Jun 2026 08:29:03 GMT",
-      "source": "BBC Business",
-      "category": "business",
-      "sourceColor": "#0d7a3e",
-      "titleZh": "废物处理公司表示，购买电子烟需缴纳 5 英镑押金以阻止火灾",
-      "summaryZh": "废物公司行业机构表示，可退还的押金将有助于促进电子烟回收，但其他人不同意。",
-      "contentParagraphs": []
-    },
-    {
-      "title": "How could El Nino reshape tropical storms around the world this year?",
-      "link": "https://www.aljazeera.com/news/2026/6/1/how-could-el-nino-reshape-tropical-storms-around-the-world-this-year?traffic_source=rss",
-      "summary": "El Nino tends to reduce hurricanes in the Atlantic while increasing storms in the Pacific Ocean.",
-      "pubDate": "Mon, 01 Jun 2026 12:01:14 +0000",
-      "source": "Al Jazeera",
-      "category": "world",
-      "sourceColor": "#f79120",
-      "titleZh": "厄尔尼诺现象如何重塑今年世界各地的热带风暴？",
-      "summaryZh": "厄尔尼诺现象往往会减少大西洋的飓风，同时增加太平洋的风暴。",
-      "contentParagraphs": [
-        {
-          "en": "The Atlantic hurricane season has just begun and runs from Monday to November 30 with storm activity peaking in mid-September.During this period, warm ocean waters and atmospheric shifts feed and accelerate tropical storms and hurricanes that mainly threaten the Caribbean and the East and Gulf coasts of the United States.This year, forecasters at the US National Oceanic and Atmospheric Administration (NOAA) predicted a quieter‑than‑usual Atlantic hurricane season, largely due to a phenomenon called El Nino. They see a 55 percent chance of below‑normal activity, a 35 percent chance of near‑normal and a 10 percent chance of above‑normal.What is El Nino, and how does it influence storms?El Nino is the periodic warming of surface sea temperatures in the central and eastern tropical Pacific Ocean.The resulting disruptions to global wind and rainfall systems can intensify floods, droughts and heatwaves across parts of the world. The weather phenomenon also tends to push global average temperatures slightly higher during its active phase.El Nino events typically occur every two to seven years and usually last nine to 12 months although some persist longer.Its counterpart, La Nina, is the opposite, meaning cooler-than-normal Pacific temperatures.Both are part of a larger climate pattern called ENSO (El Nino-Southern Oscillation), which has three phases, summarised in the graphic below:(Al Jazeera)Neutral phaseTrade winds are steady, equatorial winds that blow from east to west across the Pacific Ocean. Under normal conditions, these winds push warm surface water away from the Americas towards Asia. As that warm water moves west, cold water rises from the ocean depths along the American coast to replace it.The cool phase: La NinaLa Nina is the opposite extreme of El Nino. Trade winds blow even stronger than usual, pushing more warm water towards Asia and dropping eastern Pacific surface sea temperatures below average.The warm phase: El NinoDuring El Nino, these trade winds weaken or reverse, allowing the warm water in the Pacific to surge back east towards the Americas.El Nino suppresses Atlantic hurricane activity while increasing Pacific storm activity whereas La Nina does the opposite, producing more and stronger Atlantic hurricanes.Why and how do tropical storms form?Tropical storms form over warm ocean waters near the equator. Simply put, as this warm air rises, an area of lower air pressure is formed.As the air cools down again, it is pushed aside by more warm air rising below it. This cycle causes strong winds and rain.As this cycle gains momentum and strengthens, it creates a tropical storm.As the storm system rotates faster, the centre of it, called an eye, forms.The eye of the storm is very calm and clear and has very low air pressure as the intense rotation flings air outwards.When winds reach speeds of 63 kilometres per hour (39 miles per hour), the storm is called a tropical storm. When the wind speeds reach 119km/h (74mph), the storm becomes a tropical cyclone, typhoon or hurricane.(Al Jazeera)Are hurricanes, cyclones and typhoons the same thing?When broken down to basics, yes, hurricanes, cyclones and typhoons are all essentially the same thing. The only thing that differs is where they originate. All three are storm systems with winds exceeding 119km/h (74mph).Hurricanes: These storms occur in the North Atlantic Ocean and Northeast Pacific, often affecting the US East Coast, the Gulf of Mexico and the Caribbean. The strength of a hurricane is measured on a wind scale from 1 to 5. A Category 1 hurricane will bring with it sustained winds of 119-153km/h (74-95mph) whereas a Category 5 storm can generate winds of more than 252km/h (157mph).Cyclones: These storms occur in the South Pacific and the Indian Ocean, often impacting countries from Australia all the way to Mozambique. Cyclone season typically runs from November to April.Typhoons: These storms occur in the northwestern Pacific Ocean and frequently hit the Philippines and Japan. Typhoon season is most common from May to October, but they can form year-round. The strength of a typhoon has various classification scales with the most severe storms named “super typhoons”.(Al Jazeera)How will El Nino affect storms around the world?El Nino affects weather differently depending on where in the world you are.North AtlanticDuring El Nino, hurricane activity drops in the Atlantic. An average season has 14 named storms and seven hurricanes, including three major hurricanes.Historically, there has been a 60 percent reduction in the number of hurricane days and an overall reduction in system intensity during an El Nino phase.“Although El Nino’s impact in the Atlantic Basin can often suppress hurricane development, there is still uncertainty in how each season will unfold,” NOAA’s National Weather Service Director Ken Graham said in a news release.“It only takes one storm to make for a very bad season,” he warned, encouraging everyone in areas where hurricanes can strike to prepare for the storms.Tropical storms in the Atlantic are some of the world’s deadliest and costliest natural disasters. In the US alone, hurricanes have caused 7,211 deaths, or an average of 160 per year, from 1980 to 2024, and caused about $1.55 trillion in economic losses. These numbers include Hurricane Katrina (2005), Maria (2017) and Helene (2024).(Al Jazeera)Northeast Pacific (near Hawaii)More storms form around Hawaii during an El Nino phase. In the year right after an El Nino, more storms tend to drift into this area.Australia and the South PacificDuring El Nino, fewer storms form across Australia’s coastline.However, the storms don’t disappear entirely. The area where they form simply shifts east into the South Pacific near and just east of the international dateline.These shifts are linked to shifts in surface sea temperatures and atmospheric conditions, which move and strengthen depending on the climate phase.Asia and the Northwest PacificThe Northwest Paci",
-          "zh": "大西洋飓风季节刚刚开始，从周一到 11 月 30 日，风暴活动在 9 月中旬达到顶峰。在此期间，温暖的海水和大气变化助长并加速了热带风暴和飓风，主要威胁加勒比海以及美国东部和墨西哥湾沿岸。今年，美国国家海洋和大气管理局 (NOAA) 的预报员预测，大西洋飓风季节将比往常安静，这主要是由于一种名为“大西洋飓风季节”的现象造成的。厄尔尼诺现象。他们认为活动低于正常水平的可能性为 55%，接近正常水平的可能性为 35%，高于正常水平的可能性为 10%。什么是厄尔尼诺现象，它如何影响风暴？厄尔尼诺现象是热带太平洋中部和东部表面海水温度的周期性变暖。由此产生的对全球风和降雨系统的破坏可能会加剧世界各地的洪水、干旱和热浪。这种天气现象还往往会导致全球平均气温在其活跃阶段略微升高。厄尔尼诺事件通常每两到七年发生一次，通常持续九到十二个月，尽管有些持续时间更长。与之相对应的拉尼娜现象则相反，意味着太平洋温度低于正常水平。两者都是称为 ENSO（厄尔尼诺-南方涛动）的更大气候模式的一部分，该模式分为三个阶段，如下图所示：（半岛电视台）中性阶段贸易风稳定，从东向西吹过太平洋的赤道风。在正常情况下，这些风将温暖的地表水从美洲推向亚洲。当温暖的海水向西移动时，冷水从美国海岸的海洋深处升起取代它。凉爽阶段：拉尼娜拉尼娜是厄尔尼诺现象的相反极端。信风比平时更强，将更多的暖水吹向亚洲，使东太平洋表面海水温度低于平均水平。暖相：厄尔尼诺现象在厄尔尼诺现象期间，这些信风减弱或逆转，使太平洋的暖水向东涌向美洲。厄尔尼诺现象抑制大西洋飓风活动，同时增加太平洋风暴活动，而拉尼娜则相反，产生更多更强的大西洋飓风。热带风暴为何以及如何形成？热带风暴在温暖的海水上形成赤道附近。简而言之，当暖空气上升时，会形成一个气压较低的区域。当空气再次冷却时，它会被下方上升的更多暖空气推到一边。这个循环会产生强风和降雨。随着这个循环的势头增强并加强，就会产生热带风暴。随着风暴系统旋转速度加快，它的中心（称为风暴眼）就会形成。风暴眼非常平静、清澈，由于剧烈的旋转将空气向外抛，气压非常低。当风速达到每小时 63 公里（每小时 39 英里）时，风暴被称为热带风暴。当风速达到 119 公里/小时（74 英里/小时）时，风暴就会变成热带气旋、台风或飓风。（半岛电视台）飓风、气旋和台风是同一件事吗？从基本角度来看，是的，飓风、气旋和台风本质上都是同一件事。唯一不同的是它们的起源地。这三种风暴都是风速超过 119 公里/小时（74 英里/小时）的风暴系统。 飓风：这些风暴发生在北大西洋和东北太平洋，经常影响美国东海岸、墨西哥湾和加勒比海。飓风的强度以 1 至 5 级的风级来衡量。1 级飓风将带来 119-153 公里/小时（74-95 英里/小时）的持续风速，而 5 级风暴则可产生超过 252 公里/小时（157 英里/小时）的风速。 气旋：这些风暴发生在南太平洋和印度洋，经常影响从澳大利亚一直到莫桑比克的国家。气旋季节通常从 11 月到 4 月。 台风：这些风暴发生在西北太平洋，经常袭击菲律宾和日本。台风季节最常见的是五月至十月，但全年都可以形成。台风的强度有不同的分级标准，其中最严重的风暴被称为“超级台风”。（半岛电视台）厄尔尼诺现象将如何影响世界各地的风暴？厄尔尼诺现象对天气的影响因您所在的位置而异。北大西洋 在厄尔尼诺现象期间，大西洋的飓风活动下降。平均每个季节有 14 场命名风暴和 7 场飓风，其中包括 3 场大型飓风。从历史上看，厄尔尼诺阶段飓风天数减少了 60%，系统强度总体降低。NOAA 国家气象局局长肯·格雷厄姆在新闻中表示：“虽然厄尔尼诺对大西洋盆地的影响往往可以抑制飓风的发展，但每个季节将如何展开仍然存在不确定性。”他警告说：“只要一场风暴，就会造成一个非常糟糕的季节。”他鼓励飓风可能袭击地区的每个人都做好应对风暴的准备。大西洋的热带风暴是世界上最致命、损失最惨重的自然灾害之一。仅在美国，从 1980 年到 2024 年，飓风就造成了 7,211 人死亡，平均每年死亡 160 人，并造成约 1.55 万亿美元的经济损失。这些数字包括卡特里娜飓风（2005 年）、玛丽亚飓风（2017 年）和海伦飓风（2024 年）。（半岛电视台）东北太平洋（夏威夷附近）厄尔尼诺阶段期间，夏威夷周围会形成更多风暴。在厄尔尼诺现象发生后的一年里，更多的风暴往往会流入该地区。澳大利亚和南太平洋在厄尔尼诺现象期间，澳大利亚海岸线形成的风暴较少。但是，风暴并没有完全消失。它们形成的区域只是向东移动到国际日期变更线附近和正东的南太平洋。这些变化与表面海洋温度和大气条件的变化有关，这些变化根据气候阶段而移动和加强。亚洲和西北太平洋西北太平洋"
-        }
-      ]
-    },
-    {
-      "title": "United Airlines flight to Spain pulls U-turn, apparently over Bluetooth device name",
-      "link": "https://www.npr.org/2026/05/31/nx-s1-5841913/united-airlines-flight-diversion-bluetooth",
-      "summary": "The flight to Palma de Mallorca diverted back to Newark late on Saturday. Air traffic audio and social media posts indicate an onboard Bluetooth device raised security concerns.",
-      "pubDate": "Sun, 31 May 2026 16:29:34 -0400",
-      "source": "NPR Business",
-      "category": "business",
-      "sourceColor": "#0d7a3e",
-      "titleZh": "联合航空飞往西班牙的航班掉头，显然是因为蓝牙设备名称",
-      "summaryZh": "飞往马略卡岛帕尔马的航班于周六晚转回纽瓦克。空中交通音频和社交媒体帖子表明机载蓝牙设备引发了安全担忧。",
-      "contentParagraphs": [
-        {
-          "en": "In this July 18, 2018, file photo, United Airlines commercial jets sit at a gate at Terminal C of Newark Liberty International Airport in Newark, N.J.",
-          "zh": "在这张 2018 年 7 月 18 日的资料照片中，美国联合航空公司的商用飞机停在新泽西州纽瓦克纽瓦克自由国际机场 C 航站楼的登机口上。"
-        },
-        {
-          "en": "Stay up to date with our Up First newsletter, sent every weekday morning.",
-          "zh": "请随时关注我们每个工作日早上发送的 Up First 时事通讯。"
-        },
-        {
-          "en": "A United Airlines flight from Newark, N.J., to Palma de Mallorca, Spain, pulled a U-turn late Saturday over what appears to have been a suspiciously named Bluetooth device on board.",
-          "zh": "周六晚间，联合航空一架从新泽西州纽瓦克飞往西班牙马略卡岛帕尔马的航班因机上似乎有一个名称可疑的蓝牙设备而掉头。"
-        },
-        {
-          "en": "Flight tracking data shows that the flight, which should have landed in Spain after a nearly eight-hour flight, instead returned to Newark after 4 hours and 24 minutes in the air.",
-          "zh": "航班跟踪数据显示，这架航班本应在飞行近8小时后降落在西班牙，但却在空中飞行4小时24分钟后返回纽瓦克。"
-        },
-        {
-          "en": "United Airlines told NPR via email that the flight turned around \"to address a potential security concern.\" Multiple posts on social media from self-identified passengers indicate that the problem was a Bluetooth device on board the plane. Several of those passengers posted photos or videos of them on board the flight or in the airport, with timestamps that match the flight's actual schedule.",
-          "zh": "美国联合航空公司通过电子邮件告诉美国公共广播电台，该航班掉头“是为了解决潜在的安全问题”。社交媒体上多位自称乘客的帖子表明，问题出在飞机上的蓝牙设备上。其中一些乘客发布了他们在航班上或机场的照片或视频，时间戳与航班的实际时刻表相符。"
-        },
-        {
-          "en": "Some passengers knew little more than that the flight attendants had asked passengers to turn off their Bluetooth devices. One post referenced in-flight announcements with \"lots of comments like 'this little joke is ruining it for everyone.' \"",
-          "zh": "一些乘客只知道空乘人员要求乘客关闭蓝牙设备。一篇帖子提到了飞行中的公告，“有很多评论，比如‘这个小笑话毁了每个人的生活’。” ”"
-        },
-        {
-          "en": "Audio from air traffic control, archived by LiveATC.net, sheds a little more light on the situation. One voice on the recording asked what had happened with the flight, which had recently landed back at Newark and remained on the tarmac.",
-          "zh": "LiveATC.net 存档的空中交通管制音频进一步说明了情况。录音中的一个声音询问这架航班最近发生了什么事，该航班最近降落在纽瓦克并留在停机坪上。"
-        },
-        {
-          "en": "\"There's a security detail out there, someone had a Bluetooth speaker and they named it a certain four-letter word,\" another voice responded. \"So they have to inspect the whole aircraft including the cargo area [and] passengers have to evacuate.\"",
-          "zh": "“那里有一个安全细节，有人有一个蓝牙扬声器，他们将其命名为某个四个字母的单词，”另一个声音回应道。 “所以他们必须检查整个飞机，包括货运区，乘客也必须撤离。”"
-        },
-        {
-          "en": "\"That's crazy,\" the first voice replied.",
-          "zh": "“这太疯狂了，”第一个声音回答道。"
-        },
-        {
-          "en": "\"Four-letter word,\" in this case, doesn't appear to refer to a curse word, but rather a different four-letter word that triggered airline security procedures.",
-          "zh": "在这种情况下，“四字母词”似乎并不是指诅咒词，而是触发航空公司安全程序的另一个四字母词。"
-        },
-        {
-          "en": "\"There is an active Bluetooth network labeled 'BOMB,' \" one self-identified passenger wrote on TikTok. (She shared a video of herself drinking sangria, geotagged to Palma de Mallorca, after the flight finally arrived.) Another Reddit post of someone who claimed to be the spouse of a passenger similarly reported that the word in question was \"bomb\" and that the device was a teenager's speaker.",
-          "zh": "一位自称身份的乘客在 TikTok 上写道：“有一个活跃的蓝牙网络，标记为‘BOMB’。” （航班最终抵达后，她分享了一段自己喝桑格利亚汽酒的视频，该桑格利亚汽酒被地理标记为马略卡岛帕尔马。）另一个自称乘客配偶的 Reddit 帖子同样报道称，相关词是“炸弹”，而该设备是一个青少年的扬声器。"
-        },
-        {
-          "en": "The flight eventually reboarded and landed in Palma de Mallorca at 3:47 p.m. local time on Sunday, about 9 and a half hours late.",
-          "zh": "该航班最终于下午 3:47 重新登机并降落在马略卡岛帕尔马。当地时间周日，晚点约9个半小时。"
-        }
-      ]
-    },
-    {
-      "title": "A cancer vaccine made just for you. mRNA is back and it's fighting melanoma",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5827041/cancer-vaccine-mrna-melanoma",
-      "summary": "A study finds that an mRNA vaccine is highly effective at preventing recurrence of this dangerous skin cancer, when used in combination with Keytruda, an immunotherapy drug.",
-      "pubDate": "Mon, 01 Jun 2026 08:00:00 -0400",
-      "source": "NPR News",
-      "category": "world",
-      "sourceColor": "#e57300",
-      "titleZh": "专为您打造的癌症疫苗。 mRNA 卷土重来，正在对抗黑色素瘤",
-      "summaryZh": "一项研究发现，当 mRNA 疫苗与免疫治疗药物 Keytruda 联合使用时，可以非常有效地预防这种危险的皮肤癌的复发。",
-      "contentParagraphs": [
-        {
-          "en": "Connie Franciosi, 80, was part of a trial that looked at using an mRNA vaccine and an immunotherapy drug to prevent the recurrence of melanoma.",
-          "zh": "80 岁的 Connie Franciosi 参与了一项试验，该试验研究使用 mRNA 疫苗和免疫治疗药物来预防黑色素瘤复发。"
-        },
-        {
-          "en": "Connie Franciosi, 80, noticed a suspicious spot on her skin and was diagnosed with melanoma in 2020. \"It was considered a late diagnosis,\" she says.",
-          "zh": "80 岁的康妮·弗朗西奥西 (Connie Franciosi) 注意到自己的皮肤上有一个可疑斑点，并于 2020 年被诊断出患有黑色素瘤。“这被认为是晚期诊断，”她说。"
-        },
-        {
-          "en": "The skin cancer can be difficult to treat if it's not detected and treated early, and it can spread to other parts of the body. There are approximately 112,000 melanomas diagnosed in the U.S. each year and about 8,500 deaths.",
-          "zh": "如果不及早发现和治疗，皮肤癌可能很难治疗，并且可能会扩散到身体的其他部位。美国每年诊断出约 112,000 例黑色素瘤，并导致约 8,500 例死亡。"
-        },
-        {
-          "en": "After Franciosi had surgery to remove the melanoma, she was told she had a high risk of recurrence and was offered a spot in a clinical trial testing a new messenger RNA (mRNA) vaccine combined with Keytruda, an immunotherapy drug.",
-          "zh": "Franciosi 接受黑色素瘤切除手术后，被告知复发风险很高，并获得了参与一项临床试验的机会，该试验测试一种新的信使 RNA (mRNA) 疫苗与免疫治疗药物 Keytruda 的结合。"
-        },
-        {
-          "en": "At the time, mRNA technology was in the news because of the recently developed Moderna COVID-19 vaccine. This melanoma trial, which included 157 patients in Australia and the U.S., all of whom had surgery to remove their tumors, was set up to test whether the same mRNA technology could be used to create a personalized cancer vaccine, explains Dr. Janice Mehnert. Mehnert is a melanoma specialist and researcher at NYU Langone Health and senior author of a new paper published Monday analyzing the five-year results.",
-          "zh": "当时，mRNA 技术因最近开发的 Moderna COVID-19 疫苗而成为新闻焦点。 Janice Mehnert 博士解释说，这项黑色素瘤试验包括澳大利亚和美国的 157 名患者，他们都接受了肿瘤切除手术，旨在测试是否可以使用相同的 mRNA 技术来创建个性化癌症疫苗。梅纳特是纽约大学朗格健康中心的黑色素瘤专家和研究员，也是周一发表的一篇分析五年结果的新论文的资深作者。"
-        },
-        {
-          "en": "\"This is an incredibly interesting trial because the approach is just so unique,\" Mehnert says. \"It is a personalized immunotherapy strategy,\" tailored to each patient's tumor.",
-          "zh": "“这是一次非常有趣的试验，因为这种方法非常独特，”梅纳特说。 “这是一种个性化的免疫治疗策略”，针对每位患者的肿瘤量身定制。"
-        },
-        {
-          "en": "Want the latest stories on the science of healthy living? Subscribe to NPR's Health newsletter.",
-          "zh": "想了解健康生活科学的最新故事吗？订阅 NPR 的健康通讯。"
-        },
-        {
-          "en": "The results are striking. After five years of follow-up, 68.8% of patients who received the combination therapy remained cancer-free, she says, compared with 49.1% of patients who received Keytruda alone, which amounts to a 49% reduction in risk. \"That's pretty exciting,\" Mehnert says.",
-          "zh": "结果是惊人的。她说，经过五年的随访，接受联合疗法的患者中有 68.8% 的患者没有患癌症，而单独接受 Keytruda 的患者的这一比例为 49.1%，相当于风险降低了 49%。 “这非常令人兴奋，”梅纳特说。"
-        },
-        {
-          "en": "In addition, 92% of patients who received the combination therapy were alive at the five-year mark, compared with 71% of those who only used Keytruda. \"I think this is strong evidence that this therapy, when used in combination with immunotherapy, can demonstrably reduce the risk of dying from this disease,\" she says.",
-          "zh": "此外，接受联合治疗的患者中有 92% 的患者在五年后仍存活，而仅使用 Keytruda 的患者中这一比例为 71%。 “我认为这是强有力的证据，表明这种疗法与免疫疗法结合使用时，可以明显降低死于这种疾病的风险，”她说。"
-        },
-        {
-          "en": "The results of the study are being presented at the American Society of Clinical Oncology conference today and are published in the Journal of Clinical Oncology.",
-          "zh": "该研究结果今天在美国临床肿瘤学会会议上公布，并发表在《临床肿瘤学杂志》上。"
-        },
-        {
-          "en": "Mehnert says that predicting when melanoma will recur is difficult.",
-          "zh": "梅纳特说，预测黑色素瘤何时会复发很困难。"
-        },
-        {
-          "en": "\"Sometimes recurrence is easily treated with surgery or radiation, but sometimes it happens in the lungs, the liver or the brain,\" and then it can be challenging to treat, she says. That's why a preventive approach makes sense. \"We're trying to harness the power of the immune system early in a patient's disease course to optimize their outcomes,\" she says.",
-          "zh": "“有时复发很容易通过手术或放射治疗，但有时复发发生在肺部、肝脏或大脑，”她说，治疗起来可能会很困难。这就是为什么预防性方法有意义。 “我们正试图在患者病程的早期利用免疫系统的力量来优化他们的治疗结果，”她说。"
-        },
-        {
-          "en": "Dr. Sarah Arron, a dermatologist and skin cancer surgeon in the San Francisco Bay Area who was not involved in the research, says the results are significant and demonstrate the potential of mRNA vaccines.",
-          "zh": "旧金山湾区的皮肤科医生和皮肤癌外科医生 Sarah Arron 博士没有参与这项研究，她表示，研究结果意义重大，证明了 mRNA 疫苗的潜力。"
-        },
-        {
-          "en": "\"I think this is a landmark advance in how we treat these very advanced, high-risk melanomas,\" she says.",
-          "zh": "“我认为这是我们治疗这些非常晚期、高风险黑色素瘤的一个里程碑式的进步，”她说。"
-        },
-        {
-          "en": "Arron notes that while Americans became familiar with mRNA technology through the COVID-19 vaccine, this application is fundamentally different.",
-          "zh": "Arron 指出，虽然美国人通过 COVID-19 疫苗熟悉了 mRNA 技术，但这种应用却有着根本的不同。"
-        },
-        {
-          "en": "\"The COVID vaccine was the same RNA fragment given to everybody. Whereas in this case, the antigen itself is not one virus, it's [each] patient's tumor,\" she says. Since each person's melanoma can differ, each vaccine is tailored. \"By matching this RNA treatment to the patient's melanoma, we can really boost the immunotherapy by driving it toward the patient's tumor.\"",
-          "zh": "“新冠疫苗是给每个人注射的相同 RNA 片段。而在这种情况下，抗原本身不是一种病毒，而是[每个]患者的肿瘤，”她说。由于每个人的黑色素瘤可能不同，因此每种疫苗都是量身定制的。 “通过将这种 RNA 治疗与患者的黑色素瘤相匹配，我们可以通过将其驱动到患者的肿瘤来真正增强免疫疗法。”"
-        },
-        {
-          "en": "How the combination works",
-          "zh": "组合如何运作"
-        },
-        {
-          "en": "Cells in the immune system, known as T cells, are built to find and destroy threats like cancer, but cancer can be sneaky, putting up the equivalent of a \"don't attack me\" shield that hides them. To simplify, Keytruda works by lifting that shield so T cells can see the cancer again. The personalized mRNA vaccine then amplifies the effect.",
-          "zh": "免疫系统中的细胞（称为 T 细胞）旨在发现并消灭癌症等威胁，但癌症可能很狡猾，会设置相当于“不要攻击我”的盾牌来隐藏它们。简单来说，Keytruda 的工作原理是解除这个屏障，让 T 细胞能够再次看到癌症。然后个性化 mRNA 疫苗会放大效果。"
-        },
-        {
-          "en": "Scientists sequence a patient's tumor to identify up to 34 unique molecular fingerprints called neoantigens and encode them into a custom vaccine. When it's injected, the vaccine trains T cells to recognize and target those specific neoantigens, giving the immune system a blueprint for attacking the cancer. So, each patient's tumor informs the vaccine that they will receive.",
-          "zh": "科学家对患者的肿瘤进行测序，以识别多达 34 个称为新抗原的独特分子指纹，并将它们编码到定制疫苗中。注射后，疫苗会训练 T 细胞识别并瞄准那些特定的新抗原，为免疫系统提供攻击癌症的蓝图。因此，每个患者的肿瘤都会决定他们将接受的疫苗。"
-        },
-        {
-          "en": "In the trial, side effects were mild, including chills and minor pain at the injection site.",
-          "zh": "在试验中，副作用很轻微，包括注射部位发冷和轻微疼痛。"
-        },
-        {
-          "en": "Arron says that given the reservations and politicization of the COVID-19 vaccine, it's important to understand how this technology works. \"This mRNA vaccine is designed towards boosting a tumor response,\" she says. And the results are \"very encouraging\" for the use of mRNA.",
-          "zh": "Arron 表示，鉴于对 COVID-19 疫苗的保留和政治化，了解这项技术的工作原理非常重要。 “这种 mRNA 疫苗旨在增强肿瘤反应，”她说。结果对于 mRNA 的使用来说“非常令人鼓舞”。"
-        },
-        {
-          "en": "Researchers are also studying whether mRNA vaccines can be used to prevent the recurrence of other cancers, including lung cancer.",
-          "zh": "研究人员还在研究 mRNA 疫苗是否可用于预防其他癌症（包括肺癌）的复发。"
-        },
-        {
-          "en": "\"The results are exciting,\" says Moderna's chief development officer, Dr. David Berman. The company developed the vaccine, which is called intismeran, and is collaborating with Merck, the maker of pembrolizumab, which is marketed under the trade name Keytruda.",
-          "zh": "“结果令人兴奋，”Moderna 首席开发官 David Berman 博士说。该公司开发了这种名为 intismeran 的疫苗，并与派姆单抗 (pembrolizumab) 制造商默克 (Merck) 合作，该疫苗以商品名 Keytruda 销售。"
-        },
-        {
-          "en": "A Phase 3 trial is now underway, which includes nearly 1,000 patients. Once results are analyzed in the coming months, the goal is to seek FDA approval, Berman says.",
-          "zh": "3 期试验正在进行中，其中包括近 1,000 名患者。伯曼说，一旦在未来几个月内分析结果，我们的目标就是寻求 FDA 的批准。"
-        },
-        {
-          "en": "Berman has been working on melanoma for many years, before joining Moderna, so he says this feels like a momentous step forward.",
-          "zh": "在加入 Moderna 之前，伯曼多年来一直致力于黑色素瘤研究，因此他说这感觉像是向前迈出了重要的一步。"
-        },
-        {
-          "en": "\"The degree of benefit was incredible,\" Berman says, pointing to the significant reduction in risk of recurrence.",
-          "zh": "“获益程度令人难以置信，”伯曼说，他指出复发风险显着降低。"
-        },
-        {
-          "en": "For Connie Franciosi, the results speak for themselves. \"I am cancer-free.\" She says her scans have shown no recurrence. \"Life is good.\"",
-          "zh": "对于康妮·弗朗西奥西来说，结果不言而喻。 “我没有癌症。”她说她的扫描显示没有复发。 “生活是美好的。”"
-        },
-        {
-          "en": "She recently celebrated her 80th birthday. Her days are packed with the things she loves, including tending her gardens, staying active with her local library, and gathering with friends and playing golf.",
-          "zh": "她最近庆祝了自己的 80 岁生日。她的日子充满了她喜欢的事情，包括照料花园、在当地图书馆保持活跃、与朋友聚会和打高尔夫球。"
-        },
-        {
-          "en": "\"I have some good shots and some not-so-good shots, but I just enjoy the gam",
-          "zh": "“我有一些不错的投篮，也有一些不太好的投篮，但我只是享受比赛"
-        }
-      ]
-    },
-    {
-      "title": "People ‘panicking’ as Ghana passes sweeping law criminalising LGBTQ+ activity",
-      "link": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
-      "summary": "Community groups say some fear they could lose homes, jobs and access to healthcare if the new law is ratified by President John Dramani Mahama\nGhana’s LGBTQ community is living in fear after the country’s parliament approved a sweeping bill that criminalises the promotion of LGB",
-      "pubDate": "Mon, 01 Jun 2026 11:59:11 GMT",
-      "source": "The Guardian",
-      "category": "world",
-      "sourceColor": "#052962",
-      "titleZh": "加纳通过全面法律将 LGBTQ+ 活动定为刑事犯罪，人们感到“恐慌”",
-      "summaryZh": "社区团体表示，一些人担心，如果总统约翰·德拉马尼·马哈马批准新法律，他们可能会失去家园、工作和医疗保健服务\n加纳议会批准一项全面法案，将宣传 LGB 定为刑事犯罪后，该国 LGBTQ 群体生活在恐惧之中",
-      "contentParagraphs": [
-        {
-          "en": "Ghana’s LGBTQ community is living in fear after the country’s parliament approved a sweeping bill that criminalises the promotion of LGBTQ+ activities and identifying as lesbian, gay, bisexual, transgender or queer, rights groups have warned.The legislation, which was passed on Friday, mandates prison sentences of three to 10 years.The human sexual rights and family values bill is expected to be signed into law by the Ghanaian president, John Dramani Mahama.Community organisations say LGBTQ+ people are worried they could lose their homes, jobs or access to healthcare, with most already reviewing and deleting their online posts for fear of their identity being revealed.Leila Lariba, director of One Love Sisters Ghana, an organisation that supports lesbian and bisexual women, said: “People are panicking and scared. The new bill affects where you are staying; it can get you evicted; it can lead you to lose your job.“No matter how safe you think you are,” she said, “you do not know who’s ready to talk.”“We have advised people to prioritise their safety online and offline. If they have content on their social media pages that could put them at risk, we are encouraging them to remove it. People need to be cautious about what they post because they don’t know how this law could be used against them,” Lariba added.Same-sex relations were already banned under British colonial law in Ghana but the prohibition was rarely enforced. The new legislation expands criminal liability and is designed to affect both LGBTQ+ people and their allies, such as anyone who provides services, support or advocacy.The new bill imposes prison terms of up to three years for identifying as lesbian, gay, bisexual, transgender or queer, and up to 10 years for those found guilty of “promotion of, propagation of, advocacy for, support or funding of” LGBTQ-related activities, as well as provisions requiring people to report suspected LGBTQ+ individuals.Amendments approved by MPs exempt healthcare professionals and lawyers from prosecution for providing services to LGBTQ+ individuals but activists have pointed out that the stigma created by the legislation was likely to deter people from seeking help, including around HIV testing or discrimination.The the new legislation is designed to affect both LGBTQ+ people and their allies. Photograph: Francis Kokoroko/Reuters“We believe the president will sign it,” said Lariba. “People out there are going to use this as a stepping stone to maltreat people and harass people. It’s already happening, but with this bill being passed, it’s going to be higher than it was before.”Ghana’s parliament approved similar legislation in 2024, but the former president Nana Akufo-Addo left office without signing it.In an address to parliament, the current bill’s sponsor, the Rev John Ntim Fordjour claimed the proposed law would protect Ghanaian family and cultural values.However, Ebenezer Peegah, director of Rightify Ghana, an LGBTQ+ rights organisation, said fundamental freedoms were at risk, with the impact extending far beyond same-sex relationships.“This bill is very far-reaching: it criminalises identity; it criminalises services, including the operations of civil society groups and doctors giving care to the LGBTQ community and those that promote same-sex [relations], like journalists [and] sellers of sex toys. It also criminalises even not reporting people,” he said.“Just this year alone, we have had 80 cases from our members that include those who have been exposed, abused or evicted. Our colleagues are asking how to get out of Ghana, but we also do not know how to help them because the international community no longer cares, especially the Trump government,” he added.The bill comes as Ghana this week hosts the fourth African inter-parliamentary conference on family values and sovereignty in Accra from 3-6 June. It is the first time the conference will be held in Ghana, after three years in which it was hosted by Uganda. The notoriously harsh anti-LGBTQ+ legislation in Uganda, which includes the death penalty for “aggravated homosexuality”, was signed into law by President Yoweri Museveni shortly after the inaugural conference in 2023.Ipas, an international reproductive rights organisation, said the conferences had become platforms to influencepolicies related to sexual and reproductive health rights across Africa.The organisation also pointed to growing collaboration and influence between parliamentarians from different African countries, especially Uganda and Ghana, including efforts to strengthen coordination on “family values” legislation.Peegah said the Ghanaian bill was passed as “a gift” to the conference, which will propose an African charter on family, sovereignty and values, a treaty that rejects “harmful gender ideologies” as foreign imports that threaten African morality.“We know that this is not an attack only on LGBT communities in Ghana,” he said. “It is an attack on the entire LGBT community in Africa. That’s why we believe it will quickly be signed, just like the Ugandan president did when they hosted this same conference.”Anti-LGBTQ+ legislation has been on the rise across west Africa. Senegal introduced a law in March that doubled the maximum prison term to 10 years for sexual acts by same-sex couples and criminalised the “promotion” of homosexuality. Last year Burkina Faso, a country previously seen as relatively safe for the gay community, passed a law criminalising homosexuality.Rightify is preparing to challenge the Ghanaian decision in court, based on the undue speed at which the bill passed through its second and third readings, and because the quorum of MPs had not been met when the vote was held.The proposed law has also been criticised by international rights organisations, including Human Rights Watch, which said it put people’s lives at risk while also “encouraging citizens to surveil and denounce one another”.",
-          "zh": "加纳议会批准了一项全面法案，该法案将促进 LGBTQ+ 活动和认定女同性恋、男同性恋、双性恋、跨性别者或酷儿定为刑事犯罪，加纳 LGBTQ 群体生活在恐惧之中。该法案于周五通过，规定判处 3 至 10 年监禁。人权和家庭价值观法案预计将由加纳总统约翰·德拉马尼·马哈马 (John Dramani Mahama) 签署成为法律。社区组织表示LGBTQ+ 人群担心自己可能会失去家园、工作或获得医疗保健的机会，大多数人已经审查并删除了自己的网上帖子，因为担心自己的身份被泄露。支持女同性恋和双性恋女性的组织 One Love Sisters Ghana 的主任莱拉·拉里巴 (Leila Lariba) 表示：“人们感到恐慌和害怕。新法案会影响你的居住地；它可能会让你被驱逐；它可能会导致你失去工作。“无论你认为自己有多安全，”她说，“你不知道谁准备好说话了。”“我们已经建议人们优先考虑线上和线下的安全。如果他们的社交媒体页面上有可能使他们面临风险的内容，我们鼓励他们将其删除。人们需要对自己发布的内容保持谨慎，因为他们不知道这项法律会如何针对他们。”拉里巴补充道。加纳的英国殖民法律已经禁止同性关系，但这项禁令很少得到执行。新立法扩大了刑事责任，旨在影响 LGBTQ+ 人群及其盟友，例如任何提供服务、支持或宣传的人。新法案对认定为女同性恋、男同性恋、双性恋、跨性别者或酷儿，对于那些因“促进、传播、倡导、支持或资助”LGBTQ 相关活动以及要求人们报告可疑 LGBTQ+ 个人的规定而被判有罪的人，最高可判处 10 年徒刑。国会议员批准的修正案使医疗保健专业人员和律师免受向 LGBTQ+ 个人提供服务的起诉，但活动人士指出，该立法造成的耻辱可能会阻止人们寻求帮助，包括艾滋病毒检测或歧视方面的帮助。新立法旨在影响 LGBTQ+ 人群及其盟友 照片：Francis Kokoroko/路透社 “我们相信总统会签署该法案，”拉里巴说，“人们会利用它作为虐待和骚扰他人的垫脚石。这已经发生了，但随着这项法案的通过，它会比以前更高。”加纳议会在 2024 年批准了类似的立法，但前总统纳纳·阿库福-阿多 (Nana Akufo-Addo) 没有签署就下台了。当前法案的发起人约翰·恩蒂姆·福特乔牧师 (Rev John Ntim Fordjour) 在向议会发表的讲话中声称，拟议的法律将保护加纳家庭和文化价值观。然而，Rightify Ghana 的主任 Ebenezer Peegah LGBTQ+ 权利组织表示，基本自由受到威胁，其影响远远超出了同性关系。它将服务定为刑事犯罪，包括为 LGBTQ 群体提供护理的民间社会团体和医生的运作，以及促进同性[关系]的服务，例如记者[和]性玩具销售商。即使不举报也将被定为刑事犯罪，”他说。“仅今年一年，我们的会员就接到了 80 起案件，其中包括那些被暴露、虐待或驱逐的人。他补充道：“我们的同事在询问如何离开加纳，但我们也不知道如何帮助他们，因为国际社会不再关心他们，尤其是特朗普政府。”该法案出台之际，加纳本周将于 6 月 3 日至 6 日在阿克拉主办第四届非洲议会间家庭价值观和主权会议。这是乌干达主办该会议三年后首次在加纳举行。乌干达在2023年首次会议后不久，就由总统约韦里·穆塞韦尼(Yoweri Museveni)签署了包括对“严重同性恋”判处死刑的法律。国际生殖权利组织Ipas表示，这些会议已成为影响整个非洲性健康和生殖健康权利相关政策的平台。该组织还指出，来自不同非洲国家，特别是乌干达和加纳的议员之间的合作和影响力日益增强，包括加强“家庭价值观”协调的努力皮加表示，加纳法案的通过是对会议的“一份礼物”，会议将提出一项关于家庭、主权和价值观的非洲宪章，该条约拒绝将“有害的性别意识形态”视为威胁非洲道德的外国进口。“我们知道，这不仅仅是对加纳 LGBT 群体的攻击，”他说，“这是对整个非洲 LGBT 群体的攻击。这就是为什么我们相信它将很快签署，就像乌干达总统在主持同一次会议时所做的那样。“反 LGBTQ+ 立法在西非不断兴起。塞内加尔三月份出台了一项法律，将同性伴侣性行为的最高刑期增加一倍，达到 10 年，并将“促进”同性恋定为刑事犯罪。去年，布基纳法索这个以前被认为对同性恋群体相对安全的国家通过了一项法律，将同性伴侣的性行为定为刑事犯罪。 Rightify正准备在法庭上挑战加纳的决定，理由是该法案二读和三读的速度过快，而且投票时还没有达到议员的法定人数。拟议的法律也受到包括人权观察在内的国际人权组织的批评，该组织表示，该法律将人们的生命置于危险之中，同时还“鼓励公民相互监视和谴责”。"
-        }
-      ]
     }
   ]
 }
