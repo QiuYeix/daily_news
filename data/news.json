@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T11:59:21.992Z",
+  "updated": "2026-06-03T12:32:02.146Z",
   "count": 20,
   "categories": {
     "world": {
@@ -21,30 +21,531 @@
   },
   "articles": [
     {
-      "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
-      "link": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
-      "pubDate": "Tue, 02 Jun 2026 11:40:02 GMT",
+      "title": "Eight killed after drone hits bus in Russia-controlled part of Ukraine",
+      "link": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The bus was travelling between Moscow and Simferopol, in Russian-controlled Crimea, an official says.",
+      "pubDate": "Wed, 03 Jun 2026 12:08:09 GMT",
       "source": "BBC News",
       "category": "world",
       "sourceColor": "#b80000",
-      "titleZh": "Instagram AI 聊天机器人被黑客欺骗以访问他人帐户",
-      "summaryZh": "一些报道将这一事件与最近高调的 Instagram 帐户被劫持的案件联系起来。",
+      "titleZh": "无人机在俄罗斯控制的乌克兰地区撞上公共汽车，造成八人死亡",
+      "summaryZh": "一名官员称，这辆巴士当时正在莫斯科和俄罗斯控制的克里米亚的辛菲罗波尔之间行驶。",
       "contentParagraphs": []
     },
     {
-      "title": "Google owner Alphabet to sell $80bn in stock to fund AI spending spree",
-      "link": "https://www.theguardian.com/technology/2026/jun/02/google-alphabet-sell-stock-ai-share-sale-berkshire-hathaway",
-      "summary": "One of largest equity fundraisings ever includes $10bn share sale to US investment group Berkshire Hathaway\n\nBusiness live – latest updates\n\nGoogle’s parent company, Alphabet, has said it plans to raise up to $80bn (£59bn) in equity to fund its vast artificial intelligence infras",
-      "pubDate": "Tue, 02 Jun 2026 08:38:22 GMT",
+      "title": "Lloyds, Halifax and Bank of Scotland app users hit by outage",
+      "link": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"We're aware some customers are having issues with our app and online banking. We're really sorry about this,\" Lloyds Bank posted on X.",
+      "pubDate": "Wed, 03 Jun 2026 12:02:44 GMT",
+      "source": "BBC Tech",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "劳埃德银行、哈利法克斯银行和苏格兰银行的应用程序用户遭遇中断",
+      "summaryZh": "劳埃德银行 (Lloyds Bank) 在 X 上发帖称：“我们知道一些客户在使用我们的应用程序和网上银行时遇到问题。我们对此感到非常抱歉。”",
+      "contentParagraphs": [
+        {
+          "en": "Site search25 minutes agoImran Rahman-JonesTechnology reporterEPA/ShutterstockLloyds Banking Group has apologised after thousands of customers experienced problems accessing online banking.\"We're aware some customers are having issues with our app and online banking. We're really sorry about this,\" Lloyds Bank posted on X. \"We're working hard to fix it and will let you know as soon as we're back to normal,\" it added.Lloyds Banking Group says it is the UK's largest retail and commercial banking provider, with 26 million customers across Lloyds Bank, Halifax and Bank of Scotland.According to online outage tracker Downdetector, users started reporting problems at around 1115 BST. In response to a customer reporting they could not access their account, Halifax posted on X: \"Some customers are having issues with accessing our Mobile App right now. Bear with us as we fix this.\"In a message on the Lloyds app, the bank said: \"Sorry, we're having a few technical problems. Logging in again may fix the issue, but if this doesn't help, please try again later.\"It showed a 503 error message, which indicates a server is not ready to handle requests. In March, almost half a million Lloyds Banking Group customers saw other people's transactions or had their own data shared after an IT glitch.",
+          "zh": "网站搜索25分钟前Imran Rahman-Jones科技记者EPA/Shutterstock劳埃德银行集团在数千名客户在访问网上银行时遇到问题后道歉。劳埃德银行在X上发帖称：“我们知道一些客户在使用我们的应用程序和网上银行时遇到问题。我们对此感到非常抱歉。”它补充说：“我们正在努力解决这个问题，一旦恢复正常，我们会立即通知您。”是英国最大的零售和商业银行提供商，在劳埃德银行、哈利法克斯银行和苏格兰银行拥有 2600 万客户。根据在线中断跟踪器 DownDetector 的数据，用户在 BST 1115 左右开始报告问题。针对客户报告无法访问其帐户的情况，哈利法克斯在 X 上发帖称：“部分客户目前在访问我们的移动应用程序时遇到问题。请耐心等待我们解决此问题。”在劳埃德银行应用程序上的一条消息中，该银行表示：“抱歉，我们遇到了一些技术问题。再次登录可能会解决问题，但如果这没有帮助，请稍后再试。”它显示了 503 错误消息，这表明服务器尚未准备好处理请求。今年 3 月，近 50 万劳埃德银行集团 (Lloyds Banking Group) 客户在 IT 故障后看到了其他人的交易或共享了自己的数据。"
+        }
+      ]
+    },
+    {
+      "title": "US announces new tariffs over forced labour concerns",
+      "link": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
+      "pubDate": "Wed, 03 Jun 2026 10:31:12 GMT",
+      "source": "BBC Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "美国因强迫劳动担忧宣布新关税",
+      "summaryZh": "此前，美国最高法院在二月份撤销了美国总统唐纳德·特朗普的多项先前职责。",
+      "contentParagraphs": []
+    },
+    {
+      "title": "We finally know enough about how the brain breaks to focus on fixing it, experts say",
+      "link": "https://www.npr.org/2026/06/03/nx-s1-5837620/brain-health-accelerator-gene-therapy-alzheimer",
+      "summary": "The Allen Institute in Seattle says scientists have now learned enough about how the brain works to start fixing it when it breaks.",
+      "pubDate": "Wed, 03 Jun 2026 05:00:00 -0400",
+      "source": "NPR Science",
+      "category": "science",
+      "sourceColor": "#6a1b9a",
+      "titleZh": "专家表示，我们终于对大脑如何损坏有了足够的了解，可以专注于修复它",
+      "summaryZh": "西雅图艾伦研究所表示，科学家们现在已经对大脑的工作原理有了足够的了解，可以在大脑崩溃时开始修复它。",
+      "contentParagraphs": [
+        {
+          "en": "Allen Institute scientist Aaron Garcia (right) and executive vice president Ed Lein (left) examine a section of human brain in the lab. The institute has launched the Brain Health accelerator, which will focus on using genetic therapy to develop treatments for a range of brain disorders.",
+          "zh": "Allen Institute scientist Aaron Garcia (right) and executive vice president Ed Lein (left) examine a section of human brain in the lab. The institute has launched the Brain Health accelerator, which will focus on using genetic therapy to develop treatments for a range of brain disorders."
+        },
+        {
+          "en": "Erik Dinnel/Allen Institute",
+          "zh": "Erik Dinnel/Allen Institute"
+        },
+        {
+          "en": "Erik Dinnel/Allen Institute",
+          "zh": "Erik Dinnel/Allen Institute"
+        },
+        {
+          "en": "Scientists who've spent decades learning how the brain works say they're now ready to start fixing it when it breaks.",
+          "zh": "Scientists who've spent decades learning how the brain works say they're now ready to start fixing it when it breaks."
+        },
+        {
+          "en": "That's the premise of the Brain Health accelerator, a collaborative effort launched by the Allen Institute in Seattle, which has become a major player in brain research.",
+          "zh": "That's the premise of the Brain Health accelerator, a collaborative effort launched by the Allen Institute in Seattle, which has become a major player in brain research."
+        },
+        {
+          "en": "The initiative includes plans to develop new genetic therapies — a term that includes gene editing as well as traditional gene therapy — for diseases including Alzheimer's, Parkinson's, ALS, and Huntington's.",
+          "zh": "The initiative includes plans to develop new genetic therapies — a term that includes gene editing as well as traditional gene therapy — for diseases including Alzheimer's, Parkinson's, ALS, and Huntington's."
+        },
+        {
+          "en": "\"The latest genetic treatments allow scientists to control the activity of particular genes,\" says Ed Lein, who directs the institute's brain health programs. \"That opens up the possibility for very specific precision therapies for brain disorders.\"",
+          "zh": "\"The latest genetic treatments allow scientists to control the activity of particular genes,\" says Ed Lein, who directs the institute's brain health programs. \"That opens up the possibility for very specific precision therapies for brain disorders.\""
+        },
+        {
+          "en": "The accelerator is an outgrowth of the BRAIN Initiative, an ambitious research program unveiled by President Obama in 2013. The goal of this public-private partnership was to create tools that would allow scientists to see the brain's inner workings, and, eventually, to develop treatments.",
+          "zh": "The accelerator is an outgrowth of the BRAIN Initiative, an ambitious research program unveiled by President Obama in 2013. The goal of this public-private partnership was to create tools that would allow scientists to see the brain's inner workings, and, eventually, to develop treatments."
+        },
+        {
+          "en": "But the effort has progressed far faster than many scientists expected.",
+          "zh": "But the effort has progressed far faster than many scientists expected."
+        },
+        {
+          "en": "\"I am shocked at how far we've come in the last 10, 12 years,\" says John Ngai, a senior investigator at the National Institutes of Health who directs the BRAIN Initiative. \"It's just been beyond my wildest imagination — and I've been accused of having a pretty good imagination.\"",
+          "zh": "\"I am shocked at how far we've come in the last 10, 12 years,\" says John Ngai, a senior investigator at the National Institutes of Health who directs the BRAIN Initiative. \"It's just been beyond my wildest imagination — and I've been accused of having a pretty good imagination.\""
+        },
+        {
+          "en": "From mice to humans",
+          "zh": "From mice to humans"
+        },
+        {
+          "en": "The Allen Institute's Brain Health accelerator is attracting a range of scientists intent on translating their knowledge about the brain into treatments for its disorders.",
+          "zh": "The Allen Institute's Brain Health accelerator is attracting a range of scientists intent on translating their knowledge about the brain into treatments for its disorders."
+        },
+        {
+          "en": "Jeff Carroll, for example, was a teenager when he learned that his mother had Huntington's Disease, a fatal, inherited disorder that destroys brain cells.",
+          "zh": "Jeff Carroll, for example, was a teenager when he learned that his mother had Huntington's Disease, a fatal, inherited disorder that destroys brain cells."
+        },
+        {
+          "en": "\"The whole reason I'm in science started with this frustration with not being able to understand what was happening with my mom,\" he says.",
+          "zh": "\"The whole reason I'm in science started with this frustration with not being able to understand what was happening with my mom,\" he says."
+        },
+        {
+          "en": "Carroll eventually learned that he, too, carried the Huntington's gene.",
+          "zh": "Carroll eventually learned that he, too, carried the Huntington's gene."
+        },
+        {
+          "en": "He spent years at the University of Washington studying mice with the condition, which causes nerve cells to produce toxic levels of a certain protein.",
+          "zh": "He spent years at the University of Washington studying mice with the condition, which causes nerve cells to produce toxic levels of a certain protein."
+        },
+        {
+          "en": "To Carroll, the solution seemed obvious: \"Since we know that all the bad stuff in Huntington's comes from this one gene … let's get rid of that gene.\"",
+          "zh": "To Carroll, the solution seemed obvious: \"Since we know that all the bad stuff in Huntington's comes from this one gene … let's get rid of that gene.\""
+        },
+        {
+          "en": "But finding a way to do that was beyond the reach of his own relatively small lab at a university. So Carroll joined the accelerator effort.",
+          "zh": "But finding a way to do that was beyond the reach of his own relatively small lab at a university. So Carroll joined the accelerator effort."
+        },
+        {
+          "en": "\"It's difficult to do the scale of research that you need with a team of five or six or even 10 people,\" he says. \"The hundreds of people they have here at the Allen Institute [allow for] an entirely different approach to science.\"",
+          "zh": "\"It's difficult to do the scale of research that you need with a team of five or six or even 10 people,\" he says. \"The hundreds of people they have here at the Allen Institute [allow for] an entirely different approach to science.\""
+        },
+        {
+          "en": "And one of the first targets for that approach will be Huntington's disease.",
+          "zh": "And one of the first targets for that approach will be Huntington's disease."
+        },
+        {
+          "en": "Carroll says he's optimistic.",
+          "zh": "Carroll says he's optimistic."
+        },
+        {
+          "en": "He notes that genetic therapies have already had success treating at least one nerve disorder, a rare genetic condition called spinal muscular atrophy. It's caused by a gene mutation that leads to the death of motor neurons in the spinal cord.",
+          "zh": "He notes that genetic therapies have already had success treating at least one nerve disorder, a rare genetic condition called spinal muscular atrophy. It's caused by a gene mutation that leads to the death of motor neurons in the spinal cord."
+        },
+        {
+          "en": "\"Every kid with this horrible mutation died when they were like 18 months [old],\" Carroll says, \"and now they're going to high school. So things that were unimaginable can change.\"",
+          "zh": "\"Every kid with this horrible mutation died when they were like 18 months [old],\" Carroll says, \"and now they're going to high school. So things that were unimaginable can change.\""
+        },
+        {
+          "en": "Carroll says his goal is to help accelerate that change.",
+          "zh": "Carroll says his goal is to help accelerate that change."
+        },
+        {
+          "en": "Big science, shared",
+          "zh": "Big science, shared"
+        },
+        {
+          "en": "The Allen Institute was founded in 2003 by the late Paul Allen of Microsoft fame, and his younger sister, Jody Allen.",
+          "zh": "The Allen Institute was founded in 2003 by the late Paul Allen of Microsoft fame, and his younger sister, Jody Allen."
+        },
+        {
+          "en": "Its goal was to speed up science research. And it has done so by developing technologies that allow scientists to rapidly characterize and map millions of cells.",
+          "zh": "Its goal was to speed up science research. And it has done so by developing technologies that allow scientists to rapidly characterize and map millions of cells."
+        },
+        {
+          "en": "\"We now have a complete description of the types of cells that make up the brain, and also the genetic underpinnings of their properties,\" Lein says. \"This foundation then lets you study disease.\"",
+          "zh": "\"We now have a complete description of the types of cells that make up the brain, and also the genetic underpinnings of their properties,\" Lein says. \"This foundation then lets you study disease.\""
+        },
+        {
+          "en": "Allen scientists have already begun studying how Alzheimer's disease changes nerve cells in the brain.",
+          "zh": "Allen scientists have already begun studying how Alzheimer's disease changes nerve cells in the brain."
+        },
+        {
+          "en": "\"It affects very specific types of neurons that are lost early in the disease and then over the course of the disease,\" Lein says.",
+          "zh": "\"It affects very specific types of neurons that are lost early in the disease and then over the course of the disease,\" Lein says."
+        },
+        {
+          "en": "Genetic therapies designed to protect these neurons might delay or prevent symptoms, he says. Similar approaches might also work to preserve the neurons affected by Parkinson's or ALS.",
+          "zh": "Genetic therapies designed to protect these neurons might delay or prevent symptoms, he says. Similar approaches might also work to preserve the neurons affected by Parkinson's or ALS."
+        },
+        {
+          "en": "Ultimately, though, the Allen Institute may not be the place that develops these therapies. Its policy of making its databases available to anyone means that scientists around the globe can help look for answers.",
+          "zh": "Ultimately, though, the Allen Institute may not be the place that develops these therapies. Its policy of making its databases available to anyone means that scientists around the globe can help look for answers."
+        }
+      ]
+    },
+    {
+      "title": "Ferrari sign Leclerc on new long-term contract before home F1 Monaco GP",
+      "link": "https://www.aljazeera.com/sports/2026/6/3/ferrari-sign-leclerc-on-new-long-term-contract-ahead-of-home-f1-monaco-gp?traffic_source=rss",
+      "summary": "Charles Leclerc has extended his contract with Ferrari for an undisclosed length, having joined the F1 team in 2019.",
+      "pubDate": "Wed, 03 Jun 2026 12:06:10 +0000",
+      "source": "Al Jazeera",
+      "category": "world",
+      "sourceColor": "#f79120",
+      "titleZh": "法拉利在主场 F1 摩纳哥大奖赛前与勒克莱尔签订新的长期合同",
+      "summaryZh": "查尔斯·勒克莱尔 (Charles Leclerc) 于 2019 年加入 F1 车队，与法拉利续约，合同期限未公开。",
+      "contentParagraphs": [
+        {
+          "en": "Charles Leclerc has extended his contract with Ferrari for an undisclosed length, having joined the F1 team in 2019.Charles Leclerc will continue to race for Ferrari after ⁠the Italian Formula One team announced a long-term contract extension before his home Monaco Grand Prix.The 28-year-old Monegasque has driven for the Maranello-based outfit in F1 since ⁠2019, winning eight races, and his last contract extension came in 2024.Recommended Stories list of 4 itemslist 1 of 4World Cup contenders: Are Morocco ready to go all the way this time?list 2 of 4Cape Verde football team arrives in the US for the World Cuplist 3 of 4US artist sues FIFA over destruction of Dallas whale mural for World Cuplist 4 of 4‘We aren’t the big favourites,’ Brazil’s Casemiro saysend of list“I couldn’t be happier to continue this journey with Scuderia Ferrari HP. It has always been so much more than just a team to me,” Leclerc said in a statement issued by Ferrari on Wednesday.Leclerc is currently third in the 2026 drivers’ championship but 56 points behind Mercedes’ Kimi Antonelli, who is 43 ahead of teammate and closest rival George Russell after winning the last four races.He has raced more times for Ferrari (155) than any other driver in the team’s history, other than now-retired seven-time world champion Michael Schumacher, and also ranks ‌second for pole positions behind the German.Ferrari did not specify the duration of his new contract, saying only that Leclerc would continue for the “coming seasons” in the championship.“Charles has been part of the Ferrari family for many years now and this renewal feels like something very natural for us,” team principal Fred Vasseur said.“Over these seasons, we have seen him grow to become not only one of the strongest drivers in Formula One, but also a person who is completely at one with ⁠the team and everything Ferrari represents.“We know how much this project means to ⁠him and we are happy to continue working towards our shared goals.”Ferrari’s Charles Leclerc finished second at the Canadian Grand Prix in March [Mathieu Belanger/Reuters]Leclerc joined the Ferrari Academy in 2016, won the Formula Two title in 2017 and made his F1 debut with Ferrari-powered Sauber (now Audi) in 2018.Leclerc’s teammate is the UK’s seven-time world champion Lewis Hamilton, who ⁠joined from Mercedes last year on a multi-year contract and is expected to continue next season, when he will be 41 years old.Hamilton is fourth in the ⁠standings, three points behind Leclerc.Ferrari have not taken a Grand Prix ⁠victory since 2024, or a championship since 2008, but Hamilton won a Saturday sprint race in China last season and finished second in Canada last month.Leclerc has had two podium finishes this season – third in Australia and Japan – and will be heavily fancied for his ‌home race this weekend, with Ferrari expected to be competitive at the slowest circuit on the calendar, where top speed is less of a factor and grid position is crucial.Growing up in the principality, Leclerc in 2024 ‌became ‌the first local to win the Monaco Grand Prix in the championship era and has taken pole there three times in the last five years.",
+          "zh": "查尔斯·勒克莱尔 (Charles Leclerc) 于 2019 年加入 F1 车队，与法拉利续签了合同，具体期限未公开。在意大利一级方程式车队在家乡摩纳哥大奖赛之前宣布长期续约后，查尔斯·勒克莱尔 (Charles Leclerc) 将继续为法拉利比赛。这位 28 岁的摩纳哥车手自 2019 年以来一直为这家总部位于马拉内罗的 F1 车队效力，赢得了 8 场比赛，他最后一次续约是在 2019 年。 2024.推荐故事 4 项列表 4 项世界杯竞争者中的 1 项：摩洛哥这次准备好一路走来了吗？ 列表 2 项（共 4 项） 佛得角足球队抵达美国参加世界杯 列表项 3 项 美国艺术家因破坏世界杯达拉斯鲸鱼壁画而起诉国际足联 4 项中的“我们不是大热门，”巴西队的卡塞米罗说 列表结束“我很高兴继续勒克莱尔在周三法拉利发布的一份声明中表示，“与法拉利车队的这段旅程对我来说不仅仅是一支球队。”勒克莱尔目前在 2026 年车手积分榜上排名第三，但落后梅赛德斯的基米·安东内利 56 分，后者在赢得过去四场比赛后领先队友和最接近的对手乔治·拉塞尔 43 分。他为法拉利参赛的次数（155 次）比车队历史上任何其他车手都多。现已退役的七届世界冠军迈克尔·舒马赫，杆位排名也仅次于德国人。法拉利没有具体说明他的新合同期限，只表示勒克莱尔将在“未来几个赛季”继续参加锦标赛。“查尔斯已经成为法拉利家族的一员很多年了，这次续约对我们来说是非常自然的事情，”车队负责人弗雷德·瓦瑟尔说。“在这些赛季中，我们看到他不仅成长为一级方程式中最强大的车手之一，法拉利车队的查尔斯·勒克莱尔 (Charles Leclerc) 在 3 月份的加拿大大奖赛上获得第二名 [Mathieu Belanger/Reuters] 勒克莱尔于 2016 年加入法拉利学院，于 2017 年赢得二级方程式冠军，并于 2017 年随法拉利动力的索伯车队（现为奥迪）首次亮相 F1。 2018年。勒克莱尔的队友是英国七届世界冠军刘易斯·汉密尔顿，他去年以多年合同从梅赛德斯加盟，预计下个赛季将继续效力，届时他将年满41岁。汉密尔顿在积分榜上排名第四，落后勒克莱尔三分。法拉利自2024年以来没有获得过大奖赛胜利，自2008年以来也没有获得过冠军，但汉密尔顿赢得了周六的冲刺赛上赛季在中国的比赛中，上个月在加拿大获得第二名。勒克莱尔本赛季两次登上领奖台，在澳大利亚和日本获得第三名，并且本周末的主场比赛将受到广泛关注，法拉利预计将在日历上最慢的赛道上具有竞争力，最高时速不那么重要，发车位置至关重要。勒克莱尔在公国长大，于 2024 年成为冠军时代第一个赢得摩纳哥大奖赛的当地人，并且过去五年里，他曾三次获得杆位。"
+        }
+      ]
+    },
+    {
+      "title": "Meta workers can opt out of being tracked at work - but only for half an hour at a time",
+      "link": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss",
+      "summary": "According to an internal memo, new controls will allow employees to pause the data collection for \"up to 30 minutes at a time\".",
+      "pubDate": "Wed, 03 Jun 2026 10:46:30 GMT",
+      "source": "BBC Tech",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "元工作人员可以选择在工作中不被跟踪，但每次只能半小时",
+      "summaryZh": "根据一份内部备忘录，新的控制措施将允许员工“一次最多暂停 30 分钟”的数据收集。",
+      "contentParagraphs": [
+        {
+          "en": "Meta workers can opt out of being tracked at work - but only for half an hour at a time2 hours agoLaura Cress,technology reporterandOsmond Chia,business reporterGetty ImagesMeta is scaling back its plan to start tracking its employees' computer activity, according to an internal memo sent on Tuesday.In April the company received criticism from its own staff after it announced a new tool would log their keystrokes and mouse clicks to train its AI models.Now, according to Reuters, new controls will allow employees to pause the data collection for \"up to 30 minutes at a time\" as well as request exemptions from the initiative altogether.Meta declined to comment on the record.It follows weeks of backlash from employees, including some who started a petition against the move which now has more than 1,500 signatures. During the initial announcement of the tool, called the Model Capability Initiative (MCI), Meta told the BBC: \"If we're building agents to help people complete everyday tasks using computers, our models need real examples of how people actually use them.\"It added that the data was \"not used for any other purpose,\" and the tool had \"safeguards in place to protect sensitive content\".But workers were not impressed, with one Meta employee, who asked not to be identified, telling the BBC that having their actions train AI models felt \"very dystopian\" - as workers expected a slew of additional job cuts.Another person who recently left the company told the BBC the tracking tool was \"just the latest way they're shoving AI down everyone's throat\".An internal memo - seen by Reuters - was reportedly authored by Stephane Kasriel, a vice president in Meta's Superintelligence Labs unit.In it, he said the team behind the MCI had introduced \"several optimizations\" to reduce its impact on laptop battery life.This change came after reports that employees were finding the tool consumed so much data it was causing their internet usage to surge when working from home.\"While we remain confident in the privacy protections we put in place at launch, which went through several layers of risk review, we have heard your concerns about personal data on work devices, battery life, and wanting more control over when capturing happens,\" Kasriel said in the memo.",
+          "zh": "根据周二发送的一份内部备忘录，Meta 员工可以选择在工作中不被跟踪，但每次只能半小时 2 小时前，技术记者劳拉·克雷斯 (Laura Cress) 和商业记者奥斯蒙德·谢 (Osmond Chia) 盖蒂图片社 (Getty Images) 根据周二发送的一份内部备忘录，Meta 正在缩减开始跟踪员工计算机活动的计划。4 月份，该公司宣布一款新工具将记录他们的击键和鼠标点击来训练其人工智能模型，之后受到了员工的批评。现在，据路透社报道，新的控制措施将允许员工暂停数据收集“一次最多 30 分钟”，并请求完全豁免该举措。Meta 拒绝公开发表评论。在此之前，员工们已经持续数周强烈反对，其中一些人发起了反对这一举措的请愿书，目前已有 1,500 多个签名。在这个名为“模型能力计划”(MCI) 的工具最初发布期间，Meta 告诉 BBC：“如果我们要构建代理来帮助人们使用计算机完成日常任务，我们的模型需要人们实际如何使用它们的真实示例。”它补充说，这些数据“没有用于任何其他目的”，并且该工具“有适当的保护措施来保护敏感内容”。但工人们对此并不以为然，一位不愿透露姓名的 Meta 员工告诉 BBC，让他们的行为训练人工智能模型感觉“非常糟糕”。另一位最近离开公司的人士告诉 BBC，追踪工具“只是他们将人工智能强加给每个人的最新方式”。路透社看到的一份内部备忘录据报道是由 Meta 超级智能实验室部门副总裁 Stephane Kasriel 撰写的。在备忘录中，他表示 MCI 背后的团队引入了“几项优化”，以减少对笔记本电脑电池的影响这一变化是在有报道称员工发现该工具消耗了太多数据，导致他们在家工作时互联网使用量激增的情况下做出的。“虽然我们对发布时实施的隐私保护仍然充满信心，该保护经过了多层风险审查，但我们听到了你们对工作设备上的个人数据、电池寿命以及希望在捕获发生时进行更多控制的担忧，”卡斯瑞尔在备忘录中表示。"
+        }
+      ]
+    },
+    {
+      "title": "Three-quarters of workers not on track for 'moderate' pension income, report suggests",
+      "link": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
+      "summary": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
+      "pubDate": "Tue, 02 Jun 2026 23:02:23 GMT",
+      "source": "BBC Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "报告显示，四分之三的工人无法获得“适度”养老金收入",
+      "summaryZh": "一份新发布的报告显示，一个人过上适度的退休生活需要花费 32,700 英镑，两个人需要花费 45,400 英镑。",
+      "contentParagraphs": []
+    },
+    {
+      "title": "The Trump administration aims to pull science funding under tighter political control",
+      "link": "https://www.npr.org/2026/06/02/nx-s1-5843040/the-trump-administration-aims-to-pull-science-funding-under-tighter-political-control",
+      "summary": "A Trump administration rule could shift how science funding works in the U.S. The administration says its an effort to deter waste, but science advocates say it will compromise scientific integrity.",
+      "pubDate": "Tue, 02 Jun 2026 16:35:14 -0400",
+      "source": "NPR Science",
+      "category": "science",
+      "sourceColor": "#6a1b9a",
+      "titleZh": "特朗普政府旨在将科学资助置于更严格的政治控制之下",
+      "summaryZh": "特朗普政府的一项规定可能会改变美国科学资助的运作方式。政府表示，这是为了阻止浪费，但科学倡导者表示，这将损害科学诚信。",
+      "contentParagraphs": [
+        {
+          "en": "A Trump administration rule could shift how science funding works in the U.S. The administration says its an effort to deter waste, but science advocates say it will compromise scientific integrity.",
+          "zh": "A Trump administration rule could shift how science funding works in the U.S. The administration says its an effort to deter waste, but science advocates say it will compromise scientific integrity."
+        },
+        {
+          "en": "AILSA CHANG, HOST: President Trump continues to whittle away at federal science funding. And now his administration is attempting to put the decisions about what gets funding under tighter political control. The move is upsetting many researchers and activists like Cole Donovan from the group Stand Up for Science.COLE DONOVAN: This would be the end of American science as we know it, and we are going to make sure that it doesn't fade quietly into the night.CHANG: NPR's Katia Riddle has been reporting on the rule change behind this latest development and joins us now. Hi, Katia.KATIA RIDDLE, BYLINE: Hi, Ailsa.CHANG: OK, so tell us more about what changed exactly in these rules, like why it's such a big deal here.RIDDLE: Well, you know, it's a bureaucratic rule change. And it sounds small, but it really carries a significant potential to disrupt the way we fund science in the United States.CHANG: OK. Yeah.RIDDLE: Quick review of how science funding works - Congress approves money for agencies like the National Institutes of Health, the National Science Foundation, and then those agencies are empowered to make grants to scientists to do things like cancer research or, you know, make earthquake early warning systems. Last week, the administration proposed a new rule that's now under review. It makes a lot of different changes, but one big one is it would give political appointees and the White House a much larger role over what kind of science gets funded. Scientists and advocates are very upset about this. The Infectious Diseases Society of America, for example, issued a statement yesterday that was titled, quote, \"Proposed Rule Would Replace Scientific Merit With McCarthy Era Politics,\" unquote.CHANG: Wow.RIDDLE: That's a reference, of course, to a period in the 1950s when government officials scrutinized people's ideology and politics rather than their credentials.CHANG: Oof. OK, so based on that, how do scientists think this rule change might play out?RIDDLE: Well, first of all, it literally could affect any kind of federally funded science in the United States - public health, vaccines, biotechnology, social and behavioral science, climate. And one thing that's really animating people - under this new rule, senior political appointees, not just scientists, would review grants in order to assess whether they align with the president's priorities before awards are made. I talked to Elizabeth Ginexi. She's a former federal scientist, and she has a lot of objections to empowering Russell Vought - he's the head of the White House's Office of Management and Budget - with this kind of authority.ELIZABETH GINEXI: When we're designing a study to a new cancer therapeutic, do you want Russell Vought, who is not a scientist, to determine which immunotherapy is ready to go into a phase 3 trial?RIDDLE: A phase 3 trial, by the way, is the kind that determines if a drug is safe and effective in humans.CHANG: Right - very, very important - OK, so then what is the rationale behind these changes, at least from the Trump administration's point of view?RIDDLE: Right. So the White House and OMB officials declined a request for interview for this story, but they sent a statement over that said this rule change will, quote, \"improve the ability of agencies to identify and respond to waste, fraud and abuse and align with agency priorities.\" Critics say there's no evidence that the existing peer-reviewed system needs such sweeping changes.CHANG: I mean, this rule change is just a proposal right now, right? Like, how soon could it be a reality?RIDDLE: Yeah, we're in an open period comment, where the public has 45 days to weigh in. Congress could, in theory, block this rule, and no one I spoke with thinks that is likely. Like I said, it's raised a lot of resistance from folks in the science community, and they plan to continue organizing amongst themselves and the public to push back.CHANG: That is NPR's Katia Riddle. Thank you, Katia.RIDDLE: Thank you.",
+          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
+        },
+        {
+          "en": "Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.",
+          "zh": "Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information."
+        },
+        {
+          "en": "Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.",
+          "zh": "Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record."
+        }
+      ]
+    },
+    {
+      "title": "Israel is building more military posts in Gaza, satellite imagery shows",
+      "link": "https://www.aljazeera.com/news/2026/6/3/israel-is-building-more-military-posts-in-gaza-satellite-imagery-shows?traffic_source=rss",
+      "summary": "An investigation by Al Jazeera has identified 40 distinct Israeli military outposts entrenched within Gaza.",
+      "pubDate": "Wed, 03 Jun 2026 12:01:53 +0000",
+      "source": "Al Jazeera",
+      "category": "world",
+      "sourceColor": "#f79120",
+      "titleZh": "卫星图像显示，以色列正在加沙建立更多军事哨所",
+      "summaryZh": "半岛电视台的一项调查发现，加沙地带有 40 个不同的以色列军事前哨基地。",
+      "contentParagraphs": [
+        {
+          "en": "Israel was supposed to fully withdraw its troops from Gaza as part of the ceasefire signed in October. Instead of pulling back, Israeli forces are quietly cementing permanent, heavily fortified military posts across the besieged enclave, according to satellite imagery analysed by Al Jazeera.An investigation by Al Jazeera’s Open Source Unit, analysing satellite data up to May 2026, has identified 40 distinct Israeli military outposts entrenched within Gaza. Crucially, the analysis proves that eight of these bases were constructed entirely from scratch after the October 2025 truce went into effect, with one site still undergoing active construction.(Al Jazeera)This physical entrenchment mirrors the increasingly overt territorial ambitions of Israel’s leadership. Speaking at a recent conference, Prime Minister Benjamin Netanyahu confirmed directives to permanently seize the vast majority of the Strip.Israeli forces have pulled back to the “Yellow Line”, which refers to the buffer and military zones comprising some 60 percent of the enclave’s territory.“We are currently squeezing Hamas; we now control 60 percent of the territory,” Netanyahu stated, before addressing a crowd member who shouted for complete annexation: “Let’s go step by step. First of all, 70. Let’s start with that.”Desecration and new constructionsThe satellite analysis exposes a systematic effort to build a sustainable, long-term military infrastructure rather than temporary observation posts.The newly established installations are strategically dispersed: Two in northern Gaza, two in the central region, one east of the Netzarim Corridor, and three in the southern city of Khan Younis.In one of the most glaring examples of this spatial takeover, Israeli forces established a new military base directly atop the ruins of the Eastern Cemetery in Khan Younis.Satellite images show that engineering works on the bulldozed burial ground began in November 2025. By May 18, 2026, the site was fully equipped with vehicle staging areas and repetitive structures, likely used for troop housing and operational meetings.A similar pattern of rapid militarisation is visible in northern Gaza. In Beit Lahiya, an area that appeared completely clear in October 2025 photos, satellite imagery captured the sudden onset of engineering works by mid-November.By May 2026, a fully enclosed military structure with internal facilities had materialised.Fortifying the front linesBeyond the construction of new bases, the Israeli military is aggressively upgrading its preexisting positions within the “Yellow Line” – the temporary demarcation zones where forces were permitted to remain pending a full withdrawal.East of Gaza City, a military outpost expanded its surface area by an estimated 70 percent between October 2025 and May 2026.The upgraded site now features extensive internal restructuring, new staging zones for armoured vehicles, and bolstered fortifications. In central Gaza, satellite sensors detected deep defensive trenches being excavated around an existing military installation, signalling a deliberate shift towards long-term field endurance.The strategic intent of this infrastructure is most evident around the Netzarim Corridor, a route used by the Israeli army to physically sever northern Gaza from the south.The Open Source Unit identified three separate military outposts guarding the areas east of and immediately around this axis, ensuring Israel’s continued chokehold over movement between the two halves of the enclave.Just east of this corridor in Juhor ad-Dik, a patch of open land was rapidly transformed into an emerging military base after earthworks began in March 2026.Encircling a battered populationThe geographical distribution of these 40 military outposts reveals a deliberate strategy of encirclement. The bases, connected by a network of earthen berms, trenches, and internal military roads, tightly surround Palestinian population centres from multiple directions.This suffocating architecture severely restricts the ability of civilians to move freely or access their lands, particularly in areas abutting the Israeli deployment lines.The expanding occupation stands in direct violation of the Untied States-brokered October 2025 ceasefire agreement, which was based on a 21-point peace plan proposed by President Donald Trump. The framework demanded an end to the hostilities, the immediate entry of aid, the disarmament of Hamas, and a phased Israeli withdrawal.Instead, the Palestinian death toll continues to rise. Since the war began in October 2023, Israeli attacks have killed nearly 73,000 Palestinians and injured more than 172,919, with women and children making up most of the casualties.According to Gaza’s Ministry of Health data, the violence did not end with the truce; at least 929 Palestinians have been killed and 2,811 injured in the seven months since the ceasefire officially took effect.",
+          "zh": "作为十月份签署的停火协议的一部分，以色列本应从加沙全面撤军。根据半岛电视台分析的卫星图像，以色列军队没有撤退，而是悄悄地在被围困的飞地上巩固了永久性的、戒备森严的军事哨所。半岛电视台开源部门的一项调查分析了截至 2026 年 5 月的卫星数据，发现了盘踞在加沙的 40 个不同的以色列军事前哨基地。至关重要的是，分析证明，其中 8 个基地是在 2025 年 10 月停火协议生效后完全从头开始建造的，其中一个基地仍在积极建设中。（半岛电视台）这种物理防御工事反映了以色列领导层日益公开的领土野心。在最近的一次会议上，以色列总理本杰明·内塔尼亚胡确认了永久占领加沙地带绝大多数地区的指示。以色列军队已撤回“黄线”，即占飞地约 60% 领土的缓冲区和军事区。内塔尼亚胡表示：“我们目前正在挤压哈马斯；我们现在控制着 60% 的领土。”首先，70。让我们从这个开始。“亵渎和新建筑卫星分析揭示了建设可持续、长期军事基础设施而不是临时观察所的系统性努力。新建立的设施在战略上是分散的：两个在加沙北部，两个在中部地区，一个在内扎里姆走廊以东，三个在南部城市汗尤尼斯。在这种空间接管的最明显的例子之一中，以色列军队直接在加沙地带的顶部建立了一个新的军事基地。汗尤尼斯东部公墓遗址。卫星图像显示，推土机墓地的工程工作于 2025 年 11 月开始。到 2026 年 5 月 18 日，该场地已完全配备了车辆停靠区和重复结构，可能用于部队住房和作战会议。在加沙北部也可以看到类似的快速军事化模式。在 2025 年 10 月的照片中看起来完全清晰的拜特拉希亚地区，卫星图像捕捉到了 11 月中旬突然开始的工程施工。到 2026 年 5 月，一座具有内部设施的全封闭军事建筑已经建成。加强前线除了建设新基地之外，以色列军方正在积极升级其在“黄线”内的现有阵地，即允许部队在全面撤军之前停留的临时分界区。加沙城军事前哨基地的面积在 2025 年 10 月至 2026 年 5 月期间估计扩大了 70%。升级后的基地现在拥有广泛的内部重组、新的装甲车集结区和加固的防御工事。在加沙中部，卫星传感器检测到现有军事设施周围正在挖掘深防御壕沟，这表明以色列有意向长期野外持久性转变。该基础设施的战略意图在 Netzarim 走廊周围最为明显，以色列军队使用这条路线将加沙北部与南部进行物理隔离。开源部门确定了三个独立的军事前哨，守卫着该轴线以东和紧邻该轴线的地区，确保以色列继续扼制加沙地带两半之间的运动。就在Juhor ad-Dik这条走廊的东边，2026年3月土方工程开始后，一块开阔的土地迅速转变为新兴的军事基地。包围饱受摧残的人口这40个军事前哨的地理分布揭示了一种刻意的包围战略。这些基地由土堤、战壕和内部军事道路网络连接起来，从多个方向紧紧包围巴勒斯坦人口中心。这种令人窒息的建筑严重限制了平民自由行动或进入其土地的能力，特别是在毗邻以色列部署线的地区。不断扩大的占领直接违反了美国斡旋的 2025 年 10 月停火协议，该协议基于唐纳德·特朗普总统提出的 21 点和平计划。该框架要求停止敌对行动、立即提供援助、解除哈马斯武装以及分阶段以色列撤军。相反，巴勒斯坦死亡人数继续上升。自2023年10月战争爆发以来，以色列的袭击已造成近73,000名巴勒斯坦人死亡，超过172,919人受伤，其中妇女和儿童占伤亡人数的大部分。加沙卫生部的数据显示，暴力并没有随着停战而结束；冲突并没有结束。自停火正式生效以来的七个月内，至少有 929 名巴勒斯坦人被杀，2,811 人受伤。"
+        }
+      ]
+    },
+    {
+      "title": "As the tech mega-IPO race heats up, has OpenAI missed its moment?",
+      "link": "https://www.theguardian.com/technology/2026/jun/03/as-the-tech-mega-ipo-race-hots-up-has-openai-missed-its-moment",
+      "summary": "With rivals racing to market to raise ‘eye-popping sums’, the spotlight is now on the AI sector’s one-time ‘poster child’\nA year is a long time in AI. Just 12 months ago, Sam Altman was predicting his company OpenAI would build a super intelligence and fundamentally remake societ",
+      "pubDate": "Wed, 03 Jun 2026 10:38:09 GMT",
       "source": "Guardian Tech",
       "category": "tech",
       "sourceColor": "#1a73e8",
-      "titleZh": "谷歌母公司Alphabet将出售800亿美元股票以资助人工智能支出热潮",
-      "summaryZh": "有史以来最大的股权融资之一包括向美国投资集团伯克希尔哈撒韦出售 100 亿美元的股票\n\n商业直播 – 最新更新\n\n谷歌母公司 Alphabet 表示，计划筹集高达 800 亿美元（590 亿英镑）的股权，为其庞大的人工智能基础设施提供资金",
+      "titleZh": "随着科技巨头 IPO 竞赛的白热化，OpenAI 错过了时机吗？",
+      "summaryZh": "随着竞争对手竞相进入市场筹集“令人瞠目结舌的资金”，现在的焦点集中在人工智能领域一度的“典范”上\n对于人工智能来说，一年是一段很长的时间。就在 12 个月前，Sam Altman 还预测他的公司 OpenAI 将打造一个超级智能并从根本上重塑社会",
       "contentParagraphs": [
         {
-          "en": "Google’s parent company, Alphabet, has said it plans to raise up to $80bn (£59bn) in equity to fund its vast artificial intelligence infrastructure investments, raising further questions over the economics of the AI boom.The move, one of the largest equity fundraisings ever, includes a $10bn share sale to the US investment group Berkshire Hathaway, which was led until last year by the investment guru Warren Buffett.Alphabet, which is behind the Gemini system that has been increasing its share of the AI chatbot market, said it would use the money to expand its “world-class AI compute infrastructure to meet its unprecedented customer demand”.The California-based company said: “AI is driving an expansionary moment for Alphabet. The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply. By scaling its investments, the company seeks to expand its foundational infrastructure to support the significant growth opportunity ahead.”However, such a huge fundraising is also a warning to the markets that for all the many billions of dollars thrown at AI infrastructure, meaningful returns to investors have so far been limited.Jim Reid, a market strategist at Deutsche Bank, said Alphabet was reminding investors of the “unprecedented scale of the AI spending boom”, adding: “Funding of the AI [capital expenditure] boom is becoming an increasingly key topic for markets.”The decision to tap Berkshire Hathaway is eye-catching, too. Under Buffett, known as the Sage of Omaha, Berkshire often stepped in to provide funding for companies that needed cash, such as the famous $5bn investment into Goldman Sachs at the height of the financial crisis. Berkshire has been investing in Alphabet since last summer.In its filing, Alphabet explained that half of the $80bn would be used to “scale AI infrastructure and global compute”, with $40bn set aside to cover “an administrative change to how it meets tax obligations associated with vesting of employee equity awards”.The fundraising includes a $30bn initial raise alongside the $10bn from Berkshire, and a $40bn flexible drip-feed mechanism that can be used gradually over time, not earmarked for AI investment.Matt Britzman, a senior equity analyst at Hargreaves Lansdown, said Alphabet’s fundraising was a “clear sign that the AI arms race is moving into a more capital-hungry phase”.He said: “It’s certainly a huge chunk of money to be raising, but the devil’s in the details on this. The full $80bn is less than 2% of Alphabet’s mammoth $4.6tn market cap … But, however it’s structured, one thing is abundantly clear. Long gone are the days when the tech giants were capital-light free cashflow machines.“Alphabet is certainly spending from a position of strength, not distress. Demand for AI compute is running ahead of supply, Google Cloud growth has accelerated sharply, backlog has surged, and search is proving far more resilient than many feared. That gives the investment case more substance than some AI spending stories, where the path to returns is harder to see.”Alphabet had said previously capital expenditure was expected to reach $180bn to $190bn this year, with another significant step up in 2027.Britzman said Alphabet was at the “front of the race” in AI, “but investors will demand continued proof that this buildout leads to durable revenue growth, not just bigger datacentres”.Alphabet is tapping investors for funding before some of its main AI rivals attempt to join the stock market. Anthropic, which makes the Claude chatbot, popular with software engineers and other business clients, said on Monday it had filed confidentially for an initial public offering on the US stock market.After a meteoric rise this year, Anthropic is now valued at $965bn, after raising $65bn in funding, meaning it has leapfrogged OpenAI to become the world’s most valuable startup.OpenAI and Elon Musk’s SpaceX, which includes the artificial intelligence startup xAI, are also slated to go public this year.",
+          "en": "A year is a long time in AI. Just 12 months ago, Sam Altman was predicting his company OpenAI would build a super intelligence and fundamentally remake society. Now the boss of the ChatGPT developer is walking back those ideas after failing to make money from ads and erotic chatbots.Meanwhile, rivals are storming ahead with plans to expand and go public on the stock market, in what is widely expected to be a season of record-setting initial public offerings (IPOs).Elon Musk’s SpaceX, which owns xAI, is going to float this month, while Anthropic confidentially filed for an IPO on Monday in what the New York Times said could be a “once in a generation” moment for Wall Street. And the AI chip designer and Google’s parent company, Alphabet, is raising $80bn (£60bn) to fund a larger AI infrastructure buildout – in what analysts say is the largest equity fundraising ever.These flotations – and OpenAI’s, if it happens – will reveal much about the ambitions and state of the AI economy. The numbers involved are eye-popping; already there is talk of whether the IPOs themselves might strain limited pools of capital. Questions hang over the progress of the AI infrastructure build-out, and the degree to which AI tools can replace human labour. Some of the biggest questions hang over OpenAI, the “poster child” of the boom.One might have been forgiven, back in the halcyon days of early 2025, for thinking that money – or at least, the question of a profit – wasn’t everything to Altman.The OpenAI chief executive was blogging about creating “science fiction” tools that could “massively accelerate scientific discovery” and “massively increase abundance”. The US vice-president, JD Vance, was reportedly among those reading with concern the doomsday scenario AI 2027, which envisions a company loosely modelled on OpenAI building a super intelligence that destroys humanity.Vast sums chased these visions of ultimate power; OpenAI announced a $500bn investment into US AI infrastructure, called Stargate, “to secure American leadership in AI”. (For good measure, it announced a less-expensive Stargate in the UK, which it shelved in April this year.)But in 2026, it turns out that money is important – and OpenAI needs more. It may not be the best time to float, but there might not be a better one.The bare facts of the business have not changed in the past year, even if belief in the machine god has tempered. This winter, OpenAI successively announced – then failed to execute – several strategies to monetise ChatGPT, including advertisements, which Altman had earlier said was a “uniquely unsettling” proposition and a “last resort”. Meanwhile, after teasing the idea of erotic chatbots in late 2025, OpenAI backed out of the idea in March, saying its other work was a “higher priority”.The Information reports that OpenAI made revenue of $5.7bn in the first quarter of this year – but with adjusted negative margins of -122%, meaning it lost $1.22 for every dollar it spent. These numbers are impossible to confirm, as OpenAI does not release financial details, but underscore a fundamental truth of the AI economy: the computing power that makes ChatGPT possible is expensive, and isn’t getting cheaper with scale.Can OpenAI – valued at $852bn at its last funding round – mount a successful IPO? What happens if it all goes sideways?Russ Mould, an investment director at AJ Bell, says: “Until we see the numbers, it’s very difficult for us to assess the valuation. We need to know what the projected market cap might be, what the revenues are … what cashflow looks like.”In some ways, OpenAI is acting like a mature, IPO-ready business, says Adrian Cox, a thematic strategist at the Deutsche Bank Research Institute. At an event earlier this month in Australia, Altman struck a sharply different note around AI-related job loss than he did a year ago, saying he didn’t expect a “jobs apocalypse.” (Last year, he said that people will “find new things to do, new ways to be useful to each other” following AI-related social change.)“The demands of a public company are very different from a private company and the transparency that is required in going public has caused not only a change in strategy, but also a change in tone around the company,” says Cox.“The company’s clearly engaging in an important shift as it positions itself as the kind of mature company that you would expect to go public.”Clashes have been reported between Sarah Friar, OpenAI’s chief financial officer, and Altman, over the company’s timeline to go public. Photograph: Bloomberg/GettyThere are caveats, though, including the reported clashes between OpenAI’s chief financial officer, Sarah Friar, and Altman over the company’s timeline to go public. Friar has reportedly expressed doubts that OpenAI is ready to go public this year, and reservations about whether it can cover its computing costs.The question is, can it afford not to? “This feels like the year for mega AI IPOs,” says Cox. “The demand seems to be there from retail investors. The demand is also there from users for AI.”There could be consequences if it does not. The market is at record highs, having weathered Iran-related wobbles earlier this year. There is only so much capital available to share with others planning to go public such as Anthropic – which last week overtook OpenAI with a valuation of $965bn – and SpaceX.Cox says: “Some might say that there is only a finite amount of financing to go around, there may be a downside to waiting under those circumstances.”Mould says: “You’ve got a market with enormous potential with a lot of very, very big people jockeying … very big players jockeying for position. We don’t know who’s going to win. They can’t all be valued as winners in the long run.”What happens if OpenAI’s stock is a flop? For some – including Gary Marcus, a noted AI critic and professor at New York University – it could signal the start of something bigger: cracks in the “fantastical thinking” that unde",
+          "zh": "A year is a long time in AI. Just 12 months ago, Sam Altman was predicting his company OpenAI would build a super intelligence and fundamentally remake society. Now the boss of the ChatGPT developer is walking back those ideas after failing to make money from ads and erotic chatbots.Meanwhile, rivals are storming ahead with plans to expand and go public on the stock market, in what is widely expected to be a season of record-setting initial public offerings (IPOs).Elon Musk’s SpaceX, which owns xAI, is going to float this month, while Anthropic confidentially filed for an IPO on Monday in what the New York Times said could be a “once in a generation” moment for Wall Street. And the AI chip designer and Google’s parent company, Alphabet, is raising $80bn (£60bn) to fund a larger AI infrastructure buildout – in what analysts say is the largest equity fundraising ever.These flotations – and OpenAI’s, if it happens – will reveal much about the ambitions and state of the AI economy. The numbers involved are eye-popping; already there is talk of whether the IPOs themselves might strain limited pools of capital. Questions hang over the progress of the AI infrastructure build-out, and the degree to which AI tools can replace human labour. Some of the biggest questions hang over OpenAI, the “poster child” of the boom.One might have been forgiven, back in the halcyon days of early 2025, for thinking that money – or at least, the question of a profit – wasn’t everything to Altman.The OpenAI chief executive was blogging about creating “science fiction” tools that could “massively accelerate scientific discovery” and “massively increase abundance”. The US vice-president, JD Vance, was reportedly among those reading with concern the doomsday scenario AI 2027, which envisions a company loosely modelled on OpenAI building a super intelligence that destroys humanity.Vast sums chased these visions of ultimate power; OpenAI announced a $500bn investment into US AI infrastructure, called Stargate, “to secure American leadership in AI”. (For good measure, it announced a less-expensive Stargate in the UK, which it shelved in April this year.)But in 2026, it turns out that money is important – and OpenAI needs more. It may not be the best time to float, but there might not be a better one.The bare facts of the business have not changed in the past year, even if belief in the machine god has tempered. This winter, OpenAI successively announced – then failed to execute – several strategies to monetise ChatGPT, including advertisements, which Altman had earlier said was a “uniquely unsettling” proposition and a “last resort”. Meanwhile, after teasing the idea of erotic chatbots in late 2025, OpenAI backed out of the idea in March, saying its other work was a “higher priority”.The Information reports that OpenAI made revenue of $5.7bn in the first quarter of this year – but with adjusted negative margins of -122%, meaning it lost $1.22 for every dollar it spent. These numbers are impossible to confirm, as OpenAI does not release financial details, but underscore a fundamental truth of the AI economy: the computing power that makes ChatGPT possible is expensive, and isn’t getting cheaper with scale.Can OpenAI – valued at $852bn at its last funding round – mount a successful IPO? What happens if it all goes sideways?Russ Mould, an investment director at AJ Bell, says: “Until we see the numbers, it’s very difficult for us to assess the valuation. We need to know what the projected market cap might be, what the revenues are … what cashflow looks like.”In some ways, OpenAI is acting like a mature, IPO-ready business, says Adrian Cox, a thematic strategist at the Deutsche Bank Research Institute. At an event earlier this month in Australia, Altman struck a sharply different note around AI-related job loss than he did a year ago, saying he didn’t expect a “jobs apocalypse.” (Last year, he said that people will “find new things to do, new ways to be useful to each other” following AI-related social change.)“The demands of a public company are very different from a private company and the transparency that is required in going public has caused not only a change in strategy, but also a change in tone around the company,” says Cox.“The company’s clearly engaging in an important shift as it positions itself as the kind of mature company that you would expect to go public.”Clashes have been reported between Sarah Friar, OpenAI’s chief financial officer, and Altman, over the company’s timeline to go public. Photograph: Bloomberg/GettyThere are caveats, though, including the reported clashes between OpenAI’s chief financial officer, Sarah Friar, and Altman over the company’s timeline to go public. Friar has reportedly expressed doubts that OpenAI is ready to go public this year, and reservations about whether it can cover its computing costs.The question is, can it afford not to? “This feels like the year for mega AI IPOs,” says Cox. “The demand seems to be there from retail investors. The demand is also there from users for AI.”There could be consequences if it does not. The market is at record highs, having weathered Iran-related wobbles earlier this year. There is only so much capital available to share with others planning to go public such as Anthropic – which last week overtook OpenAI with a valuation of $965bn – and SpaceX.Cox says: “Some might say that there is only a finite amount of financing to go around, there may be a downside to waiting under those circumstances.”Mould says: “You’ve got a market with enormous potential with a lot of very, very big people jockeying … very big players jockeying for position. We don’t know who’s going to win. They can’t all be valued as winners in the long run.”What happens if OpenAI’s stock is a flop? For some – including Gary Marcus, a noted AI critic and professor at New York University – it could signal the start of something bigger: cracks in the “fantastical thinking” that unde"
+        }
+      ]
+    },
+    {
+      "title": "The 18 creatures in the running to be on the new banknotes",
+      "link": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Bank of England is asking the public which animals should appear on future banknotes.",
+      "pubDate": "Tue, 02 Jun 2026 23:02:18 GMT",
+      "source": "BBC Business",
+      "category": "business",
+      "sourceColor": "#0d7a3e",
+      "titleZh": "有望出现在新钞票上的 18 种生物",
+      "summaryZh": "英格兰银行正在向公众询问哪些动物应该出现在未来的钞票上。",
+      "contentParagraphs": []
+    },
+    {
+      "title": "5 ways to reduce everyday exposure to 'forever chemicals'",
+      "link": "https://www.npr.org/2026/06/02/nx-s1-5839343/reduce-exposure-forever-chemicals-pfas-water",
+      "summary": "Mara Hoplamazian has spent years reporting on 'forever chemicals,' or PFAS. Here's what they've learned about what may help limit everyday exposure to the contaminant.",
+      "pubDate": "Tue, 02 Jun 2026 12:06:38 -0400",
+      "source": "NPR Science",
+      "category": "science",
+      "sourceColor": "#6a1b9a",
+      "titleZh": "减少日常接触“永久化学品”的 5 种方法",
+      "summaryZh": "Mara Hoplamazian 多年来一直在报道“永久化学品”（PFAS）。以下是他们了解到的可能有助于限制日常接触污染物的方法。",
+      "contentParagraphs": [
+        {
+          "en": "Drinking water is one of the main ways people are exposed to per- and polyfluoroalkyl substances, or \"PFAS.\" These chemicals have been linked to negative health outcomes, including certain cancers.",
+          "zh": "Drinking water is one of the main ways people are exposed to per- and polyfluoroalkyl substances, or \"PFAS.\" These chemicals have been linked to negative health outcomes, including certain cancers."
+        },
+        {
+          "en": "show999/Getty Images",
+          "zh": "show999/Getty Images"
+        },
+        {
+          "en": "show999/Getty Images",
+          "zh": "show999/Getty Images"
+        },
+        {
+          "en": "Reporting for this story comes from the series Safe to Drink, a podcast that follows stories of water contamination in New England by Mara Hoplamazian from New Hampshire Public Radio.",
+          "zh": "Reporting for this story comes from the series Safe to Drink, a podcast that follows stories of water contamination in New England by Mara Hoplamazian from New Hampshire Public Radio."
+        },
+        {
+          "en": "\"Forever chemicals\" are everywhere — in our drinking water, in our food and in products like nonstick frying pans, raincoats and even some types of floss.",
+          "zh": "\"Forever chemicals\" are everywhere — in our drinking water, in our food and in products like nonstick frying pans, raincoats and even some types of floss."
+        },
+        {
+          "en": "Also known as per- and polyfluoroalkyl substances, or \"PFAS,\" these chemicals have been linked to negative health outcomes, including certain cancers.",
+          "zh": "Also known as per- and polyfluoroalkyl substances, or \"PFAS,\" these chemicals have been linked to negative health outcomes, including certain cancers."
+        },
+        {
+          "en": "PFAS are strong and can repel both water and oil, which is why they're widely used in manufacturing. But they don't break down easily in the environment, and they can linger in our bodies. In fact, according to the Agency for Toxic Substances and Disease Registry, nearly everyone in the United States has PFAS in their blood.",
+          "zh": "PFAS are strong and can repel both water and oil, which is why they're widely used in manufacturing. But they don't break down easily in the environment, and they can linger in our bodies. In fact, according to the Agency for Toxic Substances and Disease Registry, nearly everyone in the United States has PFAS in their blood."
+        },
+        {
+          "en": "\"They have really unique properties, and that's part of what has made them so attractive to industry. Unfortunately, we're learning that it is also something that makes them toxic and causes problems in the human body,\" says Megan Romano, an epidemiologist at Dartmouth who studies PFAS.",
+          "zh": "\"They have really unique properties, and that's part of what has made them so attractive to industry. Unfortunately, we're learning that it is also something that makes them toxic and causes problems in the human body,\" says Megan Romano, an epidemiologist at Dartmouth who studies PFAS."
+        },
+        {
+          "en": "Eliminating all sources of PFAS in your life would be impossible, according to one report from the National Academies of Sciences, Engineering and Medicine. And researchers are still trying to pin down which actions reduce exposure.",
+          "zh": "Eliminating all sources of PFAS in your life would be impossible, according to one report from the National Academies of Sciences, Engineering and Medicine. And researchers are still trying to pin down which actions reduce exposure."
+        },
+        {
+          "en": "But it's worth trying. Research has found that when people remove their exposures, the levels of these contaminants in their bodies decrease over the course of several years.",
+          "zh": "But it's worth trying. Research has found that when people remove their exposures, the levels of these contaminants in their bodies decrease over the course of several years."
+        },
+        {
+          "en": "If you'd like to reduce your exposure to PFAS, there are a few actions you can take. Some are simple, like looking for third-party-tested PFAS-free products. Others aren't as straightforward; the U.S. is still trying to figure out where these chemicals are showing up in food and water.",
+          "zh": "If you'd like to reduce your exposure to PFAS, there are a few actions you can take. Some are simple, like looking for third-party-tested PFAS-free products. Others aren't as straightforward; the U.S. is still trying to figure out where these chemicals are showing up in food and water."
+        },
+        {
+          "en": "Check if your water has been tested",
+          "zh": "Check if your water has been tested"
+        },
+        {
+          "en": "If your community has water contaminated by PFAS chemicals, drinking water could be your main source of exposure. According to the U.S. Geological Survey, they're in nearly half of the nation's tap water.",
+          "zh": "If your community has water contaminated by PFAS chemicals, drinking water could be your main source of exposure. According to the U.S. Geological Survey, they're in nearly half of the nation's tap water."
+        },
+        {
+          "en": "Many cities and towns have already tested public water for these chemicals, so a good first step is to check with your water utility to see if they have published those results. To do that, you can call your utility's customer service line or look online to see if they've published PFAS data in water quality reports.",
+          "zh": "Many cities and towns have already tested public water for these chemicals, so a good first step is to check with your water utility to see if they have published those results. To do that, you can call your utility's customer service line or look online to see if they've published PFAS data in water quality reports."
+        },
+        {
+          "en": "In many states, environmental regulators may also be able to share information about PFAS levels in public water. The deadline for water utilities to test for PFAS chemicals under the current Environmental Protection Agency regulations is 2027, so if results aren't available yet, they should be by then.",
+          "zh": "In many states, environmental regulators may also be able to share information about PFAS levels in public water. The deadline for water utilities to test for PFAS chemicals under the current Environmental Protection Agency regulations is 2027, so if results aren't available yet, they should be by then."
+        },
+        {
+          "en": "If you're on a private well instead of on public water, you may need to test your water yourself. Some states have programs to help with the expense and logistics.",
+          "zh": "If you're on a private well instead of on public water, you may need to test your water yourself. Some states have programs to help with the expense and logistics."
+        },
+        {
+          "en": "The U.S. Geological Survey has a map that shows their testing results across the country. An interactive EPA map shows testing results for public water systems, with systems testing above national limits in brown. Another map, from a nonprofit called the Environmental Working Group, shows results from several national testing efforts.",
+          "zh": "The U.S. Geological Survey has a map that shows their testing results across the country. An interactive EPA map shows testing results for public water systems, with systems testing above national limits in brown. Another map, from a nonprofit called the Environmental Working Group, shows results from several national testing efforts."
+        },
+        {
+          "en": "Once you figure out the levels of PFAS chemicals in your water, you can compare them to the EPA's regulations. You can also enter them into the Centers for Disease Control and Prevention's blood level estimation tool, which can give you a sense of what the levels of these chemicals in your blood might be.",
+          "zh": "Once you figure out the levels of PFAS chemicals in your water, you can compare them to the EPA's regulations. You can also enter them into the Centers for Disease Control and Prevention's blood level estimation tool, which can give you a sense of what the levels of these chemicals in your blood might be."
+        },
+        {
+          "en": "See if your community is installing filters, or consider getting your own",
+          "zh": "See if your community is installing filters, or consider getting your own"
+        },
+        {
+          "en": "If you find out your water has levels of PFAS chemicals above the EPA's limits, check to see if your community is planning to install a filtration system that can catch those substances. Public water systems are required to reduce PFAS in water by 2029, or by 2031 under an extension proposed by the Trump administration.",
+          "zh": "If you find out your water has levels of PFAS chemicals above the EPA's limits, check to see if your community is planning to install a filtration system that can catch those substances. Public water systems are required to reduce PFAS in water by 2029, or by 2031 under an extension proposed by the Trump administration."
+        },
+        {
+          "en": "There are a few kinds of treatment systems that work on PFAS contamination: activated carbon filters, ion exchange treatment and reverse osmosis.",
+          "zh": "There are a few kinds of treatment systems that work on PFAS contamination: activated carbon filters, ion exchange treatment and reverse osmosis."
+        },
+        {
+          "en": "If you decide to get your own filter, make sure it is certified to treat PFAS contamination. You'll want to look for certifications from NSF International and the American National Standards Institute (ANSI). Specifically, filters that are \"NSF/ANSI 53\"- or \"NSF/ANSI 58\"-certified should work to reduce PFAS chemicals — though their current requirements aren't based on the latest EPA limits.",
+          "zh": "If you decide to get your own filter, make sure it is certified to treat PFAS contamination. You'll want to look for certifications from NSF International and the American National Standards Institute (ANSI). Specifically, filters that are \"NSF/ANSI 53\"- or \"NSF/ANSI 58\"-certified should work to reduce PFAS chemicals — though their current requirements aren't based on the latest EPA limits."
+        },
+        {
+          "en": "The upfront cost of in-home water treatment can range from around $20 for pitcher-style filters to hundreds or thousands of dollars for whole-home systems. But make sure to factor in maintenance costs, too — it's important to follow the instructions that come with the treatment system and replace parts as needed.",
+          "zh": "The upfront cost of in-home water treatment can range from around $20 for pitcher-style filters to hundreds or thousands of dollars for whole-home systems. But make sure to factor in maintenance costs, too — it's important to follow the instructions that come with the treatment system and replace parts as needed."
+        },
+        {
+          "en": "Consider your food",
+          "zh": "Consider your food"
+        },
+        {
+          "en": "When PFAS chemicals get into the environment, they can make their way into our food.",
+          "zh": "When PFAS chemicals get into the environment, they can make their way into our food."
+        },
+        {
+          "en": "According to the National Academies report, diet is likely the primary way people are exposed to PFAS in places without drinking water contamination. But, researchers say, longer-term studies are needed to assess how effective different interventions might be for reducing exposure from food.",
+          "zh": "According to the National Academies report, diet is likely the primary way people are exposed to PFAS in places without drinking water contamination. But, researchers say, longer-term studies are needed to assess how effective different interventions might be for reducing exposure from food."
+        },
+        {
+          "en": "Some meat, dairy products and chicken eggs have been found to contain PFAS chemicals, but initial results from Food and Drug Administration research show that most detectable PFAS were found in seafood. Federal regulators recommend people avoid eating fish from waterways that have been impacted by PFAS. Produce grown with contaminated water can also become a source of exposure.",
+          "zh": "Some meat, dairy products and chicken eggs have been found to contain PFAS chemicals, but initial results from Food and Drug Administration research show that most detectable PFAS were found in seafood. Federal regulators recommend people avoid eating fish from waterways that have been impacted by PFAS. Produce grown with contaminated water can also become a source of exposure."
+        },
+        {
+          "en": "From left to right, counter-clockwise: Nonstick pans, packaged salmon, menstrual products and waterproof gear like rain jackets may contain PFAS.",
+          "zh": "From left to right, counter-clockwise: Nonstick pans, packaged salmon, menstrual products and waterproof gear like rain jackets may contain PFAS."
+        },
+        {
+          "en": "the_burtons/Getty Images, Thai Liang Lim/Getty Images,",
+          "zh": "the_burtons/Getty Images, Thai Liang Lim/Getty Images,"
+        }
+      ]
+    },
+    {
+      "title": "Takeaways from Iowa's primaries. And, DOJ nixes Trump's 'anti-weaponization' fund",
+      "link": "https://www.npr.org/2026/06/03/g-s1-125570/up-first-newsletter-iowa-primaries-anti-weaponization-fund-bill-pulte-immigrants-aliens",
+      "summary": "Polls have now closed in six states that held primary elections yesterday. Here are the key takeaways. And, the Justice Department has scrapped plans for Trump's \"anti-weaponization\" fund.",
+      "pubDate": "Wed, 03 Jun 2026 07:54:07 -0400",
+      "source": "NPR News",
+      "category": "world",
+      "sourceColor": "#e57300",
+      "titleZh": "爱荷华州初选的要点。而且，司法部取消了特朗普的“反武器化”基金",
+      "summaryZh": "昨天举行初选的六个州的投票现已结束。以下是要点。而且，司法部已经取消了特朗普的“反武器化”基金计划。",
+      "contentParagraphs": [
+        {
+          "en": "Primary Results, DOJ Scraps Anti-Weaponization Fund, Trump Appoints Acting DNI",
+          "zh": "初步结果，司法部取消反武器化基金，特朗普任命代理国家情报总监"
+        },
+        {
+          "en": "<iframe src=\"https://www.npr.org/player/embed/g-s1-125570/nx-s1-mx-5844806-1\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\">",
+          "zh": "<iframe src =“https://www.npr.org/player/embed/g-s1-125570/nx-s1-mx-5844806-1”width =“100％”height =“290”frameborder =“0”scrolling =“no”title =“NPR嵌入式音频播放器”>"
+        },
+        {
+          "en": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.",
+          "zh": "早上好。您正在阅读 Up First 时事通讯。在此订阅，将其发送到您的收件箱，并收听 Up First 播客，了解开始新的一天所需的所有新闻。"
+        },
+        {
+          "en": "Today's top stories",
+          "zh": "今日头条新闻"
+        },
+        {
+          "en": "Trump-endorsed Congressman Randy Feenstra lost the Iowa gubernatorial primary race last night to businessman Zach Lahn. It's a rare blow to President Trump, who has seen almost all of his chosen candidates succeed. Farmers in Iowa have been disproportionately impacted by Trump administration policies like tariffs and the war in Iran. The state is governed by Republicans, but voters have cast their ballots for Democrats in recent federal and state elections. Democratic voters are strategically selecting candidates they believe will best position them to flip seats in November.",
+          "zh": "特朗普支持的国会议员兰迪·芬斯特拉昨晚在爱荷华州州长初选中输给了商人扎克·兰。这对特朗普总统来说是一个罕见的打击，他几乎所有选定的候选人都取得了成功。爱荷华州的农民受到关税和伊朗战争等特朗普政府政策的影响尤为严重。该州由共和党执政，但选民在最近的联邦和州选举中将选票投给了民主党。民主党选民正在战略性地选择他们认为最有利于他们在 11 月翻转席位的候选人。"
+        },
+        {
+          "en": "Voters fill out ballots at Lowe Park Arts and Environment Center on Tuesday in Marion, Iowa. Iowans voting in today's primary election will nominate candidates for governor, U.S. Senate, and U.S. House in advance of this fall's midterm elections.",
+          "zh": "选民周二在爱荷华州马里昂的洛公园艺术与环境中心填写选票。 Iowans voting in today's primary election will nominate candidates for governor, U.S. Senate, and U.S. House in advance of this fall's midterm elections."
+        },
+        {
+          "en": "🎧 In the upcoming midterm elections, Lahn will compete against Rob Sand, the Democratic nominee who ran unopposed in the primaries. Sand is also the only statewide Democratic elected official. The race between the two politicians begins as a true toss-up, NPR's Stephen Fowler tells Up First.➡️ Here are the results so far for the six states that held primaries yesterday.➡️ The California governor's primary election remains too close to call. Democrat Xavier Becerra and Republican Steve Hilton lead the field, with Democrat Tom Steyer in third.",
+          "zh": "🎧 在即将到来的中期选举中，拉恩将与在初选中无人反对的民主党候选人罗布·桑德竞争。桑德也是全州唯一的民主党民选官员。 NPR 的史蒂芬·福勒 (Stephen Fowler) 告诉 Up First，两位政客之间的竞争一开始就是一场真正的势均力敌。➡️ 以下是昨天举行初选的六个州迄今为止的结果。➡️ 加州州长初选仍然势均力敌。民主党人泽维尔·贝塞拉和共和党人史蒂夫·希尔顿领先，民主党人汤姆·斯泰尔位居第三。"
+        },
+        {
+          "en": "Acting Attorney General Todd Blanche told members of Congress yesterday that plans for Trump's $1.776 billion anti-weaponization fund are no longer moving forward. His remarks come just days after a federal judge temporarily blocked the creation of the fund after Democracy Forward and other organizations filed a lawsuit.",
+          "zh": "代理司法部长托德·布兰奇昨天告诉国会议员，特朗普 17.76 亿美元反武器化基金的计划不再向前推进。就在他发表上述言论的几天前，一名联邦法官在民主前进和其他组织提起诉讼后暂时阻止了该基金的设立。"
+        },
+        {
+          "en": "🎧 In a rare occurrence, the fund has prompted many Republicans, especially in the Senate, to publicly oppose Trump, NPR's Ryan Lucas says. Many Republicans disliked the possibility that payouts could go to Capitol rioters who attacked police on Jan. 6, 2021. This Republican pushback has stalled some of the administration's legislative priorities, including funding for immigration enforcement. From the beginning, Democrats have criticized the fund, arguing that it would serve as a slush fund that allows the president to give nearly $1.8 billion in taxpayer money to his supporters and allies.",
+          "zh": "NPR 的瑞安·卢卡斯 (Ryan Lucas) 表示，该基金促使许多共和党人，尤其是参议院的共和党人公开反对特朗普，这是罕见的情况。许多共和党人不喜欢向 2021 年 1 月 6 日袭击警察的国会大厦骚乱者支付赔偿金。共和党的这种抵制已经阻碍了政府的一些立法优先事项，包括为移民执法提供资金。从一开始，民主党人就批评该基金，认为它将充当行贿基金，让总统可以向他的支持者和盟友提供近 18 亿美元的纳税人资金。"
+        },
+        {
+          "en": "Trump announced yesterday that he is appointing Federal Housing Finance Agency Director Bill Pulte as the acting director of national intelligence. Pulte will replace Tulsi Gabbard, who is stepping down at the end of the month. His biography on the FHFA website highlights his career experience in housing and philanthropy, but it does not mention any background in intelligence.",
+          "zh": "特朗普昨天宣布，他将任命联邦住房金融局局长比尔·普尔特担任代理国家情报总监。普尔特将接替将于本月底辞职的图尔西·加巴德。 FHFA 网站上的他的传记强调了他在住房和慈善事业方面的职业经历，但没有提及任何情报背景。"
+        },
+        {
+          "en": "🎧 The law that established the director of national intelligence position after 9/11 says that all nominees must have \"extensive national security experience,\" NPR's Danielle Kurtzleben says. But Pulte isn't a nominee. Trump has named him as the acting director, meaning he won't go through a Senate confirmation. Kurtzleben says this role is a key position as the U.S. engages with foreign threats worldwide, especially during the war with Iran. Pulte has used his position as head of the Federal Housing Finance Agency to legally pursue Trump's perceived enemies. He has accused multiple people of mortgage fraud, including New York Attorney General Letitia James and Democratic Sen. Adam Schiff.",
+          "zh": "NPR 的丹妮尔·库茨莱本 (Danielle Kurtzleben) 表示，9/11 事件后设立国家情报总监职位的法律规定，所有提名人都必须拥有“丰富的国家安全经验”。但普尔特不是提名人。特朗普已任命他为代理主任，这意味着他不会经过参议院的确认。库尔茨莱本表示，在美国应对全球范围内的外国威胁时，特别是在与伊朗的战争期间，这一角色是一个关键角色。普尔特利用联邦住房金融局局长的职位，合法追捕特朗普的敌人。他指控多人进行抵押贷款欺诈，其中包括纽约总检察长利蒂西亚·詹姆斯和民主党参议员亚当·希夫。"
+        },
+        {
+          "en": "Researchers are speaking out against a new White House web page, saying that it uses dehumanizing language to target immigrants. The site aliens.gov discusses the threat of \"aliens,\" accompanied by the opening theme of The X-Files. The webpage equates undocumented immigrants with extraterrestrials. The administration refers to these individuals as an \"it\" and claims \"they do not belong here.\" While some may dismiss the wordplay as a joke, Ernesto Castañeda, director of the Center for Latin American and Latino Studies at American University, says that \"for a few people, it may be another license to act violently against people that they may think are aliens, undocumented. They may be another incitement to hate crimes and to profiling people.\"",
+          "zh": "研究人员公开反对白宫的一个新网页，称该网页使用非人性语言来针对移民。 Aliens.gov 网站以《X 档案》的开场主题讨论了“外星人”的威胁。该网页将无证移民等同于外星人。政府将这些人称为“它”，并声称“他们不属于这里”。虽然有些人可能认为这个双关语是个笑话，但美利坚大学拉丁美洲和拉丁裔研究中心主任埃内斯托·卡斯塔涅达表示，“对于一些人来说，这可能是对他们认为是外国人、无证移民的暴力行为的又一许可。这可能是又一煽动仇恨犯罪和对他人进行分析的行为。”"
+        },
+        {
+          "en": "Drinking water is one of the main ways people are exposed to per- and polyfluoroalkyl substances, or \"PFAS.\" These chemicals have been linked to negative health outcomes, including certain cancers.",
+          "zh": "饮用水是人们接触全氟烷基物质和多氟烷基物质（“PFAS”）的主要途径之一。这些化学物质与负面健康结果有关，包括某些癌症。"
+        },
+        {
+          "en": "show999/Getty Images",
+          "zh": "show999/盖蒂图片社"
+        },
+        {
+          "en": "show999/Getty Images",
+          "zh": "show999/盖蒂图片社"
+        },
+        {
+          "en": "\"Forever chemicals\" are everywhere, even in our drinking water and food. These substances, also known as per- and polyfluoroalkyl substances, or \"PFAS,\" have been linked to negative health outcomes, including certain types of cancer. Eliminating all sources of PFAS in your life would be impossible, according to one report from the National Academies of Sciences, Engineering and Medicine. But it is worthwhile to minimize your exposure to the contaminants. Here are some of the ways you can reduce your PFAS exposure:",
+          "zh": "“永远的化学品”无处不在，甚至在我们的饮用水和食物中。这些物质也称为全氟烷基物质和多氟烷基物质，或“PFAS”，与负面健康结果有关，包括某些类型的癌症。根据美国国家科学、工程和医学院的一份报告，消除生活中所有 PFAS 来源是不可能的。但尽量减少接触污染物是值得的。以下是减少 PFAS 暴露的一些方法："
+        },
+        {
+          "en": "💧 Check whether your water has been tested by calling your utility's customer service or checking online to see if they've released PFAS data in water quality reports. Utilities must test for PFAS chemicals by 2027 under current Environmental Protection Agency regulations.💧 If your water has PFAS levels above EPA limits, check if your community plans to install a filtration system. There are a few treatment systems that work on this contamination, including activated carbon filters",
+          "zh": "💧 通过致电公用事业公司的客户服务人员或在线查看他们是否在水质报告中发布了 PFAS 数据，检查您的水是否经过测试。根据环境保护局现行法规，公用事业公司必须在 2027 年之前对 PFAS 化学品进行测试。💧 如果您的水中 PFAS 含量超过 EPA 限制，请检查您的社区是否计划安装过滤系统。有一些处理系统可以处理这种污染，包括活性炭过滤器"
+        }
+      ]
+    },
+    {
+      "title": "UK media websites given power to block Google using their articles in AI search",
+      "link": "https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries",
+      "summary": "Watchdog makes ruling on search summaries after publishers complain about drop in click-through traffic and revenue\n\nBusiness live – latest updates\n\nOnline publishers and news organisations are now able to block their content from appearing in Google’s AI summaries in UK search r",
+      "pubDate": "Wed, 03 Jun 2026 08:43:52 GMT",
+      "source": "Guardian Tech",
+      "category": "tech",
+      "sourceColor": "#1a73e8",
+      "titleZh": "英国媒体网站有权阻止谷歌在人工智能搜索中使用其文章",
+      "summaryZh": "在出版商抱怨点击流量和收入下降后，监管机构对搜索摘要做出裁决\n\n商业直播 – 最新更新\n\n在线出版商和新闻机构现在可以阻止其内容出现在英国搜索引擎中的 Google 人工智能摘要中",
+      "contentParagraphs": [
+        {
+          "en": "Online publishers and news organisations are now able to block their content from appearing in Google’s AI summaries in UK search results, the British competition watchdog has announced.The Competition and Markets Authority (CMA) said the new requirement would “put publishers, like news organisations, in a stronger position to negotiate content deals with Google”.Many media organisations have complained that they have seen a drop in click-through traffic to their websites – and therefore their revenue – since Google started placing AI summaries at the top of its search page. Many people read these without clicking through to the original journalism.Up until now, websites were also unable to opt out of their content being scraped for AI overviews without also withdrawing from traditional Google search. Given the company’s market dominance, this would have reduced the visibility of their journalism.The News Media Association, which represents UK news publishers including the Guardian, said the decision was a “significant step towards levelling the playing field and building a fair, transparent digital economy where premium content is properly respected and fairly compensated”.Google said it would start testing a new control from Wednesday on a subset of UK-based media sites, allowing owners to manage how their links and content appear in its AI search features, with the aim of rolling out the controls globally.The new measures are among those announced by the CMA to loosen Google’s grip on search, which the watchdog said would “secure a fairer deal for publishers and consumers and improve Google’s search services in the UK”.It said Google would now be required to make sure that publisher content was properly attributed, using clear links, in AI-generated search results, in order to boost consumer trust.The CMA said the new measures fell under the UK’s digital markets competition regime, and followed on from its decision to designate Google with strategic market status in general search services. It first proposed the idea of an AI search summary opt-out in January.Sarah Cardell, the watchdog’s chief executive, said: “It is crucial that content publishers, including news organisations, have appropriate bargaining power over how their content is used.”She called this a “world‑first requirement on Google’s search services in the UK” and said it would enable “fair treatment, greater transparency and meaningful choice for businesses and consumers”.Google accounts for more than 90% of general searches in the UK, according to the CMA, and as a result publishers and news organisations have relied on search results to drive consumers to their websites.The CMA has previously estimated that search advertising costs the equivalent of nearly £500 for each UK household a year, which could be kept down with effective competition.It said Google had announced significant changes to its search platform in May, which could fundamentally change how search results are presented to UK users. The new conduct requirement would also apply to these changes, the CMA said, adding that it would monitor Google’s conduct and assess the implications for businesses.Tom Lewis, a competition lawyer at Geradin Partners and a former CMA director who represent news publishers on Google search issues, said the changes would help news publishers keep some control over how the US company uses their work.“The CMA should be congratulated for tackling this issue. They are aiming to open up competition on the key digital platforms,” he said, adding that Google’s plan to roll out changes globally was a “big win”.The watchdog said it would be making further announcements related to Google’s search business in the coming weeks.Google said in a blogpost published on Wednesday that it was engaging with regulators such as the CMA “to ensure website owners have the right tools as user preferences evolve”.Mrinalini Loew, the general manager at Google Search Ecosystem, said it was beginning to test a tool allowing website owners to manage how their links and content appear in its AI search features, such as AI overviews and AI mode.“We are beginning to roll these features out to a subset of website owners in the UK, allowing for thorough testing before rolling them out to website owners globally,” she said.The control will not be used as a ranking signal for search results outside the generative AI search features, Loew added.",
           "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
         }
       ]
@@ -67,57 +568,63 @@
       ]
     },
     {
-      "title": "New research helps explain how human brains are able decode speech so quickly",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5821259/new-research-helps-explain-how-human-brains-are-able-decode-speech-so-quickly",
-      "summary": "Scientists are learning how the brain extracts discrete words from a continuous stream of sounds.",
-      "pubDate": "Mon, 01 Jun 2026 18:03:04 -0400",
-      "source": "NPR Science",
+      "title": "Next El Niño could be strongest in decades",
+      "link": "https://www.bbc.com/news/videos/c8e8zzw30zyo?at_medium=RSS&at_campaign=rss",
+      "summary": "A new phase of the natural El Niño weather pattern could begin in a matter of weeks, the UN has warned, boosting temperatures on a planet already under strain from climate change.",
+      "pubDate": "Tue, 02 Jun 2026 14:50:54 GMT",
+      "source": "BBC Science",
       "category": "science",
       "sourceColor": "#6a1b9a",
-      "titleZh": "新研究有助于解释人类大脑如何如此快速地解码语音",
-      "summaryZh": "科学家们正在研究大脑如何从连续的声音流中提取离散的单词。",
+      "titleZh": "下一个厄尔尼诺现象可能是几十年来最强的",
+      "summaryZh": "联合国警告称，自然厄尔尼诺天气模式的新阶段可能会在几周内开始，导致本已受到气候变化压力的地球气温升高。",
       "contentParagraphs": [
         {
-          "en": "Scientists are learning how the brain extracts discrete words from a continuous stream of sounds.",
-          "zh": "科学家们正在学习大脑如何从连续的声音流中提取离散的单词。"
-        },
-        {
-          "en": "JUANA SUMMERS, HOST: When you're listening to a familiar language, you hear individual words, but what if the language is unfamiliar?UNIDENTIFIED PERSON #1: (Speaking Japanese).SUMMERS: Unless you speak Japanese, that probably sounded like an unbroken stream of vowels and consonants. NPR's Jon Hamilton reports on what scientists are learning about how the brain extracts words from speech.JON HAMILTON, BYLINE: Words are easy to recognize when they're written. A visible space shows where one word ends and another begins. Dr. Eddie Chang of the University of California, San Francisco says spoken language doesn't have that luxury.EDDIE CHANG: One of the reasons why a foreign language sounds so fast is that you can't hear the pauses between words.HAMILTON: Because most of the time there aren't any. Each syllable just bumps into the next. Yet Chang says in a familiar language, the brain creates the perception that we are hearing separate words.CHANG: It's a really incredible automatic process that all of us have as human listeners.HAMILTON: To learn more about that process, Chang and a team studied several dozen people about to have surgery for epilepsy. The participants already had electrodes in their brains, so the team was able to monitor neurons that respond to speech sounds. Chang says they found a distinct pattern.CHANG: Your brain is processing this continuous stream of speech, but at every word boundary, the actual neural activity drops. There's a trough in the activity.HAMILTON: As if the brain is putting a space between each word. To test this idea, Chang's team had participants listen to a sound loop.UNIDENTIFIED PERSON #2: Boater, boater, boater, boater, boater (ph)....CHANG: It's one stimulus that's just repeated over and over and over again. But your brain kind of forces you to hear one word or another.UNIDENTIFIED PERSON #2: Turbo, turbo, turbo, turbo, turbo, turbo, turbo, turbo (ph)...HAMILTON: You hear either boater or turbo depending on where your brain is placing the word boundary. And Chang says, in most people, that boundary will shift.CHANG: Listeners typically will hear one word for a couple of seconds, and then their perception will switch to the other word.HAMILTON: At the same exact moment their brain makes a new word boundary. Chang says the brain constantly tries to predict what it will hear next. An English-speaking brain, for example, knows that the sound bo could become boater or boba, but not baseball or Parcheesi. It also knows that the words peanut and butter are likely to lead to jelly. But Chang says prediction relies on a deep understanding of a language.CHANG: We found that this encoding of words actually is a very specific process to one's mother tongue, to one's native language.HAMILTON: Or languages, if you're multilingual. Nima Mesgarani of Columbia University says Chang's research helps explain how human brains are able to decode speech so quickly and accurately.NIMA MESGARANI: They are showing that brain almost creates its own punctuation.HAMILTON: Which helps it quickly assemble speech sounds into words and then sentences. Mesgarani says the latest artificial intelligence systems appear to use a similar strategy. He says, instead of following rules, these machines learn about speech the same way a child does - by listening.MESGARANI: We basically just say, this is the input. This is what the desired output. And you have millions of hours of data, so learn it.HAMILTON: Mesgarani says artificial brains, like their human counterparts, eventually learn to recognize where one word ends and another begins. He says this reflects something scientists are seeing in other areas of artificial intelligence.MESGARANI: If you look at many different sort of AI models, the better they are at what they do, the more they align with the brain.HAMILTON: These AI systems even share a key limitation with human brains - they can only identify word boundaries in a language they know really well. Jon Hamilton, NPR News.",
-          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
-        },
-        {
-          "en": "Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.",
-          "zh": "版权所有© 2026 NPR。保留所有权利。有关更多信息，请访问我们的网站使用条款和权限页面： www.npr.org。"
-        },
-        {
-          "en": "Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.",
-          "zh": "NPR成绩单的准确性和可用性可能有所不同。可以修改成绩单文本以更正错误或将更新与音频匹配。npr.org上的音频可在其原始广播或发布后进行编辑。NPR节目的权威记录是音频记录。"
+          "en": "Skip to contentWatch LiveBritish Broadcasting CorporationHomeNewsFootball 2026BusinessTechnologyHealthCultureArtsTravelEarthSportAudioVideoLiveDocumentariesSite searchWatch LiveMore on this story.22 hours agoUK heatwavesEl NiñoClimate",
+          "zh": "Skip to contentWatch LiveBritish Broadcasting CorporationHomeNewsFootball 2026BusinessTechnologyHealthCultureArtsTravelEarthSportAudioVideoLiveDocumentariesSite searchWatch LiveMore on this story.22 hours agoUK heatwavesEl NiñoClimate"
         }
       ]
     },
     {
-      "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
-      "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.",
-      "pubDate": "Tue, 02 Jun 2026 11:29:22 GMT",
-      "source": "BBC News",
+      "title": "Iran, Kuwait, Bahrain hit: Is the war in the Gulf escalating again?",
+      "link": "https://www.aljazeera.com/news/2026/6/3/iran-kuwait-bahrain-hit-is-the-war-in-the-gulf-escalating-again?traffic_source=rss",
+      "summary": "Secretary of State Rubio tells US lawmakers the war on Iran is over, amid recent attacks on Iran and Gulf countries.",
+      "pubDate": "Wed, 03 Jun 2026 11:42:59 +0000",
+      "source": "Al Jazeera",
       "category": "world",
-      "sourceColor": "#b80000",
-      "titleZh": "俄罗斯空袭造成18人死亡，乌克兰救援人员从废墟中救出遇难者",
-      "summaryZh": "官员称，一名八岁男孩和一名妇女在公寓楼袭击中丧生。",
-      "contentParagraphs": []
+      "sourceColor": "#f79120",
+      "titleZh": "伊朗、科威特、巴林遭遇重创：海湾战事再度升级？",
+      "summaryZh": "在最近针对伊朗和海湾国家的袭击之后，国务卿卢比奥告诉美国国会议员，对伊朗的战争已经结束。",
+      "contentParagraphs": [
+        {
+          "en": "Iran fired missiles at Kuwait and Bahrain in the early hours of Wednesday, and the United States launched strikes on Iran’s Qeshm Island, as tensions in the Gulf spiked amid an impasse in diplomatic efforts to end the war between Tehran and Washington that is now closing in on 100 days.Since the conflict began in late February, Iran has repeatedly targeted countries across the Gulf where US military bases are located. Armed hostilities had largely subsided after a temporary Pakistan-mediated ceasefire took effect on April 8. But the latest flare‑up has raised fears that full‑scale fighting could resume.Here is a look at what happened overnight, and where things stand on the diplomatic front.What happened in Kuwait and Bahrain?Kuwait’s state news agency KUNA said Iranian missiles and drones had hit the country’s international airport on Wednesday morning. It reported an unspecified number of injuries, damage to airport facilities and flight suspensions and diversions.India’s foreign ministry condemned the attack on the Kuwait International Airport. In a statement released on Wednesday, the ministry said that an Indian national has been killed and “several of our nationals are injured”.“We offer our deepest condolences to the bereaved family. Our Embassy is extending all possible assistance to those injured. We remain in close contact with local authorities for the welfare of Indian nationals,” it said.But US Central Command (CENTCOM) said two Iranian missiles shot at Kuwait fell short or broke apart in flight, while several ballistic missiles failed to reach their targets. Iran’s semi-official Tasnim news agency earlier said the Islamic Revolutionary Guard Corps (IRGC) had launched missiles and drones at US helicopters stationed in a regional country, in an apparent reference to Kuwait.It is unclear whether the US helicopters the IRGC was reportedly targeting were stationed at the Kuwaiti airport or whether intercepted projectiles fell by accident on the airport.According to Tasnim, the IRGC also fired missiles and drones at an airbase and the headquarters of the US Fifth Fleet in Bahrain, where sirens went off warning residents of an attack.However, CENTCOM said it had intercepted the projectiles aimed at Bahrain. It also said no US personnel or assets were harmed in the attacks on Kuwait and Bahrain.Was Iran also hit?Just before Iran fired missiles and drones at Kuwait and Bahrain, US forces hit a telecommunications tower on Iran’s Qeshm Island, which sits in the Gulf and is believed to be a repository of the country’s missiles stored in underground facilities.CENTCOM said the US military also downed Iranian drones targeting civilian ships in regional waters.Tehran said US forces struck an Iranian oil tanker near the Strait of Hormuz, damaging its engine room. Iranian media reported the IRGC’s navy targeted a vessel it identified as “Panaya” with missiles in response to the attack on the Iranian tanker.Hold on, so who hit whom first?The US and Iran have competing narratives. But the Trump administration has made clear that it will not allow Iranian oil to pass through the Strait of Hormuz as it maintains its blockade of Iranian ports and ships. The escalation on Wednesday morning appears to have begun with the US hit on the Iranian oil tanker. Both sides appear to concur that Iran then attempted to strike other vessels in the Gulf. The US says it shot down the Iranian drones fired at ships and then hit Qeshm Island. Iran hit back by firing at Kuwait and Bahrain. What has Iran said about Wednesday’s developments?The Ministry of Foreign Affairs condemned the US attacks on Qeshm Island as a violation of the ceasefire.It said Kuwait and Bahrain bore “direct and clear responsibility” for the attacks, alleging their territory and facilities had been used to support US military operations against Iran.Iran said it reserved the right to self-defence and would use all available means to respond, including by targeting the source of any future attacks.“Disrupting the security of the Strait of Hormuz will carry a heavy price for the US military,” Iranian media reported, citing the IRGC.What is the state of diplomacy?Secretary of State Marco Rubio told lawmakers on Tuesday that the US would agree to sanctions relief only if Iran agrees to give up its nuclear activity.“The war is over,” Rubio declared during a sharp exchange with Democratic Senator Cory Booker of New Jersey, who disagreed.He also told Congress that Iran’s supreme leader, Mojtaba Khamenei, is alive and becoming “increasingly engaged” in negotiations with Washington. Khamenei has not appeared publicly since reportedly being wounded in US-Israeli strikes that killed his predecessor and father, Ayatollah Ali Khamenei.Tehran is seeking access to billions of dollars in oil revenues, waivers on crude exports, a lifting of a US blockade on its ports and continued leverage over the strait, which handled a fifth of the world’s oil and liquefied natural gas traffic before the war.Iran’s chief negotiator, Mohammad Bagher Ghalibaf, said during a conversation with Lebanese Parliament Speaker Nabih Berri that Tehran could abandon negotiations with the US and move towards confrontation if Israeli attacks on Lebanon continue.How have attacks escalated recently?After weeks of a lull following the ceasefire, the US and Iran have increased their exchange of attacks in recent weeks.Late on Sunday, CENTCOM said it conducted “self-defense strikes” on Iranian radar and drone sites in the city of Goruk and on Qeshm Island over the weekend.A day later, the general staff of the Kuwaiti armed forces said its air defences were “confronting hostile missile and drone attacks”. If sounds of explosions are heard, they are the result of air defences intercepting the projectiles, it added.On May 17, authorities in Abu Dhabi, UAE, said a single drone strike caused a blaze to break out at an electrical generator outside the Barakah plant’s inner perimeter in the al-Dha",
+          "zh": "周三凌晨，伊朗向科威特和巴林发射了导弹，美国对伊朗格什姆岛发动了袭击。在结束德黑兰和华盛顿之间战争的外交努力陷入僵局之际，海湾地区紧张局势加剧，这场战争现已接近100天。自2月下旬冲突开始以来，伊朗多次以美国军事基地所在的海湾国家为目标。 4月8日，巴基斯坦斡旋的临时停火生效后，武装敌对行动已基本平息。但最新的冲突引发了人们对全面战斗可能恢复的担忧。以下是昨晚发生的事情以及外交方面的情况。科威特和巴林发生了什么？科威特国家通讯社KUNA称，伊朗导弹和无人机周三早上袭击了该国国际机场。据报道，伤亡人数不详，机场设施受损，航班暂停和改道。印度外交部谴责科威特国际机场的袭击事件。在周三发布的一份声明中，国防部表示，一名印度国民被杀，“我们的几名国民受伤”。声明称，“我们向死者家属表示最深切的哀悼。我们的大使馆正在向受伤者提供一切可能的援助。为了印度国民的福祉，我们与地方当局保持密切联系。”但美国中央司令部表示，向科威特发射的两枚伊朗导弹没有射中或在飞行中破裂，而几枚弹道导弹未能到达目标。伊朗半官方通讯社塔斯尼姆通讯社早些时候称，伊斯兰革命卫队向驻扎在该地区国家的美国直升机发射了导弹和无人机，显然是指科威特。目前尚不清楚伊朗革命卫队所针对的美国直升机是否驻扎在科威特机场，或者拦截的炮弹是否意外落在机场。据塔斯尼姆通讯社报道，伊朗革命卫队还向空军基地和总部发射了导弹和无人机。驻巴林的美国第五舰队的警报响起，警告居民遭受袭击。不过，中央司令部表示，它已经拦截了瞄准巴林的炮弹。它还表示，在对科威特和巴林的袭击中，没有美国人员或资产受到伤害。伊朗也受到打击吗？就在伊朗向科威特和巴林发射导弹和无人机之前，美军击中了伊朗格什姆岛上的一座电信塔，该岛位于海湾，据信是该国储存在地下设施中的导弹的储存库。中央司令部称，美军还击落了针对地区水域民用船只的伊朗无人机。德黑兰称，美军击落了一艘伊朗油轮霍尔木兹海峡附近，损坏了其机舱。伊朗媒体报道称，伊朗革命卫队海军用导弹瞄准了一艘被称为“Panaya”的船只，以回应伊朗油轮遭到的袭击。等等，那么谁先攻击了谁呢？美国和伊朗有着相互矛盾的说法。但特朗普政府已明确表示，不会允许伊朗石油通过霍尔木兹海峡，同时仍维持对伊朗港口和船只的封锁。周三上午的升级似乎是从美国袭击伊朗油轮开始的。双方似乎都同意伊朗随后试图袭击海湾的其他船只。美国表示，它击落了向船只发射的伊朗无人机，然后袭击了格什姆岛。伊朗向科威特和巴林开火进行反击。伊朗对周三的事态发展有何评论？外交部谴责美国对格什姆岛的袭击违反了停火协议。伊朗表示，科威特和巴林对这些袭击负有“直接和明确的责任”，称其领土和设施被用来支持美国对伊朗的军事行动。伊朗表示保留自卫权利，并将使用一切可用手段进行回应，包括针对未来任何袭击的来源。“破坏霍尔木兹海峡的安全将带来伊朗媒体援引伊朗伊斯兰革命卫队的话说，“这对美国军队来说是沉重的代价”。外交状况如何？国务卿马可·卢比奥周二对议员们说，只有伊朗同意放弃核活动，美国才会同意解除制裁。卢比奥在与新泽西州民主党参议员科里·布克的激烈交锋中宣称，“战争已经结束”，但后者不同意。他还告诉国会，伊朗最高领导人莫杰塔巴·哈梅内伊还活着，并且正在成为一名伊朗领导人。 “越来越多地参与”与华盛顿的谈判。据报道，哈梅内伊在美以袭击中受伤，其前任兼父亲阿亚图拉·阿里·哈梅内伊 (Ayatollah Ali Khamenei) 被打死，此后哈梅内伊就没有公开露面。德黑兰正在寻求获得数十亿美元的石油收入、原油出口豁免、解除美国对其港口的封锁以及继续控制该海峡，该海峡在战前处理了世界五分之一的石油和液化天然气运输。伊朗首席谈判代表穆罕默德·巴格尔 (Mohammad Bagher)加利巴夫在与黎巴嫩议会议长纳比·贝里的谈话中表示，如果以色列继续袭击黎巴嫩，德黑兰可能会放弃与美国的谈判，转向对抗。最近袭击如何升级？停火后几周的平静之后，美国和伊朗最近几周增加了相互攻击。周日晚些时候，中央司令部表示，它对戈鲁克市和格什姆岛的伊朗雷达和无人机站点进行了“自卫袭击”一天后，科威特武装部队总参谋部表示，其防空系统正在“应对敌方导弹和无人机袭击”。声明补充说，如果听到爆炸声，则是防空系统拦截射弹造成的。 5 月 17 日，阿联酋阿布扎比当局表示，一次无人机袭击导致阿尔达哈省巴拉卡工厂内围外的发电机起火。"
+        }
+      ]
     },
     {
-      "title": "How 'confused' AI rollout hurts firms and baffles staff",
-      "link": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout.",
-      "pubDate": "Mon, 01 Jun 2026 23:05:11 GMT",
-      "source": "BBC Tech",
+      "title": "Trump signs order requesting AI companies submit products for government review",
+      "link": "https://www.npr.org/2026/06/03/nx-s1-5844558/trump-signs-order-requesting-ai-companies-submit-products-for-government-review",
+      "summary": "President Trump is asking artificial intelligence firms to submit new models for government review. NPR's Leila Fadel speaks to Alondra Nelson, who worked on AI policy in the Biden administration.",
+      "pubDate": "Wed, 03 Jun 2026 04:39:31 -0400",
+      "source": "NPR Technology",
       "category": "tech",
       "sourceColor": "#1a73e8",
-      "titleZh": "“混乱”的人工智能推出如何伤害公司并让员工感到困惑",
-      "summaryZh": "一些公司向员工施加压力，要求其使用人工智能，但并未认真考虑人工智能的部署。",
-      "contentParagraphs": []
+      "titleZh": "特朗普签署命令要求人工智能公司提交产品供政府审查",
+      "summaryZh": "特朗普总统要求人工智能公司提交新模型供政府审查。 NPR 的 Leila Fadel 采访了在拜登政府中从事人工智能政策工作的 Alondra Nelson。",
+      "contentParagraphs": [
+        {
+          "en": "Trump signs order requesting AI companies submit products for government review",
+          "zh": "特朗普签署命令要求人工智能公司提交产品供政府审查"
+        },
+        {
+          "en": "<iframe src=\"https://www.npr.org/player/embed/nx-s1-5844558/nx-s1-9795065\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\">",
+          "zh": "<iframe src =“https://www.npr.org/player/embed/nx-s1-5844558/nx-s1-9795065”width =“100％”height =“290”frameborder =“0”scrolling =“no”title =“NPR嵌入式音频播放器”>"
+        },
+        {
+          "en": "President Trump is asking artificial intelligence firms to submit new models for government review. NPR's Leila Fadel speaks to Alondra Nelson, who worked on AI policy in the Biden administration.",
+          "zh": "特朗普总统要求人工智能公司提交新模型供政府审查。 NPR 的 Leila Fadel 采访了在拜登政府中从事人工智能政策工作的 Alondra Nelson。"
+        }
+      ]
     },
     {
       "title": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
@@ -132,429 +639,15 @@
       "contentParagraphs": []
     },
     {
-      "title": "The potential consequences of cutting funds for behavioral science",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5837946/the-potential-consequences-of-cutting-funds-for-behavioral-science",
-      "summary": "The Trump administration continues its assault on science. One little-known area that's been neglected in funding this year is federal research into social, behavioral and economic science.",
-      "pubDate": "Mon, 01 Jun 2026 18:01:04 -0400",
-      "source": "NPR Science",
-      "category": "science",
-      "sourceColor": "#6a1b9a",
-      "titleZh": "削减行为科学资金的潜在后果",
-      "summaryZh": "特朗普政府继续对科学发起攻击。今年在资助方面被忽视的一个鲜为人知的领域是联邦对社会、行为和经济科学的研究。",
-      "contentParagraphs": [
-        {
-          "en": "The Trump administration continues its assault on science. One little-known area that's been neglected in funding this year is federal research into social, behavioral and economic science.",
-          "zh": "The Trump administration continues its assault on science. One little-known area that's been neglected in funding this year is federal research into social, behavioral and economic science."
-        },
-        {
-          "en": "AILSA CHANG, HOST: Science continues to suffer under the Trump administration. NPR's Katia Riddle brings us this story about the potential long-term consequences of cutting a field of research on how humans behave.KATIA RIDDLE, BYLINE: It's called the Directorate for Social, Behavioral and Economic Sciences or SBE. It's a little corner of the National Science Foundation that makes up a tiny fraction of the federal budget, but researchers say it has yielded big returns.LORI PEEK: So I'm going to actually give you an example from earthquake early warning.RIDDLE: Lori Peek studies sociology at the University of Colorado Boulder. She works on disaster mitigation. Her field has benefited from SBE funding. In 2019, she worked on establishing an early warning system for earthquakes in the U.S. The science around predicting the earthquakes, she says, is the easy part. It's getting these predictions to people in a meaningful way that's harder.PEEK: We need people to sign up for the alerts. We need people to receive the alerts. We need the alerts to say the right thing so people know what to do when they receive the alert.RIDDLE: This is what SBE does - behavioral science, predicting how people act and think, what motivates them. The money for this kind of research has not technically been rescinded by the federal government, but according to the science advocacy group Grant Witness, only seven SBE grants have been awarded as of May 28. The federal government typically makes hundreds of such awards per year.JON FREEMAN: There's perhaps a fairly calculated attack.RIDDLE: Jon Freeman is a psychologist at Columbia University. Much of his work has been made possible by SBE research. He says this field has been singled out as a target by the administration.FREEMAN: Because the behavioral and social sciences are seen as leftist institutions.RIDDLE: Last year, Republican Senator Ted Cruz wrote a report that specifically called out many SBE-funded programs as, quote, \"neo-Marxist class warfare propaganda.\" In his 2027 budget, President Trump is also proposing eliminating the directorate and zeroing out funding for this kind of research. Freeman says he's got a guess about why SBE has drawn so much fire.FREEMAN: There may be something deemed as sort of an enemy or something that is DEI.RIDDLE: In response to a request for comment, White House spokesman Kush Desai sent an email statement. It read, quote, \"The Trump administration is committed to cementing America's dominance in cutting-edge technologies of the future, not in ideologically driven social sciences,\" unquote. But advocates for this research argue it has a meaningful reach that extends far beyond ideology. For example, artificial intelligence. Aron Culotta is a computer scientist at Tulane University.ARON CULOTTA: If we think about the failure modes of AI and kind of what can go wrong, they're almost all at that human-AI intersection point.RIDDLE: Culotta says the technology behind systems like ChatGPT comes from computer science, but making those systems safe depends heavily on psychology and social science research.CULOTTA: Things around, like, mental health, the way people are kind of growing attached to these systems. You know, deepfakes and can we trust kind of the output of these systems?RIDDLE: Artificial intelligence is built partly on federally funded behavioral research that took place long before AI was in the zeitgeist. Tom Griffiths studies cognition and artificial intelligence at Princeton and has worked on AI systems.TOM GRIFFITHS: Our job as cognitive scientists, rather than, say, people who are working in a AI company right now, is thinking about what are the technologies that are going to matter, not right now, but maybe a few decades in the future.RIDDLE: In the 1950s, researchers began developing something called artificial neural networks - computer systems loosely inspired by the human brain that now power many AI tools. That's the advantage, he says, of the government investing in science. It doesn't have to pay off for decades.GRIFFITHS: We take our foot off the accelerator now, it might not be something that we notice for a few years, but there's going to be a point in the future where suddenly there's going to be a gap with what's going on in other countries, and we say, what happened?RIDDLE: The answer, he says, may be something we trace back to this moment when the government stopped investing in behavioral science. Katia Riddle, NPR News.(SOUNDBITE OF TIWA SAVAGE SONG, \"LOST TIME\")",
-          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
-        },
-        {
-          "en": "Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.",
-          "zh": "Copyright © 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information."
-        },
-        {
-          "en": "Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record.",
-          "zh": "Accuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record."
-        }
-      ]
-    },
-    {
-      "title": "Every world leader who has visited China in 2026 in one chart",
-      "link": "https://www.aljazeera.com/news/2026/6/2/every-world-leader-who-has-visited-china-in-2026-in-one-chart?traffic_source=rss",
-      "summary": "China has hosted 26 leaders from 23 countries this year, underscoring its growing diplomatic and economic influence.",
-      "pubDate": "Tue, 02 Jun 2026 11:28:02 +0000",
-      "source": "Al Jazeera",
+      "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
+      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kuwait says one person is dead after drones hit civilian buildings including its international airport.",
+      "pubDate": "Wed, 03 Jun 2026 11:17:08 GMT",
+      "source": "BBC News",
       "category": "world",
-      "sourceColor": "#f79120",
-      "titleZh": "2026年访问过中国的每一位世界领导人都在一张图表中",
-      "summaryZh": "今年，中国接待了来自23个国家的26位领导人，凸显了其日益增长的外交和经济影响力。",
-      "contentParagraphs": [
-        {
-          "en": "British Foreign Secretary Yvette Cooper is the latest senior official in a steady stream of world leaders visiting China this year.During her three-day trip this week, Cooper is expected to meet her Chinese counterpart Wang Yi and Vice President Han Zheng in Beijing before travelling to the southern tech hub of Shenzhen for a programme focused on science and technology.According to an Al Jazeera tally, Cooper is the 26th foreign leader or senior official to visit China this year. The list includes presidents, prime ministers, chancellors, crown princes and foreign ministers from 23 countries.(Al Jazeera)In all, leaders from Ireland, South Korea, Canada, Finland, the United Kingdom, Uruguay, Germany, Turkmenistan, Pakistan, Spain, the United Arab Emirates, Russia, Vietnam, Mozambique, Iran, Tajikistan, the United States, Seychelles, Moldova, Singapore, Serbia, Brazil, and Laos have travelled to China this year.Global trade and diplomacyLeaders have come to court China from all the significant regions, including Europe (10), Asia (8), the Middle East (2), Africa (2), North America (2) and Latin America (2).Among the most prominent have been Canadian Prime Minister Mark Carney, British Prime Minister Keir Starmer, German Chancellor Friedrich Merz, Spanish Prime Minister Pedro Sanchez, US President Donald Trump and Russian President Vladimir Putin, in that order of visits.Presidents Trump and Xi on May 14, 2026, in Beijing, China, during a trip focused on trade, regional security and bilateral ties between the world’s two largest economies [Kenny Holston/Pool via Reuters]The stream of visitors is particularly notable because Chinese President Xi Jinping has spent the year hosting foreign dignitaries at home rather than travelling abroad himself.Many leaders have come seeking new investment opportunities, greater access to the Chinese market or cooperation in areas such as manufacturing, technology, energy and infrastructure.Several of the visits have been by leaders and officials from countries that Beijing considers strategically important partners, including Russia and Pakistan, both of which sent multiple senior officials this year.President Xi and Pakistani PM Shehbaz Sharif at the Great Hall of the People in Beijing, May 25, 2026 [Reuters]For many countries, China is simultaneously an important export market, a source of investment, a diplomatic partner and an increasingly influential geopolitical power.Visits dominated by European leadersEurope has been especially well-represented, accounting for roughly one-third of the countries on the list.Visits by leaders from the UK, Germany, Spain, Ireland and Finland suggest that European governments are eager to engage closely with Beijing despite disagreements over trade, security and China’s relationship with Russia.Presidents Putin and Xi at the Great Hall of the People in Beijing, May 20, 2026 [Alexander Kazakov/Sputnik/Pool via Reuters]Who are China’s biggest trading partners?China’s total foreign trade in goods hit a record high of 45-trillion-yuan ($6.5 trillion) in 2025, according to data released by China’s General Administration of Customs, maintaining its position as the world’s largest trading nation in goods for the ninth consecutive year.Late last year, China’s trade surplus – the difference between the value of goods it imports and exports – was reported to have hit $1 trillion for the first time, a significant yardstick in the country’s role as “factory of the world”, making everything from socks and curtains to electric cars.China has a diverse range of trading partners. Its largest is the US. In 2025, despite aggressive tit-for-tat tariffs levied by each side for much of the year, total goods trade between the two countries was worth $414.7bn, according to the US Trade Representative.Vietnam ranks second, reflecting the rapid development of Southeast Asian supply chains, followed by Japan, South Korea and India.The table below shows China’s imports, exports and trade balance based on 2024 data, the latest year for which global figures are available.What does China sell to the world?Over the past few decades, China has shifted from producing low-cost manufactured goods like T-shirts and shoes to higher-value products such as electric vehicles and solar panels.Today, its largest sector is electronics, with more than $1 trillion worth of electronic goods exported worldwide in 2024.Its top exports also include machinery, textiles, metals and cars. The graphic below shows the country’s top exports by product in 2024.",
-          "zh": "英国外交大臣伊薇特·库珀是今年源源不断访华的世界领导人中最新一位高级官员。在本周为期三天的访问中，库珀预计将在北京会见中国外长王毅和国家副主席韩正，然后前往南方科技中心深圳参加一个以科技为主题的项目。根据半岛电视台统计，库珀是今年第 26 位访问中国的外国领导人或高级官员。该名单包括来自23个国家的总统、总理、总理、王储和外交部长。（半岛电视台）今年以来，爱尔兰、韩国、加拿大、芬兰、英国、乌拉圭、德国、土库曼斯坦、巴基斯坦、西班牙、阿联酋、俄罗斯、越南、莫桑比克、伊朗、塔吉克斯坦、美国、塞舌尔、摩尔多瓦、新加坡、塞尔维亚、巴西和老挝的领导人均曾访华。全球贸易和外交 来自所有重要地区的领导人纷纷向中国示好，包括欧洲（10位）、亚洲（8位）、中东（2位）、非洲（2位）、北美（2位）和拉丁美洲（2位）。其中最突出的包括加拿大总理马克·卡尼、英国首相基尔·斯塔默、德国总理弗里德里希·梅尔茨、西班牙首相佩德罗·桑切斯、美国总统唐纳德·特朗普和俄罗斯总统弗拉基米尔·普京（按顺序排列）访问。特朗普总统和习近平主席于 2026 年 5 月 14 日在中国北京进行了一次重点关注世界两个最大经济体之间的贸易、地区安全和双边关系的访问 [Kenny Holston/Pool，来自路透社]由于中国国家主席习近平这一年一直在国内接待外国政要，而不是亲自出国访问，因此来访者的人数尤其引人注目。许多领导人前来寻求新的投资机会、更多地进入中国市场或在制造、技术、能源和等领域寻求合作。其中几次访问是由北京视为具有重要战略合作伙伴的国家的领导人和官员进行的，其中包括俄罗斯和巴基斯坦，两国今年都派出了多名高级官员。习近平主席和巴基斯坦总理谢赫巴兹·谢里夫于2026年5月25日在北京人民大会堂举行的会议 [路透社]对于许多国家来说，中国同时是重要的出口市场、投资来源国、外交伙伴和影响力日益增强的地缘政治大国。以欧洲领导人为主的访问尤其是欧洲代表性良好，约占名单上国家的三分之一。英国、德国、西班牙、爱尔兰和芬兰领导人的访问表明，尽管在贸易、安全以及中国与俄罗斯的关系方面存在分歧，欧洲各国政府仍渴望与北京密切接触。普京总统和习近平主席于北京人民大会堂，2026年5月20日 [亚历山大·卡扎科夫/人造卫星/路透社]谁是中国最大的贸易伙伴？中国的贸易总额中国海关总署公布的数据显示，2025年，货物贸易额创下历史新高，达到45万亿元人民币（6.5万亿美元），连续第九年保持全球最大货物贸易国的地位。去年年底，据报道，中国的贸易顺差——进出口货物价值之间的差额——首次突破1万亿美元，这是衡量中国“制造工厂”角色的一个重要标准。中国拥有多元化的贸易伙伴。其最大的国家是美国。根据美国贸易代表的数据，2025年，尽管双方在一年中的大部分时间都征收了激进的针锋相对的关税，但两国之间的货物贸易总额达到了4147亿美元。越南排名第二，反映出东南亚供应链的快速发展，其次是日本、韩国和印度。下表显示了基于2024年数据的中国进出口和贸易平衡，这是可获得全球数据的最新一年。在过去的几十年里，中国已经从生产T恤和鞋子等低成本制成品转向生产电动汽车和太阳能电池板等高价值产品。如今，其最大的行业是电子产品，到2024年，全球电子产品出口额将超过1万亿美元。其主要出口产品还包括机械、纺织品、金属和汽车。下图显示了该国 2024 年按产品划分的最大出口额。"
-        }
-      ]
-    },
-    {
-      "title": "Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account",
-      "link": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram",
-      "summary": "Breach of high-profile accounts raises concerns about reliance on AI for security measures such as passwords\nHackers used Meta’s AI-powered support chatbot to infiltrate high-profile Instagram accounts, the company has confirmed, saying it resolved the problem after researchers e",
-      "pubDate": "Mon, 01 Jun 2026 22:32:26 GMT",
-      "source": "Guardian Tech",
-      "category": "tech",
-      "sourceColor": "#1a73e8",
-      "titleZh": "黑客欺骗 Meta AI 支持机器人渗透奥巴马白宫 Instagram 账户",
-      "summaryZh": "知名账户的泄露引发了人们对密码等安全措施依赖人工智能的担忧\n该公司证实，黑客利用 Meta 的人工智能支持聊天机器人渗透了知名 Instagram 账户，并表示在研究人员解决问题后，该问题得到了解决。",
-      "contentParagraphs": [
-        {
-          "en": "Hackers used Meta’s AI-powered support chatbot to infiltrate high-profile Instagram accounts, the company has confirmed, saying it resolved the problem after researchers exposed it.The targets ranged from Barack Obama’s White House account to the beauty retailer Sephora and the US Space Force chief master sergeant, John Bentivegna, according to reporting from 404 Media. Everyday users complained of similar hijackings on Reddit and X over the weekend.Security researchers and hacking groups posted videos and screenshots of how to steal an account on Telegram, and a video shared on X appears to show a hacker telling Meta’s AI assistant to link the account to a new email address. The bot assures the hacker a verification code has been sent to that new email and asks the hacker to input the numbers in the chat interface. Once the hacker pastes the correct number, they are shown a button to reset the targeted account’s password.In at least one video, the hacker used a virtual private network to spoof the account holder’s location and avoid Meta’s safeguards.Meta said in a statement on Monday: “This issue has been resolved, and we are securing impacted accounts.” It is unclear how many accounts were affected.The breach raises concerns about just how safe it is to rely on AI for essential security measures such as passwords. Stolen account handles were listed for sale on the Telegram messaging platform, according to reports.Meta, which is rapidly reorganising its workers’ jobs around AI and increasing the use of AI features in its platforms, rolled out the AI support assistant globally on Facebook and Instagram earlier this year. The press release for the new feature said it could “take action for you on a growing set of requests directly within Facebook and in the future, on Instagram”.The list of actions included reporting scams, impersonation accounts or problematic content, as well as resetting passwords. “The Meta AI support assistant is a major step in our work to deliver stronger support on our apps,” the March press release said.Meta has become a major investor in AI under the leadership of its founder, Mark Zuckerberg, who has ordered a $145bn (£108bn) spend on AI infrastructure, including datacentres, this year.The company has been developing a series of large language models – the technology that underpins tools such as chatbots – to power its products. Zuckerberg is also pursuing a goal of AI “super-intelligence”, the term for models that are superior to humans at every cognitive task.Meta’s vision for tasks that can be carried out by its chatbots extends into mental health care. Last year, Zuckerberg said AI assistants could be used as a replacement for human therapists, adding that: “For people who don’t have a person who’s a therapist, I think everyone will have an AI”.His remarks drew concern from mental health clinicians who said chatbots might recommend courses of action that were inappropriate.",
-          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
-        }
-      ]
-    },
-    {
-      "title": "Steph Curry signs with Chinese brand after Under Armour split",
-      "link": "https://www.bbc.com/news/articles/cj9pky3ldddo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chinese firms have been vying to secure deals with big stars as they push to become global brands.",
-      "pubDate": "Tue, 02 Jun 2026 06:29:35 GMT",
-      "source": "BBC Business",
-      "category": "business",
-      "sourceColor": "#0d7a3e",
-      "titleZh": "安德玛 (Under Armour) 分手后，斯蒂芬·库里 (Steph Curry) 与中国品牌签约",
-      "summaryZh": "中国企业在努力成为全球品牌的同时，一直在争夺与大明星的交易。",
-      "contentParagraphs": [
-        {
-          "en": "Steph Curry signs with Chinese brand after Under Armour split5 hours agoOsmond ChiaBusiness reporterGetty ImagesStephen Curry ended a 12-year partnership with Under Armour in 2025Golden State Warriors superstar Stephen Curry says he has signed an endorsement deal with Chinese sportswear giant Li-Ning.The 38-year-old has been free to sign with a retail partner for his line of shoes and sports wear since ending a 12-year deal with US activewear firm Under Armour last year.Curry and Li-Ning will collaborate on new products and on plans to launch his signature chain of shops in the US and China. The value of the deal was not immediately disclosed.Signing Curry marks a major step in Li-Ning's push to become an international brand, alongside other Chinese sportswear labels like Anta.The partnership is a \"landmark victory\" for Li-Ning, showing that Chinese sportswear brands can compete with global giants like Nike and Adidas to sign top players, said Linda Yu from marketing agency Red Ant Asia.Endorsement deals are the \"lifeline of sportswear brands\" and a name like Steph Curry can help Li-Ning to establish itself in markets like the US, Yu said.In a video posted on his business website Thirty Ink, Curry said the partnership will help Li-Ning expand in the US. It has more than 7,000 shops across Asia.Li-Ning told the BBC it will work with Curry to promote sports culture as well as develop products across a range of categories, starting with golf and basketball.Getty ImagesLi-Ning has more than 7,000 stores across Asia.The deal is Curry's first collaboration with a Chinese brand. He partnered with Nike at the start of his career before moving to Under Armour.He joins a growing list of NBA stars that have signed with Chinese brands, including Dwayne Wade and Jimmy Butler with Li-Ning and Klay Thompson and Kyrie Irving, who are partnered with Anta.Anta, which used to make shoes for international brands, has led a global push by buying the rights to Western firms like Fila. This year, it also bought a key stake in Puma, pledging to help the firm grow in China.Many Western brands have been keen to gain a foothold in China, but face intense competition from local manufacturers offering cheaper goods. Demand in China has also slowed due to low domestic spending.Curry said the deal will give his brand an \"expanded runway of resources\" to grow its basketball, golf and other portfolios globally.\"We have plans to launch Curry Brand stores together in China and the US, as we look to build on the success that Li-Ning has already established, with even more growth,\" he said.Curry, a point guard for the Golden State Warriors, is one of the most well-known names in the sport today. He is a four-time NBA champion and widely regarded as one of the best shooters in its history.His tie-up with Li-Ning is a \"step beyond\" typical endorsement deals that put a famous face on a company's products, said sportswear marketing consultant Wei Kan.Chinese firms have signed endorsement deals with celebrities. Appliances maker Dreame has enlisted football star Cristiano Ronaldo while BYD's premium electric car brand Denza has tapped actor Daniel Craig.Curry's partnership goes further as it entrusts his line of branded products to Li-Ning, setting \"a real marker for the industry,\" Kan said.",
-          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
-        }
-      ]
-    },
-    {
-      "title": "Israel kills five in attacks on Lebanon after Trump announces de-escalation",
-      "link": "https://www.aljazeera.com/news/2026/6/2/israel-kills-five-in-attacks-on-lebanon-after-trump-announces-de-escalation?traffic_source=rss",
-      "summary": "The deadly attacks raise concerns about the reported agreement on the cessation of hostilities.",
-      "pubDate": "Tue, 02 Jun 2026 11:25:22 +0000",
-      "source": "Al Jazeera",
-      "category": "world",
-      "sourceColor": "#f79120",
-      "titleZh": "特朗普宣布缓和局势后，以色列在黎巴嫩袭击中造成五人死亡",
-      "summaryZh": "这些致命袭击引发了人们对据报道的停止敌对行动协议的担忧。",
-      "contentParagraphs": [
-        {
-          "en": "At least five people have been killed in Israeli attacks in southern Lebanon, Lebanese state media report, hours after United States President Donald Trump announced an agreement to de-escalate fighting that neither Israel nor the Lebanese group Hezbollah has publicly accepted.The official National News Agency (NNA) said on Tuesday that two Syrians were killed in an Israeli attack on a plant nursery where they were working in the town of Jebchit in Nabatieh governorate.Recommended Stories list of 4 itemslist 1 of 4Lebanon’s social grocery store fighting rising costs and displacementlist 2 of 4Israeli strike damages hospital in southern Lebanonlist 3 of 4President Trump attempts to end hostilities in Lebanonlist 4 of 4Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talksend of listIsraeli drone strikes hit a motorcycle on Martyr Sabra Street in Toul and a car in the Dhi’at al-Arab neighbourhood of Ansar, killing two people, NNA said.Separately, a drone attack killed the driver of a car in Nabatieh, NNA said.The attacks came hours after Trump said he had held separate phone calls with Israeli Prime Minister Benjamin Netanyahu and Hezbollah leaders and announced that Israel and the Iran-aligned armed group had agreed to de-escalate attacks.The office of Lebanese President Joseph Aoun said under the agreement, Hezbollah would no longer fire into Israel while the Israeli military would cease striking the southern suburbs of Beirut.The developments followed a dramatic escalation in violence that saw Israeli troops stage their deepest incursion into Lebanon in more than two decades, conducting waves of heavy bombardments and threatening to attack the Beirut suburbs as the situation threatened to scupper a ceasefire in the wider US-Israel war on Iran.The Israeli military said air defences intercepted two projectiles that crossed from Lebanon into northern Israel in the morning, hours after Trump’s announcement.Al Jazeera’s Zeina Khodr, reporting from Beirut, said the reported attack on Israel has raised concerns about the situation.“Hezbollah has not claimed responsibility for any cross-border attacks since Trump’s announcement,” she said.“However, it has claimed attacks against Israeli troops occupying southern Lebanon,” our correspondent said, adding that the developments show “just how fragile this deal is”.“Even though the military has taken more control and pushed deeper into Lebanon, the Israeli army has suffered casualties with at least two soldiers killed in the last 24 hours in the area of Beaufort Castle, a strategic hilltop position,” she said.Khodr added: “Clearly, Hezbollah is still able to attack them.”Israeli troops on Saturday seized the 900-year-old Beaufort Castle and the strategic ridge it sits on in southern Lebanon.That occurred a day after the Israeli army reported one of the ⁠⁠heaviest days of fire towards northern Israel from Lebanon since the April ceasefire.Trump’s messageNetanyahu said he told Trump during their call “that if Hezbollah does not cease attacking our towns and our citizens, Israel will strike terrorist targets in Beirut”.But Trump doubled down on his ceasefire push, posting on his Truth Social platform that “hopefully” Israel and Hezbollah would stop fighting “for ETERNITY!”“There will be no troops going to Beirut, and any troops that are on their way have already been turned back,” Trump said after what he described as a “very productive” call with Netanyahu.“Likewise, through highly placed representatives, I had a very good call with Hezbollah, and they agreed that all shooting will stop – that Israel will not attack them, and they will not attack Israel,” Trump added.Hezbollah drew Lebanon into the war on Iran on March 2 by firing rockets at Israel in retaliation for the killing of Iran’s supreme leader, and Tehran has insisted that Lebanon be included in any peace deal with Washington.According to Iran’s Tasnim News Agency, Tehran was no longer engaging in talks with Washington due to Israel’s offensive.The announcements came on the eve of a fourth round of US-hosted direct negotiations between Israel and Lebanon on Tuesday and Wednesday. Military delegations held security talks last week.Israel and Lebanon agreed a ceasefire and it began on April 17, but Israel and Hezbollah have not observed it.They both accuse each other daily of violating the ceasefire and justify their attacks by blaming the other for breaches.According to Lebanon’s Ministry of Public Health, Israeli attacks since March 2 have killed at least 3,433 people in Lebanon.Israel’s military said two of its soldiers were killed at the weekend in southern Lebanon, bringing to 27 the number of Israeli military deaths since early March.",
-          "zh": "黎巴嫩官方媒体报道称，以色列在黎巴嫩南部的袭击已造成至少 5 人死亡，就在美国总统唐纳德·特朗普宣布一项缓和战事协议数小时后，以色列和黎巴嫩组织真主党都没有公开接受该协议。官方国家通讯社 (NNA) 周二表示，两名叙利亚人在以色列对纳巴提耶省杰布奇特镇工作苗圃的袭击中丧生。 推荐故事列表 4 项列表 1 4黎巴嫩社会杂货店应对成本上涨和流离失所问题list 2 of 4以色列罢工损坏了黎巴嫩南部的医院list 3 of 4特朗普总统试图结束黎巴嫩的敌对行动list 4 of 4伊朗战争日95：德黑兰发誓结束会谈后特朗普推动黎巴嫩休战listend of list以色列无人机袭击击中了图勒烈士萨布拉街的一辆摩托车和迪阿特的一辆汽车NNA 称，Ansar 的 al-Arab 社区造成两人死亡。NNA 称，另外，纳巴蒂耶的一辆汽车司机被无人机袭击身亡。几小时前，特朗普表示，他已分别与以色列总理本杰明·内塔尼亚胡和真主党领导人通了电话，并宣布以色列和与伊朗结盟的武装组织已同意降低袭击升级。黎巴嫩总统约瑟夫·奥恩办公室表示，根据协议，真主党将不再向以色列开火。以色列军队将停止袭击贝鲁特南郊。事态发展是在暴力事件急剧升级之后发生的，以色列军队对黎巴嫩进行了二十多年来最深入的入侵，进行了一波又一波的猛烈轰炸，并威胁要袭击贝鲁特郊区，因为局势有可能破坏更广泛的美以对伊朗战争的停火。以色列军方表示，防空系统拦截了两枚从黎巴嫩越境进入以色列北部的射弹。上午，也就是特朗普宣布这一消息几小时后。半岛电视台记者泽娜·科德尔在贝鲁特报道称，报道中对以色列的袭击引发了人们对局势的担忧。“自特朗普宣布这一消息以来，真主党尚未声称对任何跨境袭击负责，”她说。“然而，它声称对占领黎巴嫩南部的以色列军队发动了袭击，”我们的记者说，并补充说，事态发展表明“这项协议是多么脆弱”。“尽管军方已经采取了更多控制措施并深入推进黎巴嫩，过去 24 小时内，以色列军队在具有战略意义的山顶据点博福特城堡地区遭受了伤亡，至少有两名士兵被杀。”她说。自四月份停火以来，黎巴嫩向以色列北部发起最猛烈的火力袭击。特朗普的信息内塔尼亚胡说，他在通话中告诉特朗普“如果真主党不停止攻击我们的城镇和公民，以色列将袭击贝鲁特的恐怖分子目标”。但特朗普加倍努力推动停火，在他的真相社交平台上发帖称，“希望”以色列和真主党“永远”停止战斗！特朗普在与内塔尼亚胡进行了一次“非常富有成效”的通话后说道。“同样，通过高级代表，我与真主党进行了非常好的通话，他们同意所有射击都将停止——以色列不会攻击他们，他们也不会攻击以色列。”特朗普补充道。3月2日，真主党向以色列发射火箭以报复以色列的杀戮，将黎巴嫩卷入伊朗战争。伊朗最高领导人表示，德黑兰坚持将黎巴嫩纳入与华盛顿的任何和平协议中。据伊朗塔斯尼姆通讯社报道，由于以色列的进攻，德黑兰不再与华盛顿进行谈判。这一消息是在美国于周二和周三主持的第四轮以色列和黎巴嫩直接谈判前夕发布的。军事代表团上周举行安全会谈。以色列和黎巴嫩同意停火，并于4月17日开始，但以色列和真主党没有遵守。他们每天都指责对方违反停火协议，并通过指责对方违反停火协议来为自己的袭击辩护。据黎巴嫩公共卫生部称，自3月2日以来，以色列的袭击已造成黎巴嫩至少3,433人死亡。以色列军方称，其两名士兵周末在黎巴嫩南部被杀，使 3 月初以来以色列军人死亡人数达到 27 人。"
-        }
-      ]
-    },
-    {
-      "title": "Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk",
-      "link": "https://www.theguardian.com/technology/2026/jun/01/florida-lawsuit-openai-sam-altman",
-      "summary": "State sues maker of ChatGPT and CEO Sam Altman, alleging company ‘allowed a dangerous product to reach millions’\nFlorida filed a lawsuit against OpenAI, the maker of ChatGPT, and its CEO, Sam Altman, on Monday alleging that the company concealed serious safety risks with its chat",
-      "pubDate": "Mon, 01 Jun 2026 21:51:03 GMT",
-      "source": "Guardian Tech",
-      "category": "tech",
-      "sourceColor": "#1a73e8",
-      "titleZh": "佛罗里达州诉讼指控 OpenAI 无视安全警告并将儿童置于危险之中",
-      "summaryZh": "州政府起诉 ChatGPT 制造商及其首席执行官 Sam Altman，指控该公司“允许危险产品传播到数百万人”\n佛罗里达州周一对 ChatGPT 的制造商 OpenAI 及其首席执行官 Sam Altman 提起诉讼，指控该公司在聊天中隐瞒了严重的安全风险",
-      "contentParagraphs": [
-        {
-          "en": "Florida filed a lawsuit against OpenAI, the maker of ChatGPT, and its CEO, Sam Altman, on Monday alleging that the company concealed serious safety risks with its chatbot. Florida is the first state in the US to sue the artificial intelligence company.The 83-page suit was brought by Florida’s attorney general, James Uthmeier, and alleges that OpenAI “aggressively marketed” ChatGPT to the public while ignoring safety warnings and possible dangers of the product.“OpenAI and Altman ignored internal and external safety warnings, put children at great risk, and allowed a dangerous product to reach millions of Floridians,” Uthmeier said in a statement.A spokesperson for OpenAI pointed to the company’s work around strengthening the safety of its products and said, “losing a child is the most devastating tragedy that can happen to a family, and we know that no words can come close to addressing the pain of such a loss”.The civil lawsuit comes after the state launched a criminal investigation into OpenAI in April over the role of ChatGPT in a mass shooting at Florida State University, where two people were killed and six injured. The shooter had lengthy conversations with the chatbot, asking it things like how many people he should kill to gain national attention, according to a report by the Wall Street Journal. ChatGPT responded that three or more people is the “unofficial bar” for widespread media attention, the Journal reported.Uthmeier said he initiated his criminal inquiry into OpenAI after reviewing the conversations the accused shooter had with ChatGPT. In his civil suit filed Monday, the attorney general said he’s seeking damages on behalf of the state’s residents and calling for an order to force OpenAI to end the practices outlined in the suit.Florida’s legal action is part of a groundswell of cases against OpenAI over allegations that its chatbot is exacerbating a mental health crisis and provoking violent acts and suicide. In November, seven complaints were filed against the company blaming ChatGPT for acting as a “suicide coach”. In April, seven more suits were filed against OpenAI by victims’ families over a school shooting in Canada where five people were killed and 27 were injured.Google has also been sued over its Gemini chatbot, which allegedly encouraged a 36-year-old man to stage a “catastrophic accident” and then kill himself.Florida’s complaint against OpenAI begins with a screenshot taken from the company’s website where it says ChatGPT is “built with safety in mind”. It’s followed by the two-word sentence from Florida’s attorneys saying: “Not so.”The lawsuit details OpenAI’s rapid success since the release of ChatGPT in 2022, catapulting it to an estimated valuation of nearly $1tn. “This success has not been earned,” the complaint reads. “The rise of OpenAI is attributable to a web of deceit and the exploitation of users.”The complaint alleges that ChatGPT “aided and abetted” mass shooters in deadly rampages, along with encouraging vulnerable people to hurt themselves and others. “This litany of harms is driven by defendants’ insatiable quest to win the AI arms race and amass large fortunes, despite knowing the danger of ChatGPT,” the complaint reads.The lawsuit additionally alleges that young people are susceptible to the chatbot, becoming easily hooked to a product that mimics human compassion. Florida accuses the company of not integrating sufficient safeguards for minors, such as allowing parents to link to their children’s accounts. The suit also alleges that OpenAI is collecting data on children without adequate oversight.OpenAI’s spokesperson said the company has put in place “leading protections and policies” for minors, including age prediction technology and providing parents with tools to monitor their teens’ use of AI. These tools only work if a child accepts their parent’s request to connect accounts, and minors can unlink accounts anytime.Uthmeier’s legal battle against OpenAI is a split from many of his Republican colleagues and Donald Trump. The president has befriended Altman and other AI leaders and has issued several executive orders to loosen the regulatory reins on the industry. Last month, Trump backed out of signing a new executive order that would’ve mandated a government safety review of upcoming AI models before release.",
-          "zh": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS"
-        }
-      ]
-    },
-    {
-      "title": "Third of people say uni degree not worth it, as student loan inquiry begins",
-      "link": "https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss",
-      "summary": "MPs will hear the concerns of graduates about the size of their student debts, and the interest rates.",
-      "pubDate": "Mon, 01 Jun 2026 23:09:45 GMT",
-      "source": "BBC Business",
-      "category": "business",
-      "sourceColor": "#0d7a3e",
-      "titleZh": "随着学生贷款调查的开始，三分之一的人表示大学学位不值得",
-      "summaryZh": "国会议员将听取毕业生对其学生债务规模和利率的担忧。",
-      "contentParagraphs": []
-    },
-    {
-      "title": "Trump says Israel, Hezbollah to stop fighting: What we know",
-      "link": "https://www.aljazeera.com/news/2026/6/2/trump-says-israel-hezbollah-to-stop-fighting-what-we-know?traffic_source=rss",
-      "summary": "Netanyahu agrees to halt operations near Beirut; Hezbollah to stop attacks on Israel under new truce arrangement.",
-      "pubDate": "Tue, 02 Jun 2026 11:21:29 +0000",
-      "source": "Al Jazeera",
-      "category": "world",
-      "sourceColor": "#f79120",
-      "titleZh": "特朗普称以色列和真主党停止战斗：我们所知道的",
-      "summaryZh": "内塔尼亚胡同意停止贝鲁特附近的行动；真主党根据新的停战安排停止对以色列的袭击。",
-      "contentParagraphs": [
-        {
-          "en": "United States President Donald Trump says Israel and Hezbollah have agreed to halt attacks following indirect talks through intermediaries.Posting on Truth Social on Monday, Trump said he had spoken with both Israeli Prime Minister Benjamin Netanyahu and, through “highly placed representatives”, Hezbollah.Recommended Stories list of 3 itemslist 1 of 3Lebanon latest: Israel captures more land in the southlist 2 of 3As Israel pushes past the Litani, Lebanese question the purpose of UNIFILlist 3 of 3Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talksend of list“I had a very good call with Hezbollah, and they agreed that all shooting will stop – that Israel will not attack them, and they will not attack Israel,” he wrote.No US president has ever spoken with Hezbollah, either directly or via intermediaries. At present, Washington has designated the group as a “terrorist” organisation.According to statements from Lebanon’s embassy in Washington, the proposal would see Hezbollah stop attacks on Israel in exchange for Israel halting strikes on Beirut and its southern suburbs.Trump also said Netanyahu had agreed to pull back any Israeli troops preparing ‌‌to attack the Lebanese capital, Beirut. Separately, Netanyahu said he had discussed this with Trump but that Israel would push ahead with plans to strike Beirut if Hezbollah makes any further attacks on Israel.Here is what we know so far.Why does this announcement matter for the war on Iran?Iran has stated that one of its conditions for any agreement on ending the war with the US is that Israel withdraw from Lebanon.The Iran-backed armed group, Hezbollah, which is based in Lebanon, began firing on northern Israel after the first US-Israeli strikes on Tehran at the end of February.Until then, the Iran-backed group had not attacked Israel since a November 2024 ceasefire was announced, despite near-daily breaches of the agreement by Israel.Since early March, Israel has continued to launch near-daily attacks on Lebanon and currently occupies about one-fifth of the country.According to the Lebanese Ministry of Public Health, more than 3,412 people have been killed and 10,269 wounded in Israeli attacks on the country since March 2.The escalation has displaced more than one million people in Lebanon and raised fears that Israel could launch deeper operations towards Beirut.On Sunday, Iranian state media reported that Tehran was suspending message exchanges with Washington in protest.Following Trump’s announcement on Monday, Lebanon’s UN Ambassador Ahmad Arafa commended the Trump administration for “constructive efforts aimed at giving diplomacy a chance”.The announcement is also significant because previous ceasefire attempts between Israel and Lebanon have repeatedly collapsed. A 10-day truce announced on April 22, and later extended by three weeks, failed to produce a halt in fighting.A boy looks through a damaged room of the Jabal Amel Hospital into a destroyed building that was hit in an Israeli air strike in the southern port city of Tyre, Lebanon [AP Photo]How have Hezbollah, Israel responded to Trump’s announcement?On Monday, Netanyahu’s office said Israel would reserve the right to strike Beirut if Hezbollah attacks continue.“If Hezbollah does not cease attacking our cities and citizens … Israel will attack terror targets in Beirut,” he said.On Monday, Israel’s military issued new forced displacement orders, warning residents of the southern suburbs to flee to “preserve their safety”, reiterating that if Hezbollah continues to target Israel with rockets, Israeli forces would attack Beirut’s Dahiyeh area.On Tuesday morning, there had been no reports of Israeli attacks on the Lebanese capital. However, Israel has continued attacks on southern Lebanon, firing artillery near Nabatieh and hitting the villages of Choukine and Kfar Tibnit, Al Jazeera reported.Meanwhile, Lebanon’s embassy in Washington released a detailed statement saying Hezbollah had accepted a US proposal for a “mutual cessation of attacks”.“Under the proposed arrangement, Israeli strikes on Beirut’s southern suburbs would cease in exchange for Hezbollah refraining from carrying out attacks against Israel, with the ceasefire framework to be expanded to encompass all Lebanese territories,” the statement said.Prominent Hezbollah MP Hassan Fadlallah says the group supports a “full ceasefire on all Lebanese territory”.The ceasefire would be a precursor to the withdrawal of Israeli troops from Lebanon, Fadlallah told the al-Manar broadcaster.Lebanese parliamentary speaker Nabih Berri, a prominent ally of Hezbollah, said in a statement that he could vouch for the armed movement’s “full, comprehensive and immediate” adherence to a ceasefire. “The real issue is who will force Israel to halt its aggression?” he added.According to Sami Nader, an analyst and director of the Levant Institute for Strategic Affairs, Israel’s attacks on Lebanon are a “very dangerous escalation” of the current conflict.“What we are seeing is a systemic demolition of infrastructure. It’s going beyond this ‘Yellow Line’,” Nader told Al Jazeera. “The only solution to this is to decouple the Lebanon ceasefire from the Iranian one.“Practically, everyone except Hezbollah wants the decoupling of the Lebanon ceasefire from the Iranian one,” he added, but warned that the Lebanese government needs international involvement to achieve a ceasefire.Israel’s “Yellow Line” is a military zone stretching roughly 10km (six miles) north of the border inside southern Lebanon.(Al Jazeera)What is the significance of Trump’s communications with Hezbollah?“This is unprecedented, if he really spoke to Hezbollah and not one of its allies,” said Al Jazeera’s Ali Hashem, reporting from Beirut, Lebanon.“This could be a breakthrough in Hezbollah-US relations since the 1980s,” he added.Hezbollah (which means “Party of God” in Arabic) was formed in 1982 to fight Israel’s occupation of southern Lebanon that year.Since the fi",
-          "zh": "美国总统唐纳德·特朗普表示，以色列和真主党已同意在通过中间人进行间接会谈后停止袭击。特朗普周一在《真相社会》上发帖称，他已通过“高级代表”与真主党和以色列总理本杰明·内塔尼亚胡进行了交谈。推荐故事清单 3 项列表 1 of 3 黎巴嫩最新消息：以色列在南部地区夺取更多土地 2 of 3 随着以色列越过利塔尼河，黎巴嫩人质疑袭击的目的UNIFILlist 3 of 3伊朗警告以色列对黎巴嫩和加沙的袭击威胁美国停火谈判清单结束“我与真主党进行了一次很好的通话，他们同意所有射击都将停止——以色列不会攻击他们，他们也不会攻击以色列，”他写道。没有一位美国总统直接或通过中间人与真主党交谈过。目前，华盛顿已将该组织列为“恐怖”组织。根据黎巴嫩驻华盛顿大使馆的声明，该提议将使真主党停止对以色列的袭击，以换取以色列停止对贝鲁特及其南部郊区的袭击。特朗普还表示，内塔尼亚胡已同意撤回任何准备袭击黎巴嫩首都贝鲁特的以色列军队。另外，内塔尼亚胡表示，他已与特朗普讨论过此事，但如果真主党对以色列进行进一步袭击，以色列将推进打击贝鲁特的计划。这是我们目前所知道的情况。为什么这一声明对伊朗战争很重要？伊朗表示，与美国结束战争的任何协议的条件之一就是以色列从黎巴嫩撤军。总部位于黎巴嫩的伊朗支持的武装组织真主党在第一次袭击后开始向以色列北部开火。美国和以色列于2月底对德黑兰发动袭击。在此之前，尽管以色列几乎每天都违反协议，但自2024年11月宣布停火以来，伊朗支持的组织尚未袭击以色列。自3月初以来，以色列几乎每天都对黎巴嫩发动袭击，目前占领了该国约五分之一的领土。据黎巴嫩公共卫生部称，已有超过3,412人死亡，自3月2日以来，以色列对黎巴嫩的袭击已造成10,269人受伤。事态升级已导致黎巴嫩超过一百万人流离失所，并引发了人们对以色列可能对贝鲁特发动更深入行动的担忧。周日，伊朗官方媒体报道称，德黑兰暂停与华盛顿的信息交流以示抗议。周一特朗普宣布这一消息后，黎巴嫩驻联合国大使艾哈迈德·阿拉法赞扬特朗普政府“为外交提供机会而做出的建设性努力”。同样重要的是，以色列和黎巴嫩之间此前的停火尝试屡屡失败。 4月22日宣布的为期10天的休战，后来又延长了三周，但未能停止战斗。一名男孩透过贾巴尔阿梅尔医院受损的房间，查看以色列在黎巴嫩南部港口城市提尔的空袭中被摧毁的建筑[美联社照片]以色列真主党对特朗普的声明有何反应？周一，内塔尼亚胡办公室表示，如果真主党发动袭击，以色列将保留袭击贝鲁特的权利继续。“如果真主党不停止攻击我们的城市和公民……以色列将袭击贝鲁特的恐怖目标。”他说。周一，以色列军方发布了新的强迫流离失所令，警告南部郊区的居民逃离以“保护自己的安全”，并重申，如果真主党继续用火箭瞄准以色列，以色列军队将袭击贝鲁特的达希耶地区。周二上午，没有关于以色列袭击黎巴嫩首都的报道。然而，据半岛电视台报道，以色列继续袭击黎巴嫩南部，在纳巴蒂耶附近发射炮弹，袭击了乔金和卡法提布尼特村庄。与此同时，黎巴嫩驻华盛顿大使馆发表了一份详细声明，称真主党已接受美国“相互停止袭击”的提议。“根据提议的安排，以色列将停止对贝鲁特南部郊区的袭击，以换取真主党克制。”声明称，“禁止对以色列发动袭击，停火框架将扩大到涵盖黎巴嫩所有领土”。著名真主党议员哈桑·法德拉拉表示，该组织支持“在黎巴嫩所有领土上全面停火”。法德拉拉对马纳尔广播公司表示，停火将是以色列军队从黎巴嫩撤军的先兆。真主党的重要盟友、黎巴嫩议会议长纳比赫·贝里在一份声明中表示声明称，他可以保证武装运动“全面、全面和立即”遵守停火。 “真正的问题是谁将迫使以色列停止侵略？”他补充道。黎凡特战略事务研究所分析师兼所长萨米·纳德表示，以色列对黎巴嫩的袭击是当前冲突的“非常危险的升级”。“我们看到的是对基础设施的系统性破坏。它超出了‘黄线’，”纳德告诉半岛电视台。 “解决这个问题的唯一办法是将黎巴嫩停火与伊朗停火脱钩。实际上，除了真主党之外，所有人都希望黎巴嫩停火与伊朗停火脱钩，”他补充道，但警告说，黎巴嫩政府需要国际社会的参与才能实现停火。以色列的“黄线”是一个军事区，延伸至黎巴嫩南部边境以北约 10 公里（6 英里）。（半岛电视台）什么是半岛电视台的阿里·哈希姆在黎巴嫩贝鲁特报道说：“如果他真的与真主党而不是其盟友交谈，这将是前所未有的。这可能是 20 世纪 80 年代以来真主党与美国关系的突破。”他补充说。真主党（阿拉伯语的意思是“上帝的党”）于 1982 年成立，旨在对抗以色列对黎巴嫩南部的占领那一年。自从fi"
-        }
-      ]
-    },
-    {
-      "title": "Florida sues OpenAI and Sam Altman over alleged safety lapses",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5843132/openai-florida-lawsuit-safety-chatgpt",
-      "summary": "The lawsuit accuses the company of failing to warn users that ChatGPT could be dangerous and instead marketing it as safe and reliable.",
-      "pubDate": "Mon, 01 Jun 2026 15:52:02 -0400",
-      "source": "NPR Technology",
-      "category": "tech",
-      "sourceColor": "#1a73e8",
-      "titleZh": "佛罗里达州起诉 OpenAI 和 Sam Altman 涉嫌安全漏洞",
-      "summaryZh": "该诉讼指控该公司未能警告用户 ChatGPT 可能存在危险，而是将其宣传为安全可靠。",
-      "contentParagraphs": [
-        {
-          "en": "The lawsuit, filed in Florida state court on Monday, accuses OpenAI and its CEO, Sam Altman, of failing to warn users that ChatGPT could be dangerous and instead marketing it as safe and reliable, including for children.",
-          "zh": "该诉讼于周一向佛罗里达州法院提起，指控 OpenAI 及其首席执行官 Sam Altman 未能警告用户 ChatGPT 可能存在危险，而是将其宣传为安全可靠，包括对儿童而言。"
-        },
-        {
-          "en": "Florida is accusing OpenAI and its CEO Sam Altman of putting profit over safety, in the first lawsuit brought by a state against the ChatGPT maker over the alleged shortcomings of the chatbot.",
-          "zh": "佛罗里达州指责 OpenAI 及其首席执行官 Sam Altman 将利润置于安全之上，这是该州针对 ChatGPT 制造商涉嫌聊天机器人缺陷提起的第一起诉讼。"
-        },
-        {
-          "en": "The lawsuit, filed in Florida state court on Monday, claims the company and Altman failed to warn users that ChatGPT could be dangerous and instead marketed it as safe and reliable, including for children. It's the latest salvo in a growing effort across the country to hold artificial intelligence companies accountable when harms follow users' interactions with chatbots.",
-          "zh": "周一向佛罗里达州法院提起的诉讼称，该公司和 Altman 未能警告用户 ChatGPT 可能存在危险，而是将其宣传为安全可靠，包括针对儿童。这是全国范围内不断加大力度追究人工智能公司在用户与聊天机器人互动造成的损害时承担责任的最新举措。"
-        },
-        {
-          "en": "The lawsuit accuses OpenAI of aiding and abetting mass shooters, including a shooter at Florida State University who allegedly used ChatGPT to plan his attack, encouraging vulnerable people to commit suicide, and addicting children \"to a tool that feigns human compassion to collect their data with no parental oversight.\"",
-          "zh": "该诉讼指控 OpenAI 协助和教唆大规模枪击案，其中包括佛罗里达州立大学的一名枪击案凶手，据称他使用 ChatGPT 来策划袭击，鼓励弱势群体自杀，并让儿童沉迷于“一种假装人类同情心的工具，在没有父母监督的情况下收集他们的数据”。"
-        },
-        {
-          "en": "\"This litany of harms is driven by Defendants' insatiable quest to win the AI arms race and amass large fortunes, despite knowing the danger of ChatGPT,\" the complaint said. \"The rise of OpenAI is attributable to a web of deceit and the exploitation of users (including Floridians), leveraging their data and safety to boost OpenAI's market value at unacceptable costs.\"",
-          "zh": "诉状称：“尽管被告知道 ChatGPT 的危险，但他们对赢得人工智能军备竞赛并积累巨额财富的不懈追求导致了这一系列的危害。” “OpenAI 的崛起归因于欺骗网络和对用户（包括佛罗里达人）的剥削，利用他们的数据和安全性以不可接受的成本提高 OpenAI 的市场价值。”"
-        },
-        {
-          "en": "Florida is also seeking to hold Altman personally liable.",
-          "zh": "佛罗里达州还寻求追究奥特曼的个人责任。"
-        },
-        {
-          "en": "\"Sam Altman and ChatGPT have chosen the AI race over the safety and security of our kids,\" Florida Attorney General James Uthmeier said at a press conference on Monday. He added he believes that Altman and the company could be liable \"for potentially up to billions of dollars\" in penalties.",
-          "zh": "佛罗里达州总检察长 James Uthmeier 在周一的新闻发布会上表示：“Sam Altman 和 ChatGPT 选择了人工智能竞赛，而不是我们孩子的安全。”他补充说，他认为奥特曼和该公司可能要承担“可能高达数十亿美元”的罚款。"
-        },
-        {
-          "en": "\"Losing a child is the most devastating tragedy that can happen to a family and we know that no words can come close to addressing the pain of such a loss,\" OpenAI spokesperson Kayla Wood said in an emailed statement to NPR.",
-          "zh": "OpenAI 发言人凯拉·伍德 (Kayla Wood) 在发给 NPR 的电子邮件声明中表示：“失去孩子是一个家庭可能发生的最具毁灭性的悲剧，我们知道任何言语都无法弥补这种失去的痛苦。”"
-        },
-        {
-          "en": "\"AI is a new and powerful technology, and we believe minors need significant protection, which is why we have put in place industry leading protections and policies,\" the statement continued. \"In particular we built safety for minors directly into our products, including a more protective experience specifically for minors, an age prediction tool, defaulting users whose age we are not confident into our more protective experience, and giving parents tools to monitor their kids' use of AI.\"",
-          "zh": "声明继续说道：“人工智能是一项强大的新技术，我们相信未成年人需要大力保护，这就是为什么我们制定了行业领先的保护和政策。” “特别是，我们将针对未成年人的安全直接融入到我们的产品中，包括专门针对未成年人的更具保护性的体验、年龄预测工具、默认对我们的年龄没有信心的用户提供更多的保护性体验，以及为家长提供监控孩子使用人工智能的工具。”"
-        },
-        {
-          "en": "The lawsuit alleges OpenAI's safeguards, including its parental controls, are inadequate and that the company has created \"a dangerous public nuisance.\"",
-          "zh": "该诉讼称 OpenAI 的保护措施（包括家长控制）不足，并且该公司造成了“危险的公共滋扰”。"
-        },
-        {
-          "en": "The first page of the lawsuit begins with a screenshot from OpenAI's website saying ChatGPT was \"built with safety in mind.\" The image is followed by a footnote reading: \"Not so.\"",
-          "zh": "诉讼的第一页以 OpenAI 网站的屏幕截图开始，称 ChatGPT 是“以安全为中心而构建的”。图片后面有一个脚注：“不是这样。”"
-        },
-        {
-          "en": "Uthmeier's office is separately conducting a criminal investigation into OpenAI over the FSU shooter's alleged consultation of ChatGPT ahead of the April 2025 attack.",
-          "zh": "Uthmeier 办公室正在单独对 OpenAI 进行刑事调查，原因是 FSU 枪手涉嫌在 2025 年 4 月的攻击之前咨询 ChatGPT。"
-        },
-        {
-          "en": "More than 20 lawsuits have been filed against OpenAI over harms allegedly stemming from ChatGPT use, including by families of victims killed and injured in a mass shooting at a school in Tumbler Ridge, Canada, in February, the family of a victim killed in the FSU shooting, and the families of seven people, including one teenager, who died by suicide or suffered delusions after using the chatbot.",
-          "zh": "目前已有 20 多起针对 OpenAI 的诉讼，指控其因使用 ChatGPT 造成伤害，其中包括 2 月份加拿大 Tumbler Ridge 学校大规模枪击事件中遇难者和受伤者的家属、FSU 枪击事件中遇难者的家属，以及在使用聊天机器人后自杀身亡或产生妄想症的 7 人的家属，其中包括一名青少年。"
-        },
-        {
-          "en": "Altman apologized to the Tumbler Ridge community in April, and OpenAI said in response to those lawsuits that it has a \"zero tolerance\" policy for using its tools to assist in committing violence.",
-          "zh": "Altman 在 4 月份向 Tumbler Ridge 社区道歉，OpenAI 在回应这些诉讼时表示，它对使用其工具协助实施暴力采取“零容忍”政策。"
-        },
-        {
-          "en": "After Uthmeier announced his investigation into the FSU shooting, an OpenAI spokesperson said that the chatbot \"provided factual responses to questions with information that could be found broadly across public sources on the internet, and it did not encourage or promote illegal or harmful activity.\" The statement continued: \"We work continuously to strengthen our safeguards to detect harmful intent, limit misuse, and respond appropriately when safety risks arise.\"",
-          "zh": "在 Uthmeier 宣布对 FSU 枪击事件进行调查后，OpenAI 发言人表示，该聊天机器人“对问题提供了事实性的答复，其信息可以在互联网上的公共资源中广泛找到，并且不会鼓励或促进非法或有害活动。”声明继续说道：“我们不断努力加强我们的保障措施，以发现有害意图，限制滥用，并在出现安全风险时做出适当反应。”"
-        },
-        {
-          "en": "OpenAI has called the lawsuits over suicides and delusions \"an incredibly heartbreaking situation\" and said that it's working with mental health experts to improve how ChatGPT responds to signs of mental or emotional distress.",
-          "zh": "OpenAI 称有关自杀和妄想的诉讼是“令人难以置信的令人心碎的情况”，并表示正在与心理健康专家合作，以改善 ChatGPT 对精神或情绪困扰迹象的反应。"
-        },
-        {
-          "en": "Other AI companies are also under legal scrutiny over how their chatbots have allegedly caused harm.",
-          "zh": "其他人工智能公司也因其聊天机器人涉嫌造成伤害而受到法律审查。"
-        },
-        {
-          "en": "In response to a wrongful death lawsuit over the suicide of a Florida man who became attached to Google's Gemini chatbot, the company said: \"Gemini is designed to not encourage real-world violence or suggest self-harm. Our models generally perform well in these types of challenging conversations and we devote significant resources to this, but unfortunately they're not perfect.\" It added that Gemini had \"referred the individual to a crisis hotline many times.\"",
-          "zh": "针对一名与谷歌 Gemini 聊天机器人有关联的佛罗里达州男子自杀的非正常死亡诉讼，该公司表示：“Gemini 的设计目的是不鼓励现实世界的暴力或暗示自残。我们的模型在这些类型的挑战性对话中通常表现良好，我们为此投入了大量资源，但不幸的是它们并不完美。”它补充说，双子座“多次将该人转至危机热线”。"
-        },
-        {
-          "en": "In January, Character.AI settled multiple lawsuits brought by families who claimed its companion chatbots contributed to suicides and mental health crises among children and teenagers. The company said it \"has taken innovative and decisive steps with regard to AI safety and teens, and will continue to champion these efforts and push others across the industry to adopt similar safety standards.\" That includes barring users under 18 from interacting with or creating chatbots.",
-          "zh": "一月份，Character.AI 解决了多起家庭提起的诉讼，这些家庭声称其同伴聊天机器人导致了儿童和青少年的自杀和心理健康危机。该公司表示，它“在人工智能安全和青少年方面采取了创新和果断的步骤，并将继续支持这些努力，并推动整个行业的其他公司采用类似的安全标准。”这包括禁止 18 岁以下的用户与聊天机器人交互或创建聊天机器人。"
-        },
-        {
-          "en": "Last month, the state of Pennsylvania sued Character.AI, alleging its chatbots posed as doctors and offered medical advice, in violation of state medical licensing rules. A Character.AI spokesperson told NPR at the time the company doesn't comment on pending litigation, but that its \"highest priority is the safety and well-being of our users.\"",
-          "zh": "上个月，宾夕法尼亚州起诉了 Character.AI，指控其聊天机器人冒充医生并提供医疗建议，违反了州医疗许可规定。 Character.AI 的一位发言人当时告诉 NPR，该公司不会对未决诉讼发表评论，但表示“最优先考虑的是我们用户的安全和福祉”。"
-        }
-      ]
-    },
-    {
-      "title": "Remote work -- not AI -- has sidelined recent college graduates, research finds",
-      "link": "https://www.npr.org/2026/06/01/nx-s1-5843076/remote-work-college-graduates-unemployment-ai",
-      "summary": "Research from the New York Fed finds that younger college graduates have been sidelined by remote work in recent years, as companies may be reluctant to hire those needing more training and mentoring.",
-      "pubDate": "Mon, 01 Jun 2026 13:59:52 -0400",
-      "source": "NPR Business",
-      "category": "business",
-      "sourceColor": "#0d7a3e",
-      "titleZh": "研究发现，远程工作（而不是人工智能）使应届大学毕业生退居二线",
-      "summaryZh": "纽约联储的研究发现，近年来，年轻的大学毕业生因远程工作而被边缘化，因为公司可能不愿意雇用那些需要更多培训和指导的人。",
-      "contentParagraphs": [
-        {
-          "en": "New research finds remote work has sidelined younger college graduates since the pandemic.",
-          "zh": "新的研究发现，自疫情以来，远程工作使年轻的大学毕业生处于边缘地位。"
-        },
-        {
-          "en": "Maksym Belchenko/iStock / Getty Images Plus",
-          "zh": "Maksym Belchenko/iStock/Getty Images Plus"
-        },
-        {
-          "en": "Maksym Belchenko/iStock / Getty Images Plus",
-          "zh": "Maksym Belchenko/iStock/Getty Images Plus"
-        },
-        {
-          "en": "Stay up to date with our Up First newsletter sent every weekday morning.",
-          "zh": "通过我们每个工作日早上发送的Up First时事通讯了解最新信息。"
-        },
-        {
-          "en": "The buzz on college campuses is that AI is disrupting the job market for young college graduates.",
-          "zh": "大学校园的嗡嗡声是，人工智能正在扰乱年轻大学毕业生的就业市场。"
-        },
-        {
-          "en": "But new research from the Federal Reserve Bank of New York finds that the culprit may be something else: remote work.",
-          "zh": "但纽约联邦储备银行的新研究发现，罪魁祸首可能是其他原因：远程工作。"
-        },
-        {
-          "en": "An analysis of federal employment data, paired with a deep dive into the flexible work arrangements at one unnamed Fortune 500 tech company, reveals that companies are less likely to hire recent college grads into occupations that can be done remotely.",
-          "zh": "对联邦就业数据的分析，以及对一家未命名的财富500强科技公司灵活工作安排的深入研究，显示公司不太可能雇用最近的大学毕业生从事可以远程完成的职业。"
-        },
-        {
-          "en": "Researchers speculate that employers are reluctant to put such workers in a setting where it's harder to absorb lessons from coworkers.",
-          "zh": "研究人员推测，雇主不愿意将这些工人置于更难从同事那里吸取教训的环境中。"
-        },
-        {
-          "en": "The researchers found the unemployment rate among younger college grads — those under the age of 29 — rose 20% after the pandemic, while unemployment among older college grads fell slightly.",
-          "zh": "研究人员发现，疫情后，年龄较小的大学毕业生（ 29岁以下）的失业率上升了20% ，而年龄较大的大学毕业生的失业率略有下降。"
-        },
-        {
-          "en": "The study compares unemployment rates pre-pandemic, from 2017 to 2019, with unemployment rates after the pandemic, from 2022 to 2024.",
-          "zh": "该研究比较了2017年至2019年疫情前的失业率与2022年至2024年疫情后的失业率。"
-        },
-        {
-          "en": "Unemployment rose as remote work grew fourfold, the researchers write. \"Our analysis suggests that these trends are related, with remote work making it more difficult for managers to train and mentor new employees.\"",
-          "zh": "研究人员写道，随着远程工作的增长，失业率上升了四倍。“我们的分析表明，这些趋势是相关的，远程工作使管理人员更难以培训和指导新员工。”"
-        },
-        {
-          "en": "Remote work leads to less feedback on the job",
-          "zh": "远程工作导致工作反馈减少"
-        },
-        {
-          "en": "The research began with a look at how much feedback software engineers at a Fortune 500 tech company were getting, says Emma Harrington, an assistant professor of economics at the University of Virginia and one of the authors of the report.",
-          "zh": "该报告的作者之一、弗吉尼亚大学经济学助理教授艾玛·哈灵顿（ Emma Harrington ）说，这项研究开始于观察一家财富500强科技公司的软件工程师获得了多少反馈。"
-        },
-        {
-          "en": "\"What we saw was this pretty striking pattern that software engineers got about 20% more feedback if they were sitting near their colleagues than if they were distant from them,\" she says, adding that that was true even before the pandemic.",
-          "zh": "她说： “我们看到的这种非常惊人的模式是，如果软件工程师坐在同事身边，他们得到的反馈比远离同事的反馈多出约20 ％。”她补充说，即使在疫情爆发之前也是如此。"
-        },
-        {
-          "en": "But after the pandemic, feedback plummeted.",
-          "zh": "但疫情后，反馈直线下降。"
-        },
-        {
-          "en": "\"And that really hit young workers much harder,\" says Harrington. \"It was these people who had the most to learn that really saw this deficit in feedback.\"",
-          "zh": "“这对年轻工人的打击更大，” Harrington说。“正是这些人学得最多，才真正看到了这种反馈的缺陷。”"
-        },
-        {
-          "en": "The researchers then looked deeper into who was getting hired at the tech firm. Turns out, as the company embraced remote work, they switched away from hiring younger people.",
-          "zh": "然后，研究人员更深入地研究了谁将被这家科技公司聘用。事实证明，随着公司接受远程工作，他们不再雇用年轻人。"
-        },
-        {
-          "en": "\"So they used to hire a bunch of new grads for their software engineering jobs,\" Harrington says. \"Then they shifted really towards hiring much older people, like a decade older on average.\"",
-          "zh": "Harrington说： “所以他们过去常常雇佣一群新毕业生来从事软件工程工作。” “然后他们真的转向雇用老年人，平均比他们大十岁。”"
-        },
-        {
-          "en": "Later, the company pivoted again, implementing what Harrington calls a \"pretty aggressive\" return-to-office policy. At that point, the company resumed hiring new graduates.",
-          "zh": "后来，该公司再次转向，实施了Harrington所说的“相当积极”的返岗政策。此时，公司恢复招聘新毕业生。"
-        },
-        {
-          "en": "\"So [there was] some sense that these problems with mentorship were translating into whom this firm was deciding to hire,\" she says.",
-          "zh": "她说： “因此，在某种程度上，导师制度的这些问题正在转化为这家公司决定雇用的人。”"
-        },
-        {
-          "en": "A look at the broader economy",
-          "zh": "更广泛地看待经济"
-        },
-        {
-          "en": "The researchers then wanted to see if what was happening at that single tech company was playing out in the broader economy.",
-          "zh": "然后，研究人员想看看在那家科技公司发生的事情是否在更广泛的经济中发挥作用。"
-        },
-        {
-          "en": "Using a widely-used index that measures how feasible it is to do a job from home, the team divided all occupations into two categories: \"remotable,\" which included software engineering, and \"non-remotable,\" which included mechanical engineering.",
-          "zh": "该团队使用广泛使用的指数来衡量在家工作的可行性，将所有职业分为两类： “远程” （包括软件工程）和“非远程” （包括机械工程）。"
-        },
-        {
-          "en": "They found the gap in unemployment between recent graduates and older workers was significantly higher in \"remotable\" jobs than in jobs that have to be done in person.",
-          "zh": "他们发现，近期毕业生和老年工人之间的失业差距在“远程”工作中明显高于必须亲自完成的工作。"
-        },
-        {
-          "en": "The unemployment rate for younger grads in \"remotable\" jobs jumped by almost a full percentage point after the pandemic, while the unemployment rate among older grads fell marginally.",
-          "zh": "疫情后， “可远程”工作的年轻毕业生的失业率上升了近一个百分点，而年长毕业生的失业率略有下降。"
-        },
-        {
-          "en": "They concluded that remote work explained nearly two-thirds of the rise in unemployment among young graduates during this period.",
-          "zh": "他们得出结论，远程工作是这一时期年轻毕业生失业率上升的近三分之二的原因。"
-        },
-        {
-          "en": "\"This relative increase in young people's unemployment coincided with the pandemic and has remained elevated since then, as have rates of remote work,\" the researchers write.",
-          "zh": "研究人员写道： “年轻人失业率的相对增加恰逢疫情爆发，此后一直处于高位，远程工作的比率也是如此。”"
-        },
-        {
-          "en": "AI isn't disrupting so many jobs for recent college grads — yet",
-          "zh": "人工智能并没有为应届大学毕业生颠覆那么多工作岗位--但"
-        },
-        {
-          "en": "To see how the rise of AI chatbots may have contributed to rising unemployment among the younger set, the researchers used another index that divides occupations into those more exposed to AI, such as engineering and accounting, and those less exposed, such as teaching and nursing.",
-          "zh": "为了了解人工智能聊天机器人的崛起如何导致年轻人失业率上升，研究人员使用了另一个指数，该指数将职业分为更易接触人工智能的职业（如工程和会计）以及较少接触的职业（如教学和护理）。"
-        },
-        {
-          "en": "They found exposure to AI didn't explain the divergence in unemployment rates in the 2022-24 time period. Remote workflows were much more of a driving force, Harrington says, while emphasizing that this could change.",
-          "zh": "他们发现，接触人工智能并不能解释2022-24年期间失业率的差异。Harrington说，远程工作流程更像是一种驱动力，同时强调这可能会改变。"
-        },
-        {
-          "en": "\"It's always hard to make guesses about what's going to happen with generative AI,\" she says. \"It's certainly possible that this story could really change over the next few years.\"",
-          "zh": "“总是很难猜测生成式人工智能会发生什么，”她说。“在接下来的几年里，这个故事确实有可能发生变化。”"
-        },
-        {
-          "en": "Researchers at the London School of Economics have reached a similar conclusion — that remote work is having a clearer impact on early-career hiring than AI — in a working paper examining new hires in the U.S., the U.K., Canada and Australia.",
-          "zh": "伦敦经济学院的研究人员在一篇研究美国、英国、加拿大和澳大利亚新员工的工作论文中得出了类似的结论--远程工作对早期职业招聘的影响比人工智能更明显。"
-        },
-        {
-          "en": "Regardless of the cause, the New York Fed report warns that a high unemployment rate among young college grads is concerning.",
-          "zh": "无论是什么原因，纽约联邦储备银行的报告都警告说，年轻大学毕业生的高失业率令人担忧。"
-        },
-        {
-          "en": "\"Early-career experiences can have lasting consequences,\" the researchers write. \"Research finds that individuals who began looking for jobs in slacker labor markets tend to have lower earnings and slower career progression relative to comparable peers who began their job search in better market conditions.\"",
-          "zh": "研究人员写道： “早期职业经历可能会产生持久的后果。” “研究发现，与在更好的市场条件下开始求职的同行相比，开始在懒散的劳动力市场寻找工作的个人往往收入较低，职业发展较慢。”"
-        }
-      ]
-    },
-    {
-      "title": "How social media is turning African life into content at a cost",
-      "link": "https://www.aljazeera.com/features/2026/6/2/how-social-media-is-turning-african-life-into-content-at-a-cost?traffic_source=rss",
-      "summary": "Across Africa, social media redefines politics, culture, identity, and connection, blurring community and performance.",
-      "pubDate": "Tue, 02 Jun 2026 11:19:10 +0000",
-      "source": "Al Jazeera",
-      "category": "world",
-      "sourceColor": "#f79120",
-      "titleZh": "社交媒体如何以代价将非洲人的生活变成内容",
-      "summaryZh": "在整个非洲，社交媒体重新定义了政治、文化、身份和联系，模糊了社区和绩效。",
-      "contentParagraphs": [
-        {
-          "en": "Nairobi, Kenya – When I walked away from a career in law and moved into what is now called content creation, the intention was simple: To share my art.At the time, photographers in Nairobi were known for their work, their shooting style, subject matter and sometimes even the cameras they used.When I joined the industry, it was clear that Instagram, Twitter (as it was then known) and Facebook would be platforms to share work, not oneself.But there are few things more fluid than the internet. A decade later, many of us have become something entirely different. We are now content creators and influencers.The model has shifted from being known for what you do to being known for who you are, how you dress, how you speak and even what you have for breakfast, whether tea, coffee or whatever OMAD (One Meal A Day) practitioners consume in the morning.As it turns out, the way I live matters to other people. It influences how they live their lives. Brands have taken notice, to the extent of offering contracts to integrate their products into my life in ways that resonate with my audience. For years now, since 2018, that has been how I earn a living.The phone as daily newsroomAcross the world, social media has become a defining force in how people live their lives, particularly among younger generations, millennials and below. Africa is no exception. In urban centres, where mobile phone and internet penetration are high, the first thing many people reach for in the morning is a smartphone to check their social media feeds.Instagram, X, TikTok and Facebook.A Kenyan wakes up and checks WhatsApp. Before breakfast is over, they have already consumed information from across the world: A missing-person notice, a religious verse, a meme, a job link, a protest poster, a fake quote from someone who never said it, a dance challenge, a death announcement, a political insult, a YouTube tutorial, a screenshot from Parliament, a voice note from an aunt, someone’s holiday in Diani.All of it is delivered through the same device.False information once required institutional backing to spread widely. Now it only requires a caption and a viral moment [Placide Tossou Charles/Reuters]Speaking to Grace Ndiege, a digital marketing specialist at Digitribe, it becomes clear that in 2026, we are not only living in reality, but increasingly inside our phones.“We spend a lot of time capturing moments as opposed to living in them.” For someone working on the business side of social media, she says a large share of marketing budgets has moved online because that is where audiences now are.So when a beverage company, for example, wants to introduce a new product, shift consumer behaviour or build emotional attachment to its brand, social media becomes the primary channel. It is also where people like me come in, integrating those products into our everyday lives for our audiences.“Attention is currency,” Ndiege told Al Jazeera. “That is why the algorithm keeps changing to grab every piece of it.”When the internet became a civic spaceDavid Mbotela, who previously used social media actively but later stepped back from it, describes the transformation of the internet in broader terms.“The internet began as a miracle of connection; machines speaking to machines. Then people speaking to people. Then ordinary people speaking to the world. What started as a network became a road. Once that road reached us, life began to move differently,” he told Al Jazeera.We saw this in Kenyans for Kenya in 2011, when the country responded to famine in the north not only with sympathy but with coordinated action. M-Pesa, a mobile money transfer and payment service, became a lifeline, and mobile phones became collection tools.Later, in October 2015, students in South Africa launched the #FeesMustFall movement, a student-led protest campaign against rising university fees, challenging the status quo and mobilising around free higher education.A crisis that might once have remained local became continental, visible and shareable.It happened again during the Finance Bill protests in Kenya, a youth-led movement against proposed tax increases, when young people turned the internet into a civic classroom.Legal language was translated into TikTok explainers. People who had never read a bill before began discussing clauses, taxation, representation, police powers and public debt. The internet helped make political power and public policy easier to understand.There is also the everyday transformation of social media. YouTube University. A boy in Kampala learns filmmaking from a creator in Canada. A Nigerian chef builds a global audience and breaks a Guinness World Record. A dancer turns 10 seconds on TikTok into a career, an arc that mirrors my own experience.Social media has sped up cultural exchange and changed everyday language. Words and expressions now travel quickly and take on new meanings. In online culture, approval is “clocked”, excellence is seen as “cooking”, and strong statements are often marked with a full stop. The way people communicate has become faster, sharper and more informal.The cost of constant connectionBut social media also comes with consequences.A family psychotherapist based in Nairobi, Maggie Gitu, told Al Jazeera that “social media flattens things in the way that it does not contextualise connections. Are we friends because we have access to each other?”The answer is not straightforward. As a content creator, I build communities and relationships with audiences, and there is, at times, a sense of kinship. But these audiences know only what is shared with them. What is shared is carefully curated.The same platforms that connect people also invite comparison. Instagram becomes a source of inspiration and, at the same time, a measure of inadequacy. An age-mate has bought land or is vacationing in Zanzibar. Someone else is engaged. Another has abs. A favourite podcaster has a new car, a child, a larger kitchen and a better sunset.Soci",
-          "zh": "肯尼亚内罗毕——当我放弃法律职业，转向现在所谓的内容创作时，意图很简单：分享我的艺术。当时，内罗毕的摄影师以其作品、拍摄风格、主题，有时甚至他们使用的相机而闻名。当我加入这个行业时，很明显 Instagram、Twitter（当时称为）和 Facebook 将成为分享作品的平台，而不是分享自己的平台。但没有什么比互联网更流动的了。十年后，我们中的许多人已经变得完全不同。我们现在是内容创造者和影响者。这种模式已经从以你所做的事情而闻名，转变为以你是谁、你的着装、你如何说话，甚至你早餐吃什么，无论是茶、咖啡还是OMAD（一日一餐）实践者早上吃的任何东西而闻名。事实证明，我的生活方式对其他人很重要。它影响他们的生活方式。品牌已经注意到了这一点，他们提供了合同，以与我的受众产生共鸣的方式将他们的产品融入我的生活。自 2018 年以来，多年来，这一直是我谋生的方式。手机作为每日新闻编辑室在世界各地，社交媒体已成为人们生活方式的决定性力量，尤其是在年轻一代、千禧一代及以下一代中。非洲也不例外。在手机和互联网普及率很高的城市中心，许多人早上做的第一件事就是用智能手机查看社交媒体动态。Instagram、X、TikTok 和 Facebook。一名肯尼亚人起床后查看 WhatsApp。早餐还没吃完，他们就已经消费了来自世界各地的信息：一份失踪人员通知、一首宗教诗句、一条模因、一个工作链接、一张抗议海报、一句从未说过这句话的人的虚假引言、一次舞蹈挑战、一条死亡公告、一次政治侮辱、一篇 YouTube 教程、一张议会截图、一位阿姨的语音留言、某人在迪亚尼的假期。所有这些都是通过同一个设备传递的。虚假信息曾经需要机构的支持才能广泛传播。现在它只需要一个标题和一个病毒式的瞬间 [Placide Tossou Charles/路透社]在与 Digitribe 的数字营销专家 Grace Ndiege 交谈时，很明显，到 2026 年，我们不仅生活在现实中，而且越来越多地生活在手机中。“我们花了很多时间捕捉瞬间，而不是生活在其中。”对于从事社交媒体业务方面工作的人来说，她表示很大一部分营销预算已转移到网上，因为受众现在就在网上。因此，例如，当一家饮料公司想要推出新产品、改变消费者行为或建立对其品牌的情感依恋时，社交媒体就成为主要渠道。这也是像我这样的人发挥作用的地方，将这些产品融入我们观众的日常生活中。“注意力就是货币，”恩迪格告诉半岛电视台。 “这就是为什么算法不断变化以抓住它的每一部分。”当互联网成为一个公民空间时，大卫·姆博特拉（David Mbotela）以前积极使用社交媒体，但后来退出社交媒体，他用更广泛的术语描述了互联网的转变。“互联网开始是一个连接的奇迹；机器与机器对话。然后人们与人对话。然后普通人与世界对话。最初的网络变成了一条路。一旦这条路到达我们身边，生活就开始以不同的方式发展，”他告诉半岛电视台。我们在肯尼亚人身上看到了这一点。 2011 年肯尼亚面临的饥荒不仅表现出同情，而且采取了协调一致的行动。移动汇款和支付服务 M-Pesa 成为了生命线，手机成为了收款工具。后来，2015 年 10 月，南非的学生发起了 #FeesMustFall 运动，这是一场由学生领导的反对大学学费上涨的抗议运动，挑战现状并围绕免费高等教育进行动员。一场可能一度只存在于当地的危机变成了大陆性的、可见的和可共享的。在肯尼亚的《财政法案》抗议期间，这种情况再次发生，这是一场由青年领导的反对拟议增税的运动，当时年轻人人们把互联网变成了公民课堂。法律语言被翻译成 TikTok 解释器。以前从未阅读过法案的人们开始讨论条款、税收、代表权、警察权力和公共债务。互联网使政治权力和公共政策变得更容易理解。社交媒体也每天都在发生变化。 YouTube 大学。坎帕拉的一名男孩向加拿大的一位创作者学习电影制作。一位尼日利亚厨师赢得了全球观众并打破了吉尼斯世界纪录。一名舞者将 TikTok 上的 10 秒变成了一份职业，这一弧线反映了我自己的经历。社交媒体加速了文化交流并改变了日常语言。现在，词语和表达方式传播得很快，并具有新的含义。在网络文化中，认可是“计时的”，卓越被视为“烹饪”，强有力的声明往往带有句号。人们的沟通方式变得更快、更敏锐、更非正式。持续联系的成本但社交媒体也带来了后果。内罗毕的家庭心理治疗师玛吉·吉图告诉半岛电视台，“社交媒体使事情变得扁平化，无法将联系情境化。我们是朋友，因为我们可以互相接触吗？”答案并不简单。作为内容创作者，我与观众建立社区和关系，有时会有一种亲切感。但这些观众只知道与他们分享的内容。分享的内容是经过精心策划的。连接人们的相同平台也可以进行比较。 Instagram 成为灵感的源泉，同时也成为衡量不足的标准。一位同龄人已经购买了土地或正在桑给巴尔度假。还有人订婚了。另一个有腹肌。一位最喜欢的播客拥有一辆新车、一个孩子、一个更大的厨房和更好的日落。Soci"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-      "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'",
-      "pubDate": "Mon, 01 Jun 2026 18:58:26 GMT",
-      "source": "BBC Tech",
-      "category": "tech",
-      "sourceColor": "#1a73e8",
-      "titleZh": "佛罗里达州诉讼称 OpenAI 让 ChatGPT 帮助和教唆大规模枪击事件",
-      "summaryZh": "佛罗里达州总检察长 James Uthmeier 指控 OpenAI 和老板 Sam Altman 构建了一个“欺骗网”",
-      "contentParagraphs": []
-    },
-    {
-      "title": "Wise under investigation over money laundering control concerns",
-      "link": "https://www.bbc.com/news/articles/cy42x8ye02vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Wise says it is working with the Brussels prosecutor's office but that \"no specific findings have been shared with us to date\".",
-      "pubDate": "Mon, 01 Jun 2026 13:12:58 GMT",
-      "source": "BBC Business",
-      "category": "business",
-      "sourceColor": "#0d7a3e",
-      "titleZh": "怀斯因洗钱控制问题接受调查",
-      "summaryZh": "怀斯表示，它正在与布鲁塞尔检察官办公室合作，但“迄今为止尚未与我们分享具体调查结果”。",
+      "sourceColor": "#b80000",
+      "titleZh": "科威特称机场遭到伊朗无人机袭击，美国和伊朗发动新的袭击",
+      "summaryZh": "科威特表示，无人机袭击包括其国际机场在内的民用建筑后，造成一人死亡。",
       "contentParagraphs": []
     }
   ]
